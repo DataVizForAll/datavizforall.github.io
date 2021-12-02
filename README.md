@@ -1,2 +1,2 @@
 # datavizforall.github.io
-README page TODO
+TODO fix redirect fix README page
