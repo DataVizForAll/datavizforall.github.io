@@ -1,0 +1,19 @@
+# main header
+main:
+- title: "Syllabus"
+  url: /
+- title: "Book"
+  url: https://handsondataviz.org
+- title: "Partners & Projects"
+  url: /partners-projects/
+- title: "Prior Courses"
+  url: /prior-courses/
+
+# optional page sidebar (not needed when using Contents)
+# dataviz:
+#   - title: "DataViz syllabus"
+#     children:
+#       - title: "Another Page"
+#         url: /dataviz/another
+#       - title: "Schedule"
+#         url: /dataviz/#schedule

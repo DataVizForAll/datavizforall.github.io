@@ -1,2 +1,5 @@
 # datavizforall.org
-TODO: waiting to add enforce https
+Jekyll remote theme Minimal Mistakes on GitHub Pages with custom domain
+
+## live site
+https://datavizforall.org
