@@ -1,7 +1,7 @@
 ---
 title: "Prior Courses"
-permalink: /prior-courses/
+permalink: /prior-courses.html
 date: 2021-12-10
 ---
-## Fall 2021 Syllabus
-... to come
+## Spring 2017
+TODO migrate from <http://commons.trincoll.edu/dataviz/>

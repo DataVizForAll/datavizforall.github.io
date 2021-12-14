@@ -1,7 +1,7 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /
-date: 2021-10-18
+date: 2021-12-14
 toc: true
 toc_label: "Contents"
 toc_sticky: true
@@ -24,7 +24,7 @@ This semester we will create data stories in partnership with two Hartford organ
 [Intro video, Fall 2021](https://trincoll.mediaspace.kaltura.com/media/1_ygdoh4la/) with [Hartford Area Habitat for Humanity](https://hartfordhabitat.org) partners: Suzanne Feola, Makenzie Bahr, Tracy Thomas, Karraine Moody. Learn more [about Karraine Moody, Trinity '01](https://www.trincoll.edu/close-up-karraine-moody-of-hartford-habitat-for-humanity/).
 
 ### Course Materials and Tools
-![book covers](/images/covers-hodv-datafeminism.png)
+![book covers](/images/2021/covers-hodv-datafeminism.png)
 - Two open-access books are freely available online (or you can purchase print editions).
   - Jack Dougherty and Ilya Ilyankou, *Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code* (O’Reilly Media, Inc., 2021), <https://HandsOnDataViz.org>.
   - Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020), <https://data-feminism.mitpress.mit.edu>.
@@ -295,7 +295,7 @@ Always look for important updates from the instructor, which will appear **in bo
 ### Tues 23 Nov
 - No class. Instead, choose one of these [community engagement options](https://jackdougherty.org/dataviz#community-engagement-options)
 
-{% include figure image_path="images/2021-11-13-habitat-victoria-nassar.png" alt="Habitat for Humanity worksite" caption="Thanks Victoria and Nassar for participating in the Trinity Habitat chapter workday on Saturday 13 November. See details elow for the next workday on Saturday 11 December!" %}
+{% include figure image_path="images/2021/2021-11-13-habitat-victoria-nassar.png" alt="Habitat for Humanity worksite" caption="Thanks Victoria and Nassar for participating in the Trinity Habitat chapter workday on Saturday 13 November. See details elow for the next workday on Saturday 11 December!" %}
 
 ### Thur 25 Nov
 No class (Thanksgiving break)

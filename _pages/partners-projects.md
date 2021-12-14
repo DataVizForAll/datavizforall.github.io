@@ -1,6 +1,6 @@
 ---
 title: "Partners and Projects"
-permalink: /partners-projects/
+permalink: /partners-projects.html
 date: 2021-12-10
 toc: true
 toc_label: "Contents"
