@@ -6,10 +6,8 @@ toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
-## DataVizForAll Partners and Projects
-
-### Fall 2021
-#### Center for Leadership and Justice, Hartford
+## Fall 2021
+### Center for Leadership and Justice, Hartford
 CLJ asked us to answer data questions related to their #NoMoreSlumlords campaign and Greater Hartford Interfaith Action Alliance organizing.
 
 TODO
