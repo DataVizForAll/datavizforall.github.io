@@ -1,6 +1,6 @@
 ---
 title: "Prior Courses"
-permalink: /prior-courses.html
+permalink: /prior-courses/
 date: 2021-12-10
 ---
 ## Spring 2017
