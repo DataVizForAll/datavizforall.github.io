@@ -10,7 +10,7 @@ toc_sticky: true
 ### CT Coalition Against Domestic Violence (CTCADV)
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_2mnjdacy&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-[TESTING false PictureInPicturePlayback -- Intro video, J-term 2022](https://trincoll.mediaspace.kaltura.com/media/1_2mnjdacy) with [CT Coalition Against Domestic Violence](https://ctcadv.org) partners: Maria Guzman and Joanne Vitarelli
+[Intro video, J-term 2022](https://trincoll.mediaspace.kaltura.com/media/1_2mnjdacy) with [CT Coalition Against Domestic Violence](https://ctcadv.org) partners: Maria Guzman and Joanne Vitarelli
 
 ## Fall 2021
 ### Center for Leadership and Justice, Hartford
