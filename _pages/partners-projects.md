@@ -20,8 +20,8 @@ Our partners at [CLJ](https://cljct.org) asked us to help them analyze and visua
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_aq660eab&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 [Intro video for Fall 2021 students](https://trincoll.mediaspace.kaltura.com/media/1_aq660eab) with [Center for Leadership and Justice](https://cljct.org) partners: Cori Mackey, Tieasha Gayle, AJ Johnson.
 
-<iframe src="https://datavizforall.github.io/clj-ghiaa-congregations/" width="90%" height="500px"></iframe>
-DataVizForAll students at Trinity cleaned and geocoded CLJ data for this map.
+<iframe src="https://datavizforall.github.io/clj-ghiaa-congregations/" width="100%" height="500px"></iframe>
+DataVizForAll students at Trinity cleaned and geocoded CLJ data for this map. [View full-size version](https://datavizforall.github.io/clj-ghiaa-congregations/).
 
 [Hartford Housing Legislation and When Neighborhoods Will Be Impacted](http://datavizforall.org/clj-labonte-clark/) by Elizabeth “Bonnie” LaBonte and Lachlan Clark
 
@@ -40,8 +40,8 @@ Our partners at [Hartford Area Habitat for Humanity](https://hartfordhabitat.org
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_ygdoh4la&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 [Intro video for Fall 2021 students](https://trincoll.mediaspace.kaltura.com/media/1_ygdoh4la/) with [Hartford Area Habitat for Humanity](https://hartfordhabitat.org) partners: Suzanne Feola, Makenzie Bahr, Tracy Thomas, Karraine Moody.
 
-<iframe src="https://datavizforall.github.io/habitat-homes-map/" width="90%" height="500px"></iframe>
-DataVizForAll students at Trinity compiled, cleaned, and geocoded Habitat data for this map.
+<iframe src="https://datavizforall.github.io/habitat-homes-map/" width="100%" height="500px"></iframe>
+DataVizForAll students at Trinity compiled, cleaned, and geocoded Habitat data for this map. [View full-size version](https://datavizforall.github.io/habitat-homes-map/).
 
 [Hartford-Area Habitat for Humanity has Expanded Construction Outside Hartford Over Time](https://datavizforall.org/habitat-ayala-wellins/) by Myrian Ayala and Emma Wellins
 
