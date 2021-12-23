@@ -1,31 +1,27 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /
-date: 2021-12-22
+date: 2021-12-14
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
-## J-term 2022 Syllabus
-Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
-
-Teaching Assistant Myri Ayala
-
-Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET for three weeks from 4 Jan to 21 Jan, 2022. Each class will be divided into segments to feature interactive learning.
-
-<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_r9wmq4j8&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-[Welcome video for J-term 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_r9wmq4j8) with Jack Dougherty and Myri Ayala.
+## Fall 2021 Syllabus
+Our course meets in-person, wearing face masks in compliance with the [campus Covid policy](https://www.trincoll.edu/reopening/), on Tuesdays & Thursdays 2:55-4:10pm in **Seabury S205** with Professor Jack Dougherty at Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule an in-person or Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.  
 Fulfills requirement in Numerical and Symbolic Reasoning (NUM).   
 Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies.  
 Enrollment limited to 19 students.  
 
-### Community Learning Partner
-Our partners at the [CT Coalition Against Domestic Violence](https://ctcadv.org) asked us to work with them analyze and visualize two years of data from [CTSafeConnect.com](https://ctsafeconnect.com), their new statewide phone/text/chat hotline that connects people requesting help with local domestic violence organizations.
+### Community Learning Partners
+This semester we will create data stories in partnership with two Hartford organizations that focus on housing. While we will work virtually with our partners on their digital projects, there may be optional opportunities for you to visit their public events or building sites in person.
 
-<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_2mnjdacy&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-[Intro video for J-term 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_2mnjdacy) with [CT Coalition Against Domestic Violence](https://ctcadv.org) partners: Maria Guzman and Joanne Vitarelli
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_aq660eab&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video, Fall 2021](https://trincoll.mediaspace.kaltura.com/media/1_aq660eab) with [Center for Leadership and Justice](https://cljct.org) partners: Cori Mackey, Tieasha Gayle, AJ Johnson.
+
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_ygdoh4la&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video, Fall 2021](https://trincoll.mediaspace.kaltura.com/media/1_ygdoh4la/) with [Hartford Area Habitat for Humanity](https://hartfordhabitat.org) partners: Suzanne Feola, Makenzie Bahr, Tracy Thomas, Karraine Moody. Learn more [about Karraine Moody, Trinity '01](https://www.trincoll.edu/close-up-karraine-moody-of-hartford-habitat-for-humanity/).
 
 ### Course Materials and Tools
 ![book covers](/images/covers-hodv-datafeminism.png)
@@ -34,8 +30,6 @@ Our partners at the [CT Coalition Against Domestic Violence](https://ctcadv.org)
   - Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020), <https://data-feminism.mitpress.mit.edu>.
 - Bring a laptop computer (Mac, Windows, or Chromebook) to every class. Install more than one browser (such as Firefox, Safari, Chrome) for testing purposes. Tell me if you need a temporary laptop loaner.
 - You will need to sign up for several free web services (such as Google Drive, Datawrapper, GitHub). See my list of [recommended free digital tools in this course](https://handsondataviz.org/recommended-tools.html).
-
-**TODO** revise below
 
 ### Learning Goals and Assessments
 In this course you will demonstrate the knowledge and skills you have developed to meet 12 broad learning goals (with more specific sub-goals listed in the schedule further below):
@@ -55,7 +49,7 @@ In this course you will demonstrate the knowledge and skills you have developed 
 
 Your progress toward these learning goals will be assessed in three ways:
 
-#### A. Open-Book Daily Quizzes
+#### A. Open-Book Weekly Quizzes
 - The purpose is to demonstrate your knowledge and skills through questions that emphasize conceptual understanding and how to apply it in new contexts. You will have more than one opportunity to successfully complete each quiz while working independently with your notes, readings, and any web resources.
 - Each week, select any 2-hour period during the 2-day window (typically from Sunday 12 noon to Tuesday 2pm) to complete a Moodle quiz of about 5 questions on the designated learning goal. You may see different versions of questions than other students, but all questions address the same goal.
 - Short-answer questions will be scored automatically by the computer, and show-your-work questions will be scored manually by the instructor. If you respond incorrectly to an auto-scored question, the quiz will offer advice and allow you to try again. If you respond incorrectly to a manually-scored question, the instructor will email you with advice and allow you to try again within one day. Furthermore, the quiz settings allow you to retake it a second time within the 2-day window.
