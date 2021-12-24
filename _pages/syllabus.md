@@ -27,6 +27,10 @@ Our partners at the [CT Coalition Against Domestic Violence](https://ctcadv.org)
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_2mnjdacy&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 [Intro video for J-term 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_2mnjdacy) with [CT Coalition Against Domestic Violence](https://ctcadv.org) partners: Maria Guzman and Joanne Vitarelli
 
+<iframe title="Custom Regions for CCADV / SafeConnect Data Stories" aria-label="Map" id="datawrapper-chart-zl1pW" src="https://datawrapper.dwcdn.net/zl1pW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="532"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+[Custom Regions map](https://datawrapper.dwcdn.net/zl1pW/1/) based on [CCADV Members Map](http://www.ctcadv.org/index.php/download_file/view/1192/149/)
+
 ### Course Materials and Tools
 ![book covers](/images/covers-hodv-datafeminism.png)
 - Two open-access books are freely available online (or you can purchase print editions).
