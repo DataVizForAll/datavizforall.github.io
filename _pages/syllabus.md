@@ -9,6 +9,7 @@ toc_sticky: true
 ## J-term 2022 Syllabus
 Due to the pandemic, our course meets remotely in the instructor's Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET for three weeks from 4 Jan to 21 Jan 2022.
 
+### Instructors
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
 Teaching Assistant Myri Ayala will co-host each class in the Blume Lab in LITS. Also, she is available for drop-in office hours on Tues-Wed-Thu 8-9pm ET in the Blume Lab and [in her Zoom room](https://trincoll.zoom.us/j/4602347388) or [her email](mailto:myrian.ayala@trincoll.edu)
@@ -57,7 +58,7 @@ Your progress toward these learning goals will be assessed in three ways:
 
 #### A. Open-Book Daily Quizzes
 - The purpose is to demonstrate your knowledge and skills through questions that emphasize conceptual understanding and how to apply it in new contexts. You will have more than one opportunity to successfully complete each quiz while working independently with your notes, readings, and any web resources.
-- Select any 2-hour period during the quiz window (typically from 12 noon to 11:59 pm) to complete a Moodle quiz of about 5 questions on the designated learning goal. You may see different versions of questions than other students, but all questions address the same goal.
+- Select any 2-hour period during the quiz window (typically from 12 noon to 11:59 pm) to complete a Moodle quiz of approximately 5 questions on the designated learning goal. You may see different versions of questions than other students, but all questions address the same goal.
 - Students have at least two attempts on every quiz. Short-answer questions will be scored automatically by the computer, and show-your-work questions will be scored manually by the instructor. If you respond incorrectly to an auto-scored question, the quiz will offer advice and allow you to try again. If you respond incorrectly to a manually-scored question, the instructor will offer advice via email or a meeting and allow you to try again within 24 hours.
 - Before you start the quiz, prepare by reading assigned chapters, doing practice exercises, and discussing the material with classmates who have not yet started it.
 - When you start the 2-hour quiz period, you may use your materials (including your notes, the online book, and the entire Internet), but you must work independently and you may not communicate about the quiz content in any way (except with the instructors) until the quiz has closed. You are responsible for following the Intellectual Honesty policy as described in the [Trinity Student Handbook](https://www.trincoll.edu/policies/). If doubts arise, the instructor may require you to retake a quiz under direct supervision and/or refer the issue to the Honor Council.
