@@ -7,11 +7,11 @@ toc_label: "Contents"
 toc_sticky: true
 ---
 ## DRAFT J-term 2022 Syllabus
+Due to the pandemic, our course meets remotely in the instructor's Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET for three weeks from 4 Jan to 21 Jan, 2022.
+
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
-Teaching Assistant Myri Ayala
-
-Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET for three weeks from 4 Jan to 21 Jan, 2022. Each class will be divided into segments to feature interactive learning.
+Teaching Assistant Myri Ayala will co-host each class, and also is available Tues-Wed-Thu 8-9pm ET [in her Zoom room](https://trincoll.zoom.us/j/4602347388) or [her email](mailto:myrian.ayala@trincoll.edu)
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_r9wmq4j8&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 [Welcome video for J-term 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_r9wmq4j8) with Jack Dougherty and Myri Ayala.
@@ -89,7 +89,18 @@ Religious observances: please notify me before our third class session regarding
 - If anything is interfering with your learning, email or talk with me about it. I care about how you're doing in life, not just in our classroom.
 
 ## Schedule TO COME
-Always look for important updates from the instructor, which will appear **in bold**.
+Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET. Always look for important updates from the instructor, which will appear **in bold**.
 
 ### Tues 4 Jan
-- Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET
+- Welcome to class
+- Before class, fill out this Google Form TODO
+- Syllabus overview and how to succeed in this course
+- 1-point bonus sample quiz about syllabus, due in class on [Moodle](https://moodle.trincoll.edu)
+- Presentation: Why data visualization matters in the "disinformation age"--see HODV Chapter 1 <https://handsondataviz.org/introduction.html>
+- Overview of Learning Goal #1: Strengthen Your Spreadsheet Skills. Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
+  - Copy, Share, and Convert Google Sheets
+  - Geocode locations
+  - Sort and filter data
+  - Calculate with formulas
+  - Summarize with pivot tables
+- Prep for Spreadsheet quiz, to be taken during any 2-hour period before midnight on [Moodle](https://moodle.trincoll.edu)
