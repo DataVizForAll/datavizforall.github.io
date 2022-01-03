@@ -1,6 +1,6 @@
 ---
 title: "Educ 206: Data Visualization For All"
-permalink: /
+permalink: /syllabus-2021-fall/
 date: 2021-12-14
 toc: true
 toc_label: "Contents"
