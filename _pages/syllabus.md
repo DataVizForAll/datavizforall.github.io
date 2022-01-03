@@ -6,12 +6,12 @@ toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
-## DRAFT J-term 2022 Syllabus
-Due to the pandemic, our course meets remotely in the instructor's Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET for three weeks from 4 Jan to 21 Jan, 2022.
+## J-term 2022 Syllabus
+Due to the pandemic, our course meets remotely in the instructor's Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET for three weeks from 4 Jan to 21 Jan 2022.
 
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
-Teaching Assistant Myri Ayala will co-host each class, and also is available Tues-Wed-Thu 8-9pm ET [in her Zoom room](https://trincoll.zoom.us/j/4602347388) or [her email](mailto:myrian.ayala@trincoll.edu)
+Teaching Assistant Myri Ayala will co-host each class in the Blume Lab in LITS. Also, she is available for drop-in office hours on Tues-Wed-Thu 8-9pm ET in the Blume Lab and [in her Zoom room](https://trincoll.zoom.us/j/4602347388) or [her email](mailto:myrian.ayala@trincoll.edu)
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_r9wmq4j8&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 [Welcome video for J-term 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_r9wmq4j8) with Jack Dougherty and Myri Ayala.
@@ -58,9 +58,9 @@ Your progress toward these learning goals will be assessed in three ways:
 #### A. Open-Book Daily Quizzes
 - The purpose is to demonstrate your knowledge and skills through questions that emphasize conceptual understanding and how to apply it in new contexts. You will have more than one opportunity to successfully complete each quiz while working independently with your notes, readings, and any web resources.
 - Select any 2-hour period during the quiz window (typically from 12 noon to 11:59 pm) to complete a Moodle quiz of about 5 questions on the designated learning goal. You may see different versions of questions than other students, but all questions address the same goal.
-- Short-answer questions will be scored automatically by the computer, and show-your-work questions will be scored manually by the instructor. If you respond incorrectly to an auto-scored question, the quiz will offer advice and allow you to try again. If you respond incorrectly to a manually-scored question, the instructor will offer advice via email or a meeting and allow you to try again within 24 hours.
+- Students have at least two attempts on every quiz. Short-answer questions will be scored automatically by the computer, and show-your-work questions will be scored manually by the instructor. If you respond incorrectly to an auto-scored question, the quiz will offer advice and allow you to try again. If you respond incorrectly to a manually-scored question, the instructor will offer advice via email or a meeting and allow you to try again within 24 hours.
 - Before you start the quiz, prepare by reading assigned chapters, doing practice exercises, and discussing the material with classmates who have not yet started it.
-- When you start the 2-hour quiz period, you may use your materials (including your notes, the online book, and the entire Internet), but you must work independently and you may not communicate about the quiz content in any way (except with the instructor and TA) until the window has closed. You are responsible for following the Intellectual Honesty policy as described in the [Trinity Student Handbook](https://www.trincoll.edu/policies/). If doubts arise, the instructor may require you to retake a quiz under direct supervision and/or refer the issue to the Honor Council.
+- When you start the 2-hour quiz period, you may use your materials (including your notes, the online book, and the entire Internet), but you must work independently and you may not communicate about the quiz content in any way (except with the instructors) until the quiz has closed. You are responsible for following the Intellectual Honesty policy as described in the [Trinity Student Handbook](https://www.trincoll.edu/policies/). If doubts arise, the instructor may require you to retake a quiz under direct supervision and/or refer the issue to the Honor Council.
 - If you do not begin a quiz or demonstrate sufficient effort during the initial quiz window, a 20 percent late penalty will be deducted for every 12-hour period beyond the deadline. Exceptions are granted only for documented health or family emergencies.
 - 10 broad learning goals x 5 points per quiz = 50 points
 
@@ -73,34 +73,37 @@ Your progress toward these learning goals will be assessed in three ways:
 - The purpose is to encourage active learning and accountability. Each student begins the course with 10 participation points. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me well in advance.
 
 #### Summary  
-50 points quizzes + 40 points data stories + 10 class participation = 100 possible points, plus any bonus points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
+50 points quizzes + 40 points data stories + 10 class participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
 
-Academic accommodations: please notify me before our third class session, and [schedule an appointment on my calendar](https://jackdougherty.youcanbook.me) to discuss how we will implement your approved plan. For those students with accommodations approved after the start of the semester, a minimum of 10 days’ notice is required. For Student Accessibility Resources, contact <mailto:SARC@trincoll.edu>.
+Academic accommodations: please notify me before our third class session, and [schedule an appointment on my calendar](https://jackdougherty.youcanbook.me) to discuss how we will implement your approved plan. For those students with accommodations approved after the start of the semester, a minimum of 10 days’ notice is required. Learn more at the [Student Accessibility Resource Center](https://www.trincoll.edu/sarc/).
 
 Religious observances: please notify me before our third class session regarding any scheduling accommodations.
 
 ### How to Succeed in this Course
 - Bookmark this online syllabus and check it often for updates, which will appear **in bold**.
 - Keep a calendar (paper or digital) to manage your time and meet deadlines.
-- Bring a laptop (with a fully-charged battery) to every class, and turn off distractions to help you (and others) focus on learning. Set Notifications to "Do Not Disturb."
+- Bring a laptop (with a fully-charged battery) to every class, and turn off distractions to help you (and others) focus on learning. Set notifications on digital devices to "Do Not Disturb."
 - Use a password manager to keep track of your digital accounts. See my [introduction to Bitwarden](https://handsondataviz.org/password-manager.html), an open-source password manager with free core features for Windows/Mac/Linux computers, all major web browsers, and iOS and Android mobile devices.
 - Take initiative and ask questions: during or after class, via email, or by appointment [on my calendar](https://jackdougherty.youcanbook.me). If you don't understand something, other students probably are puzzled, too. Go ahead and ask.
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
-- If anything is interfering with your learning, email or talk with me about it. I care about how you're doing in life, not just in our classroom.
+- If anything is interfering with your learning, email or talk with us about it. We care about how you're doing in life, not just in our classroom.
 
-## Schedule TO COME
-Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET. Always look for important updates from the instructor, which will appear **in bold**.
+## Schedule
+Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET, with a 15-minute break around 10:30am. Always look for important updates from the instructor **in bold**.
 
 ### Tues 4 Jan
-- Welcome to class
-- Before class, fill out this Google Form TODO
-- Syllabus overview and how to succeed in this course
-- 1-point bonus sample quiz about syllabus, due in class on [Moodle](https://moodle.trincoll.edu)
-- Presentation: Why data visualization matters in the "disinformation age"--see HODV Chapter 1 <https://handsondataviz.org/introduction.html>
+- Before class, fill out this [Google Form](https://forms.gle/ruvB8YafbyvsSUqcA)
+- Welcome, syllabus overview, and how to succeed in this course
+- Sample quiz about syllabus for 1-point bonus, due in class on [Moodle](https://moodle.trincoll.edu)
 - Overview of Learning Goal #1: Strengthen Your Spreadsheet Skills. Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
   - Copy, Share, and Convert Google Sheets
   - Geocode locations
   - Sort and filter data
   - Calculate with formulas
   - Summarize with pivot tables
-- Prep for Spreadsheet quiz, to be taken during any 2-hour period before midnight on [Moodle](https://moodle.trincoll.edu)
+  - Match columns with VLOOKUP
+- [Peer practice with spreadsheet skills](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0) in randomly-assigned breakout rooms.
+- Prep for Spreadsheet quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+- Learn more about our community partner <https://ctcadv.org> and <https://CTSafeConnect.org>
+
+### More to come
