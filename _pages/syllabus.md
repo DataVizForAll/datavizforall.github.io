@@ -48,10 +48,10 @@ In this course you will demonstrate the knowledge and skills you have developed 
 3. Clean Up Messy Data
 4. Make Meaningful Comparisons
 5. Chart Your Data
-6. Map Your Data
-7. Edit and Host Code with GitHub
-8. Build with Leaflet Map Code Templates
-9. Transform Your Map Data
+6. Tell and Show Your Data Story
+7. Map Your Data
+8. Transform Your Map Data
+9. Edit, Host, and Embed Code on GitHub
 10. Detect Lies and Reduce Bias
 
 Your progress toward these learning goals will be assessed in three ways:
@@ -94,7 +94,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 
 ### Tues 4 Jan
 - Before class, fill out this [Google Form](https://forms.gle/ruvB8YafbyvsSUqcA)
-- Welcome, syllabus overview, and how to succeed in this course
+- Introductions, syllabus overview, and how to succeed in this course
 - Sample quiz about syllabus for 1-point bonus, due in class on [Moodle](https://moodle.trincoll.edu)
 - Overview of Learning Goal #1: Strengthen Your Spreadsheet Skills. Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
   - Copy, Share, and Convert Google Sheets
@@ -105,7 +105,109 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Match columns with VLOOKUP
 - [Peer practice with spreadsheet skills](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0) in randomly-assigned breakout rooms.
 - Prep for Spreadsheet quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
-- Learn more about our community partner <https://ctcadv.org> and <https://CTSafeConnect.org>
+- Learn more about our community partner CT Coalition Against Domestic Violence <https://ctcadv.org>, and its statewide hotline program <https://CTSafeConnect.org>
+- Start reading series of news articles (use login from instructor if needed):
+  - Clare Dignan and Veronica Del Valle, “Lost to Abuse: Intimate Partner Violence,” Connecticut Post series, 2021, <https://www.ctpost.com/projects/2021/intimate-partner-violence/>.
+  - Clare Dignan, “After Almost 300 Intimate Partner Violence Deaths in Connecticut in 20 Years, Has Enough Changed?,” Connecticut Post, December 8, 2021, <https://www.ctpost.com/projects/2021/intimate-partner-violence/protective-restraining-orders/>.
+  - Clare Dignan, “Race, Wealth Still Dictate Which Stories of Domestic Violence Get Told, Experts Say,” Connecticut Post, December 8, 2021, <https://www.ctpost.com/projects/2021/intimate-partner-violence/public-attention/>.
+  - Clare Dignan, “7 Takeaways from Our Investigation of Intimate Partner Violence,” CT Insider, December 12, 2021, <https://www.ctinsider.com/news/article/7-takeaways-from-our-yearlong-investigation-of-16688932.php>.
 - Recommended: meet up with your friendly instructors!
 
-### More to come
+### Wed 5 Jan
+- Overview of Learning Goal #2: Find and Question Your Data. Start reading Data Feminism, chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, and start reading HODV Chapter 3 at <https://handsondataviz.org/find.html>
+  - Challenge power & privilege in data
+  - Clarify levels of data
+  - Recognize public vs private data
+  - Mask or aggregate sensitive data
+  - Explore open data repositories
+  - Source your data
+  - Recognize bad data
+  - Question your data
+- Prepare for Find and Question Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+- Assign Build Stage 1: Explore Data and Propose Questions for Community Partners, due in class on Thursday 6 Jan
+
+### Thu 6 Jan
+- Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
+  - Smart Cleanup in Google Sheets
+  - Find and Replace with Blank
+  - Transpose Rows and Columns
+  - Split Data into Separate Columns
+  - Combine Data into One Column
+- Prepare for Clean Up quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+- 11am Zoom meeting with community partners Maria Guzman and Joanne Vitarelli, CCADV / CTSafeConnect
+
+### Fri 7 Jan
+- Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
+  - Precisely describe comparisons -- practice [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
+  - Normalize your data
+  - Beware of biased comparisons
+- Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+- Assign Build Stage 2: Find Meaningful Comparisons with CTSafeConnect data, due Mon 10 Jan at 12 noon
+
+### Tues 11 Jan
+- Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
+  - Chart types
+  - Chart design principles and rules
+  - Create bar/column, histogram, line, area charts
+  - Create annotated, range, scatter charts
+- Prepare for Chart Your Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+
+### Wed 12 Jan
+- Overview of Learning Goal #6: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
+  - Build Narrative on a Storyboard
+  - Draw Attention to Meaning
+  - Acknowledge Sources and Uncertainty
+- Prepare for Data Story quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+- Assign Build Stage 3: Design Meaningful Charts with CTSafeConnect data, due by end of class, in order to share progress with community partners on Thursday
+
+### Thu 13 Jan
+- Overview of Learning Goal #7: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
+  - Map types (focus primarily on point maps and choropleth maps)
+  - Map design principles and rules
+  - Choropleth colors and intervals (focus on basic concepts for now)
+  - Normalize choropleth map data
+  - Create point maps with Google My Maps and Datawrapper
+- Prep for Map Your Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+- 11am Zoom meeting with community partners Maria Guzman and Joanne Vitarelli, CCADV / CTSafeConnect
+
+### Fri 14 Jan
+- Overview of Learning Goal #8: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
+	- What's a GeoJSON file and why does it matter?
+  - Find and edit GeoJSON boundary data
+  - [Common CT and Hartford GeoJSON files](https://github.com/HandsOnDataViz/ct-boundaries)
+  - Download census tract data in CSV format using Social Explorer <https://socialexplorer.com> (requires Trinity network access or other license)
+  - Pivot points into polygon data using spreadsheet <https://handsondataviz.org/pivot-point-to-polygon.html>
+  - Join spreadsheet CSV data with polygons using Mapshaper <https://handsondataviz.org/mapshaper.html#join-spreadsheet-data-with-polygon-map>
+- Prep for Transform Your Map Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+- Assign Build Stage 4: Create Data Story (text, chart, and map) in Google Docs, due Monday 17 Jan by 12 noon
+
+### Tues 18 Jan
+- Overview of Learning Goal #9: Edit, Host, and Embed Code with GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
+  - Copy, Edit, and Host a Simple Leaflet Map  
+Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
+	- Leaflet Maps with Google Sheets  
+Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
+  - Static images versus interactive iframes
+  - Get the iframe embed code for a published visualization
+  - Embed the iframe code in an HTML web page
+- Prep for GitHub quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+- Assign Build Stage 5: Peer Review of Data Story, due in class
+- Assign Build Stage 6: Revise Data Story and Embed in GitHub Template, due Wed before 11am (for Zoom meeting with partners)
+
+### Wed 19 Jan
+- Workshop time for Data Stories
+- 11am *tentative* Zoom meeting with community partners
+- Assign Build Stages 7 and 8: Final Data Stories for Guest Evaluators, due at 3pm today. At this point your work will be frozen, forked into my GitHub account, and forwarded to the expert reviewers to give them time to read your work.
+
+### Thu 20 Jan
+- Overview of Learning Goal #10: Detect Lies and Reduce Bias. Start reading HODV Introduction <https://handsondataviz.org/introduction.html> and Chapter 14 <https://handsondataviz.org/detect.html>
+	- How to Lie with Charts
+	- How to Lie with Maps
+	- Recognize and Reduce Data Bias
+	- Recognize and Reduce Spatial Bias
+- Prep for Detect Lies quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+
+### Fri 21 Jan
+- Final evaluation: Zoom meeting with guest experts, time TBA. Instead of a final exam, guest experts will review your final data stories online and pose questions for up to 5 minutes to each solo/duo student about your data, storytelling, and design decisions. Counts as Build 7 and 8 combined, for total of 10 points from guest evaluators.
+- Class wrap-up and why data visualization matters to me: <https://ontheline.trincoll.edu>
+- Student course feedback on anonymous group Google Doc
