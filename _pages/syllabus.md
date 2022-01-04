@@ -107,7 +107,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 - [Peer practice with spreadsheet skills](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0) in randomly-assigned breakout rooms.
 - Prep for Spreadsheet quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
 - Learn more about our community partner CT Coalition Against Domestic Violence <https://ctcadv.org>, and its statewide hotline program <https://CTSafeConnect.org>
-- Start reading series of news articles (use login from instructor if needed):
+- Start reading series of news articles (if needed, see login on our Moodle page):
   - Clare Dignan and Veronica Del Valle, “Lost to Abuse: Intimate Partner Violence,” Connecticut Post series, 2021, <https://www.ctpost.com/projects/2021/intimate-partner-violence/>.
   - Clare Dignan, “After Almost 300 Intimate Partner Violence Deaths in Connecticut in 20 Years, Has Enough Changed?,” Connecticut Post, December 8, 2021, <https://www.ctpost.com/projects/2021/intimate-partner-violence/protective-restraining-orders/>.
   - Clare Dignan, “Race, Wealth Still Dictate Which Stories of Domestic Violence Get Told, Experts Say,” Connecticut Post, December 8, 2021, <https://www.ctpost.com/projects/2021/intimate-partner-violence/public-attention/>.
