@@ -95,6 +95,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 ### Tues 4 Jan
 - Before class, fill out this [Google Form](https://forms.gle/ruvB8YafbyvsSUqcA)
 - Introductions, syllabus overview, and how to succeed in this course
+- Sample responses: [What sparks your interest in this course?](https://docs.google.com/document/d/17EIec5TILfgyP-AqpNPT0_zMcW6zRrd5Y2pmiwdAQb8/edit)
 - Sample quiz about syllabus for 1-point bonus, due in class on [Moodle](https://moodle.trincoll.edu)
 - Overview of Learning Goal #1: Strengthen Your Spreadsheet Skills. Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
   - Copy, Share, and Convert Google Sheets
@@ -124,6 +125,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Recognize bad data
   - Question your data
 - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+- Peer practice: Download CT county subdivision (town) data in CSV format using Social Explorer <https://socialexplorer.com> (requires Trinity network access or other license)
 - Assign Build Stage 1: Explore Data and Propose Questions for Community Partners, due in class on Thursday 6 Jan
 
 ### Thu 6 Jan
@@ -175,7 +177,6 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 	- What's a GeoJSON file and why does it matter?
   - Find and edit GeoJSON boundary data
   - [Common CT and Hartford GeoJSON files](https://github.com/HandsOnDataViz/ct-boundaries)
-  - Download census tract data in CSV format using Social Explorer <https://socialexplorer.com> (requires Trinity network access or other license)
   - Pivot points into polygon data using spreadsheet <https://handsondataviz.org/pivot-point-to-polygon.html>
   - Join spreadsheet CSV data with polygons using Mapshaper <https://handsondataviz.org/mapshaper.html#join-spreadsheet-data-with-polygon-map>
 - Prep for Transform Your Map Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
