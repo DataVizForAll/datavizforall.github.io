@@ -71,7 +71,7 @@ Your progress toward these learning goals will be assessed in three ways:
 - 8 stages worth 5 points each = 40 points. A 20 percent late penalty will be deducted for every 12-hour period beyond the deadline. Exceptions are granted only for documented health or family emergencies.
 
 #### C. Class Participation
-- The purpose is to encourage active learning and accountability. Each student begins the course with 10 participation points. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me well in advance.
+- The purpose is to encourage active learning and accountability. Each student begins the course with 10 participation points. You are expected to log into our Zoom class on time with your real screen name. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me well in advance.
 
 #### Summary  
 50 points quizzes + 40 points data stories + 10 class participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
@@ -106,5 +106,6 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 - [Peer practice with spreadsheet skills](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0) in randomly-assigned breakout rooms.
 - Prep for Spreadsheet quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
 - Learn more about our community partner <https://ctcadv.org> and <https://CTSafeConnect.org>
+- Recommended: meet up with your friendly instructors!
 
 ### More to come
