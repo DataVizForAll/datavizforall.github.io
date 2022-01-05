@@ -115,7 +115,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 - Recommended: meet up with your friendly instructors!
 
 ### Wed 5 Jan
-- Overview of Learning Goal #2: Find and Question Your Data. Start reading Data Feminism, chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, and start reading HODV Chapter 3 at <https://handsondataviz.org/find.html>
+- Overview of Learning Goal #2: Find and Question Your Data. Start reading HODV Chapter 3 at <https://handsondataviz.org/find.html>
   - Challenge power & privilege in data
   - Clarify levels of data
   - Recognize public vs private data
@@ -124,9 +124,14 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Source your data
   - Recognize bad data
   - Question your data
+- Explore [CTSafeConnect2020 masked data Google Sheet](https://docs.google.com/spreadsheets/d/1dCZftO7ukIlodahZZGwbt5dTAPgenRM6VxO6-Lb_wdQ/edit#gid=1352497557) requires password and [data service definitions](https://docs.google.com/document/d/1jtNKXDxAEMTK9yzVS0Hr3uEKdaifcEctV6hMcWF3GfI/edit)
+- Start reading Catherine D'Ignazio and Lauren Klein *Data Feminism* chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, especially these selections:
+  - [Chapter 1. Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4) begins with a story about tennis star Serena Williams. What do the authors mean by this line? ["What we choose to measure is a statement of what we value...and who we value"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4#nxk87mil5kj)
+  - [Chapter 2 about Challenge Power](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) begins with a comparison of two different maps of Detroit. How do the maps differ, and what do the authors mean when they ask ["Who makes maps and who gets mapped?"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4#nl1iq5r2p9p)
+  - How do these themes connect to last night's reading? Clare Dignan, “Race, Wealth Still Dictate Which Stories of Domestic Violence Get Told, Experts Say,” Connecticut Post, December 8, 2021, <https://www.ctpost.com/projects/2021/intimate-partner-violence/public-attention/>.
 - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
-- Peer practice: Download CT county subdivision (town) data in CSV format using Social Explorer <https://socialexplorer.com> (requires Trinity network access or other license)
-- Assign Build Stage 1: Explore Data and Propose Questions for Community Partners, due in class on Thursday 6 Jan
+- Assign Build Stage 1: Explore CTSafeConnect Data. Explore the data. What do you notice? What do you need clarification about? What questions can we ask about the data that might help our community partners?, due in class on Thursday 6 Jan
+
 
 ### Thu 6 Jan
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
@@ -144,6 +149,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Normalize your data
   - Beware of biased comparisons
 - Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+- Peer practice: Download CT county subdivision (town) data in CSV format using Social Explorer <https://socialexplorer.com> (requires Trinity network access or other license)
 - Assign Build Stage 2: Find Meaningful Comparisons with CTSafeConnect data, due Mon 10 Jan at 12 noon
 
 ### Tues 11 Jan
