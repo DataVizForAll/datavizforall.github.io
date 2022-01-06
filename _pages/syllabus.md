@@ -141,6 +141,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Combine Data into One Column
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
 - Peer practice: [Download and Clean Census/ACS data from Social Explorer](https://docs.google.com/document/d/1Q6Ai9SmbjMtbNwS4ehLkSvz1XlL8x-cklB53V1HJEcU/edit)
+- [Review and Narrow Down our Data Story Ideas](https://bit.ly/dataviz-ccadv)
 - 11am Zoom meeting with community partners Maria Guzman and Joanne Vitarelli, CCADV / CTSafeConnect
 
 ### Fri 7 Jan
