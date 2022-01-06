@@ -140,6 +140,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Split Data into Separate Columns
   - Combine Data into One Column
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+- Peer practice: [Download and Clean Census/ACS data from Social Explorer](https://docs.google.com/document/d/1Q6Ai9SmbjMtbNwS4ehLkSvz1XlL8x-cklB53V1HJEcU/edit)
 - 11am Zoom meeting with community partners Maria Guzman and Joanne Vitarelli, CCADV / CTSafeConnect
 
 ### Fri 7 Jan
@@ -148,7 +149,6 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Normalize your data
   - Beware of biased comparisons
 - Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
-- Peer practice: Download CT county subdivision (town) data in CSV format using Social Explorer <https://socialexplorer.com> (requires Trinity network access or other license)
 - Assign Build Stage 2: Find Meaningful Comparisons with CTSafeConnect data, due Mon 10 Jan at 12 noon
 
 ### Tues 11 Jan
