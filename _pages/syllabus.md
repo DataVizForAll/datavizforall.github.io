@@ -150,7 +150,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Normalize your data
   - Beware of biased comparisons
 - Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
-- Assign Build Stage 2: Find Meaningful Comparisons with CTSafeConnect data, due Mon 10 Jan at 12 noon
+- Assign Build Stage 2: Find Meaningful Comparisons by merging Census/ACS 2015-19 town data with CTSafeConnect 2020 regional data, in randomly-assigned duos/trios, due Mon 10 Jan at 12 noon
 
 ### Tues 11 Jan
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
@@ -159,6 +159,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Create bar/column, histogram, line, area charts
   - Create annotated, range, scatter charts
 - Prepare for Chart Your Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+- Assign Build Stage 3: Design Meaningful Charts to address part of a CTSafeConnect data question, working in duos or solo, due Wed 12 Jan at 3pm. We will share our progress with community partners on Thursday.
 
 ### Wed 12 Jan
 - Overview of Learning Goal #6: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
@@ -166,7 +167,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Draw Attention to Meaning
   - Acknowledge Sources and Uncertainty
 - Prepare for Data Story quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
-- Assign Build Stage 3: Design Meaningful Charts with CTSafeConnect data, due by end of class, in order to share progress with community partners on Thursday
+
 
 ### Thu 13 Jan
 - Overview of Learning Goal #7: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
@@ -203,7 +204,7 @@ Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
 
 ### Wed 19 Jan
 - Workshop time for Data Stories
-- 11am *tentative* Zoom meeting with community partners
+- 11am Zoom meeting with community partners to present near-final data stories and listen to feedback
 - Assign Build Stages 7 and 8: Final Data Stories for Guest Evaluators, due at 3pm today. At this point your work will be frozen, forked into my GitHub account, and forwarded to the expert reviewers to give them time to read your work.
 
 ### Thu 20 Jan
