@@ -145,6 +145,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 - 11am Zoom meeting with community partners Maria Guzman and Joanne Vitarelli, CCADV / CTSafeConnect
 
 ### Fri 7 Jan
+- [Continue Discussion of Data Story Ideas](https://bit.ly/dataviz-ccadv)
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
   - Precisely describe comparisons -- practice [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
   - Normalize your data
