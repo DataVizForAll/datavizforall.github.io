@@ -150,7 +150,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Normalize your data
   - Beware of biased comparisons
 - Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
-- Assign Build Stage 2: Find Meaningful Comparisons by merging Census/ACS 2015-19 town data with CTSafeConnect 2020 regional data, in randomly-assigned duos/trios, due Mon 10 Jan at 12 noon
+- Assign [Build Stage 2: Find Meaningful Demographic Comparisons](https://docs.google.com/document/d/15llEQah2l4tM9geby0jKtOj10JNA_kw8-xNgIRj8v1I/edit) by merging Census/ACS town data and CTSafeConnect 2020 regional data, in randomly-assigned duos/trios, due Mon 10 Jan at 12 noon
 
 ### Tues 11 Jan
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
