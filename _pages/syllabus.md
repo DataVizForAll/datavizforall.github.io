@@ -160,7 +160,8 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Chart design principles and rules
   - Create bar/column, histogram, line, area charts
   - Create annotated, range, scatter charts
-- Prepare for Chart Your Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu). Budget your time  for this quiz, which contains 5 show-your-work questions, and may require more time than you have spent on prior quizzes.
+- Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before midnight tonight on [Moodle](https://moodle.trincoll.edu). Budget your time  for this quiz, which contains 5 show-your-work questions, and may require more time than you have spent on prior quizzes.
+- Review of Build Stage 2
 
 ### Wed 12 Jan
 - Overview of Learning Goal #6: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
