@@ -154,13 +154,13 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 - Assign [Build Stage 2: Find Meaningful Demographic Comparisons](https://docs.google.com/document/d/15llEQah2l4tM9geby0jKtOj10JNA_kw8-xNgIRj8v1I/edit) by merging Census/ACS town data and CTSafeConnect 2020 regional data, in randomly-assigned duos/trios, due Mon 10 Jan at 12 noon
 
 ### Tues 11 Jan
+- Review of Quiz #4 normalization -- see sample responses by [Archana](https://docs.google.com/spreadsheets/d/1mRm67MeaWZOJbOazFAy5goe29W-e45cz-yHv6WAenQQ/edit#gid=0) and [Daisy](https://docs.google.com/spreadsheets/d/1KOOlFZGZVBHlIpm1_t-NUX8t6VxvgTuTFaG7KIVK2xE/edit#gid=0)
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
   - Chart design principles and rules
   - Create bar/column, histogram, line, area charts
   - Create annotated, range, scatter charts
-- Prepare for Chart Your Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
-- Assign Build Stage 3: Design Meaningful Charts to address part of a CTSafeConnect data question, working in duos or solo, due Wed 12 Jan at 3pm. We will share our progress with community partners on Thursday.
+- Prepare for Chart Your Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu). Budget your time  for this quiz, which contains 5 show-your-work questions, and may require more time than you have spent on prior quizzes.
 
 ### Wed 12 Jan
 - Overview of Learning Goal #6: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
@@ -168,7 +168,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Draw Attention to Meaning
   - Acknowledge Sources and Uncertainty
 - Prepare for Data Story quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
-
+- Assign Build Stage 3: Design Meaningful Charts to address part of a CTSafeConnect data question, working in duos or solo, due Wed 12 Jan at 6pm. We will share our progress with community partners on Thursday.
 
 ### Thu 13 Jan
 - Overview of Learning Goal #7: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
