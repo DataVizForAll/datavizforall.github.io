@@ -162,7 +162,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Create bar/column, histogram, line, area charts
   - Create annotated, range, scatter charts
 - Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before midnight tonight on [Moodle](https://moodle.trincoll.edu). Budget your time  for this quiz, which contains 5 show-your-work questions, and may require more time than you have spent on prior quizzes.
-- Review of Build Stage 2 -- see sample responses by [Alberlis](https://docs.google.com/document/d/1o3eRG3zoZ7nM6KAKn_dU8PUrFjbWOa6uCjlXSjP0yd8/edit) and [Tim](https://docs.google.com/document/d/1_TPkpuo7IlLEfERTtYIJb1gtnui5a91ey3zspBz4fOc/edit)
+- Review of [Build Stage 2](https://docs.google.com/document/d/15llEQah2l4tM9geby0jKtOj10JNA_kw8-xNgIRj8v1I/edit) -- see sample responses by [Alberlis](https://docs.google.com/document/d/1o3eRG3zoZ7nM6KAKn_dU8PUrFjbWOa6uCjlXSjP0yd8/edit) and [Tim](https://docs.google.com/document/d/1_TPkpuo7IlLEfERTtYIJb1gtnui5a91ey3zspBz4fOc/edit)
 
 ### Wed 12 Jan
 - Overview of Learning Goal #6: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
