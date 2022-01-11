@@ -154,6 +154,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 - Assign [Build Stage 2: Find Meaningful Demographic Comparisons](https://docs.google.com/document/d/15llEQah2l4tM9geby0jKtOj10JNA_kw8-xNgIRj8v1I/edit) by merging Census/ACS town data and CTSafeConnect 2020 regional data, in randomly-assigned duos/trios, due Mon 10 Jan at 12 noon
 
 ### Tues 11 Jan
+- What we learned last week and what we'll learn this week
 - Review of Quiz #4 normalization -- see sample responses by [Archana](https://docs.google.com/spreadsheets/d/1mRm67MeaWZOJbOazFAy5goe29W-e45cz-yHv6WAenQQ/edit#gid=0) and [Daisy](https://docs.google.com/spreadsheets/d/1KOOlFZGZVBHlIpm1_t-NUX8t6VxvgTuTFaG7KIVK2xE/edit#gid=0)
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
@@ -161,7 +162,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Create bar/column, histogram, line, area charts
   - Create annotated, range, scatter charts
 - Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before midnight tonight on [Moodle](https://moodle.trincoll.edu). Budget your time  for this quiz, which contains 5 show-your-work questions, and may require more time than you have spent on prior quizzes.
-- Review of Build Stage 2
+- Review of Build Stage 2 -- see sample responses by [Alberlis](https://docs.google.com/document/d/1o3eRG3zoZ7nM6KAKn_dU8PUrFjbWOa6uCjlXSjP0yd8/edit) and [Tim](https://docs.google.com/document/d/1_TPkpuo7IlLEfERTtYIJb1gtnui5a91ey3zspBz4fOc/edit)
 
 ### Wed 12 Jan
 - Overview of Learning Goal #6: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
