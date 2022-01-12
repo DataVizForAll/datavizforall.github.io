@@ -193,7 +193,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Pivot points into polygon data using spreadsheet <https://handsondataviz.org/pivot-point-to-polygon.html>
   - Join spreadsheet CSV data with polygons using Mapshaper <https://handsondataviz.org/mapshaper.html#join-spreadsheet-data-with-polygon-map>
 - Prep for Transform Your Map Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
-- Assign Build Stage 3 & 4: Create Data Story (text, chart, and map) in Google Docs, due Monday 17 Jan by 12 noon
+- Assign Build Stage 3 & 4: Create Data Story (text, chart, and map) in Google Docs, due Monday 17 Jan by 12 noon. Worth 10 points since it combines two stages.
 
 ### Tues 18 Jan
 - Overview of Learning Goal #9: Edit, Host, and Embed Code with GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
@@ -222,6 +222,6 @@ Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
 - Prep for Detect Lies quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
 
 ### Fri 21 Jan
-- Final evaluation: Zoom meeting with guest experts, time TBA. Instead of a final exam, guest experts will review your final data stories online and pose questions for up to 5 minutes to each solo/duo student about your data, storytelling, and design decisions. Counts as Build 7 and 8 combined, for total of 10 points from guest evaluators.
+- 9:15 to 10:30am ET: [Final evaluation Zoom meeting with guest experts](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit). Instead of a final exam, guest experts will review your final data stories online and pose questions for up to 5 minutes to each solo/duo student about your data, storytelling, and design decisions. Counts as Build 7 and 8 combined, for total of 10 points from guest evaluators.
 - Class wrap-up and why data visualization matters to me: <https://ontheline.trincoll.edu>
 - Student course feedback on anonymous group Google Doc
