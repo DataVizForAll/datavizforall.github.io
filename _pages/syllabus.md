@@ -171,7 +171,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Build Narrative on a Storyboard
   - Draw Attention to Meaning
   - Acknowledge Sources and Uncertainty
-- Prepare for Data Story quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu). The quiz asks one question: use any CTSafeConnect time data to create a meaningful annotated chart, and add a title and annotations that draw our attention to what matters. See data on [Moodle](https://moodle.trincoll.edu).
+- Prepare for Data Story quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu). The quiz asks one question: use any CTSafeConnect time data to create a meaningful annotated chart, and add a title and annotations that draw our attention to what matters. See [CTSafeConnect 2020 masked time data](https://docs.google.com/spreadsheets/d/1dvBvw7XdqnAu03Qs-OY52NlB7CAprpvtbiNTAYTW474/edit#gid=1162396260)
 - Individual meetings with instructor to discuss your interests in specific [Data Story Ideas](https://bit.ly/dataviz-ccadv)
 - Talk with other students in breakout rooms to discuss potential duos or coordinated solos for data story ideas
 
