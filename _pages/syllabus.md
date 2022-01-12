@@ -163,9 +163,10 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Create annotated, range, scatter charts
 - Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before midnight tonight on [Moodle](https://moodle.trincoll.edu). Budget your time  for this quiz, which contains 5 show-your-work questions, and may require more time than you have spent on prior quizzes.
 - Review of [Build Stage 2](https://docs.google.com/document/d/15llEQah2l4tM9geby0jKtOj10JNA_kw8-xNgIRj8v1I/edit) -- see sample responses by [Alberlis](https://docs.google.com/document/d/1o3eRG3zoZ7nM6KAKn_dU8PUrFjbWOa6uCjlXSjP0yd8/edit) and [Tim](https://docs.google.com/document/d/1_TPkpuo7IlLEfERTtYIJb1gtnui5a91ey3zspBz4fOc/edit)
-- **NEW**: [Explore Two Ways to Make Meaningful Comparisons](https://docs.google.com/spreadsheets/d/1F0ElC-zV07chUnT-NcxTtFHpAhTac7OhZye4i0Enqn4/edit#gid=1654389635)
 
 ### Wed 12 Jan
+- Class begins today at **9:30am**
+- [Explore Two Ways to Make Meaningful Comparisons with imaginary data](https://docs.google.com/spreadsheets/d/1LrRx4bvyvLMcAznalugg2fmZdJ4Nz0MhJJFko4gbiLo/edit#gid=1654389635)
 - Overview of Learning Goal #6: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
   - Build Narrative on a Storyboard
   - Draw Attention to Meaning
