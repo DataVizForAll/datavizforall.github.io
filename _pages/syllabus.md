@@ -171,8 +171,9 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Build Narrative on a Storyboard
   - Draw Attention to Meaning
   - Acknowledge Sources and Uncertainty
-- Prepare for Data Story quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
-- Assign Build Stage 3: Design Meaningful Charts to address part of a CTSafeConnect data question, working in duos or solo, due Wed 12 Jan at 6pm. We will share our progress with community partners on Thursday.
+- Prepare for Data Story quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu). The quiz asks one question: use any CTSafeConnect time data to create a meaningful annotated chart, and add a title and annotations that draw our attention to what matters. See data on [Moodle](https://moodle.trincoll.edu).
+- Individual meetings with instructor to discuss your interests in specific [Data Story Ideas](https://bit.ly/dataviz-ccadv)
+- Talk with other students in breakout rooms to discuss potential duos or coordinated solos for data story ideas
 
 ### Thu 13 Jan
 - Overview of Learning Goal #7: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
@@ -192,7 +193,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Pivot points into polygon data using spreadsheet <https://handsondataviz.org/pivot-point-to-polygon.html>
   - Join spreadsheet CSV data with polygons using Mapshaper <https://handsondataviz.org/mapshaper.html#join-spreadsheet-data-with-polygon-map>
 - Prep for Transform Your Map Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
-- Assign Build Stage 4: Create Data Story (text, chart, and map) in Google Docs, due Monday 17 Jan by 12 noon
+- Assign Build Stage 3 & 4: Create Data Story (text, chart, and map) in Google Docs, due Monday 17 Jan by 12 noon
 
 ### Tues 18 Jan
 - Overview of Learning Goal #9: Edit, Host, and Embed Code with GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
