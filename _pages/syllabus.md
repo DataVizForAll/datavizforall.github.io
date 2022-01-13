@@ -184,7 +184,7 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Create point maps with Google My Maps and Datawrapper
 - Prep for Map Your Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu). Budget time for two show-your-work mapping questions, and one short-answer question.
 - 11am Zoom meeting with community partners Maria Guzman and Joanne Vitarelli, CCADV / CTSafeConnect
-- [Share and discuss some preliminary findings](https://docs.google.com/spreadsheets/d/1gG94lmBv9YfbwAnjI_hAyEiucpJOeYfXvZVbvQi1p0I/edit#gid=0)
+- [Share and discuss some preliminary findings](https://docs.google.com/spreadsheets/d/1gG94lmBv9YfbwAnjI_hAyEiucpJOeYfXvZVbvQi1p0I/edit#gid=0), with brief explanations from Tim (sheet 1), Alberlis (sheet 2), Archana, Chris, Daisy, Azka (sheet 3)
 - Continue to focus our [Data Story Ideas](https://bit.ly/dataviz-ccadv)
 
 ### Fri 14 Jan
