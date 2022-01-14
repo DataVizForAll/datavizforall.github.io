@@ -188,19 +188,20 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 - Continue to focus our [Data Story Ideas](https://bit.ly/dataviz-ccadv)
 
 ### Fri 14 Jan
-- IMPORTANT: [Updated 2020-2021-SafeConnect-masked Google Sheet](https://docs.google.com/spreadsheets/d/1dCZftO7ukIlodahZZGwbt5dTAPgenRM6VxO6-Lb_wdQ/edit#gid=1352497557) *requires password* with new column: 2YearInstance, which counts repeat calls during 2020 and 2021
+- **NEW**: [Updated 2020-2021-SafeConnect-masked Google Sheet](https://docs.google.com/spreadsheets/d/1dCZftO7ukIlodahZZGwbt5dTAPgenRM6VxO6-Lb_wdQ/edit#gid=1352497557) *requires password* with new column: 2YearInstance, which counts repeat calls during 2020 and 2021.
+  - Construct pivot tables with filters and multiple values to organize your data
 - Overview of Learning Goal #8: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
-  - [Common CT and Hartford GeoJSON files](https://github.com/HandsOnDataViz/ct-boundaries)
-  - Find and edit GeoJSON boundary data with Mapshaper
-- Prep for Transform Your Map Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
-- Assign Build Stage 3 & 4: Create Data Story (text, chart, and map) in Google Docs, due Monday 17 Jan by 12 noon. Worth 10 points since it combines two stages.
+  - Explore [CCADV-custom-regions on GitHub](https://github.com/datavizforall/ccadv-custom-regions) and click *Code > Download Zip* and uncompress in your local computer
+  - Find and edit GeoJSON boundary data with [Mapshaper.org](https://mapshaper.org)
+  - Upload a custom GeoJSON boundary file to make a choropleth map in Datawrapper
+- Prep for Transform Your Map Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu). This quiz features one show-your-work question: create any meaningful choropleth map using our updated 2020-2021 CTSafeConnect data and the CCADV 14-region GeoJSON boundary, both linked above.
+- Finalize and select our [Data Story Ideas](https://bit.ly/dataviz-ccadv) and coordinate solos/duos
+- [Assign Build Stage 3 & 4: Create Data Story](https://docs.google.com/document/d/1vghcU926sfFdcWuE7EkayMRuyemahWx67Jps_lRKlR8/edit) including text, table, chart, and map in a shared Google Docs, due Monday 17 Jan by 3pm. Worth 10 points.
 
 ### Tues 18 Jan
 - Overview of Learning Goal #9: Edit, Host, and Embed Code with GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
-  - Copy, Edit, and Host a Simple Leaflet Map  
-Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
-	- Leaflet Maps with Google Sheets  
+  - TODO: ADD Data Story template LINK
 Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
   - Static images versus interactive iframes
   - Get the iframe embed code for a published visualization
