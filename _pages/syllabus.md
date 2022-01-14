@@ -181,19 +181,18 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
   - Map design principles and rules
   - Choropleth colors and intervals (focus on basic concepts for now)
   - Normalize choropleth map data
-  - Create point maps with Google My Maps and Datawrapper
+  - Create choropleth maps with Datawrapper
 - Prep for Map Your Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu). Budget time for two show-your-work mapping questions, and one short-answer question.
 - 11am Zoom meeting with community partners Maria Guzman and Joanne Vitarelli, CCADV / CTSafeConnect
 - [Share and discuss some preliminary findings](https://docs.google.com/spreadsheets/d/1gG94lmBv9YfbwAnjI_hAyEiucpJOeYfXvZVbvQi1p0I/edit#gid=0), with brief explanations from Tim (sheet 1), Alberlis (sheet 2), Archana, Chris, Daisy, Azka (sheet 3)
 - Continue to focus our [Data Story Ideas](https://bit.ly/dataviz-ccadv)
 
 ### Fri 14 Jan
+- IMPORTANT: [Updated 2020-2021-SafeConnect-masked Google Sheet](https://docs.google.com/spreadsheets/d/1dCZftO7ukIlodahZZGwbt5dTAPgenRM6VxO6-Lb_wdQ/edit#gid=1352497557) *requires password* with new column: 2YearInstance, which counts repeat calls during 2020 and 2021
 - Overview of Learning Goal #8: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
-  - Find and edit GeoJSON boundary data
   - [Common CT and Hartford GeoJSON files](https://github.com/HandsOnDataViz/ct-boundaries)
-  - Pivot points into polygon data using spreadsheet <https://handsondataviz.org/pivot-point-to-polygon.html>
-  - Join spreadsheet CSV data with polygons using Mapshaper <https://handsondataviz.org/mapshaper.html#join-spreadsheet-data-with-polygon-map>
+  - Find and edit GeoJSON boundary data with Mapshaper
 - Prep for Transform Your Map Data quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
 - Assign Build Stage 3 & 4: Create Data Story (text, chart, and map) in Google Docs, due Monday 17 Jan by 12 noon. Worth 10 points since it combines two stages.
 
