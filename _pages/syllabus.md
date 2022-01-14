@@ -212,7 +212,7 @@ Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
 
 ### Wed 19 Jan
 - Workshop time for Data Stories
-- 11am Zoom meeting with community partners to present near-final data stories and listen to feedback
+- 11am-12pm Zoom meeting with CCADV community partners Maria Guzman and Joanne Vitarelli to present data stories and listen to feedback
 - Assign Build Stages 7 and 8: Final Data Stories for Guest Evaluators, due at 3pm today. At this point your work will be frozen, forked into my GitHub account, and forwarded to the expert reviewers to give them time to read your work.
 
 ### Thu 20 Jan
@@ -224,6 +224,6 @@ Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
 - Prep for Detect Lies quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
 
 ### Fri 21 Jan
-- 9:15 to 10:30am ET: [Final evaluation Zoom meeting with guest experts](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit). Instead of a final exam, guest experts will review your final data stories online and pose questions for up to 5 minutes to each solo/duo student about your data, storytelling, and design decisions. Counts as Build 7 and 8 combined, for total of 10 points from guest evaluators.
+- 9:15 to 10:30am ET: [Final evaluation Zoom meeting](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit) with guest experts Clare Dignan (investigative reporter, CTInsider) and Ilya Ilyankou '18 (civic technologist, CT Data Collaborative). Guest experts will review final data stories online and pose questions to each solo/duo student about your data, storytelling, and design decisions. Counts as Build 7 and 8 combined, for total of 10 points from guest evaluators.
 - Class wrap-up and why data visualization matters to me: <https://ontheline.trincoll.edu>
 - Student course feedback on anonymous group Google Doc
