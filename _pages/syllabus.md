@@ -224,6 +224,6 @@ Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
 - Prep for Detect Lies quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
 
 ### Fri 21 Jan
-- 9:15 to 10:30am ET: [Final evaluation Zoom meeting](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit) with guest experts Clare Dignan (investigative reporter, CTInsider) and Ilya Ilyankou '18 (civic technologist, CT Data Collaborative). Guest experts will review final data stories online and pose questions to each solo/duo student about your data, storytelling, and design decisions. Counts as Build 7 and 8 combined, for total of 10 points from guest evaluators.
+- 9:15 to 10:30am ET: [Final evaluation Zoom meeting](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit) with guest experts Clare Dignan, investigative reporter who wrote [Lost to Abuse CT Post series](https://www.ctpost.com/projects/2021/intimate-partner-violence) and Ilya Ilyankou '18, civic technologist at [CT Data Collaborative](https://ctdata.org). Guest experts will review final data stories online and pose questions to each solo/duo student about your data, storytelling, and design decisions. Counts as Build 7 and 8 combined, for total of 10 points from guest evaluators.
 - Class wrap-up and why data visualization matters to me: <https://ontheline.trincoll.edu>
 - Student course feedback on anonymous group Google Doc
