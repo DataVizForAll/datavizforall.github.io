@@ -200,15 +200,16 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 - [Assign Build Stage 3 & 4: Create Data Story](https://docs.google.com/document/d/1vghcU926sfFdcWuE7EkayMRuyemahWx67Jps_lRKlR8/edit) including text, table, chart, and map in a shared Google Docs, due Monday 17 Jan by 3pm. Worth 10 points.
 
 ### Tues 18 Jan
-- Overview of Learning Goal #9: Edit, Host, and Embed Code with GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
-  - TODO: ADD Data Story template LINK
-Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
+- Current lineup on [Data Story ideas](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit)
+- [Assign Build Stage 5: Peer Review of Data Story](https://docs.google.com/document/d/1zsaEIUEG7ey2I0JFNENof3BI490H-gKFqGUhXpef1Yc/edit), work in 2-person breakout rooms, then meet in 4-person rooms to discuss with authors
+- Feedback from instructor's review of Build 3 & 4, in class meetings about 5 minutes each (instead of break today)
+- Create a free account on [Github](https://github.com)
+- **Abbreviated** Overview of Learning Goal #9: Edit, Host, and Embed Code with GitHub. Start reading HODV Chapter Chapter 9 <https://handsondataviz.org/embed.html> and chapter 10 <https://handsondataviz.org/github.html> and  
   - Static images versus interactive iframes
   - Get the iframe embed code for a published visualization
   - Embed the iframe code in an HTML web page
-- Prep for GitHub quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
-- Assign Build Stage 5: Peer Review of Data Story, due in class
-- Assign Build Stage 6: Revise Data Story and Embed in GitHub Template, due Wed before 11am (for Zoom meeting with partners)
+  - Use this [dataviz-story-template from GitHub](https://github.com/DataVizForAll/dataviz-story-template)
+- Assign Build Stage 6 and Quiz 9 (together worth 10 points): Revise Data Story and Embed in GitHub Template, due today before midnight, and place one link per duo/solo in [Data Stories page](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit). There is no separate Moodle quiz.
 
 ### Wed 19 Jan
 - Workshop time for Data Stories
