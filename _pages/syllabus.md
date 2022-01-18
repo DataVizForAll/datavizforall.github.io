@@ -212,9 +212,11 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 - Assign Build Stage 6 and Quiz 9 (together worth 10 points): Revise Data Story and Embed in GitHub Template, due today before midnight, and place one link per duo/solo in [Data Stories page](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit). There is no separate Moodle quiz.
 
 ### Wed 19 Jan
-- Workshop time for Data Stories
+- Review your [Build 6: Data Stories](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit) with instructor
+- Prepare and rehearse 1-minute oral presentations of key points
+- Workshop time to finalize your work with other students
 - 11am-12pm Zoom meeting with CCADV community partners Maria Guzman and Joanne Vitarelli to present data stories and listen to feedback
-- Assign Build Stages 7 and 8: Final Data Stories for Guest Evaluators, due at 3pm today. At this point your work will be frozen, forked into my GitHub account, and forwarded to the expert reviewers to give them time to read your work.
+- Assign Build Stages 7 and 8: Submit your final data story as a GitHub Pages link on our [Data Stories page](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit). On Wed 3pm I will "freeze" your work and send a copy of your GitHub repo to the guest evaluators to give them time to read your work before Friday morning. [See instructions for guest evaluators](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit). Worth 10 points.
 
 ### Thu 20 Jan
 - Overview of Learning Goal #10: Detect Lies and Reduce Bias. Start reading HODV Introduction <https://handsondataviz.org/introduction.html> and Chapter 14 <https://handsondataviz.org/detect.html>
@@ -225,6 +227,6 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 - Prep for Detect Lies quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
 
 ### Fri 21 Jan
-- 9:15 to 10:30am ET: [Final evaluation Zoom meeting](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit) with guest experts Clare Dignan, investigative reporter who wrote [Lost to Abuse CT Post series](https://www.ctpost.com/projects/2021/intimate-partner-violence) and Ilya Ilyankou '18, civic technologist at [CT Data Collaborative](https://ctdata.org). Guest experts will review final data stories online and pose questions to each solo/duo student about your data, storytelling, and design decisions. Counts as Build 7 and 8 combined, for total of 10 points from guest evaluators.
+- 9:15 to 10:30am ET: [Final evaluation Zoom meeting](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit) with guest experts Clare Dignan, investigative reporter who wrote [Lost to Abuse CT Post series](https://www.ctpost.com/projects/2021/intimate-partner-violence) and Ilya Ilyankou '18, civic technologist at [CT Data Collaborative](https://ctdata.org). Guest experts will review final data stories online before the event. Each solo/duo will have 1 minute to orally present key points, then about 5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
 - Class wrap-up and why data visualization matters to me: <https://ontheline.trincoll.edu>
 - Student course feedback on anonymous group Google Doc
