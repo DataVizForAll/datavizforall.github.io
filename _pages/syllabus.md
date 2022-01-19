@@ -212,10 +212,11 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 - Assign Build Stage 6 and Quiz 9 (together worth 10 points): Revise Data Story and Embed in GitHub Template, due today before midnight, and place one link per duo/solo in [Data Stories page](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit). There is no separate Moodle quiz.
 
 ### Wed 19 Jan
-- Review your [Build 6: Data Stories](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit) with instructor
-- Prepare and rehearse 1-minute oral presentations of key points
-- Workshop time to finalize your work with other students
-- 11am-12pm Zoom meeting with CCADV community partners Maria Guzman and Joanne Vitarelli to present data stories and listen to feedback
+- Workshop to prepare [Data Stories](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit) presentations
+  - Work solo/duo in your own breakout rooms to finalize your data stories
+  - TA Myri will visit each breakout room to help you plan and rehearse 1-minute oral presentation of highlights
+  - Main room: see meeting times to review content and GitHub Pages with Jack
+- 11am-12pm Zoom meeting with CCADV community partners Maria Guzman and Joanne Vitarelli to present data stories and listen to feedback. May include additional guests from Trinity College. Be prepared to deliver a 1-minute presentation of highlights. To conserve time, Jack will share each data story using his screen, so tell him to scroll down as needed during your presentation.
 - Assign Build Stages 7 and 8: Submit your final data story as a GitHub Pages link on our [Data Stories page](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit). On Wed 3pm I will "freeze" your work and send a copy of your GitHub repo to the guest evaluators to give them time to read your work before Friday morning. [See instructions for guest evaluators](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit). Worth 10 points.
 
 ### Thu 20 Jan
