@@ -226,8 +226,10 @@ Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdough
 	- Recognize and Reduce Data Bias
 	- Recognize and Reduce Spatial Bias
 - Prep for Detect Lies quiz, to be taken during any 2-hour period before midnight tonight on [Moodle](https://moodle.trincoll.edu)
+- Why data visualization matters to me
+    - Telling and showing hidden stories of inequality in [On The Line book-in-progress](https://ontheline.trincoll.edu)
+    - Next data project with community partners: The [Sheff v O'Neill 2020 school integration legal settlement](https://ctmirror.org/2020/01/10/state-settles-school-desegregation-case/) calls for data transparency [in section V on page 7](https://s3.documentcloud.org/documents/6616396/Sheff-settlement.pdf). What are good ways to clearly show disaggregated student data from city & suburban magnet schools to the public? Join us in Educ 308: Cities Suburbs & Schools, TR 10:50-12:05 Spring 2022 (email me if you need permission).
+- [Student Course Feedback on Google Doc](https://docs.google.com/document/d/1ngI-0i0kebaf23LPae81bCVevme0bHheGTFN7YsrvbE/edit#)
 
 ### Fri 21 Jan
 - 9:15 to 10:30am ET: [Final evaluation Zoom meeting](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit) with guest experts Clare Dignan, investigative reporter who wrote [Lost to Abuse CT Post series](https://www.ctpost.com/projects/2021/intimate-partner-violence) and Ilya Ilyankou '18, civic technologist at [CT Data Collaborative](https://ctdata.org). Guest experts will review final data stories online before the event. Each solo/duo will have 1 minute to orally present key points, then about 5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
-- Class wrap-up and why data visualization matters to me: <https://ontheline.trincoll.edu>
-- Student course feedback on anonymous group Google Doc
