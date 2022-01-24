@@ -15,11 +15,13 @@ Our partners at [CCADV](https://ctcadv.org) asked us to help them analyze and vi
 
 <iframe title="Urban-Suburban-Rural Callers reach out to CTSafeConnect" aria-label="Map" id="datawrapper-chart-xMgEy" src="https://datawrapper.dwcdn.net/xMgEy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="601"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+<br><br>
 
 <iframe title="Higher Rates of Black &amp;amp; Hispanic Callers to CTSafeConnect " aria-label="Bar Chart" id="datawrapper-chart-8Vl6m" src="https://datawrapper.dwcdn.net/8Vl6m/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="282"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
-
-<iframe src="https://datawrapper.dwcdn.net/RwOxJ/2/" width="100%" height="600px"></iframe>
+<br><br>
+<iframe src="https://datawrapper.dwcdn.net/RwOxJ/2/" frameborder="0" width="100%" height="600px"></iframe>
+<br><br>
 
 [Racial Demographics of Callers to CT Safe Connect](https://datavizforall.org/ccadv-li/), by Daisy Li
 
