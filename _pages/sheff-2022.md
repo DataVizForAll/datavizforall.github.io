@@ -19,12 +19,12 @@ Also, you have a choice about how to view the charts. One option is we can share
 Let's begin recording...
 
 ### Sheff Goal 1: Create Socioeconomically Balanced Magnet Schools
-</br>
-</br>
+<br>
+<br>
 <iframe title="Chart 1: Most Magnet Schools Do Not Yet Meet Socioeconomic Integration Goal" aria-label="Stacked Bars" id="datawrapper-chart-4VojQ" src="https://datawrapper.dwcdn.net/4VojQ/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1401"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
-</br>
-</br>
+<br>
+<br>
 ### Sheff Goal 2: Increase Hartford Black & Latino Student Enrollments in Integrated Schools
 </br>
 </br>
