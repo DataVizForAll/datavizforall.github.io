@@ -55,3 +55,4 @@ Black &amp;amp; Latino Students for Sheff Integrated Schools" aria-label="Stacke
 </script>
 <br>
 <br>
+Note: The "public data" sections of the [Sheff 2020 settlement](http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=18496368) and the [Sheff 2022 settlement](https://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303) require CSDE to share disaggregated student data by town of residence for various outcomes (test performance and growth, attendance, graduation, suspensions and expulsions, etc.). Disaggregated data would enable better comparisons of Hartford-resident versus suburban-resident outcomes in magnet schools and Open Choice schools. But CSDE has not yet made this data public.
