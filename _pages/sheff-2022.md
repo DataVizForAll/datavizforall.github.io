@@ -5,7 +5,7 @@ date: 2022-03-10
 author_profile: false
 ---
 ## Work-in-progress: please do not publicize
-by Cities Suburbs and Schools seminar students at Trinity College with Professor Jack Dougherty, March 2022
+by Cities Suburbs and Schools seminar students at Trinity College with Professor Jack Dougherty, **last updated March 10, 2022**
 
 Thank you for agreeing to participate in this voluntary 25-minute Zoom interview to help us understand how readers like you interpret our work. We will show you several charts about the goals and current status of the Sheff 2022 school integration settlement, and ask you to describe what you see and tell us what it makes you think.
 
