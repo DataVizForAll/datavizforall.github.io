@@ -5,7 +5,7 @@ date: 2022-03-17
 author_profile: false
 ---
 ## Five Goals of the Sheff 2022 Settlement
-by Cities Suburbs and Schools seminar students at Trinity College with Professor Jack Dougherty, **last updated March 17, 2022**
+by Cities Suburbs and Schools seminar students with Professor [Jack Dougherty](mailto:jack.dougherty@trincoll.edu), Trinity College, **last updated March 17, 2022**
 
 ### Sheff Goal 1: Meet Demand of Hartford Black & Latino Students Who Apply for Integrated Schools
 <br>
@@ -48,4 +48,4 @@ Visual definition of socioeconomic integration:
 </script>
 <br>
 <br>
-Note: The Data Transparency and Public Data sections of the [Sheff 2020 settlement](http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=18496368) and the [Sheff 2022 settlement](https://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303) require CSDE to share disaggregated student data by town of residence for various outcomes (test performance and growth, attendance, graduation, suspensions and expulsions, etc.). While we would prefer to show Hartford-resident versus other-resident student outcomes (rather than Black student versus White student outcomes) for all types of schools, CSDE has not yet made this type of disaggregated data available on their public websites.  
+The Data Transparency and Public Data sections of the [Sheff 2020 settlement](http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=18496368) and the [Sheff 2022 settlement](https://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303) require CSDE to share disaggregated student data by town of residence for various outcomes (test performance and growth, attendance, graduation, suspensions and expulsions, etc.). While we would prefer to show Hartford-resident versus other-resident student outcomes (rather than Black student versus White student outcomes) for all types of schools, CSDE has not yet made this type of disaggregated data available on their public websites.  
