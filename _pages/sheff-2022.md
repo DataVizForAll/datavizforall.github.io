@@ -4,7 +4,7 @@ permalink: /sheff-2022/
 date: 2022-03-17
 author_profile: false
 ---
-## Visualizing Five Goals of the Sheff 2022 Settlement
+## Five Goals of the Sheff 2022 Settlement
 by Cities Suburbs and Schools seminar students at Trinity College with Professor Jack Dougherty, **last updated March 17, 2022**
 
 ### Sheff Goal 1: Meet Demand of Hartford Black & Latino Students Who Apply for Integrated Schools
@@ -19,7 +19,8 @@ Black &amp;amp; Latino Students for Sheff Integrated Schools" aria-label="Stacke
 ### Sheff Goal 2: Increase Hartford Black & Latino Student Enrollments in Integrated Schools
 <br>
 <br>
-
+<iframe title="Chart 2: Integrated School Enrollments Dropped Sharply for Hartford Black and Latino Students from 2018 to 2021" aria-label="Stacked Column Chart" id="datawrapper-chart-0O6sz" src="https://datawrapper.dwcdn.net/0O6sz/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="564"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 <br>
 <br>
 ### Sheff Goal 3: Create Socioeconomically Balanced Magnet Schools
@@ -33,7 +34,6 @@ Visual definition of socioeconomic integration:
 </script>
 <br>
 <br>
-
 ### Sheff Goal 4: Encourage Suburban Districts to Expand Open Choice Enrollments
 <br>
 <br>
