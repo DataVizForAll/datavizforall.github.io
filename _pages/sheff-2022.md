@@ -4,13 +4,15 @@ permalink: /sheff-2022/
 date: 2022-03-17
 author_profile: false
 ---
-## Visualizing the Sheff 2022 Settlement Goals
+## Visualizing Five Goals of the Sheff 2022 Settlement
 by Cities Suburbs and Schools seminar students at Trinity College with Professor Jack Dougherty, **last updated March 17, 2022**
 
 ### Sheff Goal 1: Meet Demand of Hartford Black & Latino Students Who Apply for Integrated Schools
 <br>
 <br>
-
+<iframe title="Chart 1: State Currently Meets 66% Demand by Hartford
+Black &amp;amp; Latino Students for Sheff Integrated Schools" aria-label="Stacked Column Chart" id="datawrapper-chart-GkjCa" src="https://datawrapper.dwcdn.net/GkjCa/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 <br>
 <br>
 
@@ -23,7 +25,12 @@ by Cities Suburbs and Schools seminar students at Trinity College with Professor
 ### Sheff Goal 3: Create Socioeconomically Balanced Magnet Schools
 <br>
 <br>
-
+Visual definition of socioeconomic integration:
+![SES definition](/images/ses-definition.png)
+<br>
+<br>
+<iframe title="Chart 3: Most Magnet Schools Do Not Yet Meet Socioeconomic Integration Goal" aria-label="Stacked Bars" id="datawrapper-chart-yScl5" src="https://datawrapper.dwcdn.net/yScl5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1376"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 <br>
 <br>
 
