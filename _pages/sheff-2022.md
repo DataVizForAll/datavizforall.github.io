@@ -30,21 +30,21 @@ Visual definition of socioeconomic integration:
 ![SES definition](/images/ses-definition.png)
 <br>
 <br>
-<iframe title="Chart 3: Most Magnet Schools Do Not Yet Meet Socioeconomic Integration Goal" aria-label="Stacked Bars" id="datawrapper-chart-yScl5" src="https://datawrapper.dwcdn.net/yScl5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1376"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Chart 3: Most Magnet Schools Do Not Yet Meet Socioeconomic Integration Goal" aria-label="Stacked Bars" id="datawrapper-chart-yScl5" src="https://datawrapper.dwcdn.net/yScl5/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1376"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
 <br>
 ### Sheff Goal 4: Encourage Suburban Districts to Expand Open Choice Enrollments
 <br>
 <br>
-<iframe title="Chart 4: Suburbs Choose to Give Small Percentage of Seats to Hartford Open Choice Students" aria-label="Table" id="datawrapper-chart-RKTq0" src="https://datawrapper.dwcdn.net/RKTq0/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="945"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Chart 4: Suburbs Offer a Small Percentage of Their Seats to Hartford Open Choice Students " aria-label="Table" id="datawrapper-chart-Qrb7J" src="https://datawrapper.dwcdn.net/Qrb7J/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="972"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
 <br>
 ### Sheff Goal 5: Improve Quality Integrated Education by Reducing Disparities Inside Schools
 <br>
 <br>
-<iframe title="Chart 5: Magnet School Disparities Between Students" aria-label="Range Plot" id="datawrapper-chart-o0k29" src="https://datawrapper.dwcdn.net/o0k29/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="444"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Chart 5: Disparities Between Students in Magnet Schools" aria-label="Range Plot" id="datawrapper-chart-FdI8o" src="https://datawrapper.dwcdn.net/FdI8o/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="486"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
 <br>
