@@ -9,7 +9,7 @@ by Cities Suburbs and Schools seminar students with Professor [Jack Dougherty](m
 
 This version focuses on the charts and does not include longer textual interpretation.
 
-To re-use charts (and credit the authors), go to the [Datawrapper River](https://app.datawrapper.de/river/) and search "ontheline" for charts related to the [On The Line](https://ontheline.trincoll.edu) book-in-progress. To learn how to create charts with the free Datawrapper data visualization tool, see [Chapter 6: Chart Your Data](https://handsondataviz.org/chart.html) in the open-access book by Jack Dougherty and Ilya Ilyankou, [Hands-On Data Visualization](https://handsondataviz.org), (2021).
+To re-use visualizations (and credit the authors), go to the [Datawrapper River](https://app.datawrapper.de/river/) and search "ontheline" for items related to the [On The Line](https://ontheline.trincoll.edu) book-in-progress. To learn how to use the free Datawrapper data visualization tool, see [Chapter 6: Chart Your Data](https://handsondataviz.org/chart.html) in the open-access book by Jack Dougherty and Ilya Ilyankou, [Hands-On Data Visualization](https://handsondataviz.org), (2021).
 
 ### Sheff Goal 1: Meet 100% of Demand of Hartford Black & Latino Applicants for Integrated Schools
 <br>
