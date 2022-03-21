@@ -7,19 +7,22 @@ author_profile: false
 ## Five Goals of the Sheff 2022 Settlement
 by Cities Suburbs and Schools seminar students with Professor [Jack Dougherty](mailto:jack.dougherty@trincoll.edu), Trinity College, **last updated March 21, 2022**
 
+This version focuses on the charts and does not include longer textual interpretation.
+
+To re-use charts (and credit the authors), go to the [Datawrapper River](https://app.datawrapper.de/river/) and search "ontheline" for charts related to the [On The Line](https://ontheline.trincoll.edu) book-in-progress. To learn how to create charts with the free Datawrapper data visualization tool, see [Chapter 6: Chart Your Data](https://handsondataviz.org/chart.html) in the open-access book by Jack Dougherty and Ilya Ilyankou, [Hands-On Data Visualization](https://handsondataviz.org), (2021).
+
 ### Sheff Goal 1: Meet 100% of Demand of Hartford Black & Latino Applicants for Integrated Schools
 <br>
 <br>
-<iframe title="Chart 1: State Currently Meets 66% Demand by Hartford
-Black &amp;amp; Latino Students for Sheff Integrated Schools" aria-label="Stacked Column Chart" id="datawrapper-chart-GkjCa" src="https://datawrapper.dwcdn.net/GkjCa/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="State Currently Meets 66% Demand by Hartford
+Black &amp;amp; Latino Students for Sheff Integrated Schools" aria-label="Stacked Column Chart" id="datawrapper-chart-qeZTm" src="https://datawrapper.dwcdn.net/qeZTm/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
 <br>
-
 ### Sheff Goal 2: Increase Hartford Black & Latino Student Enrollments in Diverse Schools
 <br>
 <br>
-<iframe title="Chart 2: Enrollments in Diverse Schools for Hartford Black and Latino Students Dropped Sharply from 2018 to 2021" aria-label="Stacked Column Chart" id="datawrapper-chart-0O6sz" src="https://datawrapper.dwcdn.net/0O6sz/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="564"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Enrollments in Diverse Schools for Hartford Black and Latino Students Dropped Sharply from 2018 to 2021" aria-label="Stacked Column Chart" id="datawrapper-chart-wcDgI" src="https://datawrapper.dwcdn.net/wcDgI/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="564"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
 <br>
@@ -30,21 +33,21 @@ Visual definition of socioeconomic integration:
 ![SES definition](/images/ses-definition.png)
 <br>
 <br>
-<iframe title="Chart 3: Most Magnet Schools Do Not Yet Meet Socioeconomic Integration Goal" aria-label="Stacked Bars" id="datawrapper-chart-yScl5" src="https://datawrapper.dwcdn.net/yScl5/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1376"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Most Magnet Schools Do Not Yet Meet Socioeconomic Integration Goal" aria-label="Stacked Bars" id="datawrapper-chart-ckxTr" src="https://datawrapper.dwcdn.net/ckxTr/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1389"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
 <br>
 ### Sheff Goal 4: Encourage Suburban Districts to Expand Their Open Choice Enrollments
 <br>
 <br>
-<iframe title="Chart 4: Suburbs Offer a Small Percentage of Their Seats to Hartford Open Choice Students " aria-label="Table" id="datawrapper-chart-Qrb7J" src="https://datawrapper.dwcdn.net/Qrb7J/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="972"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Suburbs Offer a Small Percentage of Their Seats to Hartford Open Choice Students" aria-label="Table" id="datawrapper-chart-g7UYm" src="https://datawrapper.dwcdn.net/g7UYm/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="972"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
 <br>
 ### Sheff Goal 5: Improve Quality Integrated Education by Reducing Disparities Inside Schools
 <br>
 <br>
-<iframe title="Chart 5: Disparities Between Students in Magnet Schools" aria-label="Range Plot" id="datawrapper-chart-FdI8o" src="https://datawrapper.dwcdn.net/FdI8o/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="444"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Disparities Between Students in Magnet Schools" aria-label="Range Plot" id="datawrapper-chart-K9q0M" src="https://datawrapper.dwcdn.net/K9q0M/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="471"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
 <br>
