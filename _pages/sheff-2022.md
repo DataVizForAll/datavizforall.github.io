@@ -1,11 +1,11 @@
 ---
 title: "Sheff 2022 Chart Preview"
 permalink: /sheff-2022/
-date: 2022-03-21
+date: 2022-04-04
 author_profile: false
 ---
 ## Five Goals of the Sheff 2022 Settlement
-by Cities Suburbs and Schools seminar students with Professor [Jack Dougherty](mailto:jack.dougherty@trincoll.edu), Trinity College, **last updated March 21, 2022**
+by Cities Suburbs and Schools seminar students with Professor [Jack Dougherty](mailto:jack.dougherty@trincoll.edu), Trinity College, **last updated April 4, 2022**
 
 This version focuses on the charts and does not include longer textual interpretation.
 
@@ -25,6 +25,13 @@ Black &amp;amp; Latino Students for Sheff Integrated Schools" aria-label="Stacke
 <br>
 <br>
 <iframe title="Enrollments in Diverse Schools for Hartford Black and Latino Students Dropped Sharply from 2018 to 2021" aria-label="Stacked Column Chart" id="datawrapper-chart-wcDgI" src="https://datawrapper.dwcdn.net/wcDgI/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="564"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+<br>
+<br>
+### Background: How much did the Covid pandemic influence Sheff applications?
+<br>
+<br>
+<iframe title="Total Sheff Applications At 71% of Pre-Pandemic Levels" aria-label="Column Chart" id="datawrapper-chart-AnoKO" src="https://datawrapper.dwcdn.net/AnoKO/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
 <br>
