@@ -20,7 +20,7 @@ title                    : "DataVizForAll.org"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Data Visualization for All course"
-description              : "Prof. Jack Dougherty at Trinity College, Hartford CT, USA"
+description              : "Prof. Jack Dougherty at Trinity College, Hartford CT"
 url                      : "https://datavizforall.org" # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-url
 baseurl                  : # the subpath of your site, e.g. "/blog" - BUT for GitHub Pages site with custom domain, there is NO subpath
 repository               : "datavizforall.github.io"
@@ -85,7 +85,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-W2EKGML3EH"
     anonymize_ip         : true  # false (default)
