@@ -1,11 +1,17 @@
 ---
 title: "Partners and Projects"
 permalink: /partners-projects/
-date: 2022-01-24
+date: 2022-07-26
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
+## Spring 2022
+### Sheff v O'Neill 2022 Settlement
+Since several students who completed the DataViz For All course later enrolled in my [Educ 308: Cities Suburbs and Schools course](https://jackdougherty.org/educ308), we worked together on another community-learning partnership. Our mission was to communicate the goals of the January 2022 Sheff v. O'Neill school integration settlement to broad audiences. Students designed and revised [five data visualizations](https://datavizforall.org/sheff-2022/) based on feedback collected from individual members of the Sheff Movement, and published final versions in this [May 2022 story by Jacqueline Rabe Thomas for CT Public Investigative News](https://www.ctpublic.org/news/investigative/2022-05-11/trinity-college-students-analysis-finds-state-far-from-promises-made-to-desegregate-hartford-schools). 
+
+{% include figure image_path="images/2022-ctpublic-tyler-russell-reduced.png" alt="Trinity College students in classroom" caption="Trinity College students, led by professor Jack Dougherty, refine their data visualizations they compiled using school integration information from the Sheff v. O'Neill agreement. Photo by Tyler Russell / CT Public." %}
+
 ## January 2022
 ### CT Coalition Against Domestic Violence (CCADV)
 Our partners at [CCADV](https://ctcadv.org) asked us to help them analyze and visualize the first two years of de-identified data from [CTSafeConnect.com](https://ctsafeconnect.com), a new statewide hotline for people requesting help regarding intimate partner violence. To protect confidentiality, CCADV created a masked dataset with 50,000 rows of individual contacts between clients and staff, which we masked further by aggregating into 15 regions that resemble local service areas for use in students' data stories.
