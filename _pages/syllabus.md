@@ -12,21 +12,18 @@ Our course meets in-person, wearing face masks in compliance with the [campus Co
 ### Instructors
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
-<!-- Teaching Assistant Myri Ayala will co-host each class in the Blume Lab in LITS. Also, she is available for drop-in office hours on Tues-Wed-Thu 8-9pm ET in the Blume Lab and [in her Zoom room](https://trincoll.zoom.us/j/4602347388) or [her email](mailto:myrian.ayala@trincoll.edu) -->
+Teaching Assistant Victoria Asfalg '23
 
-<!-- <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_r9wmq4j8&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-[Welcome video for J-term 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_r9wmq4j8) with Jack Dougherty and Myri Ayala. -->
-
-Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.  
-Fulfills requirement in Numerical and Symbolic Reasoning (NUM).   
-Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies.  
-Enrollment limited to 19 students.  
+Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.     
+- Fulfills Numerical and Symbolic Reasoning (NUM) requirement.   
+- Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies.  
+- Enrollment limited to 19 students.  
 
 ### Community Learning Partner
-<!-- Our partners at the [CT Coalition Against Domestic Violence](https://ctcadv.org) asked us to work with them analyze and visualize two years of data from [CTSafeConnect.com](https://ctsafeconnect.com), their new statewide phone/text/chat hotline that connects people requesting help with local domestic violence organizations.
+Our partners at the [Center for Leadership and Justice](https://cljct.org) asked us to work with them to analyze and visualize data on education funding inequities in the Greater Hartford region.
 
-<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_2mnjdacy&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-[Intro video for J-term 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_2mnjdacy) with [CT Coalition Against Domestic Violence](https://ctcadv.org) partners: Maria Guzman and Joanne Vitarelli -->
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_wsg5eyf5&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video for Fall 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_wsg5eyf5) with [Center for Leadership and Justice](https://cljct.org) partners: Marika Stewart, Jocelyn Gardner Spencer, Sarah McCoy
 
 ### Course Materials and Tools
 ![book covers](/images/covers-hodv-datafeminism.png)
@@ -48,7 +45,7 @@ In this course you will demonstrate the knowledge and skills you have developed 
 7. Edit and Host Code with GitHub
 8. Build with Leaflet Map Code Templates
 9. Transform Your Map Data
-10. Listen, Tell, and Show Your Community Partner's Data Stories
+10. Listen, Tell, and Show Our Partners' Data Stories
 11. Detect Lies and Reduce Bias
 12. Embed on the Web
 
@@ -89,7 +86,7 @@ Religious observances: please notify me before our third class session regarding
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
 - If anything is interfering with your learning, email or talk with us about it. We care about how you're doing in life, not just in our classroom.
 
-## Schedule in-progress
+## Schedule to come...
 <!-- Always look for important updates from the instructor **in bold**.
 
 ### Tues 6 Sept
