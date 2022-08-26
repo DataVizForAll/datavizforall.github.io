@@ -1,21 +1,21 @@
 ---
 title: "Educ 206: Data Visualization For All"
-permalink: /
-date: 2022-08-26
+permalink: /syllabus-2022-j-term/
+date: 2022-01-02
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
-## Fall 2022 Syllabus
-Our course meets in-person, wearing face masks in compliance with the [campus Covid policy](https://www.trincoll.edu/reopening/), on Tuesdays & Thursdays 1:30-2:45pm in Seabury S205 at Trinity College, Hartford.
+## J-term 2022 Syllabus
+Due to the pandemic, our course meets remotely in the instructor's Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET for three weeks from 4 Jan to 21 Jan 2022.
 
 ### Instructors
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
-<!-- Teaching Assistant Myri Ayala will co-host each class in the Blume Lab in LITS. Also, she is available for drop-in office hours on Tues-Wed-Thu 8-9pm ET in the Blume Lab and [in her Zoom room](https://trincoll.zoom.us/j/4602347388) or [her email](mailto:myrian.ayala@trincoll.edu) -->
+Teaching Assistant Myri Ayala will co-host each class in the Blume Lab in LITS. Also, she is available for drop-in office hours on Tues-Wed-Thu 8-9pm ET in the Blume Lab and [in her Zoom room](https://trincoll.zoom.us/j/4602347388) or [her email](mailto:myrian.ayala@trincoll.edu)
 
-<!-- <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_r9wmq4j8&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-[Welcome video for J-term 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_r9wmq4j8) with Jack Dougherty and Myri Ayala. -->
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_r9wmq4j8&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Welcome video for J-term 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_r9wmq4j8) with Jack Dougherty and Myri Ayala.
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.  
 Fulfills requirement in Numerical and Symbolic Reasoning (NUM).   
@@ -23,10 +23,14 @@ Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetori
 Enrollment limited to 19 students.  
 
 ### Community Learning Partner
-<!-- Our partners at the [CT Coalition Against Domestic Violence](https://ctcadv.org) asked us to work with them analyze and visualize two years of data from [CTSafeConnect.com](https://ctsafeconnect.com), their new statewide phone/text/chat hotline that connects people requesting help with local domestic violence organizations.
+Our partners at the [CT Coalition Against Domestic Violence](https://ctcadv.org) asked us to work with them analyze and visualize two years of data from [CTSafeConnect.com](https://ctsafeconnect.com), their new statewide phone/text/chat hotline that connects people requesting help with local domestic violence organizations.
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_2mnjdacy&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-[Intro video for J-term 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_2mnjdacy) with [CT Coalition Against Domestic Violence](https://ctcadv.org) partners: Maria Guzman and Joanne Vitarelli -->
+[Intro video for J-term 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_2mnjdacy) with [CT Coalition Against Domestic Violence](https://ctcadv.org) partners: Maria Guzman and Joanne Vitarelli
+
+<iframe title="Custom Regions for CCADV / SafeConnect Data Stories" aria-label="Map" id="datawrapper-chart-zl1pW" src="https://datawrapper.dwcdn.net/zl1pW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="532"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+[Custom Regions map](https://datawrapper.dwcdn.net/zl1pW/1/) based on [CCADV Members Map](http://www.ctcadv.org/index.php/download_file/view/1192/149/)
 
 ### Course Materials and Tools
 ![book covers](/images/covers-hodv-datafeminism.png)
@@ -37,44 +41,40 @@ Enrollment limited to 19 students.
 - You will need to sign up for several free web services (such as Google Drive, Datawrapper, GitHub). See my list of [recommended free digital tools in this course](https://handsondataviz.org/recommended-tools.html).
 
 ### Learning Goals and Assessments
-In this course you will demonstrate the knowledge and skills you have developed to meet 12 broad learning goals (with more specific sub-goals listed in the schedule further below):
+In this course you will demonstrate the knowledge and skills you have developed to meet 10 broad learning goals (with more specific sub-goals listed in the schedule further below):
 
 1. Strengthen Your Spreadsheet Skills
 2. Find and Question Your Data
 3. Clean Up Messy Data
 4. Make Meaningful Comparisons
 5. Chart Your Data
-6. Map Your Data
-7. Edit and Host Code with GitHub
-8. Build with Leaflet Map Code Templates
-9. Transform Your Map Data
-10. Listen, Tell, and Show Your Community Partner's Data Stories
-11. Detect Lies and Reduce Bias
-12. Embed on the Web
+6. Tell and Show Your Data Story
+7. Map Your Data
+8. Transform Your Map Data
+9. Edit, Host, and Embed Code on GitHub
+10. Detect Lies and Reduce Bias
 
 Your progress toward these learning goals will be assessed in three ways:
 
-#### A. Open-Book Weekly Quizzes
+#### A. Open-Book Daily Quizzes
 - The purpose is to demonstrate your knowledge and skills through questions that emphasize conceptual understanding and how to apply it in new contexts. You will have more than one opportunity to successfully complete each quiz while working independently with your notes, readings, and any web resources.
-- Each week, select any 2-hour period during the 2-day window (typically from Sunday 10am to Tuesday 10am) to complete a Moodle quiz of around 5 questions on the designated learning goal. You may see different versions of questions than other students, but all questions address the same goal.
+- Select any 2-hour period during the quiz window (typically from 12 noon to 11:59 pm) to complete a Moodle quiz of approximately 5 questions on the designated learning goal. You may see different versions of questions than other students, but all questions address the same goal.
 - Students have at least two attempts on every quiz. Short-answer questions will be scored automatically by the computer, and show-your-work questions will be scored manually by the instructor. If you respond incorrectly to an auto-scored question, the quiz will offer advice and allow you to try again. If you respond incorrectly to a manually-scored question, the instructor will offer advice via email or a meeting and allow you to try again within 24 hours.
 - Before you start the quiz, prepare by reading assigned chapters, doing practice exercises, and discussing the material with classmates who have not yet started it.
 - When you start the 2-hour quiz period, you may use your materials (including your notes, the online book, and the entire Internet), but you must work independently and you may not communicate about the quiz content in any way (except with the instructors) until the quiz has closed. You are responsible for following the Intellectual Honesty policy as described in the [Trinity Student Handbook](https://www.trincoll.edu/policies/). If doubts arise, the instructor may require you to retake a quiz under direct supervision and/or refer the issue to the Honor Council.
 - If you do not begin a quiz or demonstrate sufficient effort during the initial quiz window, a 20 percent late penalty will be deducted for every 12-hour period beyond the deadline. Exceptions are granted only for documented health or family emergencies.
-- 12 broad learning goals x 5 points per quiz = 60 points
+- 10 broad learning goals x 5 points per quiz = 50 points
 
 #### B. Building Data Stories
 - The purpose is to show your work in building different stages of data visualizations and written narratives that explain why and how it matters to our community partners.
 - Depending on the stage of the build, your work will be evaluated by the instructor, your peers, or guest experts, based on a rubric.
-- 6 stages worth 5 points each = 30 points. A 20 percent late penalty will be deducted for every 12-hour period beyond the deadline. Exceptions are granted only for documented health or family emergencies.
+- 8 stages worth 5 points each = 40 points. A 20 percent late penalty will be deducted for every 12-hour period beyond the deadline. Exceptions are granted only for documented health or family emergencies.
 
 #### C. Class Participation
-- The purpose is to encourage active learning and accountability. Each student begins the course with 10 participation points. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me well in advance.
-
-**If you are quarantined or isolated due to Covid**, or if you have concerns about your health, contact me in advance to request permission to participate remotely via Zoom during a specific class session. Last-minute requests may not be granted permission.
+- The purpose is to encourage active learning and accountability. Each student begins the course with 10 participation points. You are expected to log into our Zoom class on time with your real screen name. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me well in advance.
 
 #### Summary  
-60 points quizzes + 30 points data stories + 10 class participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
+50 points quizzes + 40 points data stories + 10 class participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
 
 Academic accommodations: please notify me before our third class session, and [schedule an appointment on my calendar](https://jackdougherty.youcanbook.me) to discuss how we will implement your approved plan. For those students with accommodations approved after the start of the semester, a minimum of 10 days’ notice is required. Learn more at the [Student Accessibility Resource Center](https://www.trincoll.edu/sarc/).
 
@@ -89,20 +89,10 @@ Religious observances: please notify me before our third class session regarding
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
 - If anything is interfering with your learning, email or talk with us about it. We care about how you're doing in life, not just in our classroom.
 
-## Schedule in-progress
-<!-- Always look for important updates from the instructor **in bold**.
+## Schedule
+Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET, with a 15-minute break around 10:30am. Always look for important updates from the instructor **in bold**.
 
-### Tues 6 Sept
-
-### Thu 8 Sept
-
-### Tues 13 Sept
-
-### Thu 15 Sept -->
-
-
-
-<!-- ### Tues 4 Jan
+### Tues 4 Jan
 - Before class, fill out this [Google Form](https://forms.gle/ruvB8YafbyvsSUqcA)
 - Introductions, syllabus overview, and how to succeed in this course
 - Sample responses: [What sparks your interest in this course?](https://docs.google.com/document/d/17EIec5TILfgyP-AqpNPT0_zMcW6zRrd5Y2pmiwdAQb8/edit)
@@ -242,4 +232,4 @@ Religious observances: please notify me before our third class session regarding
 - [Student Course Feedback on Google Doc](https://docs.google.com/document/d/1ngI-0i0kebaf23LPae81bCVevme0bHheGTFN7YsrvbE/edit#)
 
 ### Fri 21 Jan
-- 9:15 to 10:30am ET: [Final evaluation Zoom meeting](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit) with guest experts Clare Dignan, investigative reporter who wrote [Lost to Abuse CT Post series](https://www.ctpost.com/projects/2021/intimate-partner-violence) and Ilya Ilyankou '18, civic technologist at [CT Data Collaborative](https://ctdata.org). Guest experts will review final data stories online before the event. Each solo/duo will have 1 minute to orally present key points, then about 5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators. -->
+- 9:15 to 10:30am ET: [Final evaluation Zoom meeting](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit) with guest experts Clare Dignan, investigative reporter who wrote [Lost to Abuse CT Post series](https://www.ctpost.com/projects/2021/intimate-partner-violence) and Ilya Ilyankou '18, civic technologist at [CT Data Collaborative](https://ctdata.org). Guest experts will review final data stories online before the event. Each solo/duo will have 1 minute to orally present key points, then about 5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
