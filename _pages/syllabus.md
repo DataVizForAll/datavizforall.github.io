@@ -20,7 +20,7 @@ Course description: How can charts and maps tell meaningful stories? How can the
 - Enrollment limited to 19 students.  
 
 ### Community Learning Partner
-Our partners at the [Center for Leadership and Justice](https://cljct.org) asked us to work with them to analyze and visualize data on education funding inequities in the Greater Hartford region.
+Our partners at the [Center for Leadership and Justice](https://cljct.org) asked us to work with them to analyze and visualize data on education funding inequities in the metro Hartford region.
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_wsg5eyf5&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 [Intro video for Fall 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_wsg5eyf5) with [Center for Leadership and Justice](https://cljct.org) partners: Marika Stewart, Jocelyn Gardner Spencer, Sarah McCoy
@@ -87,6 +87,12 @@ Religious observances: please notify me before our third class session regarding
 - If anything is interfering with your learning, email or talk with us about it. We care about how you're doing in life, not just in our classroom.
 
 ## Schedule to come...
+
+
+<!-- Partner meetings: Thur Sept 15th 1:45-2:30pm
+	Thur Oct 13th OK
+	Thu Dec 1st OK -->
+
 <!-- Always look for important updates from the instructor **in bold**.
 
 ### Tues 6 Sept
