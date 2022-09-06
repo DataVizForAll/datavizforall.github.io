@@ -96,7 +96,7 @@ Important updates from the instructor will be marked **in bold**.
 - Advice from TA Victoria Asfalg about how to succeed in this course
 - Sample quiz about syllabus for 1-point bonus, due in class on [Moodle](https://moodle.trincoll.edu)
 - Why data visualization matters in the "disinformation age". See Hands-On DataViz (HODV), Chapter 1 <https://handsondataviz.org/introduction.html>
-- What sparks your interest in this course? Anonymous free-write on shared Google Doc **link to come**
+- What sparks your interest in this course? Anonymous free-write on [shared Google Doc](https://docs.google.com/document/d/1437B23rAci_1DOFJrhpCVv0O3wUbAgFtslcTyZyxavI/edit)
 - Why data visualization matters to me: Telling and showing hidden stories of inequality in [On The Line book-in-progress](https://ontheline.trincoll.edu)
 
 ### Thu 8 Sept
