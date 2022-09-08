@@ -108,7 +108,7 @@ Important updates from the instructor will be marked **in bold**.
   - Summarize with pivot tables
   - Match columns with VLOOKUP
 - [Google Username and Sheet Sharing Practice](https://docs.google.com/document/d/1tmLJQwFk2SfPPdovTguL5uLZ50Mb77mfvnowuQ9n95E/edit)
-- [Peer practice with spreadsheet skills](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
+- [Spreadsheet Skills Peer Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
 - Prep for Spreadsheet quiz, to be taken during any 2-hour period before Mon 12 Sept 9pm on [Moodle](https://moodle.trincoll.edu)
 - How to meet with our TA or instructor to strengthen your skills
 
