@@ -126,12 +126,12 @@ Important updates from the instructor will be marked **in bold**.
   - Recognize bad data
   - Question your data
   - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Mon 19 Sept 9pm on [Moodle](https://moodle.trincoll.edu)
-- Before next class, review questions from CLJ on school funding inequities and be prepared to discuss what they are asking for.
-<!-- Explore the data. What do you notice? What do you need clarification about? What questions can we ask about the data that might help our community partners? Work with your randomly-assigned classmate(s) to co-author a Google Document that addresses these items (thoughtful lists or short paragraphs are fine), SHARE it so that anyone can view, and put your names at the top. Paste the link to your shared Google Doc here in Moodle on Wed 5 Jan before midnight, to give the instructor time to compile them for our Thursday meeting with the community partners. Worth 5 points. -->
+- Assign [Build 0: Interview Community-Learning Partners to Clarify Research Questions](https://docs.google.com/document/d/1qYytgDnpUBeE1eFODwWGqBrY_2BUvWzIDU__OdH3xvY/edit).
 
 ### Thu 15 Sept
-- Meet with Center for Leadership and Justice partners on Zoom, 1:45-2:30pm
+- Meet with Center for Leadership and Justice partners on Zoom, 1:45-2:30pm, and write clarifying suggestions/comments in our [Build 0 Shared Google Document](https://docs.google.com/document/d/1qYytgDnpUBeE1eFODwWGqBrY_2BUvWzIDU__OdH3xvY/edit)
 - Assign Build Stage 1: Find and Question Data regarding school funding inequities. Due Wed Sept 21 by 12 noon on shared Google Doc, worth 5 points.
+<!-- Explore the data. What do you notice? What do you need clarification about? What questions can we ask about the data that might help our community partners? Work with your randomly-assigned classmate(s) to co-author a Google Document that addresses these items (thoughtful lists or short paragraphs are fine), SHARE it so that anyone can view, and put your names at the top. Paste the link to your shared Google Doc here in Moodle on Wed 5 Jan before midnight, to give the instructor time to compile them for our Thursday meeting with the community partners. Worth 5 points. -->
 
 ### Tue 20 Sept
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
