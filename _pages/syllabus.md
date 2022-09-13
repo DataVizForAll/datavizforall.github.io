@@ -113,6 +113,7 @@ Important updates from the instructor will be marked **in bold**.
 - How to meet with our TA or instructor to strengthen your skills
 
 ### Tue 13 Sept
+- Congratulations to all who successfully completed our first Moodle quiz. If you did not receive an email from me asking for revisions, then you likely earned full credit. Check your Moodle gradebook. 
 - Before class, read and be prepared to discuss Catherine D'Ignazio and Lauren Klein *Data Feminism* chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, especially these selections:
   - [Chapter 1. Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4) begins with a story about tennis star Serena Williams. What do the authors mean by this line? ["What we choose to measure is a statement of what we value...and who we value"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4#nxk87mil5kj)
   - [Chapter 2 about Challenge Power](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) begins with a comparison of two different maps of Detroit. How do the maps differ, and what do the authors mean when they ask ["Who makes maps and who gets mapped?"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4#nl1iq5r2p9p)
