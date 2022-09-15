@@ -113,7 +113,7 @@ Important updates from the instructor will be marked **in bold**.
 - How to meet with our TA or instructor to strengthen your skills
 
 ### Tue 13 Sept
-- Congratulations to all who successfully completed our first Moodle quiz. If you did not receive an email from me asking for revisions, then you likely earned full credit. Check your Moodle gradebook. 
+- Congratulations to all who successfully completed our first Moodle quiz. If you did not receive an email from me asking for revisions, then you likely earned full credit. Check your Moodle gradebook.
 - Before class, read and be prepared to discuss Catherine D'Ignazio and Lauren Klein *Data Feminism* chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, especially these selections:
   - [Chapter 1. Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4) begins with a story about tennis star Serena Williams. What do the authors mean by this line? ["What we choose to measure is a statement of what we value...and who we value"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4#nxk87mil5kj)
   - [Chapter 2 about Challenge Power](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) begins with a comparison of two different maps of Detroit. How do the maps differ, and what do the authors mean when they ask ["Who makes maps and who gets mapped?"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4#nl1iq5r2p9p)
@@ -131,8 +131,7 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Thu 15 Sept
 - Meet with Center for Leadership and Justice partners on Zoom, 1:45-2:30pm, and write clarifying suggestions/comments in our [Build 0 Shared Google Document](https://docs.google.com/document/d/1qYytgDnpUBeE1eFODwWGqBrY_2BUvWzIDU__OdH3xvY/edit)
-- Assign Build Stage 1: Find and Question Data regarding school funding inequities. Due Wed Sept 21 by 12 noon on shared Google Doc, worth 5 points.
-<!-- Explore the data. What do you notice? What do you need clarification about? What questions can we ask about the data that might help our community partners? Work with your randomly-assigned classmate(s) to co-author a Google Document that addresses these items (thoughtful lists or short paragraphs are fine), SHARE it so that anyone can view, and put your names at the top. Paste the link to your shared Google Doc here in Moodle on Wed 5 Jan before midnight, to give the instructor time to compile them for our Thursday meeting with the community partners. Worth 5 points. -->
+- Assign [Build Stage 1: Find and Question Data on Education Funding Inequities](https://docs.google.com/document/d/1aOHa1n7CEVIxe2111lUs3lzKkDzdvCEwNgXgL93c6Qw/edit). Due Wed Sept 21 by 12 noon on the Build 1 Google Doc, worth 5 points.
 
 ### Tue 20 Sept
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
@@ -217,6 +216,7 @@ Important updates from the instructor will be marked **in bold**.
   - Leaflet Storymaps with Google Sheets
 	- Leaflet Maps with Open Data APIs
 - Prep for Leaflet Map Code Template quiz, to be taken during any 2-hour period by Mon 7 Nov 9pm, **meaning two quizzes due on the same date**, on [Moodle](https://moodle.trincoll.edu).
+- **Alternative:** Each student may attend one of the 60-90 minute online meetings with our community partners listed above and write at least 250 words of insightful notes and/or personal reflections to substitute for the Leaflet Map Code Template quiz due on Monday 7 November.
 
 ### Tue 8 Nov
 - Overview of Learning Goal #10: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
