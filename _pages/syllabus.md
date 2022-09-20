@@ -140,7 +140,7 @@ Important updates from the instructor will be marked **in bold**.
   - Transpose Rows and Columns
   - Split Data into Separate Columns
   - Combine Data into One Column
-  <!-- - Peer practice: [Download and Clean Census/ACS data from Social Explorer](https://docs.google.com/document/d/1Q6Ai9SmbjMtbNwS4ehLkSvz1XlL8x-cklB53V1HJEcU/edit) -->
+- Peer Practice: [Download and Clean Census/American Community Survey data from Social Explorer](https://docs.google.com/document/d/1fuRwEnP4Rl0DqriEWRQAkWQu7e7EzB2ifBFMAQuLKOA/edit?usp=sharing)
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Mon 26 Sept 9pm on [Moodle](https://moodle.trincoll.edu)
 - **Alternative Assignment #1:** Tue 20 September 7-8:30pm on Zoom (request link from instructor ahead of time). GHIAA All-Teams Meeting (Gun Violence, Housing, Mental Health, Environmental Racism, Education) to discuss strategy for October Research Actions. All GHIAA Issue teams will be coming together to increase our relational power through individual meetings, briefly share updates about the current status and development, and training that is relevant to the development of leaders across all issue teams. Then Issue Teams will hold Breakout Room Meetings. Education will focus on processing individual meetings and research action outlines as a group.
 - Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and write at least 250 words of insightful notes and/or personal reflections to substitute for the Leaflet Map Code Template quiz due on Monday 7 November.
