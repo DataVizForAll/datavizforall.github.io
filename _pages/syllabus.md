@@ -142,6 +142,8 @@ Important updates from the instructor will be marked **in bold**.
   - Combine Data into One Column
   <!-- - Peer practice: [Download and Clean Census/ACS data from Social Explorer](https://docs.google.com/document/d/1Q6Ai9SmbjMtbNwS4ehLkSvz1XlL8x-cklB53V1HJEcU/edit) -->
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Mon 26 Sept 9pm on [Moodle](https://moodle.trincoll.edu)
+- **Alternative Assignment #1:** Tue 20 September 7-8:30pm on Zoom (request link from instructor ahead of time). GHIAA All-Teams Meeting (Gun Violence, Housing, Mental Health, Environmental Racism, Education) to discuss strategy for October Research Actions. All GHIAA Issue teams will be coming together to increase our relational power through individual meetings, briefly share updates about the current status and development, and training that is relevant to the development of leaders across all issue teams. Then Issue Teams will hold Breakout Room Meetings. Education will focus on processing individual meetings and research action outlines as a group.
+- Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and write at least 250 words of insightful notes and/or personal reflections to substitute for the Leaflet Map Code Template quiz due on Monday 7 November.
 
 ### Thu 22 Sept
 - Assign Build Stage 2: Clean Data and Find Meaningful Comparisons, due Fri 30 Sept at 12 noon, worth 5 points.
@@ -162,6 +164,10 @@ Important updates from the instructor will be marked **in bold**.
   - Create bar/column, histogram, line, area charts
   - Create annotated, range, scatter charts
 - Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before Mon 3 Oct 9pm on [Moodle](https://moodle.trincoll.edu). **Budget your time** since this is the second quiz due this day (to avoid scheduling one during Trinity Days). This quiz contains 5 show-your-work questions and may require more time than you have spent on prior quizzes.
+
+### Mon 3 Oct
+- Alternative Assignment #2: Monday 3 October 12-1pm on Zoom (request link from instructor ahead of time). GHIAA Education Team Training with CT school finance expert Erika Haynes. Students, you are welcome to join GHIAA Leaders as we gain foundational knowledge about the CT Educational System and how it is funded. In order to create a just and fair educational system for every student, you first need to understand the current system and how it functions.
+- See also Alternative Assignment guidelines
 
 ### Tue 4 Oct
 - Review results from Chart Your Data quiz
@@ -199,6 +205,10 @@ Important updates from the instructor will be marked **in bold**.
 - Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by Mon 31 Oct 9pm on [Moodle](https://moodle.trincoll.edu).
 <!-- This quiz features one show-your-work question: create any meaningful choropleth map using our updated 2020-2021 CTSafeConnect data and the CCADV 14-region GeoJSON boundary, both linked above. -->
 
+### Wed 26 Oct
+- Alternative Assignment #3: Wed 26 October 6:30-8:00pm on Zoom (request link from instructor ahead of time). GHIAA All-Teams Meeting for October Research Actions. The Focus of the October All Teams Meeting and the Education Team Breakout determined closer to the date and designed based on the emerging issue.
+- See also Alternative Assignment guidelines
+
 ### Thu 27 Oct
 - Workshop with resources TBA
  <!-- IDEAL TIME FOR GUEST EXPERT FROM CT School + State Finance Project <https://ctschoolfinance.org> -->
@@ -216,7 +226,7 @@ Important updates from the instructor will be marked **in bold**.
   - Leaflet Storymaps with Google Sheets
 	- Leaflet Maps with Open Data APIs
 - Prep for Leaflet Map Code Template quiz, to be taken during any 2-hour period by Mon 7 Nov 9pm, **meaning two quizzes due on the same date**, on [Moodle](https://moodle.trincoll.edu).
-- **Alternative:** Each student may attend one of the 60-90 minute online meetings with our community partners listed above and write at least 250 words of insightful notes and/or personal reflections to substitute for the Leaflet Map Code Template quiz due on Monday 7 November.
+- Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and write at least 250 words of insightful notes and/or personal reflections to substitute for the Leaflet Map Code Template quiz due on Monday 7 November.
 
 ### Tue 8 Nov
 - Overview of Learning Goal #10: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
