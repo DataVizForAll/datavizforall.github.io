@@ -146,9 +146,8 @@ Important updates from the instructor will be marked **in bold**.
 - Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and write at least 250 words of insightful notes and/or personal reflections to substitute for the Leaflet Map Code Template quiz due on Monday 7 November.
 
 ### Thu 22 Sept
-- Assign Build Stage 2: Clean Data and Find Meaningful Comparisons, due Fri 30 Sept at 12 noon, worth 5 points.
-- Workshop in class with resources TBA
- <!-- CT School + State Finance Project <https://ctschoolfinance.org> -->
+- Review instructor's post-assignment notes and classmates findings in [Build Stage 1: Find and Question Data on Education Funding Inequities](https://docs.google.com/document/d/1aOHa1n7CEVIxe2111lUs3lzKkDzdvCEwNgXgL93c6Qw/edit). I have made a "frozen copy" of your Google Docs and Sheets to evaluate, and individual scores will appear on Moodle soon. 
+- **Will assign Build 2 on Tuesday, due Friday** I need more time to reorganize our research question groupings and recommended datasets, which will make the next step easier for all of us.
 
 ### Tue 27 Sept
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
@@ -156,6 +155,7 @@ Important updates from the instructor will be marked **in bold**.
   - Normalize your data
   - Beware of biased comparisons
 - Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before Mon 3 Oct 9pm on [Moodle](https://moodle.trincoll.edu)
+- Assign Build Stage 2: Clean Data and Find Meaningful Comparisons, due Fri 30 Sept at 12 noon, worth 5 points.
 
 ### Thu 29 Sept
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
@@ -196,6 +196,9 @@ Important updates from the instructor will be marked **in bold**.
 ### Thu 20 Oct
 - Continue overview of Learning Goal #6: Map Your Data, with in-class practice exercises.
 
+### Sat 22 Oct
+- Alternative Assignment #3: [2nd Annual RSCO School Choice Fun Fall Fair](https://portal.ct.gov/SDE/School-Choice/RSCO/Regional-School-Choice-Office-Home-Page), Location: Dunkin Donuts Park, 1214 Main Street, Hartford, on Saturday, October 22, 2022. Time: 9:30 am to 1:30 pm. Attend ANY portion for 1 hour and write up notes about how different magnet schools market themselves to interested families.
+
 ### Tue 25 Oct
 - Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
@@ -206,7 +209,7 @@ Important updates from the instructor will be marked **in bold**.
 <!-- This quiz features one show-your-work question: create any meaningful choropleth map using our updated 2020-2021 CTSafeConnect data and the CCADV 14-region GeoJSON boundary, both linked above. -->
 
 ### Wed 26 Oct
-- Alternative Assignment #3: Wed 26 October 6:30-8:00pm on Zoom (request link from instructor ahead of time). GHIAA All-Teams Meeting for October Research Actions. The Focus of the October All Teams Meeting and the Education Team Breakout determined closer to the date and designed based on the emerging issue.
+- Alternative Assignment #4: Wed 26 October 6:30-8:00pm on Zoom (request link from instructor ahead of time). GHIAA All-Teams Meeting for October Research Actions. The Focus of the October All Teams Meeting and the Education Team Breakout determined closer to the date and designed based on the emerging issue.
 - See also Alternative Assignment guidelines
 
 ### Thu 27 Oct
