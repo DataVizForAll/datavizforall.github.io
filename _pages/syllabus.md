@@ -146,16 +146,15 @@ Important updates from the instructor will be marked **in bold**.
 - Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and write at least 250 words of insightful notes and/or personal reflections to substitute for the Leaflet Map Code Template quiz due on Monday 7 November.
 
 ### Thu 22 Sept
-- Review instructor's post-assignment notes and classmates findings in [Build Stage 1: Find and Question Data on Education Funding Inequities](https://docs.google.com/document/d/1aOHa1n7CEVIxe2111lUs3lzKkDzdvCEwNgXgL93c6Qw/edit). I have made a "frozen copy" of your Google Docs and Sheets to evaluate, and individual scores will appear on Moodle soon. 
-- **Will assign Build 2 on Tuesday, due Friday** I need more time to reorganize our research question groupings and recommended datasets, which will make the next step easier for all of us.
+- Review instructor's post-assignment notes and classmates findings in [Build Stage 1: Find and Question Data on Education Funding Inequities](https://docs.google.com/document/d/1aOHa1n7CEVIxe2111lUs3lzKkDzdvCEwNgXgL93c6Qw/edit). I have made a "frozen copy" of your Google Docs and Sheets to evaluate, and individual scores will appear on Moodle soon.
 
 ### Tue 27 Sept
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
   - Precisely describe comparisons: practice [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
   - Normalize your data
   - Beware of biased comparisons
-- Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before Mon 3 Oct 9pm on [Moodle](https://moodle.trincoll.edu)
-- Assign Build Stage 2: Clean Data and Find Meaningful Comparisons, due Fri 30 Sept at 12 noon, worth 5 points.
+- Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before **Friday 30 Sept 9pm** (new date to avoid quiz during Trinity Days and scheduling two quizzes due on same day) on [Moodle](https://moodle.trincoll.edu)
+- Update: Since we have two quizzes over the next seven days, I am delaying Build Stage 2: Clean Data and Find Meaningful Comparisons, and merging it into Build 3 as one 10-point assignment. This also gives me more time to reorganize our recommended datasets and research questions to match the needs of our community partner.
 
 ### Thu 29 Sept
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
@@ -163,7 +162,7 @@ Important updates from the instructor will be marked **in bold**.
   - Chart design principles and rules
   - Create bar/column, histogram, line, area charts
   - Create annotated, range, scatter charts
-- Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before Mon 3 Oct 9pm on [Moodle](https://moodle.trincoll.edu). **Budget your time** since this is the second quiz due this day (to avoid scheduling one during Trinity Days). This quiz contains 5 show-your-work questions and may require more time than you have spent on prior quizzes.
+- Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before Mon 3 Oct 9pm on [Moodle](https://moodle.trincoll.edu). **Plan ahead and budget your time** because this quiz contains 5 show-your-work questions and may require more time than you have spent on prior quizzes.
 
 ### Mon 3 Oct
 - Alternative Assignment #2: Monday 3 October 12-1pm on Zoom (request link from instructor ahead of time). GHIAA Education Team Training with CT school finance expert Erika Haynes. Students, you are welcome to join GHIAA Leaders as we gain foundational knowledge about the CT Educational System and how it is funded. In order to create a just and fair educational system for every student, you first need to understand the current system and how it functions.
@@ -171,11 +170,10 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Tue 4 Oct
 - Review results from Chart Your Data quiz
-- Review findings from Build 2
-- Assign Build 3: Create preliminary charts in preparation for next meeting with CLJ partners, due by end of Thursday 6 Oct, worth 5 points.
+- Assign Build 2+3: Find Meaningful Comparisons and Create Preliminary Charts in preparation for next meeting with CLJ partners, due **Friday 7 Oct by 12 noon**, worth 5 points.
 
 ### Thu 6 Oct
-- Workshop time for Build 3
+- Workshop time in class for Build 2+3, **Friday 7 Oct by 12 noon**.
 - Feedback from instructor and TA.
 
 ### Tue 11 Oct
