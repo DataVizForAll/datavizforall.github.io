@@ -157,6 +157,7 @@ Important updates from the instructor will be marked **in bold**.
 - Update: Since we have two quizzes over the next seven days, I am delaying Build Stage 2: Clean Data and Find Meaningful Comparisons, and merging it into Build 3 as one 10-point assignment. This also gives me more time to reorganize our recommended datasets and research questions to match the needs of our community partner.
 
 ### Thu 29 Sept
+- Before class, [create a free account on Datawrapper](https://app.datawrapper.de/signin/).
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
   - Chart design principles and rules
@@ -182,7 +183,7 @@ Important updates from the instructor will be marked **in bold**.
 - Meet with Center for Leadership and Justice partners on Zoom, 1:45-2:30pm for our progress report on Build 3.
 
 ## Fri 14 Oct
-- Alternative Assignment #2: Fri 14 October 12-1pm on Zoom (request link from instructor ahead of time). GHIAA Education Team Training with CT school finance expert Erika Haynes, to gain a foundational knowledge about the public school system and how it is funded. 
+- Alternative Assignment #2: Fri 14 October 12-1pm on Zoom (request link from instructor ahead of time). GHIAA Education Team Training with CT school finance expert Erika Haynes, to gain a foundational knowledge about the public school system and how it is funded. data
 - See also Alternative Assignment guidelines
 
 ### Tue 18 Oct
