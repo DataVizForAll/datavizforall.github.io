@@ -165,8 +165,7 @@ Important updates from the instructor will be marked **in bold**.
 - Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before Mon 3 Oct 9pm on [Moodle](https://moodle.trincoll.edu). **Plan ahead and budget your time** because this quiz contains 5 show-your-work questions and may require more time than you have spent on prior quizzes.
 
 ### Mon 3 Oct
-- Alternative Assignment #2: Monday 3 October 12-1pm on Zoom (request link from instructor ahead of time). GHIAA Education Team Training with CT school finance expert Erika Haynes. Students, you are welcome to join GHIAA Leaders as we gain foundational knowledge about the CT Educational System and how it is funded. In order to create a just and fair educational system for every student, you first need to understand the current system and how it functions.
-- See also Alternative Assignment guidelines
+- CLJ moved date of alternate assignment to Fri Oct 14th
 
 ### Tue 4 Oct
 - Review results from Chart Your Data quiz
@@ -181,6 +180,10 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Thu 13 Oct
 - Meet with Center for Leadership and Justice partners on Zoom, 1:45-2:30pm for our progress report on Build 3.
+
+## Fri 14 Oct
+- Alternative Assignment #2: Fri 14 October 12-1pm on Zoom (request link from instructor ahead of time). GHIAA Education Team Training with CT school finance expert Erika Haynes, to gain a foundational knowledge about the public school system and how it is funded. 
+- See also Alternative Assignment guidelines
 
 ### Tue 18 Oct
 - Overview of Learning Goal #6: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
