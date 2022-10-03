@@ -170,7 +170,7 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Tue 4 Oct
 - Review results from Chart Your Data quiz
-- Assign Build 2+3: Find Meaningful Comparisons and Create Preliminary Charts in preparation for next meeting with CLJ partners, due **Friday 7 Oct by 12 noon**, worth 5 points.
+- Assign Build 2+3: Find Meaningful Comparisons and Create Preliminary Charts in preparation for next meeting with CLJ partners, due **Friday 7 Oct by 12 noon, worth 10 points**.
 
 ### Thu 6 Oct
 - Workshop time in class for Build 2+3, **Friday 7 Oct by 12 noon**.
@@ -180,7 +180,7 @@ Important updates from the instructor will be marked **in bold**.
 - No class: Trinity Days
 
 ### Thu 13 Oct
-- Meet with Center for Leadership and Justice partners on Zoom, 1:45-2:30pm for our progress report on Build 3.
+- Meet with Center for Leadership and Justice partners on Zoom, 1:45-2:30pm for our progress report on Build 2+3.
 
 ## Fri 14 Oct
 - Alternative Assignment #2: Fri 14 October 12-1pm on Zoom (request link from instructor ahead of time). GHIAA Education Team Training with CT school finance expert Erika Haynes, to gain a foundational knowledge about the public school system and how it is funded. data
