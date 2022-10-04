@@ -169,12 +169,12 @@ Important updates from the instructor will be marked **in bold**.
 - CLJ moved date of alternate assignment to Fri Oct 14th
 
 ### Tue 4 Oct
-- Review results from Chart Your Data quiz
-- Assign Build 2+3: Find Meaningful Comparisons and Create Preliminary Charts in preparation for next meeting with CLJ partners, due **Friday 7 Oct by 12 noon, worth 10 points**.
+- Assign [Build 2+3: Find Meaningful Comparisons and Create Preliminary Charts](https://docs.google.com/document/d/1BZN1D7CCnMEFABsxgSpIYTIq8cFtYFMRMSATk5imSZM/edit) in preparation for next meeting with CLJ partners, due **Friday 7 Oct by 12 noon, worth 10 points**.
 
 ### Thu 6 Oct
+- Review results from Chart Your Data quiz
 - Workshop time in class for Build 2+3, **Friday 7 Oct by 12 noon**.
-- Feedback from instructor and TA.
+- Be prepared to share your draft work for feedback from all.
 
 ### Tue 11 Oct
 - No class: Trinity Days
