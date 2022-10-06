@@ -186,7 +186,7 @@ Important updates from the instructor will be marked **in bold**.
 - Meet with Center for Leadership and Justice partners on Zoom, 1:45-2:30pm for our progress report on Build 2+3.
 
 ## Fri 14 Oct
-- Alternative Assignment #2B: 12-1pm Education Team Training Erika Haynes from [CT School + State Finance Project](https://schoolstatefinance.org) on Zoom. See my email to register in advance for the Zoom link. I also will attend. See Alternative Assignment guidelines.
+- Alternative Assignment #2B: 12-1pm Education Team Training with Erika Haynes from [CT School + State Finance Project](https://schoolstatefinance.org) on Zoom. See my email to register in advance for the Zoom link. I also will attend. See Alternative Assignment guidelines.
 
 ### Tue 18 Oct
 - Overview of Learning Goal #6: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
@@ -233,7 +233,7 @@ Important updates from the instructor will be marked **in bold**.
   - Leaflet Storymaps with Google Sheets
 	- Leaflet Maps with Open Data APIs
 - Prep for Leaflet Map Code Template quiz, to be taken during any 2-hour period by Mon 7 Nov 9pm, **meaning two quizzes due on the same date**, on [Moodle](https://moodle.trincoll.edu).
-- Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and write at least 250 words of insightful notes and/or personal reflections to substitute for the Leaflet Map Code Template quiz due on Monday 7 November.
+- Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and email me at least 250 words of insightful notes and/or personal reflections within 48 hours, to substitute for the Leaflet Map Code Template quiz that is due on Monday 7 November.
 
 ### Tue 8 Nov
 - Overview of Learning Goal #10: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
