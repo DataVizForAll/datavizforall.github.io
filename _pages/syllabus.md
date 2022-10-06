@@ -172,19 +172,21 @@ Important updates from the instructor will be marked **in bold**.
 - Assign [Build 2+3: Find Meaningful Comparisons and Create Preliminary Charts](https://docs.google.com/document/d/1BZN1D7CCnMEFABsxgSpIYTIq8cFtYFMRMSATk5imSZM/edit) in preparation for next meeting with CLJ partners, due **Friday 7 Oct by 12 noon, worth 10 points**.
 
 ### Thu 6 Oct
-- Review results from Chart Your Data quiz
-- Workshop time in class for Build 2+3, **Friday 7 Oct by 12 noon**.
+- Workshop time in class for [Build 2+3]((https://docs.google.com/document/d/1BZN1D7CCnMEFABsxgSpIYTIq8cFtYFMRMSATk5imSZM/edit)), due **Friday 7 Oct by 12 noon**.
 - Be prepared to share your draft work for feedback from all.
+- Review results from Chart Your Data quiz
 
 ### Tue 11 Oct
 - No class: Trinity Days
+
+### Wed 12 Oct
+- Alternative Assignment #2A: 6:15-7:30pm GHIAA Education Team Training with Erika Haynes from [CT School + State Finance Project](https://schoolstatefinance.org), in-person at Immanuel Congregational Church, 10 Woodland St (across from Mark Twain House) in their Fellowship Hall with free refreshments. See my email to register in advance. Email me to request reimbursement for your transportation (with receipt) if needed. I also will attend. See Alternative Assignment guidelines.
 
 ### Thu 13 Oct
 - Meet with Center for Leadership and Justice partners on Zoom, 1:45-2:30pm for our progress report on Build 2+3.
 
 ## Fri 14 Oct
-- Alternative Assignment #2: Fri 14 October 12-1pm on Zoom (request link from instructor ahead of time). GHIAA Education Team Training with CT school finance expert Erika Haynes, to gain a foundational knowledge about the public school system and how it is funded. data
-- See also Alternative Assignment guidelines
+- Alternative Assignment #2B: 12-1pm Education Team Training Erika Haynes from [CT School + State Finance Project](https://schoolstatefinance.org) on Zoom. See my email to register in advance for the Zoom link. I also will attend. See Alternative Assignment guidelines.
 
 ### Tue 18 Oct
 - Overview of Learning Goal #6: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
