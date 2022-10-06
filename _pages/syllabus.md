@@ -174,6 +174,7 @@ Important updates from the instructor will be marked **in bold**.
 ### Thu 6 Oct
 - Workshop time in class for [Build 2+3]((https://docs.google.com/document/d/1BZN1D7CCnMEFABsxgSpIYTIq8cFtYFMRMSATk5imSZM/edit)), due **Friday 7 Oct by 12 noon**.
 - Be prepared to share your draft work for feedback from all.
+- See [hints from Jack and Victoria](https://docs.google.com/spreadsheets/d/1yL4GrvUdLW_2Jl96hIbXdxP443a2ljOpGoeHOUj9Hbc/edit#gid=1443004680)
 - Review results from Chart Your Data quiz
 
 ### Tue 11 Oct
