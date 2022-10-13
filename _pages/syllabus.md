@@ -184,7 +184,8 @@ Important updates from the instructor will be marked **in bold**.
 - Alternative Assignment #2A: 6:15-7:30pm GHIAA Education Team Training with Erika Haynes from [CT School + State Finance Project](https://schoolstatefinance.org), in-person at Immanuel Congregational Church, 10 Woodland St (across from Mark Twain House) in their Fellowship Hall with free refreshments. See my email to register in advance. Email me to request reimbursement for your transportation (with receipt) if needed. I also will attend. See Alternative Assignment guidelines.
 
 ### Thu 13 Oct
-- Meet with Center for Leadership and Justice partners on Zoom, 1:45-2:30pm for our progress report on Build 2+3.
+- [Review our progress report on Build 2+3](https://docs.google.com/document/d/1LX-LTnEfkYZXMtd3lS4_-v3GtNfd-iMyA6fXDg28pOU/edit) during 1:45-2:30pm Zoom meeting with Center for Leadership and Justice community partners.
+- Be prepared to show and discuss how you created works shown in the progress report, and write notes on feedback from partners.
 
 ## Fri 14 Oct
 - Alternative Assignment #2B: 12-1pm Education Team Training with Erika Haynes from [CT School + State Finance Project](https://schoolstatefinance.org) on Zoom. See my email to register in advance for the Zoom link. I also will attend. See Alternative Assignment guidelines.
