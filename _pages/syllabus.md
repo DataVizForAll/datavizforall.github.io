@@ -188,7 +188,7 @@ Important updates from the instructor will be marked **in bold**.
 - Be prepared to show and discuss how you created works shown in the progress report, and write notes on feedback from partners.
 
 ## Fri 14 Oct
-- Alternative Assignment #2B: 12-1pm Education Team Training with Erika Haynes from [CT School + State Finance Project](https://schoolstatefinance.org) on Zoom. See my email to register in advance for the Zoom link. I also will attend.
+- Alternative Assignment #2B: 12-1pm Education Team Training with Erika Haynes from [CT School + State Finance Project](https://schoolstatefinance.org) on Zoom. See my email to register in advance for the Zoom link. I also will attend. Download [Powerpoint presentation slides](https://datavizforall.org/images/2022-10-GHIAA-School-Finance-101.pptx).
 - Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and email me at least 250 words of insightful notes and/or personal reflections within 48 hours, to substitute for the Leaflet Map Code Template quiz that is due on Monday 7 November.
 
 ### Tue 18 Oct
