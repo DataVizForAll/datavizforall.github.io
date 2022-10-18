@@ -191,13 +191,14 @@ Important updates from the instructor will be marked **in bold**.
 - Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and email me at least 250 words of insightful notes and/or personal reflections within 48 hours, to substitute for the Leaflet Map Code Template quiz that is due on Monday 7 November.
 
 ### Tue 18 Oct
+- Announcements: Alternative Assignment updates; almost finished with Build 2+3 evaluations.
 - Overview of Learning Goal #6: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
   - Map types (focus on point, symbol point, and choropleth maps)
   - Map design principles and rules
   - Choropleth colors and intervals (focus on basic concepts for now)
   - Normalize choropleth map data
   - Create choropleth maps with Datawrapper
-- Prep for Map Your Data quiz, to be taken during any 2-hour period by Mon 24 Oct 9pm on [Moodle](https://moodle.trincoll.edu). Budget time for two show-your-work mapping questions, and one short-answer question.
+- Prep for Map Your Data quiz, to be taken during any 3-hour period by Mon 24 Oct 9pm on [Moodle](https://moodle.trincoll.edu).
 
 ### Thu 20 Oct
 - Continue overview of Learning Goal #6: Map Your Data, with in-class practice exercises.
