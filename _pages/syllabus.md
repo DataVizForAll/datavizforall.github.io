@@ -142,8 +142,7 @@ Important updates from the instructor will be marked **in bold**.
   - Combine Data into One Column
 - Peer Practice: [Download and Clean Census/American Community Survey data from Social Explorer](https://docs.google.com/document/d/1fuRwEnP4Rl0DqriEWRQAkWQu7e7EzB2ifBFMAQuLKOA/edit?usp=sharing)
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Mon 26 Sept 9pm on [Moodle](https://moodle.trincoll.edu)
-- **Alternative Assignment #1:** Tue 20 September 7-8:30pm on Zoom (request link from instructor ahead of time). GHIAA All-Teams Meeting (Gun Violence, Housing, Mental Health, Environmental Racism, Education) to discuss strategy for October Research Actions. All GHIAA Issue teams will be coming together to increase our relational power through individual meetings, briefly share updates about the current status and development, and training that is relevant to the development of leaders across all issue teams. Then Issue Teams will hold Breakout Room Meetings. Education will focus on processing individual meetings and research action outlines as a group.
-- Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and write at least 250 words of insightful notes and/or personal reflections to substitute for the Leaflet Map Code Template quiz due on Monday 7 November.
+- **Alternative Assignment #1:** Tue 20 September 7-8:30pm on Zoom (request link from instructor ahead of time). GHIAA All-Teams Meeting (Gun Violence, Housing, Mental Health, Environmental Racism, Education) to discuss strategy for October Research Actions. All GHIAA Issue teams will be coming together to increase our relational power through individual meetings, briefly share updates about the current status and development, and training that is relevant to the development of leaders across all issue teams. Then Issue Teams will hold Breakout Room Meetings. Education will focus on processing individual meetings and research action outlines as a group. See Alternative Assignment Guidelines further below.
 
 ### Thu 22 Sept
 - Review instructor's post-assignment notes and classmates findings in [Build Stage 1: Find and Question Data on Education Funding Inequities](https://docs.google.com/document/d/1aOHa1n7CEVIxe2111lUs3lzKkDzdvCEwNgXgL93c6Qw/edit). I have made a "frozen copy" of your Google Docs and Sheets to evaluate, and individual scores will appear on Moodle soon.
@@ -181,7 +180,7 @@ Important updates from the instructor will be marked **in bold**.
 - No class: Trinity Days
 
 ### Wed 12 Oct
-- Alternative Assignment #2A: 6:15-7:30pm GHIAA Education Team Training with Erika Haynes from [CT School + State Finance Project](https://schoolstatefinance.org), in-person at Immanuel Congregational Church, 10 Woodland St (across from Mark Twain House) in their Fellowship Hall with free refreshments. See my email to register in advance. Email me to request reimbursement for your transportation (with receipt) if needed. I also will attend. See Alternative Assignment guidelines.
+- Alternative Assignment #2A: 6:15-7:30pm GHIAA Education Team Training with Erika Haynes from [CT School + State Finance Project](https://schoolstatefinance.org), in-person at Immanuel Congregational Church, 10 Woodland St (across from Mark Twain House) in their Fellowship Hall with free refreshments. See my email to register in advance. Email me to request reimbursement for your transportation (with receipt) if needed. I also will attend. See Alternative Assignment guidelines further below.
 
 ### Thu 13 Oct
 - [Review our progress report on Build 2+3](https://docs.google.com/document/d/1LX-LTnEfkYZXMtd3lS4_-v3GtNfd-iMyA6fXDg28pOU/edit) during 1:45-2:30pm Zoom meeting with Center for Leadership and Justice community partners.
@@ -204,7 +203,7 @@ Important updates from the instructor will be marked **in bold**.
 - Continue overview of Learning Goal #6: Map Your Data, with in-class practice exercises.
 
 ### Sat 22 Oct
-- Alternative Assignment #3: [2nd Annual RSCO School Choice Fun Fall Fair](https://portal.ct.gov/SDE/School-Choice/RSCO/Regional-School-Choice-Office-Home-Page), Location: Dunkin Donuts Park, 1214 Main Street, Hartford, on Saturday, October 22, 2022. Time: 9:30 am to 1:30 pm. Attend ANY portion for 1 hour and write up notes about how different magnet schools market themselves to interested families.
+- Alternative Assignment #3: [2nd Annual RSCO School Choice Fun Fall Fair](https://portal.ct.gov/SDE/School-Choice/RSCO/Regional-School-Choice-Office-Home-Page), Location: Dunkin Donuts Park, 1214 Main Street, near downtown Hartford, on Saturday, October 22, 2022. Time: 9:30 am to 1:30 pm. Attend ANY portion for 1 hour, visit school booths, and email me at least 250-word observational notes about how different magnet schools market themselves to interested families, plus a selfie photo on location, within 48 hours of the event, to substitute for the Leaflet Map Code Template quiz that is due on Monday 7 November.
 
 ### Tue 25 Oct
 - Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
