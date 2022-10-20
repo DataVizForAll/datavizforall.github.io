@@ -201,7 +201,10 @@ Important updates from the instructor will be marked **in bold**.
 - Prep for Map Your Data quiz, to be taken during any 3-hour period by Mon 24 Oct 9pm on [Moodle](https://moodle.trincoll.edu).
 
 ### Thu 20 Oct
-- Continue overview of Learning Goal #6: Map Your Data, with in-class practice exercises.
+- Continue overview of Learning Goal #6: Map Your Data,
+- In-class duo practice exercises
+  - Use [Interdistrict Choice Schools data](https://docs.google.com/spreadsheets/d/1lTAX2Pwb5CWWIp7zF-Z5DuUCK5gzrf9HAbO5H6AsvEo/edit#gid=706121225) to create a map of their locations, type, and enrollment size
+  - Use [CT Town race & ethnicity ACS 2016-20 data](https://docs.google.com/spreadsheets/d/1S_dLhcYI5fLNNtGnBZv0gqHfPM9bdWlwDnlJcgBtDPg/edit#gid=1207140211) to create a meaningful map of proportion of one racial or ethnic group
 
 ### Sat 22 Oct
 - Alternative Assignment #3: [2nd Annual RSCO School Choice Fun Fall Fair](https://portal.ct.gov/SDE/School-Choice/RSCO/Regional-School-Choice-Office-Home-Page), Location: Dunkin Donuts Park, 1214 Main Street, near downtown Hartford, on Saturday, October 22, 2022. Time: 9:30 am to 1:30 pm. Attend ANY portion for 1 hour, visit school booths, and email me at least 250-word observational notes about how different magnet schools market themselves to interested families, plus a selfie photo on location, within 48 hours of the event, to substitute for the Leaflet Map Code Template quiz that is due on Monday 7 November.
