@@ -210,10 +210,14 @@ Important updates from the instructor will be marked **in bold**.
 - Alternative Assignment #3: [2nd Annual RSCO School Choice Fun Fall Fair](https://portal.ct.gov/SDE/School-Choice/RSCO/Regional-School-Choice-Office-Home-Page), Location: Dunkin Donuts Park, 1214 Main Street, near downtown Hartford, on Saturday, October 22, 2022. Time: 9:30 am to 1:30 pm. Attend ANY portion for 1 hour, visit school booths, and email me at least 250-word observational notes about how different magnet schools market themselves to interested families, plus a selfie photo on location, within 48 hours of the event, to substitute for the Leaflet Map Code Template quiz that is due on Monday 7 November.
 
 ### Tue 25 Oct
+- Good job on the Map quiz (and my apologies for forgetting to delete old content in bottom half of question 2)
+- Reflection on RSCO school choice fair
 - Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
-  <!-- - Explore [CCADV-custom-regions on GitHub](https://github.com/datavizforall/ccadv-custom-regions) and click *Code > Download Zip* and uncompress in your local computer -->
+  - Explore [ct-boundaries folder on GitHub](https://github.com/handsondataviz/ct-boundaries) and click *Code > Download Zip* and uncompress in your local computer
+  - Drag the `ct-towns-2021-simple-datactgov.geojson` file from your local computer to the Mapshaper.org](https://mapshaper.org) tool below
   - Find and edit GeoJSON boundary data with [Mapshaper.org](https://mapshaper.org)
+  - Use MapShaper to create a custom GeoJSON file for a subgroup of CT towns. See [Build 2+3: 33-town definition of Hartford region](https://docs.google.com/document/d/1BZN1D7CCnMEFABsxgSpIYTIq8cFtYFMRMSATk5imSZM/edit)
   - Upload a custom GeoJSON boundary file to make a choropleth map in Datawrapper
 - Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by Mon 31 Oct 9pm on [Moodle](https://moodle.trincoll.edu).
 <!-- This quiz features one show-your-work question: create any meaningful choropleth map using our updated 2020-2021 CTSafeConnect data and the CCADV 14-region GeoJSON boundary, both linked above. -->
