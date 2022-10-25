@@ -215,9 +215,10 @@ Important updates from the instructor will be marked **in bold**.
 - Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
   - Explore [ct-boundaries folder on GitHub](https://github.com/handsondataviz/ct-boundaries) and click *Code > Download Zip* and uncompress in your local computer
-  - Drag the `ct-towns-2021-simple-datactgov.geojson` file from your local computer to the Mapshaper.org](https://mapshaper.org) tool below
+  - Drag the `ct-towns-2021-simple-datactgov.geojson` file from your local computer to the [Mapshaper.org](https://mapshaper.org) tool below
   - Find and edit GeoJSON boundary data with [Mapshaper.org](https://mapshaper.org)
   - Use MapShaper to create a custom GeoJSON file for a subgroup of CT towns. See [Build 2+3: 33-town definition of Hartford region](https://docs.google.com/document/d/1BZN1D7CCnMEFABsxgSpIYTIq8cFtYFMRMSATk5imSZM/edit)
+  - Use Mapshaper rename fields inside the GeoJSON file to change `town` to `name`
   - Upload a custom GeoJSON boundary file to make a choropleth map in Datawrapper
 - Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by Mon 31 Oct 9pm on [Moodle](https://moodle.trincoll.edu).
 <!-- This quiz features one show-your-work question: create any meaningful choropleth map using our updated 2020-2021 CTSafeConnect data and the CCADV 14-region GeoJSON boundary, both linked above. -->
