@@ -228,7 +228,8 @@ Important updates from the instructor will be marked **in bold**.
 - See also Alternative Assignment guidelines
 
 ### Thu 27 Oct
-- Read [Build 4 Draft](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit), specifically part B about school funding questions and sources, and be prepared to pose questions to our experts about available data.
+- Before class, read [Build 4 Draft](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit), especially part B about school funding questions and sources. Explore at least 3 of the existing visualizations created by CT School + State Finance Project.
+- In class: each student will be assigned to either summarize a portion of work we've done so far (Part A) OR ask question and take detailed notes about school funding data availability (Part B).
 - Workshop with Erika Haynes and Morgan Considine, School + State Finance Project <https://schoolstatefinance.org> on Zoom from 1:45-2:30pm
 - Fixed: Process to create and upload 33-town GeoJSON map to Datawrapper
 - For next class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future. In other words, "jackdougherty" or "jdougherty" is better than "BikeDaddy1965".
