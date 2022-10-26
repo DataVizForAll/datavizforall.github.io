@@ -228,9 +228,10 @@ Important updates from the instructor will be marked **in bold**.
 - See also Alternative Assignment guidelines
 
 ### Thu 27 Oct
-- Workshop with resources TBA
- <!-- IDEAL TIME FOR GUEST EXPERT FROM CT School + State Finance Project <https://ctschoolfinance.org> -->
-- Create a free account on [Github](https://github.com) for our next class. Use a relatively short and simple username that you may wish to share professionally in the future.
+- Read [Build 4 Draft](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit), specifically part B about school funding questions and sources, and be prepared to pose questions to our experts about available data.
+- Workshop with Erika Haynes and Morgan Considine, School + State Finance Project <https://schoolstatefinance.org> on Zoom from 1:45-2:30pm
+- Fixed: Process to create and upload 33-town GeoJSON map to Datawrapper
+- For next class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future. In other words, "jackdougherty" or "jdougherty" is better than "BikeDaddy1965".
 
 ### Tue 1 Nov
 - Overview of Learning Goal #8: Edit and Host Leaflet Code on GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
@@ -293,4 +294,4 @@ Important updates from the instructor will be marked **in bold**.
 - Student course feedback on Google Doc
 
 ### Thu 8 Dec
-- Final presentations: Guest experts will review final data stories online before the event. Each solo/duo will have 2 minutes to orally present key points, then about 5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
+- Final presentations with guest experts Erika Haynes (in-person) and Shasha Davis (Zoom), both from <https://schoolstatefinance.org>, and  Ilya Ilyankou (Trinity '18 and <https://HandsOnDataViz.org> co-author, on Zoom): Guest experts will review final data stories online before the event. Each solo/duo will have 2 minutes to orally present key points, then about 5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
