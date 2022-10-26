@@ -214,14 +214,14 @@ Important updates from the instructor will be marked **in bold**.
 - Reflection on RSCO school choice fair
 - Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
-  - Explore [ct-boundaries folder on GitHub](https://github.com/handsondataviz/ct-boundaries) and click *Code > Download Zip* and uncompress in your local computer
-  - Drag the `ct-towns-2021-simple-datactgov.geojson` file from your local computer to the [Mapshaper.org](https://mapshaper.org) tool below
-  - Find and edit GeoJSON boundary data with [Mapshaper.org](https://mapshaper.org)
-  - Use MapShaper to create a custom GeoJSON file for a subgroup of CT towns. See [Build 2+3: 33-town definition of Hartford region](https://docs.google.com/document/d/1BZN1D7CCnMEFABsxgSpIYTIq8cFtYFMRMSATk5imSZM/edit)
-  - Use Mapshaper rename fields inside the GeoJSON file to change `town` to `name`
-  - Upload a custom GeoJSON boundary file to make a choropleth map in Datawrapper
-- Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by Mon 31 Oct 9pm on [Moodle](https://moodle.trincoll.edu).
-<!-- This quiz features one show-your-work question: create any meaningful choropleth map using our updated 2020-2021 CTSafeConnect data and the CCADV 14-region GeoJSON boundary, both linked above. -->
+  - View and edit GeoJSON boundary data with either tool: [GeoJSON.io)[https://geojson.io] or [Mapshaper.org](https://mapshaper.org)
+- **Updated** steps to edit a CT Towns GeoJSON file and upload as a custom map boundary Datawrapper
+  - Open the [ct-boundaries folder on GitHub](https://github.com/handsondataviz/ct-boundaries) in your browser, click *Code > Download Zip*, then uncompress the folder in your local computer. **Be sure to use the updated 2022 file** for next steps.
+  - Drag and drop the `ct-towns-2022-simple-datactgov.geojson` file from your local computer to either [Geojson.io](https://geojson.io) or [Mapshaper.org](https://mapshaper.org) to edit
+  - Edit a customized subgroup of CT towns, such as those shown in our 33-town Hartford region.
+  - Export your customized file, and rename if needed, with `.geojson` extension
+  - When making a choropleth map in Datawrapper, upload your custom GeoJSON boundary file
+- Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by Mon 31 Oct 9pm on [Moodle](https://moodle.trincoll.edu). If you celebrate Halloween, manage your time to finish the quiz well before the deadline.
 
 ### Wed 26 Oct
 - Alternative Assignment #4: Wed 26 October 6:30-8:00pm on Zoom (request link from instructor ahead of time). GHIAA All-Teams Meeting for October Research Actions. The Focus of the October All Teams Meeting and the Education Team Breakout determined closer to the date and designed based on the emerging issue.
@@ -231,7 +231,7 @@ Important updates from the instructor will be marked **in bold**.
 - Before class, read [Build 4 Draft](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit), especially part B about school funding questions and sources. Explore at least 3 of the existing visualizations created by CT School + State Finance Project.
 - In class: each student will be assigned to either summarize a portion of work we've done so far (Part A) OR ask question and take detailed notes about school funding data availability (Part B).
 - Workshop with Erika Haynes and Morgan Considine, School + State Finance Project <https://schoolstatefinance.org> on Zoom from 1:45-2:30pm
-- Fixed: Process to create and upload 33-town GeoJSON map to Datawrapper
+- Fixed (see 25 Oct): Process to customize and upload 33-town GeoJSON boundary map to Datawrapper
 - For next class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future. In other words, "jackdougherty" or "jdougherty" is better than "BikeDaddy1965".
 
 ### Tue 1 Nov
