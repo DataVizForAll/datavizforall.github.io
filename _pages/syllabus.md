@@ -214,14 +214,14 @@ Important updates from the instructor will be marked **in bold**.
 - Reflection on RSCO school choice fair
 - Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
-  - View and edit GeoJSON boundary data with either tool: [GeoJSON.io)[https://geojson.io] or [Mapshaper.org](https://mapshaper.org)
+  - View and edit GeoJSON boundary data with either tool: [GeoJSON.io](https://geojson.io) or [Mapshaper.org](https://mapshaper.org)
 - **Updated** steps to edit a CT Towns GeoJSON file and upload as a custom map boundary Datawrapper
   - Open the [ct-boundaries folder on GitHub](https://github.com/handsondataviz/ct-boundaries) in your browser, click *Code > Download Zip*, then uncompress the folder in your local computer. **Be sure to use the updated 2022 file** for next steps.
   - Drag and drop the `ct-towns-2022-simple-datactgov.geojson` file from your local computer to either [Geojson.io](https://geojson.io) or [Mapshaper.org](https://mapshaper.org) to edit
   - Edit a customized subgroup of CT towns, such as those shown in our 33-town Hartford region.
   - Export your customized file, and rename if needed, with `.geojson` extension
   - When making a choropleth map in Datawrapper, upload your custom GeoJSON boundary file
-- Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by Mon 31 Oct 9pm on [Moodle](https://moodle.trincoll.edu). If you celebrate Halloween, manage your time to finish the quiz well before the deadline.
+- Prep for Transform Your Map Data quiz, to be taken during any 3-hour period by Mon 31 Oct 9pm on [Moodle](https://moodle.trincoll.edu). If you celebrate Halloween, manage your time to finish the quiz well before the deadline.
 
 ### Wed 26 Oct
 - Alternative Assignment #4: Wed 26 October 6:30-8:00pm on Zoom (request link from instructor ahead of time). GHIAA All-Teams Meeting for October Research Actions. The Focus of the October All Teams Meeting and the Education Team Breakout determined closer to the date and designed based on the emerging issue.
