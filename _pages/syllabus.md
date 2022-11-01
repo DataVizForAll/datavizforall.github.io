@@ -240,6 +240,7 @@ Important updates from the instructor will be marked **in bold**.
   - Example: <https://github.com/JackDougherty/pumpkin-choc-chip>
   - Copy, Edit, and Host a Simple Leaflet Map
 - Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Mon 7 Nov 9pm on [Moodle](https://moodle.trincoll.edu). **This quiz is open now**, and I recommend that you complete it as soon as possible since most students have two quizzes due on Nov 7th.
+- Help me reach students who may be interested in Educ 206 DataViz in Spr 2023, TR 1:30-2:45pm
 
 ### Thu 3 Nov
 - Overview of Learning Goal #9: Explore Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
