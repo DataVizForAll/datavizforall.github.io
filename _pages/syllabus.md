@@ -239,15 +239,15 @@ Important updates from the instructor will be marked **in bold**.
   - Analogy: GitHub Code Repository and Public Recipe Cookbook
   - Example: <https://github.com/JackDougherty/pumpkin-choc-chip>
   - Copy, Edit, and Host a Simple Leaflet Map
-- Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Mon 7 Nov 9pm on [Moodle](https://moodle.trincoll.edu).
+- Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Mon 7 Nov 9pm on [Moodle](https://moodle.trincoll.edu). **This quiz is open now**, and I recommend that you complete it as soon as possible since most students have two quizzes due on Nov 7th.
 
 ### Thu 3 Nov
 - Overview of Learning Goal #9: Explore Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
 	- Leaflet Maps with Google Sheets
   - Leaflet Storymaps with Google Sheets
 	- Leaflet Maps with Open Data APIs
-- Prep for Leaflet Map Code Template quiz, to be taken during any 2-hour period by Mon 7 Nov 9pm, **meaning two quizzes due on the same date**, on [Moodle](https://moodle.trincoll.edu).
-- Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and email me at least 250 words of insightful notes and/or personal reflections within 48 hours, to substitute for the Leaflet Map Code Template quiz that is due on Monday 7 November.
+- Prep for Leaflet Map Code Template quiz, to be taken during any 2-hour period by Mon 7 Nov 9pm, **meaning two quizzes due on the same date for most students**, on [Moodle](https://moodle.trincoll.edu).
+- Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and email me at least 250 words of insightful notes and/or personal reflections within 48 hours, to substitute for the Leaflet Map Code Template quiz #9 that is due on Monday 7 November.
 
 ### Tue 8 Nov
 - Overview of Learning Goal #10: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
