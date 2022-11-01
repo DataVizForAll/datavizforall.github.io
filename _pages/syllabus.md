@@ -236,9 +236,10 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Tue 1 Nov
 - Overview of Learning Goal #8: Edit and Host Leaflet Code on GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
+  - Analogy: GitHub Code Repository and Public Recipe Cookbook
+  - Example: <https://github.com/JackDougherty/pumpkin-choc-chip>
   - Copy, Edit, and Host a Simple Leaflet Map
 - Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Mon 7 Nov 9pm on [Moodle](https://moodle.trincoll.edu).
-<!-- - REDO: Assign Build Stage 6 and Quiz 9 (together worth 10 points): Revise Data Story and Embed in GitHub Template, due today before midnight, and place one link per duo/solo in [Data Stories page](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit). There is no separate Moodle quiz. -->
 
 ### Thu 3 Nov
 - Overview of Learning Goal #9: Explore Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
@@ -263,6 +264,7 @@ Important updates from the instructor will be marked **in bold**.
   - Acknowledge Sources and Uncertainty
 - Assign combined Build 4 and Data Story Quiz: Create Data Story, due Mon 14 Nov 9pm, worth 10 points (combined score for build and quiz). There is no separate Moodle quiz.
 <!-- including text, table, chart, and map in a Google Doc, .... The quiz asks one question: use any of our CLJ school funding data to create a meaningful annotated chart, and add a title and annotations that draw our attention to what matters. See [Datawrapper annotated chart tutorial](https://handsondataviz.org/annotated-datawrapper.html) to create text annotations and/or highlight ranges. -->
+<!-- - REDO: Assign Build Stage 6 and Quiz 9 (together worth 10 points): Revise Data Story and Embed in GitHub Template, due today before midnight, and place one link per duo/solo in [Data Stories page](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit). There is no separate Moodle quiz. -->
 
 ### Tue 15 Nov
 - Assign Build Stage 5: Peer Review of Data Story, due during class, worth 5 points.
