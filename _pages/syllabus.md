@@ -260,15 +260,14 @@ Important updates from the instructor will be marked **in bold**.
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
 - Prep for Detect Lies quiz, to be taken during any 3-hour period by **Fri 11 Nov 9pm** on [Moodle](https://moodle.trincoll.edu). We have an early quiz deadline this week to provide you with sufficient time for Build #4 next week.
+- Assign [Build 4 combined with Quiz #11](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit): Tell a Meaningful Data Story with at least two charts and/or maps and narrative. Work in solo or duo. Due Mon 14 Nov 9pm, worth 10 points.
 
 ### Thu 10 Nov
 - Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
   - Build Narrative on a Storyboard
   - Draw Attention to Meaning
   - Acknowledge Sources and Uncertainty
-- Assign combined Build 4 and Data Story Quiz: Create Data Story, due Mon 14 Nov 9pm, worth 10 points (combined score for build and quiz). There is no separate Moodle quiz.
-<!-- including text, table, chart, and map in a Google Doc, .... The quiz asks one question: use any of our CLJ school funding data to create a meaningful annotated chart, and add a title and annotations that draw our attention to what matters. See [Datawrapper annotated chart tutorial](https://handsondataviz.org/annotated-datawrapper.html) to create text annotations and/or highlight ranges. -->
-<!-- - REDO: Assign Build Stage 6 and Quiz 9 (together worth 10 points): Revise Data Story and Embed in GitHub Template, due today before midnight, and place one link per duo/solo in [Data Stories page](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit). There is no separate Moodle quiz. -->
+- There is no separate Moodle quiz, but combined with Build 4 above.
 
 ### Tue 15 Nov
 - Assign Build Stage 5: Peer Review of Data Story, due during class, worth 5 points.
