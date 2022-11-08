@@ -45,8 +45,8 @@ In this course you will demonstrate the knowledge and skills you have developed 
 7. Transform Your Map Data
 8. Edit and Host Leaflet Code on GitHub
 9. Explore Leaflet Map Code Templates
-10. Tell and Show Your Data Story
-11. Detect Lies and Reduce Bias
+10. Detect Lies and Reduce Bias
+11. Tell and Show Your Data Story
 12. Embed on the Web
 
 Your progress toward these learning goals will be assessed in three ways:
@@ -250,12 +250,16 @@ Important updates from the instructor will be marked **in bold**.
 - Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and email me at least 250 words of insightful notes and/or personal reflections within 48 hours, to substitute for the Leaflet Map Code Template quiz #9 that is due on Monday 7 November.
 
 ### Tue 8 Nov
+- Today is US Election Day: Is our topic just a coincidence?
+  - Compare how two different maps forecast results of US House of Representatives results for today's election. What do you notice?
+    - <https://www.270towin.com/2022-house-election/>
+    - <https://projects.fivethirtyeight.com/2022-election-forecast/house/>
 - Overview of Learning Goal #10: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
   - How to Lie with Charts
   - How to Lie with Maps
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
-- Prep for Detect Lies quiz, to be taken during any 2-hour period by **Fri 11 Nov 9pm** on [Moodle](https://moodle.trincoll.edu)
+- Prep for Detect Lies quiz, to be taken during any 3-hour period by **Fri 11 Nov 9pm** on [Moodle](https://moodle.trincoll.edu). We have an early quiz deadline this week to provide you with sufficient time for Build #4 next week.
 
 ### Thu 10 Nov
 - Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
