@@ -260,7 +260,7 @@ Important updates from the instructor will be marked **in bold**.
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
 - Prep for Detect Lies quiz, to be taken during any 3-hour period by **Fri 11 Nov 9pm** on [Moodle](https://moodle.trincoll.edu). We have an early quiz deadline this week to provide you with sufficient time for Build #4 next week.
-- Assign [Build 4 combined with Quiz #11](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit): Tell a Meaningful Data Story with at least two charts and/or maps and narrative. Work in solo or duo. Due Mon 14 Nov 9pm, worth 10 points.
+- Assign [Build 4 combined with Quiz #11](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit): Tell a Meaningful Data Story with around 750-1000 words and at least two visualizations. Work solo (may be coordinated) or as a duo. Due Mon 14 Nov 9pm, worth 10 points.
 
 ### Thu 10 Nov
 - Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
