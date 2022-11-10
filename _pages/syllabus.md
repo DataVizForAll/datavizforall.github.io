@@ -260,14 +260,18 @@ Important updates from the instructor will be marked **in bold**.
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
 - Prep for Detect Lies quiz, to be taken during any 3-hour period by **Fri 11 Nov 9pm** on [Moodle](https://moodle.trincoll.edu). We have an early quiz deadline this week to provide you with sufficient time for Build #4 next week.
-- Assign [Build 4 combined with Quiz #11](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit): Tell a Meaningful Data Story with around 750-1000 words and at least two visualizations. Work solo (may be coordinated) or as a duo. Due Mon 14 Nov 9pm, worth 10 points.
+- Assign [Build 4 combined with Quiz #11](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit): Tell a Meaningful Data Story with around 750-1000 words and at least two visualizations. Work solo (may be coordinated) or as a duo. Due Mon 14 Nov 9pm, with link on the Build 4 Doc to work in your Google Doc, worth 10 points.
 
 ### Thu 10 Nov
+- Confirm student assignments for [Build 4 combined with Quiz #11](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit)
+  - Due Mon 14 Nov 9pm
 - Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
   - Build Narrative on a Storyboard
   - Draw Attention to Meaning
   - Acknowledge Sources and Uncertainty
-- There is no separate Moodle quiz, but combined with Build 4 above.
+- There is no separate Moodle quiz, because this content is combined with Build 4 above.
+- Workshop: Draw your data story ideas, on paper
+
 
 ### Tue 15 Nov
 - Assign Build Stage 5: Peer Review of Data Story, due during class, worth 5 points.
