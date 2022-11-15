@@ -277,6 +277,7 @@ Important updates from the instructor will be marked **in bold**.
   - [Sample data story 1 by Victoria Asfalg and Riley Nichols](https://datavizforall.org/habitat-asfalg-nichols/), December 2021
   - [Sample data story 2 by Bonnie LaBonte and Lachlan Clark](https://datavizforall.org/clj-labonte-clark/), December 2021
 - Assign [Build Stage 5: Peer Review Template for Data Story](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit), due during class, worth 5 points. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
+  - See [peer review assignments on Build 4 document](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit). Students must submit a full draft for review before they can participate in peer review.
 - Announcement about scoring of combined assignment: Build 4 and Quiz 11
 - Need your help to recruit students for next semester
   - Which digital flyer works best? [Version 1](https://datavizforall.org/images/enroll-2023spring1.png) or [Version 2](https://datavizforall.org/images/enroll-2023spring2.png)?
