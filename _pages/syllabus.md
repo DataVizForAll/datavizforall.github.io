@@ -272,9 +272,16 @@ Important updates from the instructor will be marked **in bold**.
 - There is no separate Moodle quiz, because this content is combined with Build 4 above.
 - Workshop: Draw your data story ideas, on paper
 
-
 ### Tue 15 Nov
-- Assign Build Stage 5: Peer Review of Data Story, due during class, worth 5 points.
+- Looking ahead to Finalizing Your Data Stories
+  - [Sample data story 1 by Victoria Asfalg and Riley Nichols](https://datavizforall.org/habitat-asfalg-nichols/), December 2021
+  - [Sample data story 2 by Bonnie LaBonte and Lachlan Clark](https://datavizforall.org/clj-labonte-clark/), December 2021
+- Assign [Build Stage 5: Peer Review Template for Data Story](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit), due during class, worth 5 points. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
+- Announcement about scoring of combined assignment: Build 4 and Quiz 11
+- Need your help to recruit students for next semester
+  - Which digital flyer works best? [Version 1](https://datavizforall.org/images/enroll-2023spring1.png) or [Version 2](https://datavizforall.org/images/enroll-2023spring2.png)?
+  - Please share either with friends via email, text, or social media
+  - Reminder: Beginning Wednesday Nov 16th, the Registrar will remove a restriction that prevented students from registering for more than 4.75 credits.
 
 ### Thu 17 Nov
 - Overview of Learning Goal #12: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
