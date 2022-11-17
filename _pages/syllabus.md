@@ -289,18 +289,19 @@ Important updates from the instructor will be marked **in bold**.
   - Static images versus interactive iframes
   - Get the iframe embed code for a published visualization
   - Embed the iframe code in an HTML web page
-  - Use this [dataviz-story-template from GitHub](https://github.com/DataVizForAll/dataviz-story-template)
-- Assign Build Stage 6: Submit complete data story as a GitHub Pages link on our Data Stories page, due at end of class on Tues 29 Nov, for comments by CLJ (no scores).
-<!-- [Data Stories page](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit). On Wed 3pm I will "freeze" your work and send a copy of your GitHub repo to the guest evaluators to give them time to read your work before Friday morning. [See instructions for guest evaluators](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit). Worth 10 points. -->
+  - Make your own copy of [dataviz-story-template from GitHub](https://github.com/DataVizForAll/dataviz-story-template) and follow instructions inside the `index.html` file
+  - Start Embed on the Web quiz, due by Tues 22 Nov 2:45pm on [Moodle](https://moodle.trincoll.edu).
+- Assign [Build Stage 6](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit): Submit complete draft of your data story, as a published GitHub Pages link, due at end of class on Tues 29 Nov, for comments by CLJ (no scores).
+- Sign up for a [20-minute Zoom meeting on my calendar](https://jackdougherty.org) (with classmate if working together) to review instructor's feedback on data story, required by Tues 22 Nov
 
 ### Tue 22 Nov
-- Scheduled in-person or Zoom meetings with instructor (Fri-Mon-Tues 18-21-22 Nov) instead of regular class to review comments on data stories.
+- Scheduled Zoom meetings with instructor (Fri-Mon-Tues 18-21-22 Nov) instead of regular class to review my feedback on data stories.
 
 ### Thu 24 Nov
 - No class: Thanksgiving break
 
 ### Tue 29 Nov
-- Workshop to embed data stories on the web in preparation for CLJ meeting
+- Workshop to finalize data stories on the web in preparation for CLJ meeting
 
 ### Thu 1 Dec
 - Meet with Center for Leadership and Justice partners on Zoom, 1:45-2:30pm
@@ -313,3 +314,4 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Thu 8 Dec
 - Final presentations with guest experts Erika Haynes (in-person) and Shasha Davis (Zoom), both from <https://schoolstatefinance.org>, and  Ilya Ilyankou (Trinity '18 and <https://HandsOnDataViz.org> co-author, on Zoom): Guest experts will review final data stories online before the event. Each solo/duo will have 2 minutes to orally present key points, then about 5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
+<!-- [Data Stories page](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit). On Wed 3pm I will "freeze" your work and send a copy of your GitHub repo to the guest evaluators to give them time to read your work before Friday morning. [See instructions for guest evaluators](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit). Worth 10 points. -->
