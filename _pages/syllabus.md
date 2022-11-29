@@ -301,17 +301,25 @@ Important updates from the instructor will be marked **in bold**.
 - No class: Thanksgiving break
 
 ### Tue 29 Nov
-- Workshop to finalize data stories on the web in preparation for CLJ meeting
+- Thank you for helping to recruit new students for next semester
+- See updated [dataviz-story-template](https://datavizforall.org/dataviz-story-template/) section 3 for sample citation + bibliography, and helpful <https://Zbib.org> tool. Note that you may need to **click the edit button to manually add key details** such as author and date if the tool does not automatically recognize them from the web page you wish to cite.
+- Workshop to finish data stories in preparation for CLJ meeting on Thur 1 Dec
+  - 5-minute meetings with instructor to review content or HTML formatting
+  - 5-minute meetings with TA to rehearse your 2-minute presentations of highlights in your data story on GitHub
+  - Everyone: Finish moving text and visualizations from Google Doc to GitHub format
+  - Everyone: Review Expectations and Assessment criteria in [Build 6+7 Doc](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit)
+- In [Build 6 Google Doc](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit) paste your data story title (with link) and names before leaving class. I will reorganize the lineup to create a more coherent flow of topics for our audience.
 
 ### Thu 1 Dec
-- Meet with Center for Leadership and Justice partners on Zoom, 1:45-2:30pm
+- Meet with Center for Leadership and Justice partners on Zoom, 1:40-2:40pm
+- [Build 6](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit): Deliver 2-minute presentation of highlights in your data story, then listen to feedback and write down revisions to consider. Comments only, not graded.
 - Assign Build Stage 7: Revise and Finalize Data story on GitHub Pages template for guest experts, due at end of class, Tues 6 Dec, worth 10 points (evaluated by guest experts).
 
 ### Tue 6 Dec
-- Workshop to finalize data stories
-- Plan and rehearse your 2-minute oral presentation of highlights for the guest evaluators
 - Student course feedback on Google Doc
+- Workshop to finalize data stories and prepare for guest evaluators
+- Decisions to make before instructor "freezes" your data story
 
 ### Thu 8 Dec
-- Final presentations with guest experts Erika Haynes (in-person) and Shasha Davis (Zoom), both from <https://schoolstatefinance.org>, and  Ilya Ilyankou (Trinity '18 and <https://HandsOnDataViz.org> co-author, on Zoom): Guest experts will review final data stories online before the event. Each solo/duo will have 2 minutes to orally present key points, then about 5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
+- Final presentations with guest experts Erika Haynes (in-person) and Shasha Davis (Zoom), both from <https://schoolstatefinance.org>, and Ilya Ilyankou (Trinity '18 and <https://HandsOnDataViz.org> co-author, on Zoom): Guest experts will review final data stories online before the event. Each solo/duo will have 2 minutes to orally present key points, then about 5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
 <!-- [Data Stories page](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit). On Wed 3pm I will "freeze" your work and send a copy of your GitHub repo to the guest evaluators to give them time to read your work before Friday morning. [See instructions for guest evaluators](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit). Worth 10 points. -->
