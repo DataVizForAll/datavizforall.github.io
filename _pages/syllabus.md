@@ -308,7 +308,7 @@ Important updates from the instructor will be marked **in bold**.
   - 5-minute meetings with TA to rehearse your 2-minute presentations of highlights in your data story on GitHub
   - Everyone: Finish moving text and visualizations from Google Doc to GitHub format
   - Everyone: Review Expectations and Assessment criteria in [Build 6+7 Doc](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit)
-- In [Build 6 Google Doc](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit) paste your data story title (with link) and names before leaving class. I will reorganize the lineup to create a more coherent flow of topics for our audience.
+- In [Build 6 Google Doc](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit) paste your data story title (with link) and names before leaving class **updated: before I wake up Wednesday morning**. I will reorganize the lineup to create a more coherent flow of topics for our audience.
 
 ### Thu 1 Dec
 - Meet with Center for Leadership and Justice partners on Zoom, 1:40-2:40pm
