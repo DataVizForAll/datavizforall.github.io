@@ -308,17 +308,24 @@ Important updates from the instructor will be marked **in bold**.
   - 5-minute meetings with TA to rehearse your 2-minute presentations of highlights in your data story on GitHub
   - Everyone: Finish moving text and visualizations from Google Doc to GitHub format
   - Everyone: Review Expectations and Assessment criteria in [Build 6+7 Doc](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit)
-- In [Build 6 Google Doc](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit) paste your data story title (with link) and names before leaving class **updated: before I wake up Wednesday morning**. I will reorganize the lineup to create a more coherent flow of topics for our audience.
+- In [Build 6 Google Doc](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit) paste your data story title (with link) and names before leaving class **updated: by Wed 9am**. I will reorganize the lineup to create a more coherent flow of topics for our audience.
 
 ### Thu 1 Dec
-- Meet with Center for Leadership and Justice partners on Zoom, 1:40-2:40pm
+- Meet with Center for Leadership and Justice partners on Zoom, 1:35-2:40pm
 - [Build 6](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit): Deliver 2-minute presentation of highlights in your data story, then listen to feedback and write down revisions to consider. Comments only, not graded.
-- Assign Build Stage 7: Revise and Finalize Data story on GitHub Pages template for guest experts, due at end of class, Tues 6 Dec, worth 10 points (evaluated by guest experts).
+- Assign [Build Stage 7](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit): Revise and Finalize Data story on GitHub Pages template for guest experts, due Tues 6 Dec at 4pm. **No extensions** because your work must be "frozen" and forwarded to guest experts at this time. Worth 10 points, evaluated by guest experts.
+- Students are welcome to schedule an appointment on [my online calendar](https://jackdougherty.org) before Tuesday's class.
+- [Invitation from CLJ](https://cljct.org) to attend [Greater Hartford Interfaith Action Alliance Social Justice Assembly](https://datavizforall.org/images/2022-12-GHIAA-assembly.pdf), Wed Dec 7th from 7-9pm at Weaver High School Auditorium, 415 Granby St, Hartford. Register at <http://cljct.org/special-guests>. One of your classmates is offering to drive.
 
 ### Tue 6 Dec
-- Student course feedback on Google Doc
-- Workshop to finalize data stories and prepare for guest evaluators
-- Decisions to make before instructor "freezes" your data story
+- In class: [Student course feedback on what helped you learn](https://docs.google.com/document/d/1XKPqIAosNYKk0W3fvx9N-CEcP27cMQXVIbjhHjcD1t8/edit#). Also, please fill out the College's standard online evaluation form when available.
+- After today's class at 4pm (no extensions), your Build 7 GitHub data story will be "frozen". This means I will fork a copy of your repo to my [Partners and Projects page](https://datavizforall.org/partners-projects/) and forward my link to the guest experts, who need to read your final version before your presentations.
+- Decision to make before your data story is "frozen":
+  - Insert your full name (recommended), or you have the right to use only your first name or initials
+  - See what other students did in my "[Public Writing and Student Privacy](https://epress.trincoll.edu/webwriting/chapter/dougherty-public/)" chapter of [Web Writing](https://webwriting.trincoll.edu) book (2015).
+  - Recommended: Insert the link to your final version (or my final version) in your resume to demonstrate what you can do to prospective employers or graduate schools.
+- Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
+- Workshop: Last chance to consult with instructor, TA, and classmates to finalize data story.
 
 ### Thu 8 Dec
 - Final presentations with guest experts Erika Haynes (in-person) and Shasha Davis (Zoom), both from <https://schoolstatefinance.org>, and Ilya Ilyankou (Trinity '18 and <https://HandsOnDataViz.org> co-author, on Zoom): Guest experts will review final data stories online before the event. Each solo/duo will have 2 minutes to orally present key points, then about 5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
