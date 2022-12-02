@@ -329,5 +329,5 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Thu 8 Dec
 - **Class begins at 1:15pm today** to ensure time for all presenters
-- Final presentations with guest experts Erika Haynes (in-person) and Shasha Davis (Zoom), both from <https://schoolstatefinance.org>, and Ilya Ilyankou (Trinity '18 and <https://HandsOnDataViz.org> co-author, on Zoom): Guest experts will review final data stories online before the event. Each solo/duo will up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
+- Final presentations with guest experts on Zoom: Erika Haynes and Shasha Davis (both from <https://schoolstatefinance.org>) and Ilya Ilyankou (Trinity '18 and <https://HandsOnDataViz.org> co-author). Guest experts will review final data stories online before the event. Each solo/duo will up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
 <!-- See also my copy of instructions to guest evaluators -->
