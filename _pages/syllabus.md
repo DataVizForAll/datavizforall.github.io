@@ -319,15 +319,15 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Tue 6 Dec
 - In class: [Student course feedback on what helped you learn](https://docs.google.com/document/d/1XKPqIAosNYKk0W3fvx9N-CEcP27cMQXVIbjhHjcD1t8/edit#). Also, please fill out the College's standard online evaluation form when available.
-- After today's class at 4pm (no extensions), your Build 7 GitHub data story will be "frozen". This means I will fork a copy of your repo to my [Partners and Projects page](https://datavizforall.org/partners-projects/) and forward my link to the guest experts, who need to read your final version before your presentations.
-- Decision to make before your data story is "frozen":
+- After today's class at 4pm (no extensions), your Build 7 GitHub data story will be "frozen" and a copy will be transferred to our class GitHub account. I will forward this final version to our guest experts, who need to read your work before your presentations, and I will publish it on the public [Partners and Projects page](https://datavizforall.org/partners-projects/).
+- Decision to make before your data story is "frozen" and published:
   - Insert your full name (recommended), or you have the right to use only your first name or initials
   - See what other students did in my "[Public Writing and Student Privacy](https://epress.trincoll.edu/webwriting/chapter/dougherty-public/)" chapter of [Web Writing](https://webwriting.trincoll.edu) book (2015).
-  - Recommended: Insert the link to your final version (or my final version) in your resume to demonstrate what you can do to prospective employers or graduate schools.
+  - Recommended: Insert link to your published data story in your resume to demonstrate what you learned to prospective employers and graduate schools.
 - Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
 - Workshop: Last chance to consult with instructor, TA, and classmates to finalize data story.
 
 ### Thu 8 Dec
 - **Class begins at 1:15pm today** to ensure time for all presenters
 - Final presentations with guest experts Erika Haynes (in-person) and Shasha Davis (Zoom), both from <https://schoolstatefinance.org>, and Ilya Ilyankou (Trinity '18 and <https://HandsOnDataViz.org> co-author, on Zoom): Guest experts will review final data stories online before the event. Each solo/duo will up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
-<!-- [Data Stories page](https://docs.google.com/document/d/1bmBl4TEbi3yX6xXK9EEkmG2ESWEBqnWvR8GsVIHd20E/edit). On Wed 3pm I will "freeze" your work and send a copy of your GitHub repo to the guest evaluators to give them time to read your work before Friday morning. [See instructions for guest evaluators](https://docs.google.com/document/d/1rcJhgJcyQ8jBCx3fUyFHg1Y481mS-YDwrY8bamDp46s/edit). Worth 10 points. -->
+<!-- See also my copy of instructions to guest evaluators -->
