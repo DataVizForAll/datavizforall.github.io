@@ -1,14 +1,31 @@
 ---
 title: "Partners and Projects"
 permalink: /partners-projects/
-date: 2022-07-26
+date: 2022-12-15
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
+## Fall 2022
+### Center for Leadership and Justice (CLJ), Hartford
+Our partners at [CLJ](https://cljct.org) asked us to help them analyze and visualize student residency and school district funding for their Greater Hartford Interfaith Action Alliance (GHIAA) Education research team. We defined the metro Hartford area as a contiguous 33-town region, which includes 38 public school districts when counting magnets and charters.
+
+<iframe title="Taxable Property Per Capita Varies Widely across Hartford Region" aria-label="Map" id="datawrapper-chart-fhzFy" src="https://datawrapper.dwcdn.net/fhzFy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="784" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
+[Exploring the Relationship Between School Type and Per-Student Spending](https://datavizforall.github.io/clj-mcnamara), by Keelyn McNamara
+
+[The Big Disconnect: How Instructional Spending Does Not Match Student Enrollment Over Time](https://datavizforall.github.io/clj-saso), by Emiko Saso
+
+[How funding is distributed in Hartford-region Schools for Students with Disabilities](https://datavizforall.org/clj-tran/) by Anna Tran
+
+[What is the Relation Between Racial & Ethnic Enrollment and Per-Student District Spending?](https://datavizforall.org/clj-oconnor-bejoian/) by Liam O'Connor and Ben Bejoian
+
+more to come...
+
 ## Spring 2022
 ### Sheff v O'Neill 2022 Settlement
-Since several students who completed the DataViz For All course later enrolled in my [Educ 308: Cities Suburbs and Schools course](https://jackdougherty.org/educ308), we worked together on another community-learning partnership. Our mission was to communicate the goals of the January 2022 Sheff v. O'Neill school integration settlement to broad audiences. Students designed and revised [five data visualizations](https://datavizforall.org/sheff-2022/) based on feedback collected from individual members of the Sheff Movement, and published final versions in this [May 2022 story by Jacqueline Rabe Thomas for CT Public Investigative News](https://www.ctpublic.org/news/investigative/2022-05-11/trinity-college-students-analysis-finds-state-far-from-promises-made-to-desegregate-hartford-schools). 
+Since several students who completed the DataViz For All course later enrolled in my [Educ 308: Cities Suburbs and Schools course](https://jackdougherty.org/educ308), we worked together on another community-learning partnership. Our mission was to communicate the goals of the January 2022 Sheff v. O'Neill school integration settlement to broad audiences. Students designed and revised [five data visualizations](https://datavizforall.org/sheff-2022/) based on feedback collected from individual members of the Sheff Movement, and published final versions in this [May 2022 story by Jacqueline Rabe Thomas for CT Public Investigative News](https://www.ctpublic.org/news/investigative/2022-05-11/trinity-college-students-analysis-finds-state-far-from-promises-made-to-desegregate-hartford-schools).
 
 {% include figure image_path="images/2022-ctpublic-tyler-russell-reduced.png" alt="Trinity College students in classroom" caption="Trinity College students, led by professor Jack Dougherty, refine their data visualizations they compiled using school integration information from the Sheff v. O'Neill agreement. Photo by Tyler Russell / CT Public." %}
 
