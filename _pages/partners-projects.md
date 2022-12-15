@@ -7,10 +7,13 @@ toc_label: "Contents"
 toc_sticky: true
 ---
 ## Fall 2022
-### Center for Leadership and Justice (CLJ), Hartford
-Our partners at [CLJ](https://cljct.org) asked us to help them analyze and visualize student residency and school district funding for their Greater Hartford Interfaith Action Alliance (GHIAA) Education research team. We defined the metro Hartford area as a contiguous 33-town region, which includes 38 public school districts when counting magnets and charters.
+### Center for Leadership and Justice (CLJ) and Education Funding Inequities
+Our partners at [CLJ](https://cljct.org) asked us to help them analyze and visualize student residency and school district funding for their Greater Hartford Interfaith Action Alliance (GHIAA) Education Research team. We defined the metro Hartford area as a contiguous 33-town region, which includes 38 public school districts when counting magnets and charters. Also, we appreciate expert guidance on Connecticut education funding provided by the [School + State Finance Project](https://schoolstatefinance.org).
 
-<iframe title="Taxable Property Per Capita Varies Widely across Hartford Region" aria-label="Map" id="datawrapper-chart-fhzFy" src="https://datawrapper.dwcdn.net/fhzFy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="784" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_wsg5eyf5&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video for Fall 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_wsg5eyf5) with [Center for Leadership and Justice](https://cljct.org) partners: Marika Stewart, Jocelyn Gardner Spencer, Sarah McCoy
+
+<iframe title="Inequality in Taxable Property Per Capita in Hartford Region" aria-label="Map" id="datawrapper-chart-fhzFy" src="https://datawrapper.dwcdn.net/fhzFy/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="784" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 [Exploring the Relationship Between School Type and Per-Student Spending](https://datavizforall.github.io/clj-mcnamara), by Keelyn McNamara
@@ -21,10 +24,22 @@ Our partners at [CLJ](https://cljct.org) asked us to help them analyze and visua
 
 [What is the Relation Between Racial & Ethnic Enrollment and Per-Student District Spending?](https://datavizforall.org/clj-oconnor-bejoian/) by Liam O'Connor and Ben Bejoian
 
-more to come...
+[English Language Learners, School Type and Per-Pupil Spending](https://datavizforall.org/clj-zajec) by Mia Zajec
+
+[Examining School Expenditures in the Greater Hartford Districts](https://datavizforall.org/clj-cam) by Cam
+
+[Where are High-Needs Students in the Hartford Region?](https://datavizforall.org/clj-natalie) by Natalie J. S-G
+
+[Increasing Rates of Students Educated Outside of Their Home Districts](https://datavizforall.org/clj-reiling) by Jack Reiling
+
+[How Has Enrollment Changed in Towns and School Types from 2016-2022?](https://datavizforall.org/clj-matraji) by Faris Matraji
+
+[The Changes in Student Population and Per Pupil Expenditure in Hartford Region](https://datavizforall.org/clj-whitaker-groebel) by Robert E. Groebel IV and Shayla Whitaker
+
+[Locating Our Schools](https://datavizforall.org/clj-julianna-viv) by Julianna and Viv
 
 ## Spring 2022
-### Sheff v O'Neill 2022 Settlement
+### Sheff v O'Neill 2022 School Integration Settlement
 Since several students who completed the DataViz For All course later enrolled in my [Educ 308: Cities Suburbs and Schools course](https://jackdougherty.org/educ308), we worked together on another community-learning partnership. Our mission was to communicate the goals of the January 2022 Sheff v. O'Neill school integration settlement to broad audiences. Students designed and revised [five data visualizations](https://datavizforall.org/sheff-2022/) based on feedback collected from individual members of the Sheff Movement, and published final versions in this [May 2022 story by Jacqueline Rabe Thomas for CT Public Investigative News](https://www.ctpublic.org/news/investigative/2022-05-11/trinity-college-students-analysis-finds-state-far-from-promises-made-to-desegregate-hartford-schools).
 
 {% include figure image_path="images/2022-ctpublic-tyler-russell-reduced.png" alt="Trinity College students in classroom" caption="Trinity College students, led by professor Jack Dougherty, refine their data visualizations they compiled using school integration information from the Sheff v. O'Neill agreement. Photo by Tyler Russell / CT Public." %}
@@ -65,7 +80,7 @@ Additional data stories:
 [CT SafeConnect’s Services Provided and Last Instances](https://datavizforall.org/ccadv-kulik-impronto/), by Michael Kulik and Jack Impronto
 
 ## Fall 2021
-### Center for Leadership and Justice (CLJ), Hartford
+### Center for Leadership and Justice (CLJ) and #NoMoreSlumlords
 Our partners at [CLJ](https://cljct.org) asked us to help them analyze and visualize data related to their Greater Hartford Interfaith Action Alliance (GHIAA) organizing and their #NoMoreSlumlords campaign for stronger housing code accountability by the Hartford city government.
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_aq660eab&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
@@ -85,7 +100,7 @@ DataVizForAll students at Trinity cleaned and geocoded CLJ data for this map. [V
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/41685872/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_v8gi2xto&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 [Reflection video, Dec 2021](https://trincoll.mediaspace.kaltura.com/media/1_v8gi2xto) with [Center for Leadership and Justice](https://cljct.org) partners: Cori Nicewander, Tieasha Gayle, AJ Johnson.
 
-### Hartford Area Habitat for Humanity
+### Hartford Area Habitat for Humanity and Housing
 Our partners at [Hartford Area Habitat for Humanity](https://hartfordhabitat.org) asked us to help them compile and visualize data on the 250 homes they constructed or fully rehabilitated in the region since 1990.
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_ygdoh4la&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
