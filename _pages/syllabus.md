@@ -158,11 +158,14 @@ Important updates from the instructor will be marked **in bold**.
   - Transpose Rows and Columns
   - Split Data into Separate Columns
   - Combine Data into One Column
-- [Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1XX9mOJYp93Q8wMr_rkW2TuciqcW-w_i3nAI5XGlihPw/edit)
+  - Extract Tables from PDFs
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Mon 20 Feb 9pm on [Moodle](https://moodle.trincoll.edu)
 
 ### Thu 16 Feb
-- Assign Build 2: Clean Crash Data and Trash Data (PDF to CSV) **date**
+- Assign Build 2: Clean Crash Data and Trash Data, due Tues 21 Feb 12 noon, worth 5 points.
+- [Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1XX9mOJYp93Q8wMr_rkW2TuciqcW-w_i3nAI5XGlihPw/edit)
+<!-- - UConn Crash repo: download hartford data for multiple years, and merge tables
+- Trash data: convert a PDF to CSV -->
 
 ### Tue 21 Feb
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
@@ -199,19 +202,14 @@ Important updates from the instructor will be marked **in bold**.
 ### Thu 9 March
 - Continue overview of Learning Goal #6: Map Your Data
 - In-class map practice exercises: point versus polygon maps
-  <!-- - Use [Interdistrict Choice Schools data](https://docs.google.com/spreadsheets/d/1lTAX2Pwb5CWWIp7zF-Z5DuUCK5gzrf9HAbO5H6AsvEo/edit#gid=706121225) to create a map of their locations, type, and enrollment size
-  - Use [CT Town race & ethnicity ACS 2016-20 data](https://docs.google.com/spreadsheets/d/1S_dLhcYI5fLNNtGnBZv0gqHfPM9bdWlwDnlJcgBtDPg/edit#gid=1207140211) to create a meaningful map of proportion of one racial or ethnic group -->
+  <!-- - Use [Interdistrict Choice Schools data](https://docs.google.com/spreadsheets/d/1lTAX2Pwb5CWWIp7zF-Z5DuUCK5gzrf9HAbO5H6AsvEo/edit#gid=706121225) to create a map of their locations, type, and enrollment size - Use [CT Town race & ethnicity ACS 2016-20 data](https://docs.google.com/spreadsheets/d/1S_dLhcYI5fLNNtGnBZv0gqHfPM9bdWlwDnlJcgBtDPg/edit#gid=1207140211) to create a meaningful map of proportion of one racial or ethnic group -->
 
 ### Tue 14 March
 - Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
   - Create and edit GeoJSON boundary data with [GeoJSON.io](https://geojson.io) - View or edit or transform GeoJSON data [Mapshaper.org](https://mapshaper.org)
-- Steps to edit a CT Towns GeoJSON file and upload as a custom map boundary Datawrapper
-  <!-- - Open the [ct-boundaries folder on GitHub](https://github.com/handsondataviz/ct-boundaries) in your browser, click *Code > Download Zip*, then uncompress the folder in your local computer. **Be sure to use the updated 2022 file** for next steps.
-  - Drag and drop the `ct-towns-2022-simple-datactgov.geojson` file from your local computer to either [Geojson.io](https://geojson.io) or [Mapshaper.org](https://mapshaper.org) to edit
-  - Edit a customized subgroup of CT towns, such as those shown in our 33-town Hartford region.
-  - Export your customized file, and rename if needed, with `.geojson` extension
-  - When making a choropleth map in Datawrapper, upload your custom GeoJSON boundary file -->
+- Tutorial to edit CT Towns GeoJSON file and upload as a custom map boundary Datawrapper
+  <!-- - Open the [ct-boundaries folder on GitHub](https://github.com/handsondataviz/ct-boundaries) in your browser, click *Code > Download Zip*, then uncompress the folder in your local computer. **Be sure to use the updated 2022 file** for next steps. - Drag and drop the `ct-towns-2022-simple-datactgov.geojson` file from your local computer to either [Geojson.io](https://geojson.io) or [Mapshaper.org](https://mapshaper.org) to edit - Edit a customized subgroup of CT towns, such as those shown in our 33-town Hartford region. - Export your customized file, and rename if needed, with `.geojson` extension - When making a choropleth map in Datawrapper, upload your custom GeoJSON boundary file -->
 - Prep for Transform Your Map Data quiz, to be taken during any 3-hour period by **Thu 16 March 9pm (early deadline due to spring break)** on [Moodle](https://moodle.trincoll.edu).
 
 ### Thu 16 March
@@ -253,11 +251,8 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Tue 11 April
 - In-class: Do Build Stage 6: Peer Review Template for Data Story, due during class, worth 5 points. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
-  <!-- - See [peer review assignments on Build 4 document](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit). Students must submit a full draft for review before they can participate in peer review.
-- Announcement about scoring of combined assignment: Build 4 (5 points based on work submitted before Tuesday's class) and Quiz 11 (5 points based on revised work submitted before Thursday's class). Continue to use same links on Build 4 document. -->
-  <!-- Looking ahead to Finalizing Your Data Stories
-  - [Sample data story 1 by Victoria Asfalg and Riley Nichols](https://datavizforall.org/habitat-asfalg-nichols/), December 2021
-  - [Sample data story 2 by Bonnie LaBonte and Lachlan Clark](https://datavizforall.org/clj-labonte-clark/), December 2021 -->
+  <!-- - See [peer review assignments on Build 4 document](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit). Students must submit a full draft for review before they can participate in peer review. - Announcement about scoring of combined assignment: Build 4 (5 points based on work submitted before Tuesday's class) and Quiz 11 (5 points based on revised work submitted before Thursday's class). Continue to use same links on Build 4 document. -->
+  <!-- Looking ahead to Finalizing Your Data Stories - [Sample data story 1 by Victoria Asfalg and Riley Nichols](https://datavizforall.org/habitat-asfalg-nichols/), December 2021  - [Sample data story 2 by Bonnie LaBonte and Lachlan Clark](https://datavizforall.org/clj-labonte-clark/), December 2021 -->
 
 ### Thu 13 April
 - Overview of Learning Goal #11: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
@@ -302,12 +297,9 @@ Important updates from the instructor will be marked **in bold**.
   - How to Lie with Maps
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
-  <!-- - Compare how two different maps forecast results of US House of Representatives results for today's election. What do you notice?
-    - <https://www.270towin.com/2022-house-election/>
-    - <https://projects.fivethirtyeight.com/2022-election-forecast/house/> -->
 - Prep for Detect Lies quiz, to be taken during any 3-hour period by Mon 8 May 9pm on [Moodle](https://moodle.trincoll.edu).
 
 ### Wed 3 May
-- The College decided that our last "Thursday" class meets on Wed 3 May
-- **Class begins at 1:15pm today and will take place in my Zoom room** to ensure time for all presenters to interact with guest experts. Students must log into my Zoom room a few minutes before their designated time.
+- Since the College decided that our last "Thursday" class meets on Wed 3 May, **make sure that you do not have any schedule conflicts**.
+- Class will **begin at 1:15pm today and will take place in my Zoom room** to ensure time for all presenters to interact with guest experts. Students must log into my Zoom room a few minutes before their designated time.
 - Build 7: Present Final Data Stories to guest expert, Ilya Ilyankou (Trinity '18 and co-author of <https://HandsOnDataViz.org>), who will review final data stories online before the event. Each team will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluator.
