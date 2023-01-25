@@ -100,6 +100,7 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Thu 26 Jan
 - Bring a mask to wear in our classroom (extras will be available), and bring a laptop computer (or use a desktop in the classroom).
+- If you are enrolled but do not attend our first class, the Registrar will be instructed to drop you from the roster.
 - Overview of the syllabus, Hartford community-learning partners, and past projects
 - Sample quiz about syllabus for 1-point bonus, due in class on [Moodle](https://moodle.trincoll.edu)
 - Why data visualization matters in the "disinformation age". See Hands-On DataViz (HODV), Chapter 1 <https://handsondataviz.org/introduction.html>
