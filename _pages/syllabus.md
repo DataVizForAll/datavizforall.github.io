@@ -1,29 +1,40 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /
-date: 2022-09-05
+date: 2023-01-25
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
-## Fall 2022 Syllabus
+## Spring 2023 Syllabus
 Our course meets in-person, wearing face masks in compliance with the [campus Covid policy](https://www.trincoll.edu/reopening/), on Tuesdays & Thursdays 1:30-2:45pm in Seabury S205 at Trinity College, Hartford.
 
 ### Instructors
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
-Teaching Assistant Victoria Asfalg '23
+Teaching Assistant Keelyn McNamara '23 (Tuesdays in class and by appointment)
+
+Research Assistant Shayla Whitaker '25 (to compile data on metro Hartford waste)
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.     
 - Fulfills Numerical and Symbolic Reasoning (NUM) requirement.   
 - Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies.  
 - Enrollment limited to 19 students.  
 
-### Community Learning Partner
-Our partners at the [Center for Leadership and Justice](https://cljct.org) asked us to work with them to analyze and visualize data on education funding inequities in the metro Hartford region.
+### Community Learning Partners for Crash and Trash Projects
+This semester we will work with community learning parters on two data visualization projects: Crash and Trash.
 
-<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_wsg5eyf5&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-[Intro video for Fall 2022 students](https://trincoll.mediaspace.kaltura.com/media/1_wsg5eyf5) with [Center for Leadership and Justice](https://cljct.org) partners: Marika Stewart, Jocelyn Gardner Spencer, Sarah McCoy
+**Crash:** Grace Yi (Senior Planner, Bike & Ped) and Owen Deutsch (Principal Planner), from the [Planning Division, City of Hartford](https://www.hartfordct.gov/Government/Departments/DDS/DDS-Staff-Directory), have asked us to help visualize answers to this question: Which Hartford street intersections and corridors have the highest frequency of motor vehicle crash injuries and fatalities, to help the city prioritize traffic-calming measures?
+
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_86b106xl&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video for Crash project, Spring 2023](https://trincoll.mediaspace.kaltura.com/media/1_86b106xl) with partners Grace Yi and Owen Deutsch [Planning Division, City of Hartford](https://www.hartfordct.gov/Government/Departments/DDS/DDS-Staff-Directory)
+
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_86b106xl&flashvars[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+
+**Trash:** Sarah McCoy from the [Center for Leadership and Justice](https://cljct.org) in Hartford has asked us to help visualize answers to this environmental racism question: Where does our trash go, whose neighborhoods are affected, and how much can we reduce solid waste?
+
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/41685872/partner_id/2366381?iframeembed=true&playerId=kaltura_player&entry_id=1_nrh3aui1&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video for Trash project, Spring 2023](https://trincoll.mediaspace.kaltura.com/media/1_nrh3aui1) with partner Sarah McCoy, [Center for Leadership and Justice](https://cljct.org)
 
 ### Course Materials and Tools
 ![book covers](/images/covers-hodv-datafeminism.png)
@@ -45,9 +56,9 @@ In this course you will demonstrate the knowledge and skills you have developed 
 7. Transform Your Map Data
 8. Edit and Host Leaflet Code on GitHub
 9. Explore Leaflet Map Code Templates
-10. Detect Lies and Reduce Bias
-11. Tell and Show Your Data Story
-12. Embed on the Web
+10. Tell and Show Your Data Story
+11. Embed on the Web
+12. Detect Lies and Reduce Bias
 
 Your progress toward these learning goals will be assessed in three ways:
 
@@ -68,14 +79,14 @@ Your progress toward these learning goals will be assessed in three ways:
 #### C. Class Participation
 - The purpose is to encourage active learning and accountability. Each student begins the course with 5 participation points. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me well in advance.
 
-**If you are quarantined or isolated due to Covid**, or if you have concerns about your health, contact me in advance to request permission to participate remotely via Zoom during a specific class session. Last-minute requests may not be granted permission.
+**If you are quarantined or isolated due to Covid**, or if you have concerns about your health, **email me in advance** to request permission to participate remotely via Zoom during a specific class session. Last-minute requests may not be granted.
 
 #### Summary  
 60 points quizzes + 35 points data stories + 5 class participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
 
 Academic accommodations: please notify me before our third class session, and [schedule an appointment on my calendar](https://jackdougherty.youcanbook.me) to discuss how we will implement your approved plan. For those students with accommodations approved after the start of the semester, a minimum of 10 days’ notice is required. Learn more at the [Student Accessibility Resource Center](https://www.trincoll.edu/sarc/).
 
-Religious observances or other advance scheduling conflicts: please notify me before our third class session to request accommodations. Do not ask me to address last-minute requests.
+Religious observances or other advance scheduling conflicts: please request accommodations well ahead of time, ideally by our third class session. Last-minute requests may not be granted.
 
 ### How to Succeed in this Course
 - Bookmark this online syllabus and check it for important updates, which will appear **in bold**.
@@ -89,17 +100,15 @@ Religious observances or other advance scheduling conflicts: please notify me be
 ## Schedule
 Important updates from the instructor will be marked **in bold**.
 
-### Tue 6 Sept
+### Thu 26 Jan
 - Bring a mask to wear in our classroom (extras will be available), and bring a laptop computer (or use a desktop in the classroom).
-- Introductions
-- Overview of the syllabus, past projects, and our Hartford community-learning partner, the Center for Leadership and Justice <https://cljct.org>
-- Advice from TA Victoria Asfalg about how to succeed in this course
+- Overview of the syllabus, Hartford community-learning partners, and past projects
 - Sample quiz about syllabus for 1-point bonus, due in class on [Moodle](https://moodle.trincoll.edu)
 - Why data visualization matters in the "disinformation age". See Hands-On DataViz (HODV), Chapter 1 <https://handsondataviz.org/introduction.html>
 - What sparks your interest in this course? Anonymous free-write on [shared Google Doc](https://docs.google.com/document/d/1437B23rAci_1DOFJrhpCVv0O3wUbAgFtslcTyZyxavI/edit)
-- Why data visualization matters to me: Telling and showing hidden stories of inequality in [On The Line book-in-progress](https://ontheline.trincoll.edu)
+- Why data visualization matters to me: Telling and showing hidden stories of housing and education inequality in [On The Line book-in-progress](https://ontheline.trincoll.edu)
 
-### Thu 8 Sept
+### Tue 31 Jan
 - Overview of Learning Goal #1: Strengthen Your Spreadsheet Skills. Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
   - Copy, Share, and Convert Google Sheets
   - Geocode locations
@@ -109,11 +118,22 @@ Important updates from the instructor will be marked **in bold**.
   - Match columns with VLOOKUP
 - [Google Username and Sheet Sharing Practice](https://docs.google.com/document/d/1tmLJQwFk2SfPPdovTguL5uLZ50Mb77mfvnowuQ9n95E/edit)
 - [Spreadsheet Skills Peer Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
-- Prep for Spreadsheet quiz, to be taken during any 2-hour period before Mon 12 Sept 9pm on [Moodle](https://moodle.trincoll.edu)
-- How to meet with our TA or instructor to strengthen your skills
+- Prep for Spreadsheet quiz, to be taken during any 2-hour period before Mon 6 Feb 9pm on [Moodle](https://moodle.trincoll.edu)
+- One day after the quiz window closes, some students may receive an email requesting quiz revisions within 24 hours. If no email arrives, you likely earned full credit, which can be confirmed in your Moodle gradebook.
+- Advice from TA on scheduling appointments and how to succeed in this course
 
-### Tue 13 Sept
-- Congratulations to all who successfully completed our first Moodle quiz. If you did not receive an email from me asking for revisions, then you likely earned full credit. Check your Moodle gradebook.
+### Thu 2 Feb
+- Before class, read background news stories on our partners' projects:
+  - Christine Dempsey, “Trinity College Student Killed, Two Others Injured After Being Struck by Car in Hartford Hit-and-Run,” Hartford Courant, April 1, 2022, <https://www.courant.com/breaking-news/hc-br-hartford-fatal-accident-trinity-20220401-x5t2uvjgx5acxexmckwoh2aj5i-story.html>.
+  - Ed Stannard, “Here Are 10 Hartford Roads with the Most Crashes Since 2020,” Hartford Courant, July 18, 2022, <https://www.courant.com/community/hartford/hc-news-most-dangerous-roads-hartford-20220718-w2ktrvv7anfcdnmvdwmx4qv7lu-story.html>.
+  - John Moritz, “Connecticut Produces More Trash Than It Can Handle. How Can It Be Resolved?,” CT Insider, January 15, 2023, <https://www.ctinsider.com/politics/article/MIRA-closure-Connecticut-seeks-to-manage-trash-17716605.php>.
+  - Mark Pazniokas, “CT Has a Trash Problem. Here’s How Lamont Wants to Solve It,” CT Mirror, January 24, 2023, <http://ctmirror.org/2023/01/24/ct-trash-disposal-facility-mira-closed-food-waste-shipping/>.
+- In-class: Meet with Hartford community partners on Zoom:
+  - 1:45-2pm crash data questions with Grace Yi and Owen Deutsch, Planning Division, City of Hartford
+  - 2-2:15pm trash data questions with Sarah McCoy, Center for Leadership and Justice, Hartford
+- Assign Build Stage 1: Find and Question Data, due Wed 8 Feb 9pm on Google Doc, worth 5 points.
+
+### Tue 7 Feb
 - Before class, read and be prepared to discuss Catherine D'Ignazio and Lauren Klein *Data Feminism* chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, especially these selections:
   - [Chapter 1. Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4) begins with a story about tennis star Serena Williams. What do the authors mean by this line? ["What we choose to measure is a statement of what we value...and who we value"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4#nxk87mil5kj)
   - [Chapter 2 about Challenge Power](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) begins with a comparison of two different maps of Detroit. How do the maps differ, and what do the authors mean when they ask ["Who makes maps and who gets mapped?"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4#nl1iq5r2p9p)
@@ -126,209 +146,170 @@ Important updates from the instructor will be marked **in bold**.
   - Source your data
   - Recognize bad data
   - Question your data
-  - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Mon 19 Sept 9pm on [Moodle](https://moodle.trincoll.edu)
-- Assign [Build 0: Interview Community-Learning Partners to Clarify Research Questions](https://docs.google.com/document/d/1qYytgDnpUBeE1eFODwWGqBrY_2BUvWzIDU__OdH3xvY/edit).
+  - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Mon 13 Jan 9pm on [Moodle](https://moodle.trincoll.edu)
 
-### Thu 15 Sept
-- Meet with Center for Leadership and Justice partners on Zoom, 1:45-2:30pm, and write clarifying suggestions/comments in our [Build 0 Shared Google Document](https://docs.google.com/document/d/1qYytgDnpUBeE1eFODwWGqBrY_2BUvWzIDU__OdH3xvY/edit)
-- Assign [Build Stage 1: Find and Question Data on Education Funding Inequities](https://docs.google.com/document/d/1aOHa1n7CEVIxe2111lUs3lzKkDzdvCEwNgXgL93c6Qw/edit). Due Wed Sept 21 by 12 noon on the Build 1 Google Doc, worth 5 points.
+### Thu 9 Feb
+- Read before class:
+  - Marin Cogan, “The Deadliest Road in America,” Vox, July 18, 2022, <https://www.vox.com/23178764/florida-us19-deadliest-pedestrian-fatality-crisis>.
+- In class: Review Build 1
 
-### Tue 20 Sept
+### Tue 14 Feb
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
   - Smart Cleanup in Google Sheets
   - Find and Replace with Blank
   - Transpose Rows and Columns
   - Split Data into Separate Columns
   - Combine Data into One Column
-- Peer Practice: [Download and Clean Census/American Community Survey data from Social Explorer](https://docs.google.com/document/d/1fuRwEnP4Rl0DqriEWRQAkWQu7e7EzB2ifBFMAQuLKOA/edit?usp=sharing)
-- Prepare for Clean Up quiz, to be taken during any 2-hour period before Mon 26 Sept 9pm on [Moodle](https://moodle.trincoll.edu)
-- **Alternative Assignment #1:** Tue 20 September 7-8:30pm on Zoom (request link from instructor ahead of time). GHIAA All-Teams Meeting (Gun Violence, Housing, Mental Health, Environmental Racism, Education) to discuss strategy for October Research Actions. All GHIAA Issue teams will be coming together to increase our relational power through individual meetings, briefly share updates about the current status and development, and training that is relevant to the development of leaders across all issue teams. Then Issue Teams will hold Breakout Room Meetings. Education will focus on processing individual meetings and research action outlines as a group. See Alternative Assignment Guidelines further below.
+- [Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1XX9mOJYp93Q8wMr_rkW2TuciqcW-w_i3nAI5XGlihPw/edit)
+- Prepare for Clean Up quiz, to be taken during any 2-hour period before Mon 20 Feb 9pm on [Moodle](https://moodle.trincoll.edu)
 
-### Thu 22 Sept
-- Review instructor's post-assignment notes and classmates findings in [Build Stage 1: Find and Question Data on Education Funding Inequities](https://docs.google.com/document/d/1aOHa1n7CEVIxe2111lUs3lzKkDzdvCEwNgXgL93c6Qw/edit). I have made a "frozen copy" of your Google Docs and Sheets to evaluate, and individual scores will appear on Moodle soon.
+### Thu 16 Feb
+- Assign Build 2: Clean Crash Data and Trash Data (PDF to CSV) **date**
 
-### Tue 27 Sept
+### Tue 21 Feb
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
   - Precisely describe comparisons: practice [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
   - Normalize your data
   - Beware of biased comparisons
-- Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before **Friday 30 Sept 9pm** (new date to avoid quiz during Trinity Days and scheduling two quizzes due on same day) on [Moodle](https://moodle.trincoll.edu)
-- Update: Since we have two quizzes over the next seven days, I am delaying Build Stage 2: Clean Data and Find Meaningful Comparisons, and merging it into Build 3 as one 10-point assignment. This also gives me more time to reorganize our recommended datasets and research questions to match the needs of our community partner.
+- Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before Mon 27 Feb on [Moodle](https://moodle.trincoll.edu)
 
-### Thu 29 Sept
+### Thu 23 Feb
+- No class: Trinity Days
+
+### Tue 28 Feb
 - Before class, [create a free account on Datawrapper](https://app.datawrapper.de/signin/).
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
   - Chart design principles and rules
   - Create bar/column, histogram, line, area charts
   - Create annotated, range, scatter charts
-- Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before Mon 3 Oct 9pm on [Moodle](https://moodle.trincoll.edu). **Plan ahead and budget your time** because this quiz contains 5 show-your-work questions and may require more time than you have spent on prior quizzes.
+- Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before Mon 6 March 9pm on [Moodle](https://moodle.trincoll.edu). **Plan ahead and budget your time** because this quiz contains 5 show-your-work questions and may require more time than you have spent on prior quizzes.
 
-### Mon 3 Oct
-- CLJ moved date of alternate assignment to Fri Oct 14th
+### Thu 2 March
+- In-class chart practice to avoid common mistakes about type and design
+- Assign Build 3: Find Meaningful Comparisons and Create Preliminary Charts, due at the end of class, worth 5 points.
 
-### Tue 4 Oct
-- Assign [Build 2+3: Find Meaningful Comparisons and Create Preliminary Charts](https://docs.google.com/document/d/1BZN1D7CCnMEFABsxgSpIYTIq8cFtYFMRMSATk5imSZM/edit) in preparation for next meeting with CLJ partners, due **Friday 7 Oct by 12 noon, worth 10 points**.
-
-### Thu 6 Oct
-- Workshop time in class for [Build 2+3](https://docs.google.com/document/d/1BZN1D7CCnMEFABsxgSpIYTIq8cFtYFMRMSATk5imSZM/edit), due **Friday 7 Oct by 12 noon**.
-- Be prepared to share your draft work for feedback from all.
-- See [hints from Jack and Victoria](https://docs.google.com/spreadsheets/d/1yL4GrvUdLW_2Jl96hIbXdxP443a2ljOpGoeHOUj9Hbc/edit#gid=1443004680)
-- Review results from Chart Your Data quiz
-
-### Tue 11 Oct
-- No class: Trinity Days
-
-### Wed 12 Oct
-- Alternative Assignment #2A: 6:15-7:30pm GHIAA Education Team Training with Erika Haynes from [CT School + State Finance Project](https://schoolstatefinance.org), in-person at Immanuel Congregational Church, 10 Woodland St (across from Mark Twain House) in their Fellowship Hall with free refreshments. See my email to register in advance. Email me to request reimbursement for your transportation (with receipt) if needed. I also will attend. See Alternative Assignment guidelines further below.
-
-### Thu 13 Oct
-- [Review our progress report on Build 2+3](https://docs.google.com/document/d/1LX-LTnEfkYZXMtd3lS4_-v3GtNfd-iMyA6fXDg28pOU/edit) during 1:45-2:30pm Zoom meeting with Center for Leadership and Justice community partners.
-- Be prepared to show and discuss how you created works shown in the progress report, and write notes on feedback from partners.
-
-## Fri 14 Oct
-- Alternative Assignment #2B: 12-1pm Education Team Training with Erika Haynes from [CT School + State Finance Project](https://schoolstatefinance.org) on Zoom. See my email to register in advance for the Zoom link. I also will attend. Download [Powerpoint presentation slides](https://datavizforall.org/images/2022-10-GHIAA-School-Finance-101.pptx).
-- Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and email me at least 250 words of insightful notes and/or personal reflections within 48 hours, to substitute for the Leaflet Map Code Template quiz that is due on Monday 7 November.
-
-### Tue 18 Oct
-- Announcements: Alternative Assignment updates; almost finished with Build 2+3 evaluations.
+### Tue 7 March
 - Overview of Learning Goal #6: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
   - Map types (focus on point, symbol point, and choropleth maps)
   - Map design principles and rules
   - Choropleth colors and intervals (focus on basic concepts for now)
   - Normalize choropleth map data
   - Create choropleth maps with Datawrapper
-- Prep for Map Your Data quiz, to be taken during any 3-hour period by Mon 24 Oct 9pm on [Moodle](https://moodle.trincoll.edu).
+- Prep for Map Your Data quiz, to be taken during any 3-hour period by Mon 13 March 9pm on [Moodle](https://moodle.trincoll.edu).
 
-### Thu 20 Oct
-- Continue overview of Learning Goal #6: Map Your Data,
-- In-class duo practice exercises
-  - Use [Interdistrict Choice Schools data](https://docs.google.com/spreadsheets/d/1lTAX2Pwb5CWWIp7zF-Z5DuUCK5gzrf9HAbO5H6AsvEo/edit#gid=706121225) to create a map of their locations, type, and enrollment size
-  - Use [CT Town race & ethnicity ACS 2016-20 data](https://docs.google.com/spreadsheets/d/1S_dLhcYI5fLNNtGnBZv0gqHfPM9bdWlwDnlJcgBtDPg/edit#gid=1207140211) to create a meaningful map of proportion of one racial or ethnic group
+### Thu 9 March
+- Continue overview of Learning Goal #6: Map Your Data
+- In-class map practice exercises: point versus polygon maps
+  <!-- - Use [Interdistrict Choice Schools data](https://docs.google.com/spreadsheets/d/1lTAX2Pwb5CWWIp7zF-Z5DuUCK5gzrf9HAbO5H6AsvEo/edit#gid=706121225) to create a map of their locations, type, and enrollment size
+  - Use [CT Town race & ethnicity ACS 2016-20 data](https://docs.google.com/spreadsheets/d/1S_dLhcYI5fLNNtGnBZv0gqHfPM9bdWlwDnlJcgBtDPg/edit#gid=1207140211) to create a meaningful map of proportion of one racial or ethnic group -->
 
-### Sat 22 Oct
-- Alternative Assignment #3: [2nd Annual RSCO School Choice Fun Fall Fair](https://portal.ct.gov/SDE/School-Choice/RSCO/Regional-School-Choice-Office-Home-Page), Location: Dunkin Donuts Park, 1214 Main Street, near downtown Hartford, on Saturday, October 22, 2022. Time: 9:30 am to 1:30 pm. Attend ANY portion for 1 hour, visit school booths, and email me at least 250-word observational notes about how different magnet schools market themselves to interested families, plus a selfie photo on location, within 48 hours of the event, to substitute for the Leaflet Map Code Template quiz that is due on Monday 7 November.
-
-### Tue 25 Oct
-- Good job on the Map quiz (and my apologies for forgetting to delete old content in bottom half of question 2)
-- Reflection on RSCO school choice fair
+### Tue 14 March
 - Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
-  - View and edit GeoJSON boundary data with either tool: [GeoJSON.io](https://geojson.io) or [Mapshaper.org](https://mapshaper.org)
-- **Updated** steps to edit a CT Towns GeoJSON file and upload as a custom map boundary Datawrapper
-  - Open the [ct-boundaries folder on GitHub](https://github.com/handsondataviz/ct-boundaries) in your browser, click *Code > Download Zip*, then uncompress the folder in your local computer. **Be sure to use the updated 2022 file** for next steps.
+  - Create and edit GeoJSON boundary data with [GeoJSON.io](https://geojson.io) - View or edit or transform GeoJSON data [Mapshaper.org](https://mapshaper.org)
+- Steps to edit a CT Towns GeoJSON file and upload as a custom map boundary Datawrapper
+  <!-- - Open the [ct-boundaries folder on GitHub](https://github.com/handsondataviz/ct-boundaries) in your browser, click *Code > Download Zip*, then uncompress the folder in your local computer. **Be sure to use the updated 2022 file** for next steps.
   - Drag and drop the `ct-towns-2022-simple-datactgov.geojson` file from your local computer to either [Geojson.io](https://geojson.io) or [Mapshaper.org](https://mapshaper.org) to edit
   - Edit a customized subgroup of CT towns, such as those shown in our 33-town Hartford region.
   - Export your customized file, and rename if needed, with `.geojson` extension
-  - When making a choropleth map in Datawrapper, upload your custom GeoJSON boundary file
-- Prep for Transform Your Map Data quiz, to be taken during any 3-hour period by Mon 31 Oct 9pm on [Moodle](https://moodle.trincoll.edu). If you celebrate Halloween, manage your time to finish the quiz well before the deadline.
+  - When making a choropleth map in Datawrapper, upload your custom GeoJSON boundary file -->
+- Prep for Transform Your Map Data quiz, to be taken during any 3-hour period by **Thu 16 March 9pm (early deadline due to spring break)** on [Moodle](https://moodle.trincoll.edu).
 
-### Wed 26 Oct
-- Alternative Assignment #4: Wed 26 October 6:30-8:00pm on Zoom (request link from instructor ahead of time). GHIAA All-Teams Meeting for October Research Actions. The Focus of the October All Teams Meeting and the Education Team Breakout determined closer to the date and designed based on the emerging issue.
-- See also Alternative Assignment guidelines
+### Thu 16 March
+- Tutorial: transform crash data from points-to-polygon, to answer one part of the Moodle quiz
 
-### Thu 27 Oct
-- Before class, read [Build 4 Draft](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit), especially part B about school funding questions and sources. Explore at least 3 of the existing visualizations created by CT School + State Finance Project.
-- In class: each student will be assigned to either summarize a portion of work we've done so far (Part A) OR ask question and take detailed notes about school funding data availability (Part B).
-- Workshop with Erika Haynes and Morgan Considine, School + State Finance Project <https://schoolstatefinance.org> on Zoom from 1:45-2:30pm
-- Fixed (see 25 Oct): Process to customize and upload 33-town GeoJSON boundary map to Datawrapper
-- For next class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future. In other words, "jackdougherty" or "jdougherty" is better than "BikeDaddy1965".
+### Tue 21 March
+- No class: Trinity spring break
 
-### Tue 1 Nov
+### Thu 23 March
+- No class: Trinity spring break
+
+### Tue 28 March
+- Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future. In other words, "jackdougherty" or "jdougherty" is better than "BikeDaddy1965".
 - Overview of Learning Goal #8: Edit and Host Leaflet Code on GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
   - Analogy: GitHub Code Repository and Public Recipe Cookbook
-  - Example: <https://github.com/JackDougherty/pumpkin-choc-chip>
   - Copy, Edit, and Host a Simple Leaflet Map
-- Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Mon 7 Nov 9pm on [Moodle](https://moodle.trincoll.edu). **This quiz is open now**, and I recommend that you complete it as soon as possible since most students have two quizzes due on Nov 7th.
-- Help me reach students who may be interested in Educ 206 DataViz in Spr 2023, TR 1:30-2:45pm
+- Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Mon 3 April 9pm **first quiz due on same date** on [Moodle](https://moodle.trincoll.edu).
+- Start thinking about your preferences for final projects (Builds 4-7)
 
-### Thu 3 Nov
+### Thu 30 March
 - Overview of Learning Goal #9: Explore Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
   - Leaflet Storymaps with Google Sheets
-  - Leaflet Maps with Google Sheets
-- Prep for Leaflet Map Code Template quiz, to be taken during any 2-hour period by Mon 7 Nov 9pm, **meaning two quizzes due on the same date for most students**, on [Moodle](https://moodle.trincoll.edu).
-- Alternative Assignment guidelines: Each student may attend one of the 60-90 minute online meetings with our community partners listed above and email me at least 250 words of insightful notes and/or personal reflections within 48 hours, to substitute for the Leaflet Map Code Template quiz #9 that is due on Monday 7 November.
+- Prep for Leaflet Map Code Template quiz, to be taken during any 2-hour period by Mon 3 April 9pm **second quiz due on same date** on [Moodle](https://moodle.trincoll.edu).
+- Submit preferences for final projects (Builds 4-7), with final decisions made by instructor to balance numbers.
+- Assign Build 4: Create a Preliminary Data Visualization, due by Wed 5 April 9pm, worth 5 points.
 
-### Tue 8 Nov
-- Today is US Election Day: Is our topic just a coincidence?
-  - Compare how two different maps forecast results of US House of Representatives results for today's election. What do you notice?
-    - <https://www.270towin.com/2022-house-election/>
-    - <https://projects.fivethirtyeight.com/2022-election-forecast/house/>
-- Overview of Learning Goal #10: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
-  - How to Lie with Charts
-  - How to Lie with Maps
-  - Recognize and Reduce Data Bias
-  - Recognize and Reduce Spatial Bias
-- Prep for Detect Lies quiz, to be taken during any 3-hour period by **Fri 11 Nov 9pm** on [Moodle](https://moodle.trincoll.edu). We have an early quiz deadline this week to provide you with sufficient time for Build #4 next week.
-- Assign [Build 4 combined with Quiz #11](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit): Tell a Meaningful Data Story with around 750-1000 words and at least two visualizations. Work solo (may be coordinated) or as a duo. Due Mon 14 Nov 9pm, with link on the Build 4 Doc to work in your Google Doc, worth 10 points.
+### Tue 4 April
+- Workshop time for Build 4
+- 10-minute meetings with instructor and TA
 
-### Thu 10 Nov
-- Confirm student assignments for [Build 4 combined with Quiz #11](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit)
-  - Due Mon 14 Nov 9pm
-- Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
+### Thu 6 April
+- Review Build 4 Preliminary Visualizations
+- Overview of Learning Goal #10: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
   - Build Narrative on a Storyboard
   - Draw Attention to Meaning
   - Acknowledge Sources and Uncertainty
-- There is no separate Moodle quiz, because this content is combined with Build 4 above.
-- Workshop: Draw your data story ideas, on paper
+- There is no separate Moodle quiz, because this content is combined with the Build below.
+- Assign Build 5 combined with Quiz #11: Tell a Meaningful Data Story with around 750-1000 words and at least two visualizations, based on assigned project. Due Mon 10 April by 9pm, with a link to your Google Doc and related files, worth 10 points.
 
-### Tue 15 Nov
-- Looking ahead to Finalizing Your Data Stories
+### Tue 11 April
+- In-class: Do Build Stage 6: Peer Review Template for Data Story, due during class, worth 5 points. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
+  <!-- - See [peer review assignments on Build 4 document](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit). Students must submit a full draft for review before they can participate in peer review.
+- Announcement about scoring of combined assignment: Build 4 (5 points based on work submitted before Tuesday's class) and Quiz 11 (5 points based on revised work submitted before Thursday's class). Continue to use same links on Build 4 document. -->
+  <!-- Looking ahead to Finalizing Your Data Stories
   - [Sample data story 1 by Victoria Asfalg and Riley Nichols](https://datavizforall.org/habitat-asfalg-nichols/), December 2021
-  - [Sample data story 2 by Bonnie LaBonte and Lachlan Clark](https://datavizforall.org/clj-labonte-clark/), December 2021
-- Assign [Build Stage 5: Peer Review Template for Data Story](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit), due during class, worth 5 points. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
-  - See [peer review assignments on Build 4 document](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit). Students must submit a full draft for review before they can participate in peer review.
-- Announcement about scoring of combined assignment: Build 4 (5 points based on work submitted before Tuesday's class) and Quiz 11 (5 points based on revised work submitted before Thursday's class). Continue to use same links on Build 4 document.
-- Need your help to recruit students for next semester
-  - Which digital flyer works best? [Version 1](https://datavizforall.org/images/enroll-2023spring1.png) or [Version 2](https://datavizforall.org/images/enroll-2023spring2.png)?
-  - Please share either with friends via email, text, or social media
-  - Reminder: Beginning Wednesday Nov 16th, the Registrar will remove a restriction that prevented students from registering for more than 4.75 credits.
+  - [Sample data story 2 by Bonnie LaBonte and Lachlan Clark](https://datavizforall.org/clj-labonte-clark/), December 2021 -->
 
-### Thu 17 Nov
-- Overview of Learning Goal #12: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
+### Thu 13 April
+- Overview of Learning Goal #11: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
   - Static images versus interactive iframes
   - Get the iframe embed code for a published visualization
   - Embed the iframe code in an HTML web page
   - Make your own copy of [dataviz-story-template from GitHub](https://github.com/DataVizForAll/dataviz-story-template) and follow instructions inside the `index.html` file
-  - Start Embed on the Web quiz, due by Tues 22 Nov 2:45pm on [Moodle](https://moodle.trincoll.edu).
-- Assign [Build Stage 6](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit): Submit complete draft of your data story, as a published GitHub Pages link, due at end of class on Tues 29 Nov, for comments by CLJ (no scores).
-- Sign up for a [20-minute Zoom meeting on my calendar](https://jackdougherty.org) (with classmate if working together) to review instructor's feedback on data story, required by Tues 22 Nov
+  - Start Embed on the Web quiz, due by Mon 17 April 9pm on [Moodle](https://moodle.trincoll.edu).
+- Assign Build Stage 6A & 6B: Submit complete draft of your data story, as a published GitHub Pages link, for comments (no scores) by community partners.
+  - Build 6A Crash, due by Wed 19 April 4pm, for instructor to send to partners.
+  - Build 6B Trash, due by Fri 21 April 4pm, for instructor to send to partners.
 
-### Tue 22 Nov
-- Scheduled Zoom meetings with instructor (Fri-Mon-Tues 18-21-22 Nov) instead of regular class to review my feedback on data stories.
-
-### Thu 24 Nov
-- No class: Thanksgiving break
-
-### Tue 29 Nov
-- Thank you for helping to recruit new students for next semester
-- See updated [dataviz-story-template](https://datavizforall.org/dataviz-story-template/) section 3 for sample citation + bibliography, and helpful <https://Zbib.org> tool. Note that you may need to **click the edit button to manually add key details** such as author and date if the tool does not automatically recognize them from the web page you wish to cite.
-- Workshop to finish data stories in preparation for CLJ meeting on Thur 1 Dec
+### Tue 18 April
+- Workshop to finish data stories in preparation for community partner meetings
   - 5-minute meetings with instructor to review content or HTML formatting
   - 5-minute meetings with TA to rehearse your 2-minute presentations of highlights in your data story on GitHub
   - Everyone: Finish moving text and visualizations from Google Doc to GitHub format
-  - Everyone: Review Expectations and Assessment criteria in [Build 6+7 Doc](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit)
-- In [Build 6 Google Doc](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit) paste your data story title (with link) and names before leaving class **updated: by Wed 9am**. I will reorganize the lineup to create a more coherent flow of topics for our audience.
+  - Everyone: Review Expectations and Assessment criteria in Build 6+7
 
-### Thu 1 Dec
-- Meet with Center for Leadership and Justice partners on Zoom, 1:35-2:40pm
-- [Build 6](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit): Deliver 2-minute presentation of highlights in your data story, then listen to feedback and write down revisions to consider. Comments only, not graded.
-- Assign [Build Stage 7](https://docs.google.com/document/d/1hC0STmijHgMjEmwnGvoeEYzpF6DP9F7mPFRAURlLwWM/edit): Revise and Finalize Data story on GitHub Pages template for guest experts, due Tues 6 Dec at 4pm. **No extensions** because your work must be "frozen" and forwarded to guest experts at this time. Worth 10 points, evaluated by guest experts.
-- Students are welcome to schedule an appointment on [my online calendar](https://jackdougherty.org) before Tuesday's class.
-- [Invitation from CLJ](https://cljct.org) to attend [Greater Hartford Interfaith Action Alliance Social Justice Assembly](https://datavizforall.org/images/2022-12-GHIAA-assembly.pdf), Wed Dec 7th from 7-9pm at Weaver High School Auditorium, 415 Granby St, Hartford. Register at <http://cljct.org/special-guests>. One of your classmates is offering to drive.
+### Thu 20 April
+- Build 6A: Meet with Crash community partners (Grace Yi and Owen Deutsch) on Zoom from 1:30-2:15pm. Deliver 2-minute presentation of highlights in your data story, then listen to feedback and write down revisions to consider. Comments only, not graded.
 
-### Tue 6 Dec
-- In class: [Student course feedback on what helped you learn](https://docs.google.com/document/d/1XKPqIAosNYKk0W3fvx9N-CEcP27cMQXVIbjhHjcD1t8/edit#). Also, please fill out the College's standard online evaluation form when available.
-- About [Build 7: Present Final Data Stories to Guest Experts](https://docs.google.com/document/d/1YxSMJoLX-dvyeXaDrp4OdIMiTi6uozIK6PTu3_2tJek/edit).
-  - Thursday's presentations will begin at 1:15pm on Zoom. Log in a few minutes before your presentation time and hang out in the waiting room to be let in.
-  - After today's class at 4pm (no extensions), your data story will be "frozen" and a copy will be transferred to our class GitHub account. I will forward this final version to our guest experts, who need to read your work before your presentations, and I will publish it on the public [Partners and Projects page](https://datavizforall.org/partners-projects/).
+### Tue 25 April
+- Build 6B: Meet with Trash community partner Sarah McCoy on Zoom from 1:30-2:15pm. Deliver 2-minute presentation of highlights in your data story, then listen to feedback and write down revisions to consider. Comments only, not graded.
+- All: Assign Build Stage 7: Revise and Finalize Data story on GitHub Pages template for guest expert, Monday 1 May at 12 noon. **No extensions** because your work must be "frozen" and forwarded to guest expert to review ahead of time. Worth 10 points, scored by guest expert.
+
+### Thu 27 April
+- About Build 7: Present Final Data Stories to Guest Expert
+  - On Monday 1 May at 12 noon, your data story will be "frozen" and a copy will be transferred to our class GitHub account. I will forward this final version to our guest experts, who need to read your work before your presentations, and I will publish it on the public [Partners and Projects page](https://datavizforall.org/partners-projects/).
 - Decision to make before your data story is "frozen" and published:
   - Insert your full name (recommended), or you have the right to use only your first name or initials
   - See what other students did in my "[Public Writing and Student Privacy](https://epress.trincoll.edu/webwriting/chapter/dougherty-public/)" chapter of [Web Writing](https://webwriting.trincoll.edu) book (2015).
   - Recommended: Insert link to your published data story in your resume to demonstrate what you learned to prospective employers and graduate schools.
 - Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
-- Workshop: Last chance to consult with instructor, TA, and classmates to finalize data story.
+- Workshop: Last chance to consult with instructor to finalize data story.
 
-### Thu 8 Dec
+### Tue 2 May
+- In class: Student course feedback on what helped you learn. Also, please fill out the College's standard online evaluation form when available.
+- Rehearse final presentations for Build 7 guest expert
+- Overview of Learning Goal #12: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
+  - How to Lie with Charts
+  - How to Lie with Maps
+  - Recognize and Reduce Data Bias
+  - Recognize and Reduce Spatial Bias
+  <!-- - Compare how two different maps forecast results of US House of Representatives results for today's election. What do you notice?
+    - <https://www.270towin.com/2022-house-election/>
+    - <https://projects.fivethirtyeight.com/2022-election-forecast/house/> -->
+- Prep for Detect Lies quiz, to be taken during any 3-hour period by Mon 8 May 9pm on [Moodle](https://moodle.trincoll.edu).
+
+### Wed 3 May
+- The College decided that our last "Thursday" class meets on Wed 3 May
 - **Class begins at 1:15pm today and will take place in my Zoom room** to ensure time for all presenters to interact with guest experts. Students must log into my Zoom room a few minutes before their designated time.
-- [Build 7: Present Final Data Stories to Guest Experts](https://docs.google.com/document/d/1YxSMJoLX-dvyeXaDrp4OdIMiTi6uozIK6PTu3_2tJek/edit): Shasha Davis and Michael Morton (both from <https://schoolstatefinance.org>) and Ilya Ilyankou (Trinity '18 and <https://HandsOnDataViz.org> co-author). Guest experts will review final data stories online before the event. Each solo/duo will up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
+- Build 7: Present Final Data Stories to guest expert, Ilya Ilyankou (Trinity '18 and co-author of <https://HandsOnDataViz.org>), who will review final data stories online before the event. Each team will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluator.
