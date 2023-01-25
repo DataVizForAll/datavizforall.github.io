@@ -29,8 +29,6 @@ This semester we will work with community learning parters on two data visualiza
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_86b106xl&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 [Intro video for Crash project, Spring 2023](https://trincoll.mediaspace.kaltura.com/media/1_86b106xl) with partners Grace Yi and Owen Deutsch [Planning Division, City of Hartford](https://www.hartfordct.gov/Government/Departments/DDS/DDS-Staff-Directory)
 
-<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_86b106xl&flashvars[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-
 **Trash:** Sarah McCoy from the [Center for Leadership and Justice](https://cljct.org) in Hartford has asked us to help visualize answers to this environmental racism question: Where does our trash go, whose neighborhoods are affected, and how much can we reduce solid waste?
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/41685872/partner_id/2366381?iframeembed=true&playerId=kaltura_player&entry_id=1_nrh3aui1&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
