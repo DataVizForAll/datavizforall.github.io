@@ -125,6 +125,7 @@ Important updates from the instructor will be marked **in bold**.
 - Before class, read background news stories on our partners' projects:
   - Christine Dempsey, “Trinity College Student Killed, Two Others Injured After Being Struck by Car in Hartford Hit-and-Run,” Hartford Courant, April 1, 2022, <https://www.courant.com/breaking-news/hc-br-hartford-fatal-accident-trinity-20220401-x5t2uvjgx5acxexmckwoh2aj5i-story.html>.
   - Ed Stannard, “Here Are 10 Hartford Roads with the Most Crashes Since 2020,” Hartford Courant, July 18, 2022, <https://www.courant.com/community/hartford/hc-news-most-dangerous-roads-hartford-20220718-w2ktrvv7anfcdnmvdwmx4qv7lu-story.html>.
+  - Kerri Ana Provost, “Op-Ed: Vision Zero Bill Would Address Causes of Pedestrian Crashes,” CT News Junkie, January 30, 2023, <http://ctnewsjunkie.com/2023/01/30/op-ed-vision-zero-bill-would-address-causes-of-pedestrian-crashes/>.
   - John Moritz, “Connecticut Produces More Trash Than It Can Handle. How Can It Be Resolved?,” CT Insider, January 15, 2023, <https://www.ctinsider.com/politics/article/MIRA-closure-Connecticut-seeks-to-manage-trash-17716605.php>.
   - Mark Pazniokas, “CT Has a Trash Problem. Here’s How Lamont Wants to Solve It,” CT Mirror, January 24, 2023, <http://ctmirror.org/2023/01/24/ct-trash-disposal-facility-mira-closed-food-waste-shipping/>.
 - In-class: Meet with Hartford community partners on Zoom:
