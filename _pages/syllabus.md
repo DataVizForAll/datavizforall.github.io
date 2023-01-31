@@ -108,6 +108,7 @@ Important updates from the instructor will be marked **in bold**.
 - Why data visualization matters to me: Telling and showing hidden stories of housing and education inequality in [On The Line book-in-progress](https://ontheline.trincoll.edu)
 
 ### Tue 31 Jan
+- Advice from TA on scheduling appointments and how to succeed in this course
 - Overview of Learning Goal #1: Strengthen Your Spreadsheet Skills. Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
   - Copy, Share, and Convert Google Sheets
   - Geocode locations
@@ -115,14 +116,15 @@ Important updates from the instructor will be marked **in bold**.
   - Calculate with formulas
   - Summarize with pivot tables
   - Match columns with VLOOKUP
+- [Google Spreadsheet Skills Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
 - [Google Username and Sheet Sharing Practice](https://docs.google.com/document/d/1tmLJQwFk2SfPPdovTguL5uLZ50Mb77mfvnowuQ9n95E/edit)
-- [Spreadsheet Skills Peer Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
 - Prep for Spreadsheet quiz, to be taken during any 2-hour period before Mon 6 Feb 9pm on [Moodle](https://moodle.trincoll.edu)
 - One day after the quiz window closes, some students may receive an email requesting quiz revisions within 24 hours. If no email arrives, you likely earned full credit, which can be confirmed in your Moodle gradebook.
-- Advice from TA on scheduling appointments and how to succeed in this course
+- Start reading background news for next meeting with Hartford partners, since Build 1 will ask questions based on reading.
 
 ### Thu 2 Feb
 - Before class, read background news stories on our partners' projects:
+  - Hint: if you cannot access a publication behind a paywall, try the Trinity Library A-Z Databases guide <https://courseguides.trincoll.edu/az.php>
   - Christine Dempsey, “Trinity College Student Killed, Two Others Injured After Being Struck by Car in Hartford Hit-and-Run,” Hartford Courant, April 1, 2022, <https://www.courant.com/breaking-news/hc-br-hartford-fatal-accident-trinity-20220401-x5t2uvjgx5acxexmckwoh2aj5i-story.html>.
   - Ed Stannard, “Here Are 10 Hartford Roads with the Most Crashes Since 2020,” Hartford Courant, July 18, 2022, <https://www.courant.com/community/hartford/hc-news-most-dangerous-roads-hartford-20220718-w2ktrvv7anfcdnmvdwmx4qv7lu-story.html>.
   - Kerri Ana Provost, “Op-Ed: Vision Zero Bill Would Address Causes of Pedestrian Crashes,” CT News Junkie, January 30, 2023, <http://ctnewsjunkie.com/2023/01/30/op-ed-vision-zero-bill-would-address-causes-of-pedestrian-crashes/>.
