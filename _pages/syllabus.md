@@ -130,10 +130,10 @@ Important updates from the instructor will be marked **in bold**.
   - Kerri Ana Provost, “Op-Ed: Vision Zero Bill Would Address Causes of Pedestrian Crashes,” CT News Junkie, January 30, 2023, <http://ctnewsjunkie.com/2023/01/30/op-ed-vision-zero-bill-would-address-causes-of-pedestrian-crashes/>.
   - John Moritz, “Connecticut Produces More Trash Than It Can Handle. How Can It Be Resolved?,” CT Insider, January 15, 2023, <https://www.ctinsider.com/politics/article/MIRA-closure-Connecticut-seeks-to-manage-trash-17716605.php>.
   - Mark Pazniokas, “CT Has a Trash Problem. Here’s How Lamont Wants to Solve It,” CT Mirror, January 24, 2023, <http://ctmirror.org/2023/01/24/ct-trash-disposal-facility-mira-closed-food-waste-shipping/>.
-- In-class: Meet with Hartford community partners on Zoom:
+- In-class: [Meet with Hartford community partners on Zoom](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit)
   - 1:45-2pm crash data questions with Grace Yi and Owen Deutsch, Planning Division, City of Hartford
   - 2-2:15pm trash data questions with Sarah McCoy, Center for Leadership and Justice, Hartford
-- Assign Build Stage 1: Find and Question Data, due Wed 8 Feb 9pm on Google Doc, worth 5 points.
+- Assign random pairs of students to [Build Stage 1: Listen to Hartford Partners and Find & Question](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit), due Wed 8 Feb 9pm on Google Doc, worth 5 points.
 
 ### Tue 7 Feb
 - Before class, read and be prepared to discuss Catherine D'Ignazio and Lauren Klein *Data Feminism* chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, especially these selections:
@@ -149,6 +149,7 @@ Important updates from the instructor will be marked **in bold**.
   - Recognize bad data
   - Question your data
   - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Mon 13 Jan 9pm on [Moodle](https://moodle.trincoll.edu)
+  - We will discuss your progress with [Build 1](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit) before it is due on Wed 9pm
 
 ### Thu 9 Feb
 - Read before class:
