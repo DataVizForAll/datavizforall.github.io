@@ -124,11 +124,10 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Thu 2 Feb
 - Before class, read background news stories on our partners' projects:
-  - Hint: if you cannot access a publication behind a paywall, try the Trinity Library A-Z Databases guide <https://courseguides.trincoll.edu/az.php>
-  - Christine Dempsey, “Trinity College Student Killed, Two Others Injured After Being Struck by Car in Hartford Hit-and-Run,” Hartford Courant, April 1, 2022, <https://www.courant.com/breaking-news/hc-br-hartford-fatal-accident-trinity-20220401-x5t2uvjgx5acxexmckwoh2aj5i-story.html>.
+  - Christine Dempsey, “Trinity College Student Killed, Two Others Injured After Being Struck by Car in Hartford Hit-and-Run,” Hartford Courant, April 1, 2022, <https://www.courant.com/breaking-news/hc-br-hartford-fatal-accident-trinity-20220401-x5t2uvjgx5acxexmckwoh2aj5i-story.html>. **Hint**: Since the *Hartford Courant* articles above and below are behind a paywall, access them by searching the Trinity Library A-Z Databases guide <https://courseguides.trincoll.edu/az.php>
   - Ed Stannard, “Here Are 10 Hartford Roads with the Most Crashes Since 2020,” Hartford Courant, July 18, 2022, <https://www.courant.com/community/hartford/hc-news-most-dangerous-roads-hartford-20220718-w2ktrvv7anfcdnmvdwmx4qv7lu-story.html>.
   - Kerri Ana Provost, “Op-Ed: Vision Zero Bill Would Address Causes of Pedestrian Crashes,” CT News Junkie, January 30, 2023, <http://ctnewsjunkie.com/2023/01/30/op-ed-vision-zero-bill-would-address-causes-of-pedestrian-crashes/>.
-  - John Moritz, “Connecticut Produces More Trash Than It Can Handle. How Can It Be Resolved?,” CT Insider, January 15, 2023, <https://www.ctinsider.com/politics/article/MIRA-closure-Connecticut-seeks-to-manage-trash-17716605.php>.
+  - John Moritz, “Connecticut Produces More Trash Than It Can Handle. How Can It Be Resolved?,” CT Insider, January 15, 2023, <https://www.ctinsider.com/politics/article/MIRA-closure-Connecticut-seeks-to-manage-trash-17716605.php>. **Hint** Since CT Insider is behind a paywall and Trinity Library does not yet subscribe, see PDF version in Moodle.
   - Mark Pazniokas, “CT Has a Trash Problem. Here’s How Lamont Wants to Solve It,” CT Mirror, January 24, 2023, <http://ctmirror.org/2023/01/24/ct-trash-disposal-facility-mira-closed-food-waste-shipping/>.
 - In-class: [Meet with Hartford community partners on Zoom](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit)
   - 1:45-2pm crash data questions with Grace Yi and Owen Deutsch, Planning Division, City of Hartford
