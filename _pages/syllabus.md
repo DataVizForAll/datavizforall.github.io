@@ -135,6 +135,7 @@ Important updates from the instructor will be marked **in bold**.
 - Assign random pairs of students to [Build Stage 1: Listen to Hartford Partners and Find & Question](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit), due Wed 8 Feb 9pm on Google Doc, worth 5 points.
 
 ### Tue 7 Feb
+- Congratulations to everyone on successfully completing the Spreadsheet quiz
 - Before class, read and be prepared to discuss Catherine D'Ignazio and Lauren Klein *Data Feminism* chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, especially these selections:
   - [Chapter 1. Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4) begins with a story about tennis star Serena Williams. What do the authors mean by this line? ["What we choose to measure is a statement of what we value...and who we value"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4#nxk87mil5kj)
   - [Chapter 2 about Challenge Power](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) begins with a comparison of two different maps of Detroit. How do the maps differ, and what do the authors mean when they ask ["Who makes maps and who gets mapped?"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4#nl1iq5r2p9p)
@@ -147,8 +148,8 @@ Important updates from the instructor will be marked **in bold**.
   - Source your data
   - Recognize bad data
   - Question your data
-  - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Mon 13 Jan 9pm on [Moodle](https://moodle.trincoll.edu)
-  - We will discuss your progress with [Build 1](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit) before it is due on Wed 9pm
+  - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Mon 13 Feb 9pm on [Moodle](https://moodle.trincoll.edu)
+  - Work with your partner to complete [Build 1](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit), and paste the link to your Google Doc (shared, so that anyone can comment) on the Build 1 page before Wed 9pm
 
 ### Thu 9 Feb
 - Read before class:
