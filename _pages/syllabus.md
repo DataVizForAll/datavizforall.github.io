@@ -152,9 +152,11 @@ Important updates from the instructor will be marked **in bold**.
   - Work with your partner to complete [Build 1](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit), and paste the link to your Google Doc (shared, so that anyone can comment) on the Build 1 page before Wed 9pm
 
 ### Thu 9 Feb
-- Read before class:
-  - Marin Cogan, “The Deadliest Road in America,” Vox, July 18, 2022, <https://www.vox.com/23178764/florida-us19-deadliest-pedestrian-fatality-crisis>.
-- In class: Review Build 1
+- Before class, register for a free account at the [UConn Crash Data Repository](https://www.ctcrash.uconn.edu)
+- Before class, explore visualizations below and be prepared to discuss: How does each address -- or not address -- requests made by our community partner at the top of [Build 1](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit)?
+  - Naugatuck Valley Council of Governments, “We are in a Waste Crisis” storymap, October 19, 2022, <https://storymaps.arcgis.com/stories/be24e917780f42909ddb3248384a2b90>.
+  - US Dept of Transportation, "Our Nation's Roadway Safety Crisis" storymap, February 2, 2023, <https://storymaps.arcgis.com/stories/9e0e6b7397734c1387172bbc0001f29b>
+- In class: Review student responses submitted for [Build 1](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit)
 
 ### Tue 14 Feb
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
@@ -218,7 +220,9 @@ Important updates from the instructor will be marked **in bold**.
 - Prep for Transform Your Map Data quiz, to be taken during any 3-hour period by **Thu 16 March 9pm (early deadline due to spring break)** on [Moodle](https://moodle.trincoll.edu).
 
 ### Thu 16 March
-- Tutorial: transform crash data from points-to-polygon, to answer one part of the Moodle quiz
+- Before class, read:  
+  - Marin Cogan, “The Deadliest Road in America,” Vox, July 18, 2022, <https://www.vox.com/23178764/florida-us19-deadliest-pedestrian-fatality-crisis>.
+- In-class tutorial: transform crash data from points-to-polygon, to answer one part of the Moodle quiz
 
 ### Tue 21 March
 - No class: Trinity spring break
