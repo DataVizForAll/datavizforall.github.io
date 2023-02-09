@@ -156,7 +156,7 @@ Important updates from the instructor will be marked **in bold**.
 - Before class, explore visualizations below and be prepared to discuss: How does each address -- or not address -- requests made by our community partner at the top of [Build 1](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit)?
   - Naugatuck Valley Council of Governments, “We are in a Waste Crisis” storymap, October 19, 2022, <https://storymaps.arcgis.com/stories/be24e917780f42909ddb3248384a2b90>.
   - US Dept of Transportation, "Our Nation's Roadway Safety Crisis" storymap, February 2, 2023, <https://storymaps.arcgis.com/stories/9e0e6b7397734c1387172bbc0001f29b>
-- In class: Review student responses submitted for [Build 1](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit)
+- In class: Review [Build 1 student responses pasted](https://docs.google.com/document/d/1J_ppsOyPg6QM0tOdOE-MDJeBwtZ_7XNCzWkljPwtxlI/edit)
 - In class: [UConn Crash Data Repository Tutorial](https://docs.google.com/document/d/167JpHEU4yTWhCMcYyExA6rEChIg7gXmXU0-Q3P2SowQ/edit) and [Jack's Sample Google Sheet](https://docs.google.com/spreadsheets/d/1yPrH8cN_yok_q-PcgQh9mP3DOPIJctHEJuwLmSXN6H8/edit#gid=239525217)
 
 ### Tue 14 Feb
