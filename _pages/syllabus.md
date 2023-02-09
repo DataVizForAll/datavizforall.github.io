@@ -157,6 +157,7 @@ Important updates from the instructor will be marked **in bold**.
   - Naugatuck Valley Council of Governments, “We are in a Waste Crisis” storymap, October 19, 2022, <https://storymaps.arcgis.com/stories/be24e917780f42909ddb3248384a2b90>.
   - US Dept of Transportation, "Our Nation's Roadway Safety Crisis" storymap, February 2, 2023, <https://storymaps.arcgis.com/stories/9e0e6b7397734c1387172bbc0001f29b>
 - In class: Review student responses submitted for [Build 1](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit)
+- In class: [UConn Crash Data Repository Tutorial](https://docs.google.com/document/d/167JpHEU4yTWhCMcYyExA6rEChIg7gXmXU0-Q3P2SowQ/edit)
 
 ### Tue 14 Feb
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
