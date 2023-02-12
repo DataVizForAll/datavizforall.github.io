@@ -172,8 +172,7 @@ Important updates from the instructor will be marked **in bold**.
 ### Thu 16 Feb
 - Assign Build 2: Clean Crash Data and Trash Data, due Tues 21 Feb 12 noon, worth 5 points.
 - [Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1XX9mOJYp93Q8wMr_rkW2TuciqcW-w_i3nAI5XGlihPw/edit)
-<!-- - UConn Crash repo: download hartford data for multiple years, and merge tables
-- Trash data: convert a PDF to CSV -->
+<!-- UConn Crash repo: download hartford data for multiple years, and merge tables Trash data: convert a PDF to CSV -->
 
 ### Tue 21 Feb
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
