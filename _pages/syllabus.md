@@ -168,6 +168,7 @@ Important updates from the instructor will be marked **in bold**.
   - Combine Data into One Column
   - Extract Tables from PDFs
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Mon 20 Feb 9pm on [Moodle](https://moodle.trincoll.edu)
+- Up to 3 students may sign up to accompany community partner Sarah McCoy on Trash Photo Mission on Tuesday 21 Feb, departing in her car from Mather Circle 12:15pm and returning to campus before our class. In exchange for writing detailed captions for Sarah's photos, these students will be exempted from Quiz 4: Make Meaningful Comparisons.
 
 ### Thu 16 Feb
 - Assign Build 2: Clean Crash Data and Trash Data, due Tues 21 Feb 12 noon, worth 5 points.
@@ -175,6 +176,7 @@ Important updates from the instructor will be marked **in bold**.
 <!-- UConn Crash repo: download hartford data for multiple years, and merge tables Trash data: convert a PDF to CSV -->
 
 ### Tue 21 Feb
+- Reminder for those who signed up for Trash Photo Mission, depart 12:15pm from Mather Circle in Sarah McCoy's car, return to campus in time for class
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
   - Precisely describe comparisons: practice [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
   - Normalize your data
