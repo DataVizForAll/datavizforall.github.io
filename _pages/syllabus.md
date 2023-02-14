@@ -179,6 +179,7 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Tue 21 Feb
 - Reminder for those who signed up for Trash Photo Mission, depart 12:15pm from Mather Circle in Sarah McCoy's car, return to campus in time for class
+- Introduction to [Taylor Johnston, Interactive Graphics Reporter with CT Insider](https://www.ctinsider.com/author/taylor-johnston/) and expert guest evaluator for our class, via Zoom (1:30-1:40pm)
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
   - Precisely describe comparisons: practice [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
   - Normalize your data
@@ -314,5 +315,5 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Wed 3 May
 - Since the College decided that our last "Thursday" class meets on Wed 3 May, **make sure that you do not have any schedule conflicts**.
-- Class will **begin at 1:15pm today and will take place in my Zoom room** to ensure time for all presenters to interact with guest experts. Students must log into my Zoom room a few minutes before their designated time.
-- Build 7: Present Final Data Stories to guest expert, Ilya Ilyankou (Trinity '18 and co-author of <https://HandsOnDataViz.org>), who will review final data stories online before the event. Each team will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluator.
+- Class will **begin at 1:15pm and end at 2:45pm and will take place in my Zoom room** to ensure time for all presenters to interact with guest experts. Students must log into my Zoom room a few minutes before their designated time.
+- Build 7: Present Final Data Stories to guest experts, [Taylor Johnston](https://www.ctinsider.com/author/taylor-johnston/) (Interactive Graphics Reporter, CT Insider) and Ilya Ilyankou (Trinity '18 and co-author of <https://HandsOnDataViz.org>). Both will review final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
