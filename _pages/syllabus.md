@@ -167,6 +167,8 @@ Important updates from the instructor will be marked **in bold**.
   - Split Data into Separate Columns
   - Combine Data into One Column
   - Extract Tables from PDFs
+    - Hint: When you download and launch the Tabula app, Mac users will need to approve it. Also, the Tabula app opens up in your default browser, so if your default browser does not open it (such as Safari for Mac), copy and paste the link into another browser (such as Firefox or Chrome).
+    - Practice Table Extraction from PDFs: CT DEEP Solid Waste and Recycling Data <https://portal.ct.gov/DEEP/Reduce-Reuse-Recycle/Data/Solid-Waste--Recycling-Data>, see MSW Data for Individual CT Municipalities, Summary Reports (2014 and prior)
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Mon 20 Feb 9pm on [Moodle](https://moodle.trincoll.edu)
 - Up to 3 students may sign up to accompany community partner Sarah McCoy on Trash Photo Mission on Tuesday 21 Feb, departing in her car from Mather Circle 12:15pm and returning to campus before our class. In exchange for writing detailed captions for Sarah's photos, these students will be exempted from Quiz 4: Make Meaningful Comparisons.
 
