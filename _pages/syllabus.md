@@ -173,9 +173,16 @@ Important updates from the instructor will be marked **in bold**.
 - Up to 3 students may sign up to accompany community partner Sarah McCoy on Trash Photo Mission on Tuesday 21 Feb, departing in her car from Mather Circle 12:15pm and returning to campus before our class. In exchange for writing detailed captions for Sarah's photos, these students will be exempted from Quiz 4: Make Meaningful Comparisons.
 
 ### Thu 16 Feb
-- Assign Build 2: Clean Crash Data and Trash Data, due Tues 21 Feb 12 noon, worth 5 points.
-- [Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1XX9mOJYp93Q8wMr_rkW2TuciqcW-w_i3nAI5XGlihPw/edit)
-<!-- UConn Crash repo: download hartford data for multiple years, and merge tables Trash data: convert a PDF to CSV -->
+- Rashaud, Theodora, and Jess will meet partner Sarah McCoy on Trash Photo Mission on Tues 21 Feb, departing Mather Circle at 12:15pm, return to campus for class
+- Follow-up on [Build 1 Crash Request A}(https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit): Can we divide "minor" vs. "serious" injuries in crash data, and what unanswered questions does it raise?
+  - See US Dept of Transportation, National Highway Traffic Safety Administration, [Model Minimum Uniform Crash Criteria](https://www.nhtsa.gov/mmucc-1) (MMUCC). [Download 5th edition](https://crashstats.nhtsa.dot.gov/Api/Public/Publication/812433)
+		- C19 Crash Severity codes (p. 30), which are automatically derived from:
+		- P5 Injury Status (p. 62), see definitions for “suspected serious injury” etc.
+- In-class: [Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1XX9mOJYp93Q8wMr_rkW2TuciqcW-w_i3nAI5XGlihPw/edit)
+  - What levels of US Census data are publicly available? See [HODV chapter](https://handsondataviz.org/guiding.html)
+  - How did US Census tract boundaries change from 2010 to 2020? See [CTData post](https://www.ctdata.org/blog/2020-census-geography-connecticut)
+  - How is US Census data "socially constructed"? See [HODV chapter](https://handsondataviz.org/question.html)
+- Assign [Build 2](https://docs.google.com/document/d/1ZQ23GfaGeGosB3GSEj6nwdU3fz0OP31CnzR8WC83buI/edit): Find and Clean Census tract-level data for City of Hartford only, due Tues 21 Feb 12 noon, worth 5 points.
 
 ### Tue 21 Feb
 - Reminder for those who signed up for Trash Photo Mission, depart 12:15pm from Mather Circle in Sarah McCoy's car, return to campus in time for class
