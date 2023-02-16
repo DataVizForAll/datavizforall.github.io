@@ -174,7 +174,7 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Thu 16 Feb
 - Rashaud, Theodora, and Jess will meet partner Sarah McCoy on Trash Photo Mission on Tues 21 Feb, departing Mather Circle at 12:15pm, return to campus for class
-- Follow-up on [Build 1 Crash Request A}(https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit): Can we divide "minor" vs. "serious" injuries in crash data, and what unanswered questions does it raise?
+- Follow-up on [Build 1 Crash Request A](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit): Can we divide "minor" vs. "serious" injuries in crash data, and what unanswered questions does it raise?
   - See US Dept of Transportation, National Highway Traffic Safety Administration, [Model Minimum Uniform Crash Criteria](https://www.nhtsa.gov/mmucc-1) (MMUCC). [Download 5th edition](https://crashstats.nhtsa.dot.gov/Api/Public/Publication/812433)
 		- C19 Crash Severity codes (p. 30), which are automatically derived from:
 		- P5 Injury Status (p. 62), see definitions for “suspected serious injury” etc.
