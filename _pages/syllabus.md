@@ -170,10 +170,9 @@ Important updates from the instructor will be marked **in bold**.
     - Hint: When you download and launch the Tabula app, Mac users will need to approve it. Also, the Tabula app opens up in your default browser, so if your default browser does not open it (such as Safari for Mac), copy and paste the link into another browser (such as Firefox or Chrome).
     - Practice Table Extraction from PDFs: CT DEEP Solid Waste and Recycling Data <https://portal.ct.gov/DEEP/Reduce-Reuse-Recycle/Data/Solid-Waste--Recycling-Data>, see MSW Data for Individual CT Municipalities, Summary Reports (2014 and prior)
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Mon 20 Feb 9pm on [Moodle](https://moodle.trincoll.edu)
-- Up to 3 students may sign up to accompany community partner Sarah McCoy on Trash Photo Mission on Tuesday 21 Feb, departing in her car from Mather Circle 12:15pm and returning to campus before our class. In exchange for writing detailed captions for Sarah's photos, these students will be exempted from Quiz 4: Make Meaningful Comparisons.
+- Up to 3 students may sign up to accompany community partner Sarah McCoy on Trash Photo Mission on (*new date* Tuesday 28 Feb, departing in her car from Mather Circle 12:15pm and returning to campus before our class. In exchange for writing detailed captions for Sarah's photos, these students will be exempted from Quiz 4: Make Meaningful Comparisons.
 
 ### Thu 16 Feb
-- Rashaud, Theodora, and Jess will meet partner Sarah McCoy on Trash Photo Mission on Tues 21 Feb, departing Mather Circle at 12:15pm, return to campus for class
 - Follow-up on [Build 1 Crash Request A](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit): Can we divide "minor" vs. "serious" injuries in crash data, and what unanswered questions does it raise?
   - See US Dept of Transportation, National Highway Traffic Safety Administration, [Model Minimum Uniform Crash Criteria](https://www.nhtsa.gov/mmucc-1) (MMUCC). [Download 5th edition](https://crashstats.nhtsa.dot.gov/Api/Public/Publication/812433)
 		- C19 Crash Severity codes (p. 30), which are automatically derived from:
@@ -185,18 +184,18 @@ Important updates from the instructor will be marked **in bold**.
 - Assign [Build 2](https://docs.google.com/document/d/1ZQ23GfaGeGosB3GSEj6nwdU3fz0OP31CnzR8WC83buI/edit): Find and Clean Census tract-level data for City of Hartford only, due Tues 21 Feb 12 noon, worth 5 points.
 
 ### Tue 21 Feb
-- Reminder for those who signed up for Trash Photo Mission, depart 12:15pm from Mather Circle in Sarah McCoy's car, return to campus in time for class
 - Introduction to [Taylor Johnston, Interactive Graphics Reporter with CT Insider](https://www.ctinsider.com/author/taylor-johnston/) and expert guest evaluator for our class, via Zoom (1:30-1:40pm)
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
   - Precisely describe comparisons: practice [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
   - Normalize your data
   - Beware of biased comparisons
-- Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before Mon 27 Feb on [Moodle](https://moodle.trincoll.edu)
+- Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before Mon 27 Feb 9pm on [Moodle](https://moodle.trincoll.edu)
 
 ### Thu 23 Feb
 - No class: Trinity Days
 
 ### Tue 28 Feb
+- Community partner Sarah McCoy requested to change date of Trash Photo Mission to Tues 28 Feb for Rashaud, Theodora, and Jess, departing Mather Circle at 12:15pm, return to campus for class
 - Before class, [create a free account on Datawrapper](https://app.datawrapper.de/signin/).
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
