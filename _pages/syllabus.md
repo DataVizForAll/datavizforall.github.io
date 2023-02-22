@@ -170,7 +170,7 @@ Important updates from the instructor will be marked **in bold**.
     - Hint: When you download and launch the Tabula app, Mac users will need to approve it. Also, the Tabula app opens up in your default browser, so if your default browser does not open it (such as Safari for Mac), copy and paste the link into another browser (such as Firefox or Chrome).
     - Practice Table Extraction from PDFs: CT DEEP Solid Waste and Recycling Data <https://portal.ct.gov/DEEP/Reduce-Reuse-Recycle/Data/Solid-Waste--Recycling-Data>, see MSW Data for Individual CT Municipalities, Summary Reports (2014 and prior)
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Mon 20 Feb 9pm on [Moodle](https://moodle.trincoll.edu)
-- Up to 3 students may sign up to accompany community partner Sarah McCoy on Trash Photo Mission on (*new date* Tuesday 28 Feb, departing in her car from Mather Circle 12:15pm and returning to campus before our class. In exchange for writing detailed captions for Sarah's photos, these students will be exempted from Quiz 4: Make Meaningful Comparisons.
+- Up to 3 students may sign up to accompany community partner Sarah McCoy on Trash Photo Mission on *new date* Tuesday 28 Feb, departing in her car from Mather Circle 12:15pm and returning to campus before our class. In exchange for writing detailed captions for Sarah's photos, these students will be exempted from Quiz 4: Make Meaningful Comparisons.
 
 ### Thu 16 Feb
 - Follow-up on [Build 1 Crash Request A](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit): Can we divide "minor" vs. "serious" injuries in crash data, and what unanswered questions does it raise?
@@ -185,6 +185,7 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Tue 21 Feb
 - Introduction to [Taylor Johnston, Interactive Graphics Reporter with CT Insider](https://www.ctinsider.com/author/taylor-johnston/) and expert guest evaluator for our class, via Zoom (1:30-1:40pm)
+- Additional seat available for rescheduled Trash Photo Mission, Tues 28 Feb, see details below
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
   - Precisely describe comparisons: practice [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
   - Normalize your data
@@ -195,7 +196,7 @@ Important updates from the instructor will be marked **in bold**.
 - No class: Trinity Days
 
 ### Tue 28 Feb
-- Community partner Sarah McCoy requested to change date of Trash Photo Mission to Tues 28 Feb for Rashaud, Theodora, and Jess, departing Mather Circle at 12:15pm, return to campus for class
+- New date for Trash Photo Mission: Rashaud, Theodora, Ali to ride with partner Sarah McCoy, depart Mather Circle at 12:15pm, return to campus for class, with exemption from Quiz 4 Meaningful Comparisons
 - Before class, [create a free account on Datawrapper](https://app.datawrapper.de/signin/).
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
