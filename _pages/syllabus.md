@@ -196,13 +196,15 @@ Important updates from the instructor will be marked **in bold**.
 - No class: Trinity Days
 
 ### Tue 28 Feb
-- New date for Trash Photo Mission: Rashaud, Theodora, Ali to ride with partner Sarah McCoy, depart Mather Circle at 12:15pm, return to campus for class, with exemption from Quiz 4 Meaningful Comparisons
+- Meet as we normally do in our classroom
+- Trash Photo Mission moved to Tues 7 March
 - Before class, [create a free account on Datawrapper](https://app.datawrapper.de/signin/).
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
   - Chart design principles and rules
   - Create bar/column, histogram, line, area charts
   - Create annotated, range, scatter charts
+- Hint: Always test if your work is visible to the public by pasting the link in a private incognito window in your browser OR a second browser, without being logged into your tool account
 - Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before Mon 6 March 9pm on [Moodle](https://moodle.trincoll.edu). **Plan ahead and budget your time** because this quiz contains 5 show-your-work questions and may require more time than you have spent on prior quizzes.
 
 ### Thu 2 March
@@ -210,6 +212,7 @@ Important updates from the instructor will be marked **in bold**.
 - Assign Build 3: Find Meaningful Comparisons and Create Preliminary Charts, due at the end of class, worth 5 points.
 
 ### Tue 7 March
+- New date for Trash Photo Mission: Rashaud, Theodora, Ali to ride with partner Sarah McCoy, depart Mather Circle at 12:15pm, return to campus for class, with exemption from Quiz 4 Meaningful Comparisons
 - Overview of Learning Goal #6: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
   - Map types (focus on point, symbol point, and choropleth maps)
   - Map design principles and rules
