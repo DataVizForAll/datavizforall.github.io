@@ -208,8 +208,9 @@ Important updates from the instructor will be marked **in bold**.
 - Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before Mon 6 March 9pm on [Moodle](https://moodle.trincoll.edu). **Plan ahead and budget your time** because this quiz contains 5 show-your-work questions and may require more time than you have spent on prior quizzes.
 
 ### Thu 2 March
-- In-class chart practice to avoid common mistakes about type and design
-- Assign Build 3: Find Meaningful Comparisons and Create Preliminary Charts, due at the end of class, worth 5 points.
+- Assign [Build 3: Draw, Pivot, and Create Crash Charts](https://docs.google.com/document/d/1X7C9dThLeWrCsYUizK2B8llPFaIwG9CyWd-MvburH_Y/edit), due in class, worth 5 points (+1 potential bonus point). Discuss your ideas in randomly assigned pairs, but each person must show their work to earn credit.
+- Draw your concept on paper for approval by instructor, then set up pivot table and create chart using this data: [2019-21 Hartford crash sample UConn](https://docs.google.com/spreadsheets/d/1mv8wSE0WWm98PkBcxxxAsdLVyZRMPFjQoaMJPP3_E_E/edit#gid=1910935453)
+- Finish your builds and submit paper sheet by 1:40pm
 
 ### Tue 7 March
 - New date for Trash Photo Mission: Rashaud, Theodora, Ali to ride with partner Sarah McCoy, depart Mather Circle at 12:15pm, return to campus for class, with exemption from Quiz 4 Meaningful Comparisons
