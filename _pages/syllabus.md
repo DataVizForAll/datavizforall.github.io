@@ -219,7 +219,7 @@ Important updates from the instructor will be marked **in bold**.
   - Map design principles and rules
   - Choropleth colors and intervals (focus on basic concepts for now)
   - Normalize choropleth map data
-  - Create choropleth maps with Datawrapper
+  - Use Datawrapper to create point, symbol point, and choropleth maps
 - Prep for Map Your Data quiz, to be taken during any 3-hour period by Mon 13 March 9pm on [Moodle](https://moodle.trincoll.edu).
 
 ### Thu 9 March
