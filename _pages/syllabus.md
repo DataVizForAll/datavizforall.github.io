@@ -224,14 +224,16 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Thu 9 March
 - [Google Drive Update](https://workspaceupdates.googleblog.com/2023/03/refreshed-ui-google-drive-docs-sheets-slides.html): new interface changes appearance and location of some features
-- [Datawrapper Update on Preparing Data for Symbol Point Maps](https://academy.datawrapper.de/article/114-how-to-create-a-symbol-map-in-datawrapper)
-  - I recommend that you first [Geocode Locations in Google Sheets](https://handsondataviz.org/geocode.html)
+- [Datawrapper Update on Preparing Data for Symbol Point Maps](https://academy.datawrapper.de/article/114-how-to-create-a-symbol-map-in-datawrapper), so please follow these recommendations (not yet in Chapter 7)
+  - [Geocode Locations in Google Sheets](https://handsondataviz.org/geocode.html)
   - Paste Latitude and Longitude columns into your Google Sheet
-  - Upload data from Google Sheet to Datawrapper, and click Latitude and Longitude columns to ensure that Datawrapper recognizes their location format, as shown in screenshot
+  - Upload data from Google Sheet to Datawrapper, and click column headers to ensure that Datawrapper recognizes Lat and Lon format, as shown in screenshot
   ![Datawrapper-recognize-location](/images/datawrapper-recognize-location.png)
-- If Datawrapper > Connect Google Sheet is not reliable for you, then upload data a different way, such as paste table or export CSV
+  - If Datawrapper > Connect Google Sheet is not reliable for you, then upload data a different way, such as paste table or export CSV
 - Continue overview of Learning Goal #6: Map Your Data
-- In-class map practice exercises: point versus polygon maps
+- In-class: [Map Design Practice Questions](https://docs.google.com/document/d/1JZbSrGQyG8WLB18SppU9BxJZCYYjU2Q9psJ6Vwfi2yo/edit) and [Data](https://docs.google.com/spreadsheets/d/1_fypujXcxx3ge6VU7vML3jfPsuDnmgTvX7laRmWI8Sw/edit#gid=0)
+- Revisiting [Choropleth Map Design: Choosing Color Intervals](https://handsondataviz.org/design-choropleth.html#choose-color-intervals-to-group-choropleth-map-data)
+- Moodle quiz will be available on Friday morning
   <!-- - Use [Interdistrict Choice Schools data](https://docs.google.com/spreadsheets/d/1lTAX2Pwb5CWWIp7zF-Z5DuUCK5gzrf9HAbO5H6AsvEo/edit#gid=706121225) to create a map of their locations, type, and enrollment size - Use [CT Town race & ethnicity ACS 2016-20 data](https://docs.google.com/spreadsheets/d/1S_dLhcYI5fLNNtGnBZv0gqHfPM9bdWlwDnlJcgBtDPg/edit#gid=1207140211) to create a meaningful map of proportion of one racial or ethnic group -->
 
 ### Tue 14 March
