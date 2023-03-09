@@ -210,7 +210,7 @@ Important updates from the instructor will be marked **in bold**.
 ### Thu 2 March
 - Assign [Build 3: Draw, Pivot, and Create Crash Charts](https://docs.google.com/document/d/1X7C9dThLeWrCsYUizK2B8llPFaIwG9CyWd-MvburH_Y/edit), due in class, worth 5 points (+1 potential bonus point). Discuss your ideas in randomly assigned pairs, but each person must show their work to earn credit.
 - Draw your concept on paper for approval by instructor, then set up pivot table and create chart using this data: [2019-21 Hartford crash sample UConn](https://docs.google.com/spreadsheets/d/1mv8wSE0WWm98PkBcxxxAsdLVyZRMPFjQoaMJPP3_E_E/edit#gid=1910935453)
-- Finish your builds and submit paper sheet by 1:40pm
+- Finish your builds and submit paper sheet by 1:40 (changed to GDoc by 9pm)
 
 ### Tue 7 March
 - New date for Trash Photo Mission: Rashaud, Theodora, Ali to ride with partner Sarah McCoy, depart Mather Circle at 12:15pm, return to campus for class, with exemption from Quiz 4 Meaningful Comparisons
@@ -223,6 +223,13 @@ Important updates from the instructor will be marked **in bold**.
 - Prep for Map Your Data quiz, to be taken during any 3-hour period by Mon 13 March 9pm on [Moodle](https://moodle.trincoll.edu).
 
 ### Thu 9 March
+- [Google Drive Update](https://workspaceupdates.googleblog.com/2023/03/refreshed-ui-google-drive-docs-sheets-slides.html): new interface changes appearance and location of some features
+- [Datawrapper Update on Preparing Data for Symbol Point Maps](https://academy.datawrapper.de/article/114-how-to-create-a-symbol-map-in-datawrapper)
+  - I recommend that you first [Geocode Locations in Google Sheets](https://handsondataviz.org/geocode.html)
+  - Paste Latitude and Longitude columns into your Google Sheet
+  - Upload data from Google Sheet to Datawrapper, and click Latitude and Longitude columns to ensure that Datawrapper recognizes their location format, as shown in screenshot
+  ![Datawrapper-recognize-location](/images/datawrapper-recognize-location.png)
+- If Datawrapper > Connect Google Sheet is not reliable for you, then upload data a different way, such as paste table or export CSV
 - Continue overview of Learning Goal #6: Map Your Data
 - In-class map practice exercises: point versus polygon maps
   <!-- - Use [Interdistrict Choice Schools data](https://docs.google.com/spreadsheets/d/1lTAX2Pwb5CWWIp7zF-Z5DuUCK5gzrf9HAbO5H6AsvEo/edit#gid=706121225) to create a map of their locations, type, and enrollment size - Use [CT Town race & ethnicity ACS 2016-20 data](https://docs.google.com/spreadsheets/d/1S_dLhcYI5fLNNtGnBZv0gqHfPM9bdWlwDnlJcgBtDPg/edit#gid=1207140211) to create a meaningful map of proportion of one racial or ethnic group -->
