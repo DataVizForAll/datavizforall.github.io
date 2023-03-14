@@ -237,17 +237,17 @@ Important updates from the instructor will be marked **in bold**.
   <!-- - Use [Interdistrict Choice Schools data](https://docs.google.com/spreadsheets/d/1lTAX2Pwb5CWWIp7zF-Z5DuUCK5gzrf9HAbO5H6AsvEo/edit#gid=706121225) to create a map of their locations, type, and enrollment size - Use [CT Town race & ethnicity ACS 2016-20 data](https://docs.google.com/spreadsheets/d/1S_dLhcYI5fLNNtGnBZv0gqHfPM9bdWlwDnlJcgBtDPg/edit#gid=1207140211) to create a meaningful map of proportion of one racial or ethnic group -->
 
 ### Tue 14 March
+- Class cancelled due to my illness
+
+### Thu 16 March
+- [Trash photo mission with captions](https://docs.google.com/document/d/1uVRMlrFzvWL5KQhv0t87bO6U3zBVgLBb84eodZcXSt8/edit) by Rashaud, Ali, Theodora with Sarah McCoy
 - Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
   - Create and edit GeoJSON boundary data with [GeoJSON.io](https://geojson.io) - View or edit or transform GeoJSON data [Mapshaper.org](https://mapshaper.org)
 - Tutorial to edit CT Towns GeoJSON file and upload as a custom map boundary Datawrapper
   <!-- - Open the [ct-boundaries folder on GitHub](https://github.com/handsondataviz/ct-boundaries) in your browser, click *Code > Download Zip*, then uncompress the folder in your local computer. **Be sure to use the updated 2022 file** for next steps. - Drag and drop the `ct-towns-2022-simple-datactgov.geojson` file from your local computer to either [Geojson.io](https://geojson.io) or [Mapshaper.org](https://mapshaper.org) to edit - Edit a customized subgroup of CT towns, such as those shown in our 33-town Hartford region. - Export your customized file, and rename if needed, with `.geojson` extension - When making a choropleth map in Datawrapper, upload your custom GeoJSON boundary file -->
-- Prep for Transform Your Map Data quiz, to be taken during any 3-hour period by **Thu 16 March 9pm (early deadline due to spring break)** on [Moodle](https://moodle.trincoll.edu).
-
-### Thu 16 March
-- Before class, read:  
-  - Marin Cogan, “The Deadliest Road in America,” Vox, July 18, 2022, <https://www.vox.com/23178764/florida-us19-deadliest-pedestrian-fatality-crisis>.
-- In-class tutorial: transform crash data from points-to-polygon, to answer one part of the Moodle quiz
+- Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by **Fri 17 March 6pm (early deadline due to spring break)** on [Moodle](https://moodle.trincoll.edu).
+<!-- - Before class, read: Marin Cogan, “The Deadliest Road in America,” Vox, July 18, 2022, <https://www.vox.com/23178764/florida-us19-deadliest-pedestrian-fatality-crisis>. In-class tutorial: transform crash data from points-to-polygon, to answer one part of the Moodle quiz -->
 
 ### Tue 21 March
 - No class: Trinity spring break
