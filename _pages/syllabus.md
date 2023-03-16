@@ -247,7 +247,7 @@ Important updates from the instructor will be marked **in bold**.
   - Find existing GeoJSON boundary maps with [Gimme Geodata](https://hanshack.com/geotools/)
   - View or draw a simple GeoJSON boundary with [GeoJSON.io](https://geojson.io)
   - Edit and transform existing GeoJSON boundary mith [Mapshaper.org](https://mapshaper.org)
-- Tutorial: [Download and edit CT Towns and upload as a custom GeoJSON in Datawrapper](https://docs.google.com/document/d/1LaMwOr-B_sW0_XVOQtG1_4wZFOMmrsG2kuPUD51fHhA/edit)
+- Tutorial: [Download and Edit CT Towns for Datawrapper Custom GeoJSON Map](https://docs.google.com/document/d/1LaMwOr-B_sW0_XVOQtG1_4wZFOMmrsG2kuPUD51fHhA/edit)
 - Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by **Fri 17 March 6pm (early deadline due to spring break)** on [Moodle](https://moodle.trincoll.edu).
 <!-- - Before class, read: Marin Cogan, “The Deadliest Road in America,” Vox, July 18, 2022, <https://www.vox.com/23178764/florida-us19-deadliest-pedestrian-fatality-crisis>. In-class tutorial: transform crash data from points-to-polygon, to answer one part of the Moodle quiz -->
 
