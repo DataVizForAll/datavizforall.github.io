@@ -259,10 +259,22 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Tue 28 March
 - Overview of Learning Goal #8: Edit and Host Leaflet Code on GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
-  - Analogy: GitHub Code Repository and Public Recipe Cookbook
+  - Analogy: GitHub Code Repository is similar to a Public Recipe Cookbook
   - Copy, Edit, and Host a Simple Leaflet Map
-- Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Mon 3 April 9pm **first quiz due on same date** on [Moodle](https://moodle.trincoll.edu).
-- Start thinking about your preferences for final projects (Builds 4-7)
+- Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by **Fri 31 March 9pm (new time to avoid two quizzes due on same date)** on [Moodle](https://moodle.trincoll.edu).
+- Start thinking about your preferences for final projects (Builds 4-7). No more than two people per team, but some projects can be divided for two separate teams.
+- [Review Build 1: Hartford Partner Requests](https://docs.google.com/document/d/1a3KUYohIyToqjfAf1Kv0UfklHZb3nbhLwibEbFvVF_w/edit)
+  - Crash projects
+    - A) Update existing open-source heat map of Hartford crash data for 2015-present
+    - B) Which Hartford *corridors* have had most crashes recently, by type?
+    - C) Which Hartford *intersections* have had most crashes recently, by type?
+    - D) Have crashes changed in locations where traffic-calming has been installed?
+  - Trash projects (*to review on Thursday*)
+    - E) Where does our trash go? Storymap of recycleable, compostable, and disposed waste
+    - F) Whose neighborhoods are most affected by the trash disposal process?
+    - G) How much trash do Hartford-area residents estimate they create, and is it accurate?
+    - H) What percentage of Hartford-area trash can be recycled or composted, and what would be key measurable outcomes of doing so?
+
 
 ### Thu 30 March
 - Overview of Learning Goal #9: Explore Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
