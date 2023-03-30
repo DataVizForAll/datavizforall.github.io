@@ -270,25 +270,24 @@ Important updates from the instructor will be marked **in bold**.
     - C) Which Hartford *intersections* have had most crashes recently, by type?
     - D) Have crashes changed in locations where traffic-calming has been installed?
   - Trash projects (*to review on Thursday*)
-    - E) Where does our trash go? Storymap of recycleable, compostable, and disposed waste
-    - F) Whose neighborhoods are most affected by the trash disposal process?
+    - E) Where does our trash go? Storymap of recyclable, compostable, and disposed waste
+    - F) Whose neighborhoods are most affected by trash disposal process?
     - G) How much trash do Hartford-area residents estimate they create, and is it accurate?
     - H) What percentage of Hartford-area trash can be recycled or composted, and what would be key measurable outcomes of doing so?
-
 
 ### Thu 30 March
 - Overview of Learning Goal #9: Explore Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
   - Leaflet Storymaps with Google Sheets
-- Prep for Leaflet Map Code Template quiz, to be taken during any 2-hour period by Mon 3 April 9pm **second quiz due on same date** on [Moodle](https://moodle.trincoll.edu).
-- Submit preferences for final projects (Builds 4-7), with final decisions made by instructor to balance numbers.
-- Assign Build 4: Create a Preliminary Data Visualization, due by Wed 5 April 9pm, worth 5 points.
+- Prep for Leaflet Map Code Template quiz, to be taken during any 2-hour period by Mon 3 April 9pm on [Moodle](https://moodle.trincoll.edu).
+- [Submit final project preferences in Google Form](https://forms.gle/YB6pw6NWhfnYhKR68) for Builds 4-7, with final decisions made by instructor to balance numbers. Priority will be given to students who wish to partner with another student.
 
 ### Tue 4 April
+- Assign Build 4: Show Your Plan and Preliminary Visualization, due by Wed 5 April 11pm, worth 5 points.
 - Workshop time for Build 4
 - 10-minute meetings with instructor and TA
 
 ### Thu 6 April
-- Review Build 4 Preliminary Visualizations
+- Review Build 4
 - Overview of Learning Goal #10: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
   - Build Narrative on a Storyboard
   - Draw Attention to Meaning
@@ -327,7 +326,7 @@ Important updates from the instructor will be marked **in bold**.
 - All: Assign Build Stage 7: Revise and Finalize Data story on GitHub Pages template for guest expert, Monday 1 May at 12 noon. **No extensions** because your work must be "frozen" and forwarded to guest expert to review ahead of time. Worth 10 points, scored by guest expert.
 
 ### Thu 27 April
-- About Build 7: Present Final Data Stories to Guest Expert
+- About Build 7: Present Final Data Stories to Guest Experts
   - On Monday 1 May at 12 noon, your data story will be "frozen" and a copy will be transferred to our class GitHub account. I will forward this final version to our guest experts, who need to read your work before your presentations, and I will publish it on the public [Partners and Projects page](https://datavizforall.org/partners-projects/).
 - Decision to make before your data story is "frozen" and published:
   - Insert your full name (recommended), or you have the right to use only your first name or initials
