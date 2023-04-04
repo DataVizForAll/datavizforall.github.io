@@ -284,7 +284,7 @@ Important updates from the instructor will be marked **in bold**.
 ### Tue 4 April
 - Thanks for sharing more about yourselves in your Leaflet Storymaps
 - Everyone can view each other's GitHub repos: see links at top of Moodle
-- Assign Build 4: Show Your Plan and Preliminary Visualization, due on the Google Doc by Wed 5 April 11pm, worth 5 points. Be prepared to give a 1-minute presentation in our next class
+- Assign [Build 4: Show Your Plan and Preliminary Visualization](https://docs.google.com/document/d/15_H-fL6WbfIpWDpmqHga4jI2Hssk-Ayf4BZrCaM9ve8/edit), due on the Google Doc by Wed 5 April 11pm, worth 5 points. Be prepared to give a 1-minute presentation in our next class
 - Workshop time for Build 4, and group meetings with instructor and TA
 
 ### Thu 6 April
