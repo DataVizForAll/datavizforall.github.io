@@ -282,18 +282,19 @@ Important updates from the instructor will be marked **in bold**.
 - [Submit final project preferences in Google Form](https://forms.gle/YB6pw6NWhfnYhKR68) for Builds 4-7, with final decisions made by instructor to balance numbers. Priority will be given to students who wish to partner with another student.
 
 ### Tue 4 April
-- Assign Build 4: Show Your Plan and Preliminary Visualization, due by Wed 5 April 11pm, worth 5 points.
-- Workshop time for Build 4
-- 10-minute meetings with instructor and TA
+- Thanks for sharing more about yourselves in your Leaflet Storymaps
+- Everyone can view each other's GitHub repos: see links at top of Moodle
+- Assign Build 4: Show Your Plan and Preliminary Visualization, due on the Google Doc by Wed 5 April 11pm, worth 5 points. Be prepared to give a 1-minute presentation in our next class
+- Workshop time for Build 4, and group meetings with instructor and TA
 
 ### Thu 6 April
-- Review Build 4
+- Review Build 4: One-minute presentations of your plan and preliminary visualzations
 - Overview of Learning Goal #10: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
   - Build Narrative on a Storyboard
   - Draw Attention to Meaning
   - Acknowledge Sources and Uncertainty
 - There is no separate Moodle quiz, because this content is combined with the Build below.
-- Assign Build 5 combined with Quiz #11: Tell a Meaningful Data Story with around 750-1000 words and at least two visualizations, based on assigned project. Due Mon 10 April by 9pm, with a link to your Google Doc and related files, worth 10 points.
+- Assign Build 5 combined with Quiz #11: Tell a Meaningful Data Story with around 750-1000 words and at least two visualizations, based on your assigned project. Due by Mon 10 April 11pm, with a link to your Google Doc and related files, worth 10 points. Be prepared to peer-review other students' work in next class.
 
 ### Tue 11 April
 - In-class: Do Build Stage 6: Peer Review Template for Data Story, due during class, worth 5 points. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
