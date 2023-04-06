@@ -288,13 +288,18 @@ Important updates from the instructor will be marked **in bold**.
 - Workshop time for Build 4, and group meetings with instructor and TA
 
 ### Thu 6 April
-- Review Build 4: One-minute presentations of your plan and preliminary visualzations
+- Review [Build 4](https://docs.google.com/document/d/15_H-fL6WbfIpWDpmqHga4jI2Hssk-Ayf4BZrCaM9ve8/edit): One-minute presentations of your plan and preliminary visualizations. Instructor will send evaluation by Friday morning.
 - Overview of Learning Goal #10: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
   - Build Narrative on a Storyboard
   - Draw Attention to Meaning
   - Acknowledge Sources and Uncertainty
 - There is no separate Moodle quiz, because this content is combined with the Build below.
-- Assign Build 5 combined with Quiz #11: Tell a Meaningful Data Story with around 750-1000 words and at least two visualizations, based on your assigned project. Due by Mon 10 April 11pm, with a link to your Google Doc and related files, worth 10 points. Be prepared to peer-review other students' work in next class.
+- Assign [Build 5: Data Story Drafts](https://docs.google.com/document/d/1C6kURVa8ZN6PlMyhE_epamRykXVeb0XX3xkfGiCiKV4/edit): Tell a Meaningful Data Story on your assigned project, with around 500-750 words plus visualizations. Due by Mon 10 April 11pm as a Google Doc *shared for anyone to comment* with links to related data files and/or visualizations, worth 10 points (in place of a quiz). Be sure to include:
+  - Introduction: What is the question and why does it matter?
+  - Findings and Evidence: Tell us key insights, then show us evidence
+  - Sources and Methods: Describe how you did the work and any questions in the data, with links
+  - Address these [peer-review criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) for use in our next class
+- See [sample finished data stories by students on past projects](https://datavizforall.org/partners-projects/)
 
 ### Tue 11 April
 - In-class: Do Build Stage 6: Peer Review Template for Data Story, due during class, worth 5 points. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
