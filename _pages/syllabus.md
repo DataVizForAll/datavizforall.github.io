@@ -234,7 +234,6 @@ Important updates from the instructor will be marked **in bold**.
 - In-class: [Map Design Practice Questions](https://docs.google.com/document/d/1JZbSrGQyG8WLB18SppU9BxJZCYYjU2Q9psJ6Vwfi2yo/edit) and [Data](https://docs.google.com/spreadsheets/d/1_fypujXcxx3ge6VU7vML3jfPsuDnmgTvX7laRmWI8Sw/edit#gid=0)
 - Revisiting [Choropleth Map Design: Choosing Color Intervals](https://handsondataviz.org/design-choropleth.html#choose-color-intervals-to-group-choropleth-map-data)
 - Moodle quiz will be available on Friday morning
-  <!-- - Use [Interdistrict Choice Schools data](https://docs.google.com/spreadsheets/d/1lTAX2Pwb5CWWIp7zF-Z5DuUCK5gzrf9HAbO5H6AsvEo/edit#gid=706121225) to create a map of their locations, type, and enrollment size - Use [CT Town race & ethnicity ACS 2016-20 data](https://docs.google.com/spreadsheets/d/1S_dLhcYI5fLNNtGnBZv0gqHfPM9bdWlwDnlJcgBtDPg/edit#gid=1207140211) to create a meaningful map of proportion of one racial or ethnic group -->
 
 ### Tue 14 March
 - Class cancelled due to my illness
@@ -294,15 +293,16 @@ Important updates from the instructor will be marked **in bold**.
   - Draw Attention to Meaning
   - Acknowledge Sources and Uncertainty
 - There is no separate Moodle quiz, because this content is combined with the Build below.
-- Assign [Build 5: Data Story Drafts](https://docs.google.com/document/d/1C6kURVa8ZN6PlMyhE_epamRykXVeb0XX3xkfGiCiKV4/edit): Tell a Meaningful Data Story on your assigned project, with around 500-750 words plus visualizations. Due by Mon 10 April 11pm as a Google Doc *shared for anyone to comment* with links to related data files and/or visualizations, worth 10 points (in place of a quiz). Be sure to include:
+- Assign [Build 5A: Data Story Draft A](https://docs.google.com/document/d/1C6kURVa8ZN6PlMyhE_epamRykXVeb0XX3xkfGiCiKV4/edit): Tell a Meaningful Data Story on your assigned project, with around 500-750 words plus visualizations, for peer review. Due by **Tues 11 April 1pm** as a Google Doc *shared for anyone to comment* with links to related data files and/or visualizations, worth 5 points (in place of a quiz). Be sure to include:
   - Introduction: What is the question and why does it matter?
-  - Findings and Evidence: Tell us key insights, then show us evidence
+  - Findings and Evidence: Tell us key insights (text), then show us evidence (visuals)
   - Sources and Methods: Describe how you did the work and any questions in the data, with links
   - Address these [peer-review criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) for use in our next class
 - See [sample finished data stories by students on past projects](https://datavizforall.org/partners-projects/)
 
 ### Tue 11 April
-- In-class: Do Build Stage 6: Peer Review Template for Data Story, due during class, worth 5 points. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
+- In-class: Do Build Stage 5B: Peer Review of an assigned Data Story, due during class, worth 5 points. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
+- Assign [Build 5C: Revise Data Story Draft C](https://docs.google.com/document/d/1C6kURVa8ZN6PlMyhE_epamRykXVeb0XX3xkfGiCiKV4/edit): Improve draft using peer feedback Use peer feedback for evaluation by instructor, due Wed 12 April 11pm. worth 5 points.
   <!-- - See [peer review assignments on Build 4 document](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit). Students must submit a full draft for review before they can participate in peer review. - Announcement about scoring of combined assignment: Build 4 (5 points based on work submitted before Tuesday's class) and Quiz 11 (5 points based on revised work submitted before Thursday's class). Continue to use same links on Build 4 document. -->
   <!-- Looking ahead to Finalizing Your Data Stories - [Sample data story 1 by Victoria Asfalg and Riley Nichols](https://datavizforall.org/habitat-asfalg-nichols/), December 2021  - [Sample data story 2 by Bonnie LaBonte and Lachlan Clark](https://datavizforall.org/clj-labonte-clark/), December 2021 -->
 
