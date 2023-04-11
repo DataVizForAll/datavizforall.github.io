@@ -301,10 +301,22 @@ Important updates from the instructor will be marked **in bold**.
 - See [sample finished data stories by students on past projects](https://datavizforall.org/partners-projects/)
 
 ### Tue 11 April
-- In-class: Do Build Stage 5B: Peer Review of an assigned Data Story, due during class, worth 5 points. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
+- Before class: Make sure your Google Doc is shared for anyone to *comment*
+- In-class: Practice applying [evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) to [data stories by students on past projects](https://datavizforall.org/partners-projects/)
+  - For your assigned data story, *read* the introduction and *skim* the rest
+  - Bonnie LaBonte and Lachlan Clark, "Hartford Housing Legislation and When Neighborhoods Will Be Impacted," DataVizForAll data story, December 2021, <https://datavizforall.org/clj-labonte-clark/>
+  - Anna Tran, "How is funding distributed in the Hartford-Region Schools for Students with Disabilities," DataVizForAll data story, December 2022, <https://datavizforall.org/clj-tran/>
+- In-class: Do Build Stage 5B: [Peer Review with evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) of an assigned Data Story, due during class, worth 5 points. Students must submit a full draft in order to participate in the peer review. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
 - Assign [Build 5C: Revise Data Story Draft C](https://docs.google.com/document/d/1C6kURVa8ZN6PlMyhE_epamRykXVeb0XX3xkfGiCiKV4/edit): Improve draft using peer feedback Use peer feedback for evaluation by instructor, due Wed 12 April 11pm. worth 5 points.
-  <!-- - See [peer review assignments on Build 4 document](https://docs.google.com/document/d/1Yi_3QtaT213J4KTYTxRzM1asN4L3OCKXP3es6ucP0ao/edit). Students must submit a full draft for review before they can participate in peer review. - Announcement about scoring of combined assignment: Build 4 (5 points based on work submitted before Tuesday's class) and Quiz 11 (5 points based on revised work submitted before Thursday's class). Continue to use same links on Build 4 document. -->
-  <!-- Looking ahead to Finalizing Your Data Stories - [Sample data story 1 by Victoria Asfalg and Riley Nichols](https://datavizforall.org/habitat-asfalg-nichols/), December 2021  - [Sample data story 2 by Bonnie LaBonte and Lachlan Clark](https://datavizforall.org/clj-labonte-clark/), December 2021 -->
+- Checklist for strengthening your Build 5C data stories:
+  - Look at your current draft through the lens of the [evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit)
+  - Craft a catchy and meaningful title that draws in readers
+  - Contextualize the broader problem and why it matters to our partner as a way to introduce your specific question. Write for readers who are curious but are not yet familiar with the issue.
+  - In each body paragraph, *tell* readers one of your key insights, then *show* us the evidence, both in text and visuals. Describe to readers what stands out in your tables, charts, or maps.
+  - For each visualization, add a screenshot *and* link to live version
+  - Write about your sources & methods so that future DataViz students could replicate your work, with links to public spreadsheets or repositories.
+  - Acknowledge uncertainty and question your data. What remains unanswered?
+- Prioritize your to-do list of revisions for 5C
 
 ### Thu 13 April
 - Overview of Learning Goal #11: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
@@ -349,7 +361,7 @@ Important updates from the instructor will be marked **in bold**.
   - How to Lie with Maps
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
-- Prep for Detect Lies quiz, to be taken during any 3-hour period by Mon 8 May 9pm on [Moodle](https://moodle.trincoll.edu).
+- Prep for Detect Lies quiz, to be taken during any 3-hour period by Mon 8 May 9pm on [Moodle](https://moodle.trincoll.edu). **NEW: This bonus quiz will replace your lowest 5-point score on any prior quiz or build. But you receive only ONE attempt.**
 
 ### Wed 3 May
 - Since the College decided that our last "Thursday" class meets on Wed 3 May, **make sure that you do not have any schedule conflicts**.
