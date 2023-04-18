@@ -325,7 +325,7 @@ Important updates from the instructor will be marked **in bold**.
   - Embed the iframe code in an HTML web page
   - Make your own copy of [dataviz-story-template from GitHub](https://github.com/DataVizForAll/dataviz-story-template) and follow instructions inside the `index.html` file
   - Start Embed on the Web quiz, due by Mon 17 April 9pm on [Moodle](https://moodle.trincoll.edu).
-- Assign Build Stage 6A & 6B: Submit complete draft of your data story, as a published GitHub Pages link, for comments (no scores) by community partners.
+- Assign [Build Stage 6A & 6B](https://docs.google.com/document/d/1mGoPZC2d1Q631bcgmbsy4BynFkEHoMqmr95anyQG5_w/edit): Submit complete draft of your data story, as a published GitHub Pages link, for comments (no scores) by community partners.
   - Build 6A Crash, due by Wed 19 April 4pm, for instructor to send to partners.
   - Build 6B Trash, due by Fri 21 April 4pm, for instructor to send to partners.
 
@@ -337,10 +337,10 @@ Important updates from the instructor will be marked **in bold**.
   - Everyone: Review Expectations and Assessment criteria in Build 6+7
 
 ### Thu 20 April
-- Build 6A: Meet with Crash community partners (Grace Yi and Owen Deutsch) on Zoom from 1:30-2:30pm. Deliver 2-minute presentation of highlights in your data story, then listen to feedback and write down revisions to consider. Comments only, not graded.
+- Build 6A: Meet with Crash community partners (Grace Yi and Owen Deutsch) on Zoom from 1:30-2:10pm. Deliver 2-minute presentation of highlights in your data story, then listen to feedback and write down revisions to consider. Comments only, not graded.
+- Build 6B: Meet with Trash community partner Sarah McCoy on Zoom from 2:10-2:45pm. Deliver 2-minute presentation of highlights in your data story, then listen to feedback and write down revisions to consider. Comments only, not graded. **New date**
 
 ### Tue 25 April
-- Build 6B: Meet with Trash community partner Sarah McCoy on Zoom from 1:30-2:30pm. Deliver 2-minute presentation of highlights in your data story, then listen to feedback and write down revisions to consider. Comments only, not graded.
 - All: Assign Build Stage 7: Revise and Finalize Data story on GitHub Pages template for guest expert, Monday 1 May at 12 noon. **No extensions** because your work must be "frozen" and forwarded to guest expert to review ahead of time. Worth 10 points, scored by guest expert.
 
 ### Thu 27 April
