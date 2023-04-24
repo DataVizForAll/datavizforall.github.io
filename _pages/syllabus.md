@@ -319,6 +319,7 @@ Important updates from the instructor will be marked **in bold**.
 - Prioritize your to-do list of revisions for 5C
 
 ### Thu 13 April
+- Effective today, face masks are optional in class
 - Overview of Learning Goal #11: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
   - Static images versus interactive iframes
   - Get the iframe embed code for a published visualization
@@ -340,13 +341,12 @@ Important updates from the instructor will be marked **in bold**.
 - Build 6B: Meet with Trash community partner Sarah McCoy in-person from 2:10-2:45pm.
 
 ### Tue 25 April
-- Assign Build Stage 7: Revise and Finalize Data story on GitHub Pages template for guest expert, Monday 1 May at 12 noon. **No extensions** because your work must be "frozen" and forwarded to guest expert to review ahead of time. Worth 10 points, scored by guest expert.
-- Review Expectations and Assessment criteria in Build 6+7
+- Assign [Build Stage 7: Revise and Finalize Data story](https://docs.google.com/document/d/1mGoPZC2d1Q631bcgmbsy4BynFkEHoMqmr95anyQG5_w/edit) on GitHub Pages template for guest expert, Monday 1 May at 12 noon. **No extensions** because your data story will be "frozen" and a copy will be transferred and published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts, who need to read your work before your presentations. Worth 10 points, scored by guest expert.
+- Workshop time and assigned meetings with TA and instructor
+- Carefully review the Build 5 feedback you received via email
 
 ### Thu 27 April
-- About Build 7: Present Final Data Stories to Guest Experts
-  - On Monday 1 May at 12 noon, your data story will be "frozen" and a copy will be transferred to our class GitHub account. I will forward this final version to our guest experts, who need to read your work before your presentations, and I will publish it on the public [Partners and Projects page](https://datavizforall.org/partners-projects/).
-- Decision to make before your data story is "frozen" and published:
+- Decisions to make before your data story is "frozen" and published on the public [Partners and Projects page](https://datavizforall.org/partners-projects/):
   - Insert your full name (recommended), or you have the right to use only your first name or initials
   - See what other students did in my "[Public Writing and Student Privacy](https://epress.trincoll.edu/webwriting/chapter/dougherty-public/)" chapter of [Web Writing](https://webwriting.trincoll.edu) book (2015).
   - Recommended: Insert link to your published data story in your resume to demonstrate what you learned to prospective employers and graduate schools.
