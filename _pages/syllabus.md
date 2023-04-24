@@ -342,8 +342,8 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Tue 25 April
 - Assign [Build Stage 7: Revise and Finalize Data story](https://docs.google.com/document/d/1mGoPZC2d1Q631bcgmbsy4BynFkEHoMqmr95anyQG5_w/edit) on GitHub Pages template for guest expert, Monday 1 May at 12 noon. **No extensions** because your data story will be "frozen" and a copy will be transferred and published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts, who need to read your work before your presentations. Worth 10 points, scored by guest expert.
-- Workshop time and assigned meetings with TA and instructor
-- Carefully review the Build 5 feedback you received via email
+- Workshop time and assigned meetings with TA and instructor (see email list)
+- Carefully revise based on Build 5C feedback (emailed from instructor) and Build 6 feedback (from community partner)
 
 ### Thu 27 April
 - Decisions to make before your data story is "frozen" and published on the public [Partners and Projects page](https://datavizforall.org/partners-projects/):
@@ -351,7 +351,7 @@ Important updates from the instructor will be marked **in bold**.
   - See what other students did in my "[Public Writing and Student Privacy](https://epress.trincoll.edu/webwriting/chapter/dougherty-public/)" chapter of [Web Writing](https://webwriting.trincoll.edu) book (2015).
   - Recommended: Insert link to your published data story in your resume to demonstrate what you learned to prospective employers and graduate schools.
 - Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
-- Workshop: Last chance to consult with instructor to finalize data story.
+- Workshop time and assigned meetings with instructor (see email list)
 
 ### Tue 2 May
 - In class: Student course feedback on what helped you learn. Also, please fill out the College's standard online evaluation form when available.
