@@ -346,12 +346,14 @@ Important updates from the instructor will be marked **in bold**.
 - Carefully revise based on Build 5C feedback (emailed from instructor) and Build 6 feedback (from community partner)
 
 ### Thu 27 April
+- Everyone: Insert your GitHub Pages data story link (even if it's not finished) in [Build 7](https://docs.google.com/document/d/1mGoPZC2d1Q631bcgmbsy4BynFkEHoMqmr95anyQG5_w/edit), and you can improve and revise until Monday 12 noon cut-off
+  - Avoid this [common HTML template error](https://datavizforall.org/images/common-template-error.png)
 - Decisions to make before your data story is "frozen" and published on the public [Partners and Projects page](https://datavizforall.org/partners-projects/):
   - Insert your full name (recommended), or you have the right to use only your first name or initials
   - See what other students did in my "[Public Writing and Student Privacy](https://epress.trincoll.edu/webwriting/chapter/dougherty-public/)" chapter of [Web Writing](https://webwriting.trincoll.edu) book (2015).
-  - Recommended: Insert link to your published data story in your resume to demonstrate what you learned to prospective employers and graduate schools.
+  - Recommended: Insert link to your published data story in your resume to demonstrate what you learned to prospective employers and graduate schools. Emphasize your data visualization skills at the top, instead of simply listing "proficient in Google Sheets, Datawrapper, GitHub" at the bottom.
 - Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
-- Workshop time and assigned meetings with instructor (see email list)
+- Workshop time and assigned meetings with instructor 
 
 ### Tue 2 May
 - In class: Student course feedback on what helped you learn. Also, please fill out the College's standard online evaluation form when available.
