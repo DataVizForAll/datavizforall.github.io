@@ -353,11 +353,11 @@ Important updates from the instructor will be marked **in bold**.
   - See what other students did in my "[Public Writing and Student Privacy](https://epress.trincoll.edu/webwriting/chapter/dougherty-public/)" chapter of [Web Writing](https://webwriting.trincoll.edu) book (2015).
   - Recommended: Insert link to your published data story in your resume to demonstrate what you learned to prospective employers and graduate schools. Emphasize your data visualization skills at the top, instead of simply listing "proficient in Google Sheets, Datawrapper, GitHub" at the bottom.
 - Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
-- Workshop time and assigned meetings with instructor 
+- Workshop time and assigned meetings with instructor
 
 ### Tue 2 May
-- In class: Student course feedback on what helped you learn. Also, please fill out the College's standard online evaluation form when available.
-- Rehearse final presentations for Build 7 guest expert
+- In class: [Student course feedback on what helped you learn](https://docs.google.com/document/d/1E6Diev5TVBpcpyqWsDrQEGLDyKFZkgdBk9FF1CSG9eU/edit). In addition, please fill out the College's standard online evaluation form when available.
+- Review lineup of [Build 7](https://docs.google.com/document/d/1mGoPZC2d1Q631bcgmbsy4BynFkEHoMqmr95anyQG5_w/edit) final presentations with guest evaluators
 - Overview of Learning Goal #12: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
   - How to Lie with Charts
   - How to Lie with Maps
@@ -368,4 +368,4 @@ Important updates from the instructor will be marked **in bold**.
 ### Wed 3 May
 - Since the College decided that our last "Thursday" class meets on Wed 3 May, **make sure that you do not have any schedule conflicts**.
 - Class will **begin at 1:15pm and end at 2:45pm and will take place in my Zoom room** to ensure time for all presenters to interact with guest experts. Students must log into my Zoom room a few minutes before their designated time.
-- Build 7: Present Final Data Stories to guest experts, [Taylor Johnston](https://www.ctinsider.com/author/taylor-johnston/) (Interactive Graphics Reporter, CT Insider) and Ilya Ilyankou (Trinity '18 and co-author of <https://HandsOnDataViz.org>). Both will review final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
+- [Build 7](https://docs.google.com/document/d/1mGoPZC2d1Q631bcgmbsy4BynFkEHoMqmr95anyQG5_w/edit): Present Final Data Stories to guest experts, [Taylor Johnston](https://www.ctinsider.com/author/taylor-johnston/) (Interactive Graphics Reporter, CT Insider) and Ilya Ilyankou (Trinity '18 and co-author of <https://HandsOnDataViz.org>). Both will review final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
