@@ -1,7 +1,7 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /
-date: 2023-01-25
+date: 2023-05-09
 toc: true
 toc_label: "Contents"
 toc_sticky: true

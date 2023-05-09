@@ -1,11 +1,40 @@
 ---
 title: "Partners and Projects"
 permalink: /partners-projects/
-date: 2022-12-15
+date: 2023-05-09
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
+## Spring 2023
+### Crash (with City of Hartford) and Trash (with Center for Leadership and Justice)
+
+For our **Crash projects**, Grace Yi (Senior Planner, Bike & Ped) and Owen Deutsch (Principal Planner), from the [Planning Division, City of Hartford](https://www.hartfordct.gov/Government/Departments/DDS/DDS-Staff-Directory), asked us to help visualize answers to this question: When and where are the highest frequency of motor vehicle crash injuries and fatalities in Hartford, and what can we learn about traffic-calming measures?
+
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_86b106xl&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video for Crash project, Spring 2023](https://trincoll.mediaspace.kaltura.com/media/1_86b106xl) with partners Grace Yi and Owen Deutsch [Planning Division, City of Hartford](https://www.hartfordct.gov/Government/Departments/DDS/DDS-Staff-Directory)
+
+{% include figure image_path="images/2023-hartford-crash-map-image.png" caption="<a href='https://datavizforall.org/hartford-crashes'>Updated Hartford crash map</a>, with improvements by TA Keelyn McNamara '23, based on original code by Ilya Ilyankou '18." %}
+
+[Analyzing The Impact of Hartford's Traffic Calming Installations](https://datavizforall.org/hartford-mcnamara/) by Keelyn McNamara (Teaching Assistant)
+
+[Has the Installation of Speed Humps on Flatbush Avenue Affected Crash Data?](https://datavizforall.org/hartford-macdougall-lally/) by Alison MacDougall & Caroline Lally
+
+[When Do Hartford Crashes Happen?](https://datavizforall.org/hartford-tatsi/) by Theodora Tatsi
+
+[What types of crashes have been occurring in Hartford, and who is being affected?](https://datavizforall.org/hartford-evan-joe/) by Evan and Joe
+
+[Which Hartford Corridors Have the Most Crashes?](https://datavizforall.org/hartford-frank-horkan/) by Isaac Frank and Chris Horkan
+
+[Crashes at Major Hartford Intersections in 2018-2022](https://datavizforall.org/hartford-cruz-rodriguez/) by Jess Cruz and Mia Rodriguez
+
+For our **Trash projects**, Sarah McCoy from the [Center for Leadership and Justice](https://cljct.org) in Hartford has asked us to help visualize answers to this environmental racism question: Where does our trash go, whose neighborhoods are affected, and how much can we reduce solid waste?
+
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/41685872/partner_id/2366381?iframeembed=true&playerId=kaltura_player&entry_id=1_nrh3aui1&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video for Trash project, Spring 2023](https://trincoll.mediaspace.kaltura.com/media/1_nrh3aui1) with partner Sarah McCoy, [Center for Leadership and Justice](https://cljct.org)
+
+to come...
+
 ## Fall 2022
 ### Center for Leadership and Justice (CLJ) and Education Funding Inequities
 Our partners at [CLJ](https://cljct.org) asked us to help them analyze and visualize student residency and school district funding for their Greater Hartford Interfaith Action Alliance (GHIAA) Education Research team. We defined the metro Hartford area as a contiguous 33-town region, which includes 38 public school districts when counting magnets and charters. Also, we appreciate expert guidance on Connecticut education funding provided by the [School + State Finance Project](https://schoolstatefinance.org).
