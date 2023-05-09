@@ -33,7 +33,17 @@ For our **Trash projects**, Sarah McCoy from the [Center for Leadership and Just
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/41685872/partner_id/2366381?iframeembed=true&playerId=kaltura_player&entry_id=1_nrh3aui1&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 [Intro video for Trash project, Spring 2023](https://trincoll.mediaspace.kaltura.com/media/1_nrh3aui1) with partner Sarah McCoy, [Center for Leadership and Justice](https://cljct.org)
 
-to come...
+{% include figure image_path="images/2023-trash-storymap.png" caption="<a href='https://datavizforall.org/clj-conway-martin/'>Where Does Hartford Waste Go? storymap</a>, by Rashaud Conway and Travis Martin." %}
+
+[Where Does Hartford Waste Go?](https://datavizforall.org/clj-conway-martin/) by Rashaud Conway and Travis Martin
+
+[Environmental Racism in Hartford County](https://datavizforall.org/clj-kim-crowley/) by Rachel Kim and Liv Crowley
+
+Note: Two students below were assigned to explore patterns in 2021 CT DEEP Municipal Solid Waste town-level data *estimates*, which includes [many questionable outliers marked in yellow in the instructor's spreadsheet](https://docs.google.com/spreadsheets/d/107oKSluTPmHdUGKYPDqjfz5VUfOjDJKQyGedtTpPk18/edit#gid=1749455461).
+
+[Where Most of Our Recycling Comes from Near the Hartford Area](https://datavizforall.org/clj-yarussi/) by James Yarussi
+
+[The Relationship Between Waste and Recycling in Connecticut](https://datavizforall.org/clj-hedge/) by Colin Hedge
 
 ## Fall 2022
 ### Center for Leadership and Justice (CLJ) and Education Funding Inequities
