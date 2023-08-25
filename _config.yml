@@ -108,9 +108,9 @@ author:
     - label: "Calendar"
       icon: "fas fa-fw fa-calendar-alt"
       url: "https://jackdougherty.youcanbook.me"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/doughertyjack"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://urbanists.social/@jackdougherty"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jackdougherty"
@@ -121,12 +121,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "JackDougherty.org"
+      icon: "fas fa-fw fa-university"
+      url: "https://jackdougherty.org"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:jack.dougherty@trincoll.edu
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/doughertyjack"
 
 # Reading Files
 include:

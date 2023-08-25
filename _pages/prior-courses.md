@@ -1,8 +1,11 @@
 ---
 title: "Prior Courses"
 permalink: /prior-courses/
-date: 2023-01-24
+date: 2023-08-25
 ---
+## Spring 2023
+See <https://datavizforall.org/syllabus-2023-spring>
+
 ## Fall 2022
 See <https://datavizforall.org/syllabus-2022-fall>
 
