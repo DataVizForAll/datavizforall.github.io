@@ -19,7 +19,7 @@ Course description: How can charts and maps tell meaningful stories? How can the
 - Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies.  
 - Enrollment limited to 19 students.  
 
-### Community Learning Projects: Child Care and College Access
+### Community Learning Projects
 This semester we will work with Hartford-area community learning parters on two data visualization projects: Child Care and College Access.
 
 **Child Care:** Izzi Greenberg, Executive Director of [Middlesex Coalition for Children](https://www.middlesexchildren.org) and Merrill Gay, Executive Director of [CT Early Childhood Alliance](http://earlychildhoodalliance.com) have asked us to help visualize answers to this broad question: How and why does child care availability, affordability, and quality vary across Connecticut, and what can we learn from improvement strategies outside the state?
