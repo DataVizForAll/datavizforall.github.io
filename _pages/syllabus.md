@@ -1,7 +1,7 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /
-date: 2023-08-25
+date: 2023-08-31
 toc: true
 toc_label: "Contents"
 toc_sticky: true
@@ -93,8 +93,9 @@ Religious observances or other advance scheduling conflicts: please request acco
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
 - If anything is interfering with your learning, email or talk with me. I care about how you're doing in life, not just in our classroom.
 
-## Schedule
-Important updates from the instructor will be marked **in bold**.
+## DRAFT Schedule
+- TODO - confirm all assignment dates, total scores, and check for typos
+- Important updates from the instructor will be marked **in bold**.
 
 ### Wed Sept 6
 - Bring a laptop computer (or use a desktop in the classroom).
@@ -129,14 +130,208 @@ Important updates from the instructor will be marked **in bold**.
   - 12-12:20pm Child Care advocacy questions with Izzi Greenberg (Middlesex Coalition for Children) and Merrill Gay (CT Early Childhood Alliance)
 - Assign random pairs of students to Build Stage 1: Listen to Hartford Partners and Find & Question Data - TODO add link - due Tues Sept 19th 9pm on Google Doc, worth 5 points.
 
-### Wed Nov 1st
+### Mon Sept 18
+- Before class, read and be prepared to discuss Catherine D'Ignazio and Lauren Klein *Data Feminism* chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, especially these selections:
+  - [Chapter 1. Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4) begins with a story about tennis star Serena Williams. What do the authors mean by this line? ["What we choose to measure is a statement of what we value... and who we value"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4#nxk87mil5kj)
+  - [Chapter 2 about Challenge Power](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) begins with a comparison of two different maps of Detroit. How do the maps differ, and what do the authors mean when they ask ["Who makes maps and who gets mapped?"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4#nl1iq5r2p9p)
+- Overview of Learning Goal #2: Find and Question Your Data. Start reading HODV Chapter 3 at <https://handsondataviz.org/find.html>
+  - Challenge power & privilege in data
+  - Clarify levels of data
+  - Recognize public vs private data
+  - Mask or aggregate sensitive data
+  - Explore open data repositories
+  - Source your data
+  - Recognize bad data
+  - Question your data
+  - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Sun Sept 23rd 9pm on [Moodle](https://moodle.trincoll.edu)
+  - Work with your partner to complete Build 1, and paste the link to your Google Doc (shared, so that anyone can comment) on the Build 1 page before Tues 9pm
+
+### Wed Sept 20
+- In class: Review Build 1 student responses
+- Assign additional background readings on child care and college access
+
+### Mon Sept 25
+- Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
+ - Smart Cleanup in Google Sheets
+ - Find and Replace with Blank
+ - Transpose Rows and Columns
+ - Split Data into Separate Columns
+ - Combine Data into One Column
+ - Extract Tables from PDFs
+- Prepare for Clean Up quiz, to be taken during any 2-hour period before Sun Oct 1st 9pm on [Moodle](https://moodle.trincoll.edu)
+
+### Wed Sept 27
+- In-class: [Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1XX9mOJYp93Q8wMr_rkW2TuciqcW-w_i3nAI5XGlihPw/edit)
+  - What levels of US Census data are publicly available? See [HODV chapter](https://handsondataviz.org/guiding.html)
+  - How did US Census tract boundaries change from 2010 to 2020? See [CTData post](https://www.ctdata.org/blog/2020-census-geography-connecticut)
+  - How is US Census data "socially constructed"? See [HODV chapter](https://handsondataviz.org/question.html)
+- Assign Build 2: Find and Clean assigned Census data, due Tues Oct 3rd 9pm, worth 5 points.
+
+### Mon Oct 2
+- Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
+  - Precisely describe comparisons: practice [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
+  - Normalize your data
+  - Beware of biased comparisons
+- Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before Sun Oct 8th 9pm on [Moodle](https://moodle.trincoll.edu)
+
+### Wed Oct 4
+- Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
+  - Chart types
+  - Chart design principles and rules
+  - Create bar/column, histogram, line, area charts
+
+### Mon Oct 9
+No class - Trinity Days
+
+### Wed Oct 11
+- Before class, [create a free account on Datawrapper](https://app.datawrapper.de/signin/).
+- Continue overview of Learning Goal #5: Chart Your Data. Finish reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
+  - Pros and cons of Datawrapper versus Google Charts
+  - Create annotated, range, scatter charts
+  - TODO - ADD Chart Practice exercises
+- Hint: When publishing your visualization, always test if your work is visible to the public by pasting the link in a private incognito window in your browser OR a second browser, without being logged into your tool account
+- Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before Sun Oct 15th 9pm on [Moodle](https://moodle.trincoll.edu). **Plan ahead and budget your time** because this quiz contains 5 show-your-work questions and may require more time than you have spent on prior quizzes.
+
+### Mon Oct 16
+- Overview of Learning Goal #6: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
+  - Map types (focus on point, symbol point, and choropleth maps)
+  - Map design principles and rules
+  - Choropleth colors and intervals (focus on basic concepts for now)
+  - Normalize choropleth map data
+  - Use Datawrapper to create point, symbol point, and choropleth maps
+- Prep for Map Your Data quiz, to be taken during any 3-hour period by Sun Oct 22nd 9pm on [Moodle](https://moodle.trincoll.edu).
+
+### Wed Oct 18
+- Continue overview of Learning Goal #6: Map Your Data
+- TODO add to Ch7: [Datawrapper Update on Preparing Data for Symbol Point Maps](https://academy.datawrapper.de/article/114-how-to-create-a-symbol-map-in-datawrapper), so please follow these recommendations
+  - [Geocode Locations in Google Sheets](https://handsondataviz.org/geocode.html)
+  - Paste Latitude and Longitude columns into your Google Sheet
+  - Upload data from Google Sheet to Datawrapper, and click column headers to ensure that Datawrapper recognizes Lat and Lon format, as shown in screenshot
+  ![Datawrapper-recognize-location](/images/datawrapper-recognize-location.png)
+  - If Datawrapper > Connect Google Sheet is not reliable for you, then upload data a different way, such as paste table or export CSV
+- TODO UPDATE In-class: [Map Design Practice Questions](https://docs.google.com/document/d/1JZbSrGQyG8WLB18SppU9BxJZCYYjU2Q9psJ6Vwfi2yo/edit) and [Data](https://docs.google.com/spreadsheets/d/1_fypujXcxx3ge6VU7vML3jfPsuDnmgTvX7laRmWI8Sw/edit#gid=0)
+- Revisiting [Choropleth Map Design: Choosing Color Intervals](https://handsondataviz.org/design-choropleth.html#choose-color-intervals-to-group-choropleth-map-data)
+
+### Mon Oct 23
+- Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
+	- What's a GeoJSON file and why does it matter?
+  - Find existing GeoJSON boundary maps with [Gimme Geodata](https://hanshack.com/geotools/)
+  - View or draw a simple GeoJSON boundary with [GeoJSON.io](https://geojson.io)
+  - Edit and transform existing GeoJSON boundary mith [Mapshaper.org](https://mapshaper.org)
+- Tutorial: [Download and Edit CT Towns for Datawrapper Custom GeoJSON Map](https://docs.google.com/document/d/1LaMwOr-B_sW0_XVOQtG1_4wZFOMmrsG2kuPUD51fHhA/edit)
+- Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by Sun Oct 29th 9pm on [Moodle](https://moodle.trincoll.edu).
+
+### Wed Oct 25
+- Review questions posed by community partners and existing data sources
+- Assign Build 3: Draw, Pivot, and Create Chart and Map Ideas, worth 5 points, DUE TODO
+-  Discuss your ideas in randomly assigned pairs, but each person must show their work to earn credit.
+- Draw your concept on paper for approval by instructor, then set up pivot table and create chart using sample data TODO
+- Finish your builds and submit by Fri Oct 27th 5pm
+
+### Mon Oct 30
+- In-class: Review Chart and Map Ideas, and decide what to show in progress report to partners in next class
+
+### Wed Nov 1
 - In-class: Progress reports with community-learning partners on Zoom
     - 11:40-12:10 (30 min) College Access with Melissa Paul (Hartford Promise) and Fionnuala Darby-Hudgens (CT Data)
     - 12:15-12:45 (30 min) Child Care with Izzi Greenberg (Middlesex Coalition for Children) and Merrill Gay (CT Early Childhood Alliance)
 
-### Wed Dec 6th
-- In-class: Data story feedback with community-learning partners on Zoom
+### Mon Nov 6
+- Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future. Note: New GitHub accounts may require 2-factor authentication.
+- Overview of Learning Goal #8: Edit and Host Leaflet Code on GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
+  - Analogy: GitHub Code Repository is similar to a Public Recipe Cookbook
+  - Copy, Edit, and Host a Simple Leaflet Map
+- Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Sun Nov 12th on [Moodle](https://moodle.trincoll.edu).
+
+### Wed Nov 8
+- In-class: Review partner requests and discuss your preferences for final projects (Builds 4-7). No more than two people per team, but some projects can be divided for two separate teams.
+- [Submit final project preferences in Google Form](https://forms.gle/YB6pw6NWhfnYhKR68) for Builds 4-7, with final decisions made by instructor to balance numbers. Priority will be given to students who wish to partner with another student.
+
+### Mon Nov 13
+- Overview of Learning Goal #9: Explore Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
+  - Leaflet Maps with Google Sheets
+  - Leaflet Storymaps with Google Sheets
+- Prep for Leaflet Map Code Template quiz, to be taken during any 2-hour period by Sun Nov 19th 9pm on [Moodle](https://moodle.trincoll.edu).
+- Reminder: Everyone can view each other's GitHub repos, using links at top of Moodle
+- TODO: Assign Build 4: Show Your Plan and Preliminary Visualization, due on the Google Doc by Sun Nov 19th 9pm **same deadline as above**, worth 5 points.
+- Workshop time for Build 4, and meetings with instructor and TA
+- Schedule duo/solo Zoom appointment slots with instructor for Monday
+
+### Wed Nov 15
+- TODO COMBINE GOALS 10 and 11
+- Overview of Learning Goal #10: Tell and Show Your Data Story. Start reading HODV Chapter <https://handsondataviz.org/story.html>
+  - Build Narrative on a Storyboard
+  - Draw Attention to Meaning
+  - Acknowledge Sources and Uncertainty
+- There is no separate Moodle quiz, because this content is combined with the Build 5 below for 10 points total.
+- Assign Build 5: Data Story Draft: Tell a Meaningful Data Story on your assigned project, with around 500-750 words plus visualizations, for peer review. Due by TODO DATE as a Google Doc *shared for anyone to comment* with links to related data files and/or visualizations, worth 10 points (combined value of Quiz 10 and Build 5). Be sure to include:
+  - Introduction: What is the question and why does it matter?
+  - Findings and Evidence: Tell us key insights (text), then show us evidence (visuals)
+  - Sources and Methods: Describe how you did the work and any questions in the data, with links
+  - Address these [peer-review criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) for use in our next class
+- See [sample finished data stories by students on past projects](https://datavizforall.org/partners-projects/)
+
+- Overview of Learning Goal #11: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
+  - Static images versus interactive iframes
+  - Get the iframe embed code for a published visualization
+  - Embed the iframe code in an HTML web page
+  - Make your own copy of [dataviz-story-template from GitHub](https://github.com/DataVizForAll/dataviz-story-template) and follow instructions inside the `index.html` file
+  - Start Embed on the Web quiz, due by Mon 17 April 9pm on [Moodle](https://moodle.trincoll.edu).
+- Assign [Build Stage 6A & 6B](https://docs.google.com/document/d/1mGoPZC2d1Q631bcgmbsy4BynFkEHoMqmr95anyQG5_w/edit): Submit complete draft of your data story, as a published GitHub Pages link (preferred) or Google Doc (acceptable), for comments (no scores) by community partners. **Now due Wed 19 April 5pm**, for instructor to send to community partners.
+
+### Mon Nov 20
+- In place of our regular class, duo/solo 15-minute Zoom meetings with instructor for feedback on Build 4.
+
+### Wed Nov 22
+- No class - Thanksgiving Break
+
+### Mon Nov 27
+- Before class: Make sure your Google Doc is shared for anyone to *comment*
+- In-class: Practice applying [evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) to [data stories by students on past projects](https://datavizforall.org/partners-projects/)
+- In-class: [Peer Review with evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) of an assigned Data Story, due during class, for participation credit. Students must submit a full draft in order to participate in the peer review. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
+- TODO Assign Build 6: Revise Data Story Draft: Improve draft using peer feedback Use peer feedback for evaluation by instructor, due TODO, worth 5 points.
+- Checklist for strengthening your data stories:
+  - Look at your current draft through the lens of the [evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit)
+  - Craft a catchy and meaningful title that draws in readers
+  - Contextualize the broader problem and why it matters to our partner as a way to introduce your specific question. Write for readers who are curious but are not yet familiar with the issue.
+  - In each body paragraph, *tell* readers one of your key insights, then *show* us the evidence, both in text and visuals. Describe to readers what stands out in your tables, charts, or maps.
+  - For each visualization, add a screenshot *and* link to live version
+  - Write about your sources & methods so that future DataViz students could replicate your work, with links to public spreadsheets or repositories.
+  - Acknowledge uncertainty and question your data. What remains unanswered?
+- Prioritize your to-do list
+- Be prepared to give a 1-minute presentation of your draft data story in our next class meeting
+
+### Wed Nov 29
+- Overview of Learning Goal #12: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
+  - How to Lie with Charts
+  - How to Lie with Maps
+  - Recognize and Reduce Data Bias
+  - Recognize and Reduce Spatial Bias
+- Prep for Detect Lies quiz, to be taken during any 3-hour period by Mon Dec 4th 9pm on [Moodle](https://moodle.trincoll.edu).
+- In-class: 1-minute presentations of your draft data stories as rehearsal for upcoming meeting with partners.
+
+### Mon Dec 4
+- In class: [Student course feedback on what helped you learn](https://docs.google.com/document/d/1E6Diev5TVBpcpyqWsDrQEGLDyKFZkgdBk9FF1CSG9eU/edit). In addition, please fill out the College's standard online evaluation form when available.
+- Review presentation lineup for Build 6 (partners) and Build 7 (guest evaluators)
+- Everyone: Insert your GitHub Pages data story link (even if it's not finished) in Build 6+7 Google Doc, and you can improve and revise until cut-off times
+  - Avoid this [common HTML template error](https://datavizforall.org/images/common-template-error.png)
+- Decisions to make before your data story is "frozen" and published on the public [Partners and Projects page](https://datavizforall.org/partners-projects/):
+  - Insert your full name (recommended), or you have the right to use only your first name or initials
+  - See what other students did in my "[Public Writing and Student Privacy](https://epress.trincoll.edu/webwriting/chapter/dougherty-public/)" chapter of [Web Writing](https://webwriting.trincoll.edu) book (2015).
+  - Recommended: Insert link to your published data story in your resume to demonstrate what you learned to prospective employers and graduate schools. Emphasize your data visualization skills at the top, instead of simply listing "proficient in Google Sheets, Datawrapper, GitHub" at the bottom.
+- Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
+- Workshop to finish data stories in preparation for community partner meetings
+  - 5-minute meetings with instructor to review content or HTML formatting
+  - 5-minute meetings with TA to rehearse your 2-minute presentations of highlights in your data story on GitHub
+  - Everyone: Finish moving text and visualizations from Google Doc to GitHub format for Build 6, for instructor to send to community partners by END OF DAY
+
+### Wed Dec 6
+- In-class: Build 6 Data story feedback with community-learning partners on Zoom. Deliver 1-minute presentation of highlights in your data story to community partners, then listen to their non-graded feedback and write down revisions to consider.
   - 11:40-12:10 (30 min) College Access with Melissa Paul (Hartford Promise) and Fionnuala Darby-Hudgens (CT Data)
   - 12:15-12:45 (30 min) Child Care with Izzi Greenberg (Middlesex Coalition for Children) and Merrill Gay (CT Early Childhood Alliance)
+- Assign Build Stage 7: Revise and Finalize Data story on GitHub Pages template for guest expert, due Fri Dec 8th at 12 noon. **No extensions** because your data story will be "frozen" and a copy will be transferred and published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts, who need to read your work before your presentations. Worth 10 points, scored by guest expert.
 
-### MORE SCHEDULE INFO to come...
+### Mon Dec 11
+- Final presentations with guest evaluators on Zoom
+- Class will **begin at 11:30am and end at 1:20pm and will take place in my Zoom room** to ensure all students have sufficient time with guest experts. **Students only need to attend their assigned 8-10 minute time slot** and must log into my Zoom room a few minutes before it begins.
+- Build 7: Guest experts will review final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
