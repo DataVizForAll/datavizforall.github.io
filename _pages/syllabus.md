@@ -1,7 +1,7 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /
-date: 2023-08-31
+date: 2023-09-01
 toc: true
 toc_label: "Contents"
 toc_sticky: true
@@ -63,26 +63,30 @@ Your progress toward these learning goals will be assessed in three ways:
 - Each week, select any 2-hour period during the 3-day window (typically from Thursday evening to Sunday 9pm) to complete a Moodle quiz of around 5 questions on the designated learning goal. You may see different versions of questions than other students, but all questions address the same goal.
 - Students have at least two attempts on every quiz. Short-answer questions will be scored automatically by the computer, and show-your-work questions will be scored manually by the instructor. If you respond incorrectly to an auto-scored question, the quiz will offer advice and allow you to try again. If you respond incorrectly to a manually-scored question, the instructor will offer advice via email or a meeting and allow you to try again within 24 hours.
 - Before you start the quiz, prepare by reading assigned chapters, doing practice exercises, and discussing the material with classmates who have not yet started it.
-- When you start the 2-hour quiz period, you may use your materials (including your notes, the online book, and the entire Internet), but you must work independently and you may not communicate about the quiz content in any way (except with the instructors) until the quiz has closed. You are responsible for following the Intellectual Honesty policy as described in the [Trinity Student Handbook](https://www.trincoll.edu/policies/). If doubts arise, the instructor may require you to retake a quiz under direct supervision and/or refer the issue to the Honor Council.
+- When you start the typical 2-hour quiz period, you may use your materials (including your notes, the online book, and any content on the Internet), but you must work independently and you may not communicate about the quiz content in any way (except with the instructors) until the quiz has closed. See the Intellectual Honesty policy further below.
 - If you do not begin a quiz or demonstrate sufficient effort during the initial quiz window, a 20 percent late penalty will be deducted for every 12-hour period beyond the deadline. Exceptions are granted only for documented health or family emergencies.
 - 12 broad learning goals x 5 points per quiz = 60 points
 
 #### B. Building Data Stories
-- The purpose is to show your work in building different stages of data visualizations and written narratives that explain why and how it matters to our community partners.
+- The purpose is to show your original work in building different stages of data visualizations and written narratives that explain why and how it matters to our community partners. See the Intellectual Honesty policy below.
 - Depending on the stage of the build, your work will be evaluated by the instructor, your peers, or guest experts, based on a rubric.
 - 7 stages x 5 points = 35 points. A 20 percent late penalty will be deducted for every 12-hour period beyond the deadline. Exceptions are granted only for documented health or family emergencies.
 
 #### C. Class Participation
-- The purpose is to encourage active learning and accountability. Each student begins the course with 5 participation points. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me well in advance.
-
-**If you are quarantined or isolated due to Covid**, or if you have concerns about your health, **email me in advance** to request permission to participate remotely via Zoom during a specific class session. Last-minute requests may not be granted.
+- The purpose is to encourage active learning and accountability. Each student begins the course with 5 participation points. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score.
+- Exceptions may be granted for health or family emergencies, if you email me prior to class. If you are **quarantined or isolated due to Covid**, or have other concerns about your health, email me well in advance to request permission to participate remotely via Zoom during a specific class session. Last-minute requests may not be granted.
+- Exceptions are also granted for any scheduling conflicts (such as religious observances or other pre-planned events) where you have notified me well in advance. Last-minute requests may not be granted.
 
 #### Summary  
 60 points quizzes + 35 points data stories + 5 class participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
 
-Academic accommodations: please notify me before our third class session, and [schedule an appointment on my calendar](https://jackdougherty.youcanbook.me) to discuss how we will implement your approved plan. For those students with accommodations approved after the start of the semester, a minimum of 10 days’ notice is required. Learn more at the [Student Accessibility Resource Center](https://www.trincoll.edu/sarc/).
+#### Intellectual Honesty
+- You are responsible for following the Intellectual Honesty policy as described in the [Trinity Student Handbook](https://www.trincoll.edu/policies/).
+- For online quizzes, you may use your materials (including your notes, the online book, and any content on the Internet), but you must work independently and you may not communicate about the quiz content in any way (except with the instructors) until the quiz has closed. If doubts arise, the instructor may require you to retake a quiz under direct supervision and/or refer a case to the Honor Council.
+- For build assignments, You (and your partner) are expected to create all original content (text and visualizations), with proper citations to any paraphrased or quoted text written by others, and image credits to any visuals produced by others. If any doubts arise, the instructor may require ask you to independently reproduce content under direct supervision and/or refer a case to the Honor Council.
 
-Religious observances or other advance scheduling conflicts: please request accommodations well ahead of time, ideally by our third class session. Last-minute requests may not be granted.
+#### Academic accommodations
+Please notify me before our third class session, and [schedule an appointment on my calendar](https://jackdougherty.youcanbook.me) to discuss how we will implement your approved plan. For those students with accommodations approved after the start of the semester, a minimum of 10 days’ notice is required. Learn more at the [Student Accessibility Resource Center](https://www.trincoll.edu/sarc/).
 
 ### How to Succeed in this Course
 - Bookmark this online syllabus and check it for important updates, which will appear **in bold**.
@@ -308,7 +312,7 @@ No class - Trinity Days
   - How to Lie with Maps
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
-- Prep for Detect Lies quiz, to be taken during any 3-hour period by TODO DATE 9pm on [Moodle](https://moodle.trincoll.edu).
+- Prep for Detect Lies quiz, to be taken during any 3-hour period by Sun Dec 3rd 9pm on [Moodle](https://moodle.trincoll.edu).
 - In-class: 1-minute presentations of your draft data stories as rehearsal for upcoming meeting with partners.
 
 ### Mon Dec 4
@@ -327,7 +331,7 @@ No class - Trinity Days
 - In-class: Build 6 Data story feedback with community-learning partners on Zoom. Deliver 1-minute presentation of highlights in your data story to community partners, then listen to their non-graded feedback and write down revisions to consider.
   - 11:40-12:10 (30 min) College Access with Melissa Paul (Hartford Promise) and Fionnuala Darby-Hudgens (CT Data)
   - 12:15-12:45 (30 min) Child Care with Izzi Greenberg (Middlesex Coalition for Children) and Merrill Gay (CT Early Childhood Alliance)
-- Assign Build Stage 7: Revise and Finalize Data story on GitHub Pages template for guest expert, due Fri Dec 8th at 12 noon. **No extensions** because your data story will be "frozen" and a copy will be transferred and published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts, who need to read your work before your presentations. Worth 10 points, scored by guest expert.
+- Assign Build Stage 7: Revise and Finalize Data story for guest experts due Fri Dec 8th at 12 noon. **No extensions** because your data story will be "frozen" and a copy will be transferred and published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts, who need to read your work before your presentations. Worth 10 points, scored by guest expert.
 
 ### Mon Dec 11
 - Final presentations with guest evaluators on Zoom
