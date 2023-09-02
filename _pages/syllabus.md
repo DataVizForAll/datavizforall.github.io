@@ -105,11 +105,11 @@ Please notify me before our third class session, and [schedule an appointment on
 - Bring a laptop computer (or use a desktop in the classroom).
 - If you are enrolled but do not attend our first class, the Registrar will be instructed to drop you from the roster.
 - Overview of the syllabus, Hartford community-learning partners, and past projects
-- Sample quiz about syllabus for 1-point bonus, due in class on [Moodle](https://moodle.trincoll.edu)
+- Sample quiz about syllabus for 1-point bonus, using open-book format, due in class on [Moodle](https://moodle.trincoll.edu)
 - Advice from TA on scheduling appointments and how to succeed in this course
-- Why data visualization matters in the "disinformation age". See Hands-On DataViz (HODV), Chapter 1 <https://handsondataviz.org/introduction.html>
-- What sparks your interest in this course? Anonymous free-write on [shared Google Doc](https://docs.google.com/document/d/1437B23rAci_1DOFJrhpCVv0O3wUbAgFtslcTyZyxavI/edit)
-- Why data visualization matters to me: Telling and showing hidden stories of housing and education inequality in [On The Line book-in-progress](https://ontheline.trincoll.edu)
+- Presentation: Why data visualization matters in the "disinformation age". See Hands-On DataViz (HODV), Chapter 1 <https://handsondataviz.org/introduction.html>
+- In-class: What sparks your interest in this course? Anonymous free-write on [shared Google Doc](https://docs.google.com/document/d/1437B23rAci_1DOFJrhpCVv0O3wUbAgFtslcTyZyxavI/edit)
+- Presentation: Why data visualization matters to me: Telling and showing hidden stories of housing and education inequality in [On The Line book-in-progress](https://ontheline.trincoll.edu)
 - Strengthen your spreadsheet skills: Starting reading and working on sample exercises for our next class.
 
 ### Mon Sept 11
