@@ -52,8 +52,8 @@ In this course you will demonstrate the knowledge and skills you have developed 
 7. Transform Your Map Data
 8. Edit and Host Leaflet Code on GitHub
 9. Explore Leaflet Map Code Templates
-10. Tell and Show Your Data Story
-11. Embed on the Web
+10. Embed on the Web
+11. Tell and Show Your Data Story
 12. Detect Lies and Reduce Bias
 
 Your progress toward these learning goals will be assessed in three ways:
@@ -105,7 +105,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - Bring a laptop computer (or use a desktop in the classroom).
 - If you are enrolled but do not attend our first class, the Registrar will be instructed to drop you from the roster.
 - Overview of the syllabus, Hartford community-learning partners, and past projects
-- Sample quiz about syllabus for 1-point bonus, using open-book format, due in class on [Moodle](https://moodle.trincoll.edu)
+- Sample quiz about syllabus for 1-point bonus, with open-note format, due in class on [Moodle](https://moodle.trincoll.edu)
 - Advice from TA on scheduling appointments and how to succeed in this course
 - Presentation: Why data visualization matters in the "disinformation age". See Hands-On DataViz (HODV), Chapter 1 <https://handsondataviz.org/introduction.html>
 - In-class: What sparks your interest in this course? Anonymous free-write on [shared Google Doc](https://docs.google.com/document/d/1437B23rAci_1DOFJrhpCVv0O3wUbAgFtslcTyZyxavI/edit)
@@ -132,7 +132,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - In-class: Meet with community-learning partners on Zoom
   - 11:45-12pm College Access questions with Melissa Paul (Hartford Promise) and Fionnuala Darby-Hudgens (CT Data Collaborative and Trinity '13)
   - 12-12:20pm Child Care advocacy questions with Izzi Greenberg (Middlesex Coalition for Children) and Merrill Gay (CT Early Childhood Alliance)
-- Assign random pairs of students to Build Stage 1: Listen to Hartford Partners and Find & Question Data - TODO add link - due Tues Sept 19th 9pm on Google Doc, worth 5 points.
+- Assign random pairs of students to Build Stage 1: Listen to Community Partners and Find & Question Data, due Tues Sept 19th 9pm on Google Doc, worth 5 points.
 
 ### Mon Sept 18
 - Before class, read and be prepared to discuss Catherine D'Ignazio and Lauren Klein *Data Feminism* chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, especially these selections:
@@ -148,11 +148,11 @@ Please notify me before our third class session, and [schedule an appointment on
   - Recognize bad data
   - Question your data
   - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Sun Sept 23rd 9pm on [Moodle](https://moodle.trincoll.edu)
-  - Work with your partner to complete Build 1, and paste the link to your Google Doc (shared, so that anyone can comment) on the Build 1 page before Tues 9pm
+  - Work with your partner to finalize Build 1, due Tues 9pm, and paste the link to your Google Doc *shared so that anyone can comment* on the Build 1 page before leaving the room
 
 ### Wed Sept 20
 - In class: Review Build 1 student responses
-- Assign additional background readings on child care and college access
+- TODO: Assign additional background readings on child care and college access
 
 ### Mon Sept 25
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
@@ -192,8 +192,8 @@ No class - Trinity Days
 - Continue overview of Learning Goal #5: Chart Your Data. Finish reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Pros and cons of Datawrapper versus Google Charts
   - Create annotated, range, scatter charts
-  - TODO - ADD two-variable correlation concept and formula, versus more advanced multivariable regression, beyond scope of this class
-  - TODO - ADD Chart Practice exercises
+  - TODO - Add correlation concept and simple formula
+  - TODO - Add chart practice data
 - Hint: When publishing your visualization, always test if your work is visible to the public by pasting the link in a private incognito window in your browser OR a second browser, without being logged into your tool account
 - Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before Sun Oct 15th 9pm on [Moodle](https://moodle.trincoll.edu). **Plan ahead and budget your time** because this quiz contains 5 show-your-work questions and may require more time than you have spent on prior quizzes.
 
@@ -208,13 +208,7 @@ No class - Trinity Days
 
 ### Wed Oct 18
 - Continue overview of Learning Goal #6: Map Your Data
-- TODO add to Ch7: [Datawrapper Update on Preparing Data for Symbol Point Maps](https://academy.datawrapper.de/article/114-how-to-create-a-symbol-map-in-datawrapper), so please follow these recommendations
-  - [Geocode Locations in Google Sheets](https://handsondataviz.org/geocode.html)
-  - Paste Latitude and Longitude columns into your Google Sheet
-  - Upload data from Google Sheet to Datawrapper, and click column headers to ensure that Datawrapper recognizes Lat and Lon format, as shown in screenshot
-  ![Datawrapper-recognize-location](/images/datawrapper-recognize-location.png)
-  - If Datawrapper > Connect Google Sheet is not reliable for you, then upload data a different way, such as paste table or export CSV
-- TODO UPDATE In-class: [Map Design Practice Questions](https://docs.google.com/document/d/1JZbSrGQyG8WLB18SppU9BxJZCYYjU2Q9psJ6Vwfi2yo/edit) and [Data](https://docs.google.com/spreadsheets/d/1_fypujXcxx3ge6VU7vML3jfPsuDnmgTvX7laRmWI8Sw/edit#gid=0)
+- In-class: Map Design Practice Questions and Data
 - Revisiting [Choropleth Map Design: Choosing Color Intervals](https://handsondataviz.org/design-choropleth.html#choose-color-intervals-to-group-choropleth-map-data)
 
 ### Mon Oct 23
@@ -228,9 +222,7 @@ No class - Trinity Days
 
 ### Wed Oct 25
 - Review questions posed by community partners and existing data sources
-- Assign Build 3: Data Patterns for Partner Progress Reports TODO
--  Discuss your ideas in randomly assigned pairs, but each person must show their work to earn credit.
-- Finish your builds and submit by Fri Oct 27th 1pm
+- Assign Build 3: Explore Data Patterns for Partner Progress Reports. Work in randomly assigned pairs to discuss your ideas and data methods, but each person must label their work to earn credit. Before leaving class, insert links to your co-authored Google Docs, shared so that *anyone can comment*, and finish by **Fri Oct 27th 1pm**, worth 5 points
 
 ### Mon Oct 30
 - Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future. Note: New GitHub accounts may require 2-factor authentication.
@@ -238,13 +230,13 @@ No class - Trinity Days
   - Analogy: GitHub Code Repository is like a public cookbook of recipes, and GitHub Pages is like an oven that bakes your code
   - Copy, Edit, and Host a Simple Leaflet Map
 - Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Sun Nov 5th on [Moodle](https://moodle.trincoll.edu).
-- In-class: Review Build 3 Data Patterns, and decide what to show in progress report to partners in next class
+- In-class: Review Build 3 Data Patterns, and decide what to show during progress reports to partners in next class
 
 ### Wed Nov 1
 - In-class: Progress reports with community-learning partners on Zoom
     - 11:40-12:10 (30 min) College Access with Melissa Paul (Hartford Promise) and Fionnuala Darby-Hudgens (CT Data)
     - 12:15-12:45 (30 min) Child Care with Izzi Greenberg (Middlesex Coalition for Children) and Merrill Gay (CT Early Childhood Alliance)
-- Start thinking about your preferences for final projects (Builds 4-7). Priority will be given to students who wish to partner with another student. No more than two students per team, but some projects can be divided up for coordinated separate teams. Duos are strongly encouraged. While you can choose to work solo, you will be held to the same expectations as a duo.
+- Start thinking about your preferences for final projects (Builds 4-7). Working in duos is strongly encouraged and priority will be given to students who wish to partner with another student. No more than two students per team, but some projects can be divided up for coordinated, separate teams (working on related questions and data, but graded separatedly). While you can choose to work solo, you will be held to the same expectations as a duo.
 
 ### Mon Nov 6
 - Overview of Learning Goal #9: Explore Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
@@ -252,26 +244,26 @@ No class - Trinity Days
   - Leaflet Storymaps with Google Sheets
 - Prep for Leaflet Map Code Template quiz, to be taken during any 2-hour period by Sun Nov 12th 9pm on [Moodle](https://moodle.trincoll.edu). **First of two quizzes due on the same day**
 - Reminder: Everyone can view each other's GitHub repos, using links at top of Moodle
-- [Submit final project preferences in Google Form](https://forms.gle/YB6pw6NWhfnYhKR68) for Builds 4-7, with final decisions made by instructor to balance numbers.
+- Submit final project preferences in Google Form for Builds 4-7, with final decisions made by instructor to balance numbers.
 
 ### Wed Nov 8
-- Finalize duo/solo assignments for Builds 4-7
-- TODO: Assign Build 4: Show Your Plan and Preliminary Visualization, due on the Google Doc by TODO DATE, worth 5 points.
-- See [sample finished data stories by students on past projects](https://datavizforall.org/partners-projects/)
-- Overview of Learning Goal #11: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
+- Before class: Explore [sample finished data stories by students on past projects](https://datavizforall.org/partners-projects/)
+- Overview of Learning Goal #10: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
   - Static images versus interactive iframes
   - Get the iframe embed code for a published visualization
   - Embed the iframe code in an HTML web page
   - Make your own copy of [dataviz-story-template from GitHub](https://github.com/DataVizForAll/dataviz-story-template) and follow instructions inside the `index.html` file
   - Start Embed on the Web quiz, due by Sun Nov 12th 9pm on [Moodle](https://moodle.trincoll.edu). **Second of two quizzes due on the same day**
+  - Finalize duo/solo assignments for Builds 4-7
+  - Assign Build 4: Describe Plan and Draw Visualization Ideas, due by end of today (Nov 8th) on the class Google Doc, worth 5 points. Before leaving the room, create links to your (co-authored) Google Doc and share so that *anyone can comment*.
 
 ### Mon Nov 13
-- Overview of Learning Goal #10: Tell and Show Your Data Story. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
+- Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
   - Build Narrative on a Storyboard
   - Draw Attention to Meaning
   - Acknowledge Sources and Uncertainty
 - There is no separate Moodle quiz, because this content is combined with the Build 5 below for 10 points total.
-- Assign Build 5: Data Story Draft: Tell a Meaningful Data Story on your assigned project, with around 500-750 words plus visualizations, for peer review. Due by Sun Nov 19th 9pm as a Google Doc *shared for anyone to comment* with links to related data files and/or visualizations, worth 10 points (combined value of Quiz 10 and Build 5). Be sure to include:
+- Assign Build 5: Data Story Draft: Tell a Meaningful Data Story on your assigned project, with around 500-750 words plus visualizations, for peer review. Due by Sun Nov 19th 9pm as a Google Doc shared for *anyone to comment* with links to related data files and/or visualizations, worth 10 points (combined value of Quiz 10 and Build 5). Be sure to include:
   - Introduction: What is the question and why does it matter?
   - Findings and Evidence: Tell us key insights (text), then show us evidence (visuals)
   - Sources and Methods: Describe how you found and analyzed the data, include links to any of your public Google Sheets, and raise any questions or uncertainty.
@@ -279,8 +271,8 @@ No class - Trinity Days
 - Be prepared to give a 1-minute presentation of your draft data story in our next class meeting
 
 ### Wed Nov 15
-- Insert links to your not-yet-finished work on the Build 5 Google Doc and confirm you have *shared for anyone to comment* with links to related data files and/or visualizations
-- In-class: workshop time
+- In-class: Workshop time for Build 5
+  - Insert links on the Build 5 Google Doc, share so that *anyone can comment*, and add links to related data files and visualizations
   - Check-in meetings with instructor
   - Rehearse a 1-minute oral presentation of your data story with the TA
 - Schedule duo/solo Zoom appointment slots with instructor for Monday
