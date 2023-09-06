@@ -1,7 +1,7 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /
-date: 2023-09-01
+date: 2023-09-06
 toc: true
 toc_label: "Contents"
 toc_sticky: true
@@ -12,7 +12,7 @@ Our course meets in-person on Mondays and Wednesdays 11:30am-12:45pm in Library 
 ### Instructors
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
-Teaching Assistant Mia Rodriguez
+Teaching Assistant Mia Rodriguez - contact and scheduling info on Moodle
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.     
 - Fulfills Numerical and Symbolic Reasoning (NUM) requirement.   
@@ -60,11 +60,12 @@ Your progress toward these learning goals will be assessed in three ways:
 
 #### A. Open-Book Weekly Quizzes
 - The purpose is to demonstrate your knowledge and skills through questions that emphasize conceptual understanding and how to apply it in new contexts. You will have more than one opportunity to successfully complete each quiz while working independently with your notes, readings, and any web resources.
-- Each week, select any 2-hour period during the 3-day window (typically from Thursday evening to Sunday 9pm) to complete a Moodle quiz of around 5 questions on the designated learning goal. You may see different versions of questions than other students, but all questions address the same goal.
-- Students have at least two attempts on every quiz. Short-answer questions will be scored automatically by the computer, and show-your-work questions will be scored manually by the instructor. If you respond incorrectly to an auto-scored question, the quiz will offer advice and allow you to try again. If you respond incorrectly to a manually-scored question, the instructor will offer advice via email or a meeting and allow you to try again within 24 hours.
+- Each week, select any 2-hour period during the quiz window (typically a four-day window from Wednesday afternoon to Sunday 9pm) to complete a Moodle quiz of around 5 questions on the designated learning goal. You may see different versions of questions than other students, but all questions address the same goal.
+- Students can make at least two quiz attempts during the typical four-day window. Short-answer questions will be scored automatically by the computer, and show-your-work questions will be scored manually by the instructor. If you respond incorrectly to an auto-scored question, the quiz will offer advice and allow you to try again. If you respond incorrectly to a manually-scored question, the instructor will offer advice via email or a meeting and allow you to try again before the quiz window closes, if sufficient time remains.
+- HINT: Start your quiz by Friday 1pm if you want to receive the instructor's feedback on show-your-work questions before the quiz window typically closes on Sunday 9pm. If you wait until the last minute and don't start your quiz until Saturday or Sunday, you might not receive feedback from the instructor in time.
 - Before you start the quiz, prepare by reading assigned chapters, doing practice exercises, and discussing the material with classmates who have not yet started it.
 - When you start the typical 2-hour quiz period, you may use your materials (including your notes, the online book, and any content on the Internet), but you must work independently and you may not communicate about the quiz content in any way (except with the instructors) until the quiz has closed. See the Intellectual Honesty policy further below.
-- If you do not begin a quiz or demonstrate sufficient effort during the initial quiz window, a 20 percent late penalty will be deducted for every 12-hour period beyond the deadline. Exceptions are granted only for documented health or family emergencies.
+- If you do not begin a quiz or demonstrate sufficient effort during the quiz window, a 20 percent late penalty will be deducted for every 12-hour period beyond the deadline. Exceptions are granted only for documented health or family emergencies.
 - 12 broad learning goals x 5 points per quiz = 60 points
 
 #### B. Building Data Stories
@@ -98,7 +99,6 @@ Please notify me before our third class session, and [schedule an appointment on
 - If anything is interfering with your learning, email or talk with me. I care about how you're doing in life, not just in our classroom.
 
 ## DRAFT Schedule
-- TODO - confirm all assignment dates, total scores, and check for typos
 - Important updates from the instructor will be marked **in bold**.
 
 ### Wed Sept 6
@@ -106,11 +106,13 @@ Please notify me before our third class session, and [schedule an appointment on
 - If you are enrolled but do not attend our first class, the Registrar will be instructed to drop you from the roster.
 - Overview of the syllabus, Hartford community-learning partners, and past projects
 - Sample quiz about syllabus for 1-point bonus, with open-note format, due in class on [Moodle](https://moodle.trincoll.edu)
+- [Fill out simple form](https://forms.gle/3e7ZifdqMogpZ1Fb8) to share the Google Drive username (aka Gmail address) that you will use for this course
 - Advice from TA on scheduling appointments and how to succeed in this course
+- Read: [Feedback from prior students about this course in Spring 2023](https://docs.google.com/document/d/1E6Diev5TVBpcpyqWsDrQEGLDyKFZkgdBk9FF1CSG9eU/edit)
 - Presentation: Why data visualization matters in the "disinformation age". See Hands-On DataViz (HODV), Chapter 1 <https://handsondataviz.org/introduction.html>
-- In-class: What sparks your interest in this course? Anonymous free-write on [shared Google Doc](https://docs.google.com/document/d/1437B23rAci_1DOFJrhpCVv0O3wUbAgFtslcTyZyxavI/edit)
+- In-class: What sparks your interest in this course? Anonymous free-write on [shared Google Doc](https://docs.google.com/document/d/1rINRibZJvqQp8PkD4v6l6sVej6zu_NTz04Aa8LdM_h4/edit)
 - Presentation: Why data visualization matters to me: Telling and showing hidden stories of housing and education inequality in [On The Line book-in-progress](https://ontheline.trincoll.edu)
-- Strengthen your spreadsheet skills: Starting reading and working on sample exercises for our next class.
+- Strengthen your spreadsheet skills: Starting reading and working on sample exercises *before* our next class listed below.
 
 ### Mon Sept 11
 - Overview of Learning Goal #1: Strengthen Your Spreadsheet Skills, HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
@@ -287,7 +289,7 @@ No class - Trinity Days
 - Before class: Make sure your Google Doc is shared for anyone to *comment*
 - In-class: Practice applying [evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) to [data stories by students on past projects](https://datavizforall.org/partners-projects/)
 - In-class: [Peer Review with evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) of an assigned Data Story, due during class, for participation credit. Students must submit a full draft in order to participate in the peer review. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
-- Assign Build 6: Revise Data Story in GitHub Pages Format. Improve draft based on feedback, and migrate all content from Google Doc to GitHub Pages format, due Monday Dec 4th 2pm for instructor to evaluate (worth 5 points) and forward to partners (for non-graded comments)
+- Assign Build 6: Revise Data Story in GitHub Pages Format. Improve draft based on feedback, and migrate all content from Google Doc to GitHub Pages format, due Monday Dec 4th 2pm for instructor to forward to partners (for non-graded comments and participation credit)
 - Checklist for strengthening your data stories:
   - Look at your current draft through the lens of the [evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit)
   - Craft a catchy and meaningful title that draws in readers
@@ -320,7 +322,7 @@ No class - Trinity Days
 - Workshop time to finish data stories in preparation for community partner meetings
 
 ### Wed Dec 6
-- In-class: Build 6 Data story feedback with community-learning partners on Zoom. Deliver 1-minute presentation of highlights in your data story to community partners, then listen to their non-graded feedback and write down revisions to consider.
+- In-class: Build 6 Data story feedback with community-learning partners on Zoom. Deliver 1-minute presentation of highlights in your data story to community partners, then listen to their non-graded feedback and write down revisions to consider, for participation credit.
   - 11:40-12:10 (30 min) College Access with Melissa Paul (Hartford Promise) and Fionnuala Darby-Hudgens (CT Data)
   - 12:15-12:45 (30 min) Child Care with Izzi Greenberg (Middlesex Coalition for Children) and Merrill Gay (CT Early Childhood Alliance)
 - Assign Build Stage 7: Revise and Finalize Data story for guest experts due Fri Dec 8th at 12 noon. **No extensions** because your data story will be "frozen" and a copy will be transferred and published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts, who need to read your work before your presentations. Worth 10 points, scored by guest expert.
