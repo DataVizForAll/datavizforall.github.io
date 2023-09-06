@@ -106,9 +106,9 @@ Please notify me before our third class session, and [schedule an appointment on
 - If you are enrolled but do not attend our first class, the Registrar will be instructed to drop you from the roster.
 - Foldable name cards: write your preferred first name on both sides, and on the inside, add a unique detail about yourself to help me remember your name. I will collect them at the end of each class.
 - Overview of the syllabus, Hartford community-learning partners, and past projects
+- Advice from TA on scheduling appointments and how to succeed in this course
 - Sample quiz about syllabus for 1-point bonus, with open-note format, due in class on [Moodle](https://moodle.trincoll.edu)
 - [Fill out simple form](https://forms.gle/3e7ZifdqMogpZ1Fb8) to share the Google Drive username (aka Gmail address) that you will use for this course
-- Advice from TA on scheduling appointments and how to succeed in this course
 - Read: [Feedback from prior students about this course in Spring 2023](https://docs.google.com/document/d/1E6Diev5TVBpcpyqWsDrQEGLDyKFZkgdBk9FF1CSG9eU/edit)
 - Presentation: Why data visualization matters in the "disinformation age". See Hands-On DataViz (HODV), Chapter 1 <https://handsondataviz.org/introduction.html>
 - In-class: What sparks your interest in this course? Anonymous free-write on [shared Google Doc](https://docs.google.com/document/d/1rINRibZJvqQp8PkD4v6l6sVej6zu_NTz04Aa8LdM_h4/edit)
