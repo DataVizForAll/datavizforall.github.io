@@ -7,7 +7,7 @@ toc_label: "Contents"
 toc_sticky: true
 ---
 ## Fall 2023 Syllabus
-Our course meets in-person on Mondays and Wednesdays 11:30am-12:45pm in Library B02 at Trinity College, Hartford.
+Our course meets in-person on Mondays and Wednesdays 11:30am-12:45pm in Library B02 at Trinity College, Hartford. You are welcome to wear a mask at any time on campus, and I may require all students to wear masks in class if Covid rates rise significantly.
 
 ### Instructors
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
