@@ -104,6 +104,7 @@ Please notify me before our third class session, and [schedule an appointment on
 ### Wed Sept 6
 - Bring a laptop computer (or use a desktop in the classroom).
 - If you are enrolled but do not attend our first class, the Registrar will be instructed to drop you from the roster.
+- Foldable name cards: write your preferred first name on both sides, and on the inside, add a unique detail about yourself to help me remember your name. I will collect them at the end of each class.
 - Overview of the syllabus, Hartford community-learning partners, and past projects
 - Sample quiz about syllabus for 1-point bonus, with open-note format, due in class on [Moodle](https://moodle.trincoll.edu)
 - [Fill out simple form](https://forms.gle/3e7ZifdqMogpZ1Fb8) to share the Google Drive username (aka Gmail address) that you will use for this course
