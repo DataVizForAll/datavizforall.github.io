@@ -116,17 +116,19 @@ Please notify me before our third class session, and [schedule an appointment on
 - Strengthen your spreadsheet skills: Starting reading and working on sample exercises *before* our next class listed below.
 
 ### Mon Sept 11
+- Before class, [fill out quick survey](https://forms.gle/yn5QwTzfQkYcppQn9) about prior experience and education, then view 3000+ results in [public sample dataset](https://docs.google.com/spreadsheets/d/1egX_akJccnCSzdk1aaDdtrEGe5HcaTrlOW-Yf6mJ3Uo)
 - Overview of Learning Goal #1: Strengthen Your Spreadsheet Skills, HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
-  - Copy, Share, and Convert Google Sheets
+  - Spreadsheet terms, tools, and data formats
+  - Download, Copy, Share, and Convert Google Sheets
   - Geocode locations
   - Sort and filter data
   - Calculate with formulas
   - Summarize with pivot tables
   - Match columns with VLOOKUP
-- [Google Spreadsheet Skills Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
-- [Google Username and Sheet Sharing Practice](https://docs.google.com/document/d/1tmLJQwFk2SfPPdovTguL5uLZ50Mb77mfvnowuQ9n95E/edit)
-- Prep for Spreadsheet quiz, to be taken during any 2-hour period before Sun Sept 17th 9pm on [Moodle](https://moodle.trincoll.edu)
-- One day after the quiz window closes, some students may receive an email requesting quiz revisions within 24 hours. If no email arrives, you likely earned full credit, which can be confirmed in your Moodle gradebook.
+- In-class: [Google Spreadsheet Skills Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
+- In-class: [Google Sheet Sharing Practice](https://docs.google.com/document/d/1tmLJQwFk2SfPPdovTguL5uLZ50Mb77mfvnowuQ9n95E/edit)
+- Prep for Spreadsheet quiz, to be taken during any 2-hour period before Sun Sept 17th 9pm on [Moodle](https://moodle.trincoll.edu). HINT: Start your quiz by Fri 1pm to ensure sufficient time for instructor feedback.
+- During the quiz window, some students may receive an email from the instructor with instructions to redo or revise. If no email arrives, you may have earned full credit, which can be confirmed in your Moodle gradebook.
 
 ### Wed Sept 13
 - Before class, read background information on our partners' websites:
