@@ -131,7 +131,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - During the quiz window, some students may receive an email from the instructor with instructions to redo or revise. If no email arrives, you may have earned full credit, which can be confirmed in your Moodle gradebook.
 
 ### Wed Sept 13
-- Before class, read background information on our partners' websites:
+- Before class, read background information on our partners' websites and be prepared to ask questions about their data requests:
   - Child Care: CT Early Childhood Alliance](http://earlychildhoodalliance.com) and [Middlesex Coalition for Children](https://www.middlesexchildren.org)
   - College Access: [Hartford Promise](https://hartfordpromise.org) with support from [CT Data Collaborative](https://ctdata.org)
 - In-class: Meet with community-learning partners on Zoom
