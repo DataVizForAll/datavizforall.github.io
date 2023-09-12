@@ -132,12 +132,12 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Wed Sept 13
 - Before class, read background information on our partners' websites and be prepared to ask questions about their data requests:
-  - Child Care: CT Early Childhood Alliance](http://earlychildhoodalliance.com) and [Middlesex Coalition for Children](https://www.middlesexchildren.org)
+  - Child Care: [CT Early Childhood Alliance](http://earlychildhoodalliance.com) and [Middlesex Coalition for Children](https://www.middlesexchildren.org)
   - College Access: [Hartford Promise](https://hartfordpromise.org) with support from [CT Data Collaborative](https://ctdata.org)
 - In-class: Meet with community-learning partners on Zoom
   - 11:45-12pm College Access questions with Melissa Paul (Hartford Promise) and Fionnuala Darby-Hudgens (CT Data Collaborative and Trinity '13)
   - 12-12:20pm Child Care advocacy questions with Izzi Greenberg (Middlesex Coalition for Children) and Merrill Gay (CT Early Childhood Alliance)
-- Assign random pairs of students to Build Stage 1: Listen to Community Partners and Find & Question Data, due Tues Sept 19th 9pm on Google Doc, worth 5 points.
+- Assign random pairs of students to [Build Stage 1: Listen, Find & Question Data](https://docs.google.com/document/d/1CpPRKd1HRO-MBym7xxsTWA0WsvCLxfK1867pHWz_ODQ/edit), due Tues Sept 19th 9pm on Google Doc, worth 5 points.
 
 ### Mon Sept 18
 - Before class, read and be prepared to discuss Catherine D'Ignazio and Lauren Klein *Data Feminism* chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, especially these selections:
