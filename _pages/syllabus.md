@@ -138,6 +138,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - 11:45-12pm College Access questions with Melissa Paul (Hartford Promise) and Fionnuala Darby-Hudgens (CT Data Collaborative and Trinity '13)
   - 12-12:20pm Child Care advocacy questions with Izzi Greenberg (Middlesex Coalition for Children) and Merrill Gay (CT Early Childhood Alliance)
 - Assign random pairs of students to [Build Stage 1: Listen, Find & Question Data](https://docs.google.com/document/d/1CpPRKd1HRO-MBym7xxsTWA0WsvCLxfK1867pHWz_ODQ/edit), due Tues Sept 19th 9pm on Google Doc, worth 5 points.
+- Review from prior class: [Google Spreadsheet Skills Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0) and [Google Sheet Sharing Practice](https://docs.google.com/document/d/1tmLJQwFk2SfPPdovTguL5uLZ50Mb77mfvnowuQ9n95E/edit)
 
 ### Mon Sept 18
 - Before class, read and be prepared to discuss Catherine D'Ignazio and Lauren Klein *Data Feminism* chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, especially these selections:
