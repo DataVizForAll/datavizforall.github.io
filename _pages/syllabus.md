@@ -141,6 +141,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - Review from prior class: [Google Spreadsheet Skills Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0) and [Google Sheet Sharing Practice](https://docs.google.com/document/d/1tmLJQwFk2SfPPdovTguL5uLZ50Mb77mfvnowuQ9n95E/edit)
 
 ### Mon Sept 18
+- In-class: Brief review of successes and challenges of last week's Spreadsheet quiz
 - Before class, read and be prepared to discuss Catherine D'Ignazio and Lauren Klein *Data Feminism* chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, especially these selections:
   - [Chapter 1. Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4) begins with a story about tennis star Serena Williams. What do the authors mean by this line? ["What we choose to measure is a statement of what we value... and who we value"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4#nxk87mil5kj)
   - [Chapter 2 about Challenge Power](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) begins with a comparison of two different maps of Detroit. How do the maps differ, and what do the authors mean when they ask ["Who makes maps and who gets mapped?"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4#nl1iq5r2p9p)
@@ -153,11 +154,13 @@ Please notify me before our third class session, and [schedule an appointment on
   - Source your data
   - Recognize bad data
   - Question your data
+  - In-class: [Is this sample data](https://docs.google.com/spreadsheets/d/1YyJNoNT3mIXsj-Qe0BUy9rXptwZVOugtff3qSXf8frk/edit?usp=sharing) sufficiently masked? Why or why not?
   - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Sun Sept 23rd 9pm on [Moodle](https://moodle.trincoll.edu)
   - Work with your partner to finalize Build 1, due Tues 9pm, and paste the link to your Google Doc *shared so that anyone can comment* on the Build 1 page before leaving the room
 
 ### Wed Sept 20
 - In class: Review Build 1 student responses
+- In class: Explore masked dataset
 - TODO: Assign additional background readings on child care and college access
 
 ### Mon Sept 25
