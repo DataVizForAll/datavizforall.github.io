@@ -154,14 +154,18 @@ Please notify me before our third class session, and [schedule an appointment on
   - Source your data
   - Recognize bad data
   - Question your data
-  - In-class: [Is this sample data](https://docs.google.com/spreadsheets/d/1YyJNoNT3mIXsj-Qe0BUy9rXptwZVOugtff3qSXf8frk/edit?usp=sharing) sufficiently masked? Why or why not?
   - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Sun Sept 23rd 9pm on [Moodle](https://moodle.trincoll.edu)
   - Work with your partner to finalize Build 1, due Tues 9pm, and paste the link to your Google Doc *shared so that anyone can comment* on the Build 1 page before leaving the room
 
 ### Wed Sept 20
-- In class: Review Build 1 student responses
-- In class: Explore masked dataset
-- TODO: Assign additional background readings on child care and college access
+- In class:
+  - Review [Build 1 student responses](https://docs.google.com/document/d/1CpPRKd1HRO-MBym7xxsTWA0WsvCLxfK1867pHWz_ODQ/edit)
+  - Explore and discuss: [Is this sample data](https://docs.google.com/spreadsheets/d/1YyJNoNT3mIXsj-Qe0BUy9rXptwZVOugtff3qSXf8frk/edit?usp=sharing) sufficiently masked? Why or why not?
+  - View on instructor's screen (not yet public) and discuss: [Is this college access dataset](https://docs.google.com/spreadsheets/d/1BK7LMhrU_gfhSiQeh-37d8r4ohWvZ20YittljQb8QnM/edit#gid=19355156) sufficiently masked? Why or why not?
+- Read data stories on family income and education access to discuss next week. What are their most insightful claims, and how do they support these with data?
+  - Christian Robles, “Why Child-Care Prices Are Rising at Nearly Twice the Overall Inflation Rate,” Wall Street Journal, August 17, 2023, <https://www.wsj.com/economy/child-care-prices-are-rising-at-nearly-twice-the-overall-inflation-rate-2c279c61>. *Note:* This is a gift link. See [Trinity Library instructions for students to freely access WSJ](https://courseguides.trincoll.edu/az.php?q=wall%20street%20journal&p=1).
+  - Aatish Bhatia, Claire Cain Miller, and Josh Katz, “Study of Elite College Admissions Data Suggests Being Very Rich Is Its Own Qualification,” The New York Times, July 24, 2023, sec. The Upshot, https://www.nytimes.com/interactive/2023/07/24/upshot/ivy-league-elite-college-admissions.html, or [gift link](https://www.nytimes.com/interactive/2023/07/24/upshot/ivy-league-elite-college-admissions.html?unlocked_article_code=mOfQXqpKAigEudNMvsiHuZCChlAgIblFRGpvQND5ha61GpV916AeA5azYmuCfm_GZ1TXeM_DuT1gwsOmmSf1jtAZRsGvsLlltM1ZPrKnGj-eIo6ArbVLdy6nTg03jgbH-vIccphFporLdhnjB_7DnfOMst9ZxfLYLdGRPmtLsQLpLFBpUk3i61W3UQuPD7J8tEtJxHf_Go7c4cw8phzOi26iTcIpobmBgs23iczzqe1tNEc3YnHLSrInhvfFVHRU6uY7-YFB5OjRDdmE-Cur4ihioEgDQF8d9KKJLKhKRV28941Jzy_M7mrCcDjkqn-Rt3BzYSyUYgszsTsdjcIm6-7OuwhWkUs42v4J-bbgzW7vBu2r5r2g8Z-npjOP&smid=url-share). *See also* [Trinity Library instructions for students to freely access NYT](https://courseguides.trincoll.edu/az.php?q=new%20york%20times&p=1).
+  - Aatish Bhatia and Claire Cain Miller, “Explore How Income Influences Attendance at 139 Top Colleges,” The New York Times, September 11, 2023, sec. The Upshot, https://www.nytimes.com/interactive/2023/09/11/upshot/college-income-lookup.html, or [gift link](https://www.nytimes.com/interactive/2023/09/11/upshot/college-income-lookup.html?unlocked_article_code=f2iw8XPH-9e4SRk6JNCT3QfBVuGK_GHQ6fOCZuX6aPDJIBJNL7FSlG6D8h7xbjc0XqkSEbT1b0t9IJFtM6RMjXg4bS9YKtHnMdS6-U49V_4ru9wk2JQquhmsiqNQ2SlWwGpgqjDbzU6i2qxqXq_nyicIbVj_UY2lOTaFdwaE_Jq3UpulhDDRqfozLiNZV3Hflxpm3TVx4jmdwRdIVy7UBwJU3FqDc6QOadD4FcRp9FV1su_o_aEUzdzpKF7c3GWcxLcv9ZqsOK614VDd8LNkQvApSAMPhaK42jPWHO5ZNSsqCnweD7VKEvC-NnrfU6R1szKLbv6osAfj555Ief1tZ4ZjjFfIPm1nxNQdWzRGsQ&smid=url-share)
 
 ### Mon Sept 25
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
@@ -335,6 +339,6 @@ No class - Trinity Days
 - Assign Build Stage 7: Revise and Finalize Data story for guest experts due Fri Dec 8th at 12 noon. **No extensions** because your data story will be "frozen" and a copy will be transferred and published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts, who need to read your work before your presentations. Worth 10 points, scored by guest expert.
 
 ### Mon Dec 11
-- Final presentations with guest evaluators on Zoom
+- Final presentations on Zoom with guest evaluators: [José Luis Martínez](https://ctmirror.org/about/staff/), Data Reporter at CT Mirror, and [Ilya Ilyankou](https://handsondataviz.org/authors.html), HandsOnDataViz co-author and Trinity Class of 2018
 - Class will **begin at 11:30am and end at 1:20pm and will take place in my Zoom room** to ensure all students have sufficient time with guest experts. **Students only need to attend their assigned 8-10 minute time slot** and must log into my Zoom room a few minutes before it begins.
 - Build 7: Guest experts will review final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
