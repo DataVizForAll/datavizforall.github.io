@@ -168,6 +168,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - Aatish Bhatia and Claire Cain Miller, “Explore How Income Influences Attendance at 139 Top Colleges,” The New York Times, September 11, 2023, sec. The Upshot, https://www.nytimes.com/interactive/2023/09/11/upshot/college-income-lookup.html, or [gift link](https://www.nytimes.com/interactive/2023/09/11/upshot/college-income-lookup.html?unlocked_article_code=f2iw8XPH-9e4SRk6JNCT3QfBVuGK_GHQ6fOCZuX6aPDJIBJNL7FSlG6D8h7xbjc0XqkSEbT1b0t9IJFtM6RMjXg4bS9YKtHnMdS6-U49V_4ru9wk2JQquhmsiqNQ2SlWwGpgqjDbzU6i2qxqXq_nyicIbVj_UY2lOTaFdwaE_Jq3UpulhDDRqfozLiNZV3Hflxpm3TVx4jmdwRdIVy7UBwJU3FqDc6QOadD4FcRp9FV1su_o_aEUzdzpKF7c3GWcxLcv9ZqsOK614VDd8LNkQvApSAMPhaK42jPWHO5ZNSsqCnweD7VKEvC-NnrfU6R1szKLbv6osAfj555Ief1tZ4ZjjFfIPm1nxNQdWzRGsQ&smid=url-share)
 
 ### Mon Sept 25
+- Quick review: Can we trust [this data](https://data.ct.gov/Business/Child-Care-Youth-Camp-Licensing-Program-Data/h8mr-dn95)?
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
  - Smart Cleanup in Google Sheets
  - Find and Replace with Blank
@@ -176,13 +177,15 @@ Please notify me before our third class session, and [schedule an appointment on
  - Combine Data into One Column
  - Extract Tables from PDFs
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Sun Oct 1st 9pm on [Moodle](https://moodle.trincoll.edu)
+- Discuss key insights and supporting evidence from three data stories on family income and education access (links above)
 
 ### Wed Sept 27
 - In-class: [Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1XX9mOJYp93Q8wMr_rkW2TuciqcW-w_i3nAI5XGlihPw/edit)
   - What levels of US Census data are publicly available? See [HODV chapter](https://handsondataviz.org/guiding.html)
   - How did US Census tract boundaries change from 2010 to 2020? See [CTData post](https://www.ctdata.org/blog/2020-census-geography-connecticut)
   - How is US Census data "socially constructed"? See [HODV chapter](https://handsondataviz.org/question.html)
-- Assign Build 2: Find and Clean assigned Census data, due Tues Oct 3rd 9pm, worth 5 points.
+- In-class: De-identified dataset (to come)
+- Assign Build 2: Find and Clean data, due Tues Oct 3rd 9pm, worth 5 points.
 
 ### Mon Oct 2
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
