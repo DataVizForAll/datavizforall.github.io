@@ -175,7 +175,7 @@ Please notify me before our third class session, and [schedule an appointment on
  - Transpose Rows and Columns
  - Split Data into Separate Columns
  - Combine Data into One Column
- - Extract Tables from PDFs
+ - Extract Tables from PDFs (class demo only)
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Sun Oct 1st 9pm on [Moodle](https://moodle.trincoll.edu)
 - Discuss key insights and supporting evidence from three data stories on family income and education access (links above)
 
