@@ -180,12 +180,12 @@ Please notify me before our third class session, and [schedule an appointment on
 - Discuss key insights and supporting evidence from three data stories on family income and education access (links above)
 
 ### Wed Sept 27
-- In-class: [Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1XX9mOJYp93Q8wMr_rkW2TuciqcW-w_i3nAI5XGlihPw/edit)
+- Class demo: Update on process of cleaning our college access data for classroom use 
+- In-class: [Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1dVpz6rSvS7J8YUM3lIwEjmtFef_lM1nqI9WMrqdsuMo/edit)
   - What levels of US Census data are publicly available? See [HODV chapter](https://handsondataviz.org/guiding.html)
   - How did US Census tract boundaries change from 2010 to 2020? See [CTData post](https://www.ctdata.org/blog/2020-census-geography-connecticut)
   - How is US Census data "socially constructed"? See [HODV chapter](https://handsondataviz.org/question.html)
-- In-class: De-identified dataset (to come)
-- Assign Build 2: Find and Clean data, due Tues Oct 3rd 9pm, worth 5 points.
+- Assign random pairs to [Build 2: Find and Clean Data](https://docs.google.com/document/d/1lwsdYeiHsZW8INLIZIsoKQYyv_1dqa0PxGu8h7qNoK0/edit) due Tues Oct 3rd 9pm, worth 5 points.
 
 ### Mon Oct 2
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
