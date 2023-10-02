@@ -187,7 +187,12 @@ Please notify me before our third class session, and [schedule an appointment on
 - Assign random pairs to [Build 2: Find and Clean Data](https://docs.google.com/document/d/1lwsdYeiHsZW8INLIZIsoKQYyv_1dqa0PxGu8h7qNoK0/edit) due Tues Oct 3rd 9pm, worth 5 points.
 
 ### Mon Oct 2
+- [My response to Miss Manners on Professors and Fist Names](https://jackdougherty.org/2023/10/02/professor-by-first-name/)
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
+  - Deciphering common US phrases:
+    - apples-to-apples comparison
+    - don't cherry-pick your data
+  - The big question: "Compared to what?"
   - Precisely describe comparisons: practice [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
   - Normalize your data
   - Beware of biased comparisons
