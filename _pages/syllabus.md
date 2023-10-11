@@ -209,13 +209,15 @@ No class - Trinity Days
 
 ### Wed Oct 11
 - Before class, [create a free account on Datawrapper](https://app.datawrapper.de/signin/).
+- Review: [Compare student strategies on Covid normalization question](https://docs.google.com/spreadsheets/d/1NXhqBZKQHu_rt7UF3IvhJ7YoQ3fyzQ-TiNLfxqK0y-U/edit#gid=0)
 - Continue overview of Learning Goal #5: Chart Your Data. Finish reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
-  - Pros and cons of Datawrapper versus Google Charts
-  - Create annotated, range, scatter charts
-  - TODO - Add correlation concept and simple formula
-  - TODO - Add chart practice data
+  - Compare Datawrapper versus Google Charts
+  - Review line versus area charts with Datawrapper
+  - Create annotated, range, scatter charts with Datawrapper
 - Hint: When publishing your visualization, always test if your work is visible to the public by pasting the link in a private incognito window in your browser OR a second browser, without being logged into your tool account
+- In class: Practice with chart data, and choosing the most appropriate chart type
 - Prepare for Chart Your Data quiz, to be taken during any **3-hour period** before Sun Oct 15th 9pm on [Moodle](https://moodle.trincoll.edu). **Plan ahead and budget your time** because this quiz contains 5 show-your-work questions and may require more time than you have spent on prior quizzes.
+- Start your quiz by Friday 11:30am if you wish to receive feedback for a second attempt. If you have questions, come to my Zoom Room drop-in (no appointment necessary) on Friday Oct 13th anytime 11:30am-12 noon (see link in Moodle)
 
 ### Mon Oct 16
 - Overview of Learning Goal #6: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
