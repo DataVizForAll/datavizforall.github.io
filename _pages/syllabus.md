@@ -220,8 +220,9 @@ No class - Trinity Days
 - Start your quiz by Friday 11:30am if you wish to receive feedback for a second attempt. If you have questions, come to my Zoom Room drop-in (no appointment necessary) on Friday Oct 13th anytime 11:30am-12 noon (see link in Moodle)
 
 ### Mon Oct 16
+- Brief review of scatter charts and [sample student response 1](https://docs.google.com/spreadsheets/d/1PrFI7oju8cDG1hmibR-a2WnIaQFmO4eAP3vy-djE2-I/edit#gid=0) and [response 2](https://datawrapper.dwcdn.net/2hSel/1/)
 - Overview of Learning Goal #6: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
-  - Map types (focus on point, symbol point, and choropleth maps)
+  - Map types (focus on locator point, symbol point, and choropleth maps)
   - Map design principles and rules
   - Choropleth colors and intervals (focus on basic concepts for now)
   - Normalize choropleth map data
@@ -230,7 +231,7 @@ No class - Trinity Days
 
 ### Wed Oct 18
 - Continue overview of Learning Goal #6: Map Your Data
-- In-class: Map Design Practice Questions and Data
+- In-class: Choropleth Map Design Practice Questions and Data
 - Revisiting [Choropleth Map Design: Choosing Color Intervals](https://handsondataviz.org/design-choropleth.html#choose-color-intervals-to-group-choropleth-map-data)
 
 ### Mon Oct 23
