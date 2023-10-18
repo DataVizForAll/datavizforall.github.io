@@ -224,15 +224,16 @@ No class - Trinity Days
 - Overview of Learning Goal #6: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
   - Map types (focus on locator point, symbol point, and choropleth maps)
   - Map design principles and rules
-  - Choropleth colors and intervals (focus on basic concepts for now)
-  - Normalize choropleth map data
-  - Use Datawrapper to create point, symbol point, and choropleth maps
+  - Use Datawrapper to create point and symbol point
 - Prep for Map Your Data quiz, to be taken during any 3-hour period by Sun Oct 22nd 9pm on [Moodle](https://moodle.trincoll.edu).
 
 ### Wed Oct 18
-- Continue overview of Learning Goal #6: Map Your Data
-- In-class: Choropleth Map Design Practice Questions and Data
-- Revisiting [Choropleth Map Design: Choosing Color Intervals](https://handsondataviz.org/design-choropleth.html#choose-color-intervals-to-group-choropleth-map-data)
+- Continue overview of Learning Goal #6: Map Your Data, <https://handsondataviz.org/map.html>
+  - Map types (more about choropleth maps)
+  - Choropleth colors and intervals
+  - Normalize choropleth map data
+- In-class: Map practice
+- Prepare for the 3-hour map quiz, start by Friday, and come to my Friday 11:30-12 drop-in time (see link in Moodle).
 
 ### Mon Oct 23
 - Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
