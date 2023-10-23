@@ -236,7 +236,10 @@ No class - Trinity Days
 - Prepare for the 3-hour map quiz, start by Friday, and come to my Friday 11:30-12 drop-in time (see link in Moodle).
 
 ### Mon Oct 23
-- Brief review of Maps quiz: [1 sample map](https://datawrapper.dwcdn.net/Akis1/1/) and [2a sample map](https://www.datawrapper.de/_/X5ii5/) and [2b sample map](https://www.datawrapper.de/_/72hmm/) and [3 data](https://docs.google.com/spreadsheets/d/1J4-8W9IF9LIkeQ-R2GQC5dY4DnSKsVXe2Kj3YwW8Pqk/edit#gid=1040527674) and [3 sample map](https://www.datawrapper.de/_/XbiQT/)
+- Brief review of Maps quiz using sample student work: 
+  - [1a sample map](https://datawrapper.dwcdn.net/Akis1/1/) and and [1b sample map](https://www.datawrapper.de/_/n6fH0/)
+  - [2a sample map](https://www.datawrapper.de/_/X5ii5/) and [2b sample map](https://www.datawrapper.de/_/72hmm/)
+  - [3 data](https://docs.google.com/spreadsheets/d/1J4-8W9IF9LIkeQ-R2GQC5dY4DnSKsVXe2Kj3YwW8Pqk/edit#gid=1040527674) and [3 sample map](https://www.datawrapper.de/_/XbiQT/)
 - Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
   - Find existing GeoJSON boundary maps with [Gimme Geodata](https://hanshack.com/geotools/)
