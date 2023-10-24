@@ -249,8 +249,8 @@ No class - Trinity Days
 - Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by Sun Oct 29th 9pm on [Moodle](https://moodle.trincoll.edu).
 
 ### Wed Oct 25
-- Review questions posed by community partners and existing data sources
-- Assign Build 3: Explore Data Patterns for Partner Progress Reports. Work in randomly assigned pairs to discuss your ideas and data methods, but each person must label their work to earn credit. Before leaving class, insert links to your co-authored Google Docs, shared so that *anyone can comment*, and finish by **Fri Oct 27th 1pm**, worth 5 points
+- Be aware of [HODV Chapter 8: Table Your Data](https://handsondataviz.org/table.html), especially the [interactive Datawrapper Table with Sparklines](https://handsondataviz.org/table-datawrapper.html), if needed later this semester
+- Assign [Build 3: Propose Data Story Ideas](https://docs.google.com/document/d/1oKg0EjG3IDU4JDQmo19Ed3X1lgEPnvWlE-ddcSVpAG8/edit) for Partner Progress Reports. - Review questions posed by community partners and existing data sources. Work in randomly assigned pairs on a designated question, just for this assignment, *not* necessarily your final project. *Before leaving class*, insert links to your co-authored Google Docs, shared so that *anyone can comment*, and finish by **Sat Oct 28th 5pm**, worth 5 points.
 
 ### Mon Oct 30
 - Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future. Note: New GitHub accounts may require 2-factor authentication.
@@ -258,7 +258,7 @@ No class - Trinity Days
   - Analogy: GitHub Code Repository is like a public cookbook of recipes, and GitHub Pages is like an oven that bakes your code
   - Copy, Edit, and Host a Simple Leaflet Map
 - Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Sun Nov 5th on [Moodle](https://moodle.trincoll.edu).
-- In-class: Review Build 3 Data Patterns, and decide what to show during progress reports to partners in next class
+- In-class: Review Build 3 Data Ideas, and decide what to show during progress reports to partners in next class
 
 ### Wed Nov 1
 - In-class: Progress reports with community-learning partners on Zoom
