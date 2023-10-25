@@ -250,7 +250,7 @@ No class - Trinity Days
 
 ### Wed Oct 25
 - Be aware of [HODV Chapter 8: Table Your Data](https://handsondataviz.org/table.html), especially the [interactive Datawrapper Table with Sparklines](https://handsondataviz.org/table-datawrapper.html), if needed later this semester
-- Assign [Build 3: Propose Data Story Ideas](https://docs.google.com/document/d/1oKg0EjG3IDU4JDQmo19Ed3X1lgEPnvWlE-ddcSVpAG8/edit) for Partner Progress Reports. - Review questions posed by community partners and existing data sources. Work in randomly assigned pairs on a designated question, just for this assignment, *not* necessarily your final project. *Before leaving class*, insert links to your co-authored Google Docs, shared so that *anyone can comment*, and finish by **Sat Oct 28th 5pm**, worth 5 points.
+- Assign [Build 3: Explore Data Patterns](https://docs.google.com/document/d/1oKg0EjG3IDU4JDQmo19Ed3X1lgEPnvWlE-ddcSVpAG8/edit) for Partner Progress Reports. Work in randomly assigned pair on assigned question, just for this assignment, *not* necessarily your final project. *Before leaving class*, insert links to your co-authored Google Docs, shared so that *anyone can comment*, and finish by **Sat Oct 28th 5pm**, worth 5 points.
 
 ### Mon Oct 30
 - Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future. Note: New GitHub accounts may require 2-factor authentication.
