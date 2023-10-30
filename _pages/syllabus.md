@@ -255,17 +255,21 @@ No class - Trinity Days
 ### Mon Oct 30
 - Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future.
 - Overview of Learning Goal #8: Edit and Host Leaflet Code on GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
-  - Analogy: GitHub Code Repository is like a public cookbook of recipes that you can modify, and GitHub Pages is like an oven that bakes your code for public consumption
+  - Analogy: GitHub Code Repository is like a public cookbook of recipes that you can modify, and GitHub Pages is like an oven that bakes your code into working public websites
   - Learn in class: Copy, Edit, and Host a Simple Leaflet Map
   - Bonus: [Recipe for Jack's Semi-Famous Pumpkin Chocolate Chip Cookies on GitHub](https://github.com/JackDougherty/pumpkin-choc-chip)
 - Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Sun Nov 5th on [Moodle](https://moodle.trincoll.edu).
-- In-class: Review Build 3 Data Ideas, and decide what to show during progress reports to partners in next class
+- In-class: Preparing for Progress Reports with Partners (which I will set up) 
+  - Review Build 3 and [HP data with sample pivots](https://docs.google.com/spreadsheets/d/1B5bF94MfOHfO7oCamPrdwqdMC7vYjthQ5jz0obBNMs8/edit#gid=19355156), restricted to class
+  - Review data from 211ChildCare.org
+    - [CT Average Child Care Cost, statewide summary](https://resources.211childcare.org/reports/average-child-care-cost/)
+    - [CT child care rates, by provider](https://docs.google.com/spreadsheets/d/1fLM9_ulwhtAPzxczRDvu3VDD2fBPdVbTvCc5ZU2rLjA/edit#gid=1788670863)
 
 ### Wed Nov 1
 - In-class: Progress reports with community-learning partners on Zoom
     - 11:40-12:10 (30 min) College Access with Melissa Paul (Hartford Promise) and Fionnuala Darby-Hudgens (CT Data)
     - 12:15-12:45 (30 min) Child Care with Izzi Greenberg (Middlesex Coalition for Children) and Merrill Gay (CT Early Childhood Alliance)
-- Start thinking about your preferences for final projects (Builds 4-7). Working in duos is strongly encouraged and priority will be given to students who wish to partner with another student. No more than two students per team, but some projects can be divided up for coordinated, separate teams (working on related questions and data, but graded separatedly). While you can choose to work solo, you will be held to the same expectations as a duo.
+- Start thinking about your preferences for final projects (Builds 4-7). Working in duos is strongly encouraged and priority will be given to students who wish to partner with another student. No more than two students per team, but some projects can be divided into coordinated separate teams (working on related questions and data, but graded separately). While you can choose to work solo, you will be held to the same expectations as a duo.
 
 ### Mon Nov 6
 - Overview of Learning Goal #9: Explore Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
