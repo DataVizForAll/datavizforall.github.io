@@ -253,10 +253,11 @@ No class - Trinity Days
 - Assign [Build 3: Explore Data Patterns](https://docs.google.com/document/d/1oKg0EjG3IDU4JDQmo19Ed3X1lgEPnvWlE-ddcSVpAG8/edit) for Partner Progress Reports. Discuss the question in randomly assigned pairs, but each student writes ONE shared Google Doc and submits the link on Moodle by **Sat Oct 28th 5pm**, worth 5 points.
 
 ### Mon Oct 30
-- Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future. Note: New GitHub accounts may require 2-factor authentication.
+- Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future.
 - Overview of Learning Goal #8: Edit and Host Leaflet Code on GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
-  - Analogy: GitHub Code Repository is like a public cookbook of recipes, and GitHub Pages is like an oven that bakes your code
-  - Copy, Edit, and Host a Simple Leaflet Map
+  - Analogy: GitHub Code Repository is like a public cookbook of recipes that you can modify, and GitHub Pages is like an oven that bakes your code for public consumption
+  - Learn in class: Copy, Edit, and Host a Simple Leaflet Map
+  - Bonus: [Recipe for Jack's Semi-Famous Pumpkin Chocolate Chip Cookies on GitHub](https://github.com/JackDougherty/pumpkin-choc-chip)
 - Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Sun Nov 5th on [Moodle](https://moodle.trincoll.edu).
 - In-class: Review Build 3 Data Ideas, and decide what to show during progress reports to partners in next class
 
