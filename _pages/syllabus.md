@@ -288,6 +288,11 @@ No class - Trinity Days
   - Get the iframe embed code for a published visualization
   - Embed the iframe code in an HTML web page
   - Make your own copy of [dataviz-story-template from GitHub](https://github.com/DataVizForAll/dataviz-story-template) and follow instructions inside the `index.html` file
+  - TIP: A time-efficient way to edit your data story code template:
+    - In GitHub, download your index.html file to your computer
+    - Use a text editor tool (not MS Word) to edit downloaded index.html
+    - Open your downloaded index.html with a browser to view edits
+    - Upload your edited index.html file (or paste contents) to replace old version on GitHub
   - Start Embed on the Web quiz, due by Sun Nov 12th 9pm on [Moodle](https://moodle.trincoll.edu).
 - Workshop time for remainder of class: ask questions to instructor or TA, work on Build 4 or Quiz 10, etc.
 
