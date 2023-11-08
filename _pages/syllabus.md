@@ -275,20 +275,21 @@ No class - Trinity Days
 - Syllabus revision and cancellation of one quiz
 - Brief overview of Learning Goal #9: Explore Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
   - Leaflet Maps with Google Sheets
-  - Leaflet Storymaps with Google Sheets
+  - Leaflet Storymaps with Google Sheets - and [sample by Savannah](https://savannahbrooks13.github.io/walkingtour/)
   - Quiz 9 is cancelled (all receive full credit), but Quiz 10 will be assigned in next class
 - In class: Explore [sample data stories by students on past projects](https://datavizforall.org/partners-projects/)
 - [Overview of Child Care and College Access project questions](https://docs.google.com/document/d/1Hc6F1PbUsPJ28JiOg7ROaQ09FB8I3fG47g7T2XN5jH0/edit). Submit your preferences [in Google Form for Builds 4-7](https://forms.gle/DLhZBHq4uwRTiTE28), with final decisions made by instructor to balance numbers.
 - [Assign Build 4: Describe Plan and Draw Visualization Ideas](https://docs.google.com/document/d/1Hc6F1PbUsPJ28JiOg7ROaQ09FB8I3fG47g7T2XN5jH0/edit), due by end of Wed Nov 8th on the class Google Doc, worth 5 points. Before leaving the room, create links to your co-authored Google Doc and share so that *anyone can comment*.
 
 ### Wed Nov 8
+- [Review Build 4 instructions and updates](https://docs.google.com/document/d/1Hc6F1PbUsPJ28JiOg7ROaQ09FB8I3fG47g7T2XN5jH0/edit), due tonight 11:59pm
 - Overview of Learning Goal #10: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
   - Static images versus interactive iframes
   - Get the iframe embed code for a published visualization
   - Embed the iframe code in an HTML web page
   - Make your own copy of [dataviz-story-template from GitHub](https://github.com/DataVizForAll/dataviz-story-template) and follow instructions inside the `index.html` file
   - Start Embed on the Web quiz, due by Sun Nov 12th 9pm on [Moodle](https://moodle.trincoll.edu).
-
+- Workshop time for remainder of class: ask questions to instructor or TA, work on Build 4 or Quiz 10, etc.
 
 ### Mon Nov 13
 - Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
