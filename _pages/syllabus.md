@@ -303,6 +303,7 @@ No class - Trinity Days
   - Acknowledge Sources and Uncertainty
 - There is no separate Moodle quiz, because this content is combined with the Build 5 below for 10 points total.
 - Assign [Build 5: Data Story Draft](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit). Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by instructor (and later by peers). Due by Sun Nov 19th 9pm as a Google Doc shared for *anyone to comment* with links to related data files and/or visualizations, worth 10 points (combined value of Quiz 11 and Build 5).
+- In-class quick check-ins with instructor and TA 
 
 ### Wed Nov 15
 - In-class: Workshop time for Build 5
