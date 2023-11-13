@@ -302,22 +302,16 @@ No class - Trinity Days
   - Draw Attention to Meaning
   - Acknowledge Sources and Uncertainty
 - There is no separate Moodle quiz, because this content is combined with the Build 5 below for 10 points total.
-- Assign Build 5: Data Story Draft: Tell a Meaningful Data Story on your assigned project, with around 500-750 words plus visualizations, for peer review. Due by Sun Nov 19th 9pm as a Google Doc shared for *anyone to comment* with links to related data files and/or visualizations, worth 10 points (combined value of Quiz 10 and Build 5). Be sure to include:
-  - Introduction: What is the question and why does it matter?
-  - Findings and Evidence: Tell us key insights (text), then show us evidence (visuals)
-  - Sources and Methods: Describe how you found and analyzed the data, include links to any of your public Google Sheets, and raise any questions or uncertainty.
-  - Address these [peer-review criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) for use in our upcoming class
-- Be prepared to give a 1-minute presentation of your draft data story in our next class meeting
+- Assign [Build 5: Data Story Draft](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit). Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by instructor (and later by peers). Due by Sun Nov 19th 9pm as a Google Doc shared for *anyone to comment* with links to related data files and/or visualizations, worth 10 points (combined value of Quiz 11 and Build 5).
 
 ### Wed Nov 15
 - In-class: Workshop time for Build 5
-  - Insert links on the Build 5 Google Doc, share so that *anyone can comment*, and add links to related data files and visualizations
-  - Check-in meetings with instructor
-  - Rehearse a 1-minute oral presentation of your data story with the TA
+  - Insert links on the [Build 5 Google Doc](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit), share so that *anyone can comment*
+  - Check-in meetings with instructor and TA
 - Schedule duo/solo Zoom appointment slots with instructor for Monday
 
 ### Mon Nov 20
-- In place of our regular class, duo/solo 15-minute Zoom meetings with instructor for feedback on Build 5.
+- In place of our regular class, duo/solo 15-minute Zoom meetings with instructor for [Build 5 feedback](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit).
 
 ### Wed Nov 22
 - No class - Thanksgiving Break
@@ -329,10 +323,10 @@ No class - Trinity Days
 - Assign Build 6: Revise Data Story in GitHub Pages Format. Improve draft based on feedback, and migrate all content from Google Doc to GitHub Pages format, due Monday Dec 4th 2pm for instructor to forward to partners (for non-graded comments and participation credit)
 - Checklist for strengthening your data stories:
   - Look at your current draft through the lens of the [evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit)
-  - Craft a catchy and meaningful title that draws in readers
+  - Craft a catchy and meaningful title to draw in readers.
   - Contextualize the broader problem and why it matters to our partner as a way to introduce your specific question. Write for readers who are curious but are not yet familiar with the issue.
   - In each body paragraph, *tell* readers one of your key insights, then *show* us the evidence, both in text and visuals. Describe to readers what stands out in your tables, charts, or maps.
-  - For each visualization, add a screenshot *and* link to live version
+  - For each visualization, add the embed code *and* a link to live version in a caption.
   - Write about your sources & methods so that future DataViz students could replicate your work, with links to public spreadsheets or repositories.
   - Acknowledge uncertainty and question your data. What remains unanswered?
 - Prioritize your to-do list
