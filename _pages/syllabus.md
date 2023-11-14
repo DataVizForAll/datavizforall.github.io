@@ -306,10 +306,11 @@ No class - Trinity Days
 - In-class quick check-ins with instructor and TA
 
 ### Wed Nov 15
-- In-class: Workshop time for Build 5
+- Brief Zoom meeting with guest expert evaluator [José Luis Martínez](https://ctmirror.org/author/jmartinez/), Data Reporter at CT Mirror. Read one of his data stories, such as "CT Food Deserts: In 24 towns, no stores accept food stamps," CT Mirror, April 16, 2023, <https://ctmirror.org/2023/04/16/ct-food-stamps-snap-benefits-food-desert/>.
+- In-class workshop time for Build 5
   - Insert links on the [Build 5 Google Doc](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit), share so that *anyone can comment*
   - Check-in meetings with instructor and TA
-- Schedule duo/solo Zoom appointment slots with instructor for Monday
+  - Schedule duo/solo Zoom appointment slots with instructor for Monday
 
 ### Mon Nov 20
 - In place of our regular class, duo/solo 15-minute Zoom meetings with instructor for [Build 5 feedback](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit).
@@ -360,6 +361,6 @@ No class - Trinity Days
 - Assign [Build 7](https://docs.google.com/document/d/1i4iVdG93oZ-KGvdCzAji-rtIPcH_U564YPW8mu2psWg/edit): Revise and Finalize Data story for guest experts due Fri Dec 8th at 12 noon. **No extensions** because your data story will be "frozen" and a copy will be transferred and published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts, who need to read your work before your presentations. Worth 10 points, scored by guest expert.
 
 ### Mon Dec 11
-- [Build 7 Final presentations](https://docs.google.com/document/d/1i4iVdG93oZ-KGvdCzAji-rtIPcH_U564YPW8mu2psWg/edit) on Zoom with guest evaluators: [José Luis Martínez](https://ctmirror.org/about/staff/), Data Reporter at CT Mirror, and [Ilya Ilyankou](https://handsondataviz.org/authors.html), HandsOnDataViz co-author and Trinity Class of 2018
+- [Build 7 Final presentations](https://docs.google.com/document/d/1i4iVdG93oZ-KGvdCzAji-rtIPcH_U564YPW8mu2psWg/edit) on Zoom with guest evaluators: [José Luis Martínez](https://ctmirror.org/author/jmartinez/), Data Reporter at CT Mirror, and [Ilya Ilyankou](https://handsondataviz.org/authors.html), HandsOnDataViz co-author and Trinity Class of 2018, now PhD student at University College London researching Large Language Models and complex route planning, [LinkedIn page](https://www.linkedin.com/in/ilyankou/). 
 - Class will **begin at 11:30am and end at 1:20pm and will take place in my Zoom room** to ensure all students have sufficient time with guest experts. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins.
 - Build 7: Guest experts will review final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
