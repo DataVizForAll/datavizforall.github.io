@@ -317,11 +317,12 @@ No class - Trinity Days
 - Before class: Make sure your Google Doc is shared for anyone to *comment*
 - In-class: [Peer Review with evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) of an assigned Data Story, due during class, for participation credit. Students must submit a full draft in order to participate in the peer review. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
 - Assign [Build 6: Data Stories for Community Partners](https://docs.google.com/document/d/1OSRcSDb3Hs6U2T-q50URzOmp93OhUW0ALu23P20T5yk/edit). Improve draft based on feedback, and migrate all content from Google Doc to GitHub Pages format, due Monday Dec 4th 2pm for instructor to forward to partners (for non-graded comments and participation credit).
-- TIP: An efficient method to edit your data story on your computer:
+- Tip: An efficient method to edit your data story on your computer:
   - In GitHub, download your `index.html` file to your computer
-  - Use a text editor tool (not MS Word) to edit downloaded `index.html`. For example, [Pulsar](https://pulsar-edit.dev) is my favorite open-source text editor
-  - View edits in your browser > File > Open > downloaded `index.html`
-  - After editing on your computer, upload your newer `index.html` file to replace the older version on GitHub. Or copy and paste the contents of the newer version in place of the older version on GitHub.
+  - Use a text editor tool (not MS Word) to edit downloaded `index.html`. For example, [Pulsar](https://pulsar-edit.dev) is my favorite open-source text editor.
+  - While using text editor to revise and save changes to your computer, simultaneously view how they appear in your browser with File > Open File > downloaded `index.html`. Since this version is temporarily stored on your local computer, your browser bar will display its location in a local format `file:///...` rather than the online format `https://...`
+  - After editing, upload your newer `index.html` file from your computer to replace the older version on GitHub. OR copy and paste the contents of the newer version in place of the older contents on GitHub.
+- Tip: Avoid deleting important HTML formatting in your data story template [like this common mistake](https://datavizforall.org/images/common-template-error.png)
 
 ### Wed Nov 29
 - Overview of Learning Goal #12: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
@@ -336,7 +337,6 @@ No class - Trinity Days
 - In class: [Student course feedback on what helped you learn](https://docs.google.com/document/d/1VjcWePt2ZChiw0aJOb_CEq9yO179cSIcV6NbUrNQii0/edit). In addition, please fill out the College's standard online evaluation form when available.
 - Review presentation lineups for [Build 6 with Community Partners](https://docs.google.com/document/d/1OSRcSDb3Hs6U2T-q50URzOmp93OhUW0ALu23P20T5yk/edit) and [Build 7 with Guest Evaluators](https://docs.google.com/document/d/1i4iVdG93oZ-KGvdCzAji-rtIPcH_U564YPW8mu2psWg/edit)
 - Everyone: Insert your GitHub Pages data story links in Google Docs above, and you can improve and revise until cut-off times
-  - Avoid this [common HTML template error](https://datavizforall.org/images/common-template-error.png)
 - Decisions to make before your data story is "frozen" and published on the public [Partners and Projects page](https://datavizforall.org/partners-projects/):
   - Insert your full name (recommended), or you have the right to use only your first name or initials
   - See what other students did in my "[Public Writing and Student Privacy](https://epress.trincoll.edu/webwriting/chapter/dougherty-public/)" chapter of [Web Writing](https://webwriting.trincoll.edu) book (2015).
