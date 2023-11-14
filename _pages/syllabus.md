@@ -303,7 +303,7 @@ No class - Trinity Days
   - Acknowledge Sources and Uncertainty
 - There is no separate Moodle quiz, because this content is combined with the Build 5 below for 10 points total.
 - Assign [Build 5: Data Story Draft](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit). Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by instructor (and later by peers). Due by Sun Nov 19th 9pm as a Google Doc shared for *anyone to comment* with links to related data files and/or visualizations, worth 10 points (combined value of Quiz 11 and Build 5).
-- In-class quick check-ins with instructor and TA 
+- In-class quick check-ins with instructor and TA
 
 ### Wed Nov 15
 - In-class: Workshop time for Build 5
@@ -357,9 +357,9 @@ No class - Trinity Days
 - In-class: Build 6 Data story feedback with community-learning partners on Zoom. Deliver 1-minute presentation of highlights in your data story to community partners, then listen to their non-graded feedback and write down revisions to consider, for participation credit.
   - 11:40-12:10 (30 min) College Access with Melissa Paul (Hartford Promise) and Fionnuala Darby-Hudgens (CT Data)
   - 12:15-12:45 (30 min) Child Care with Izzi Greenberg (Middlesex Coalition for Children) and Merrill Gay (CT Early Childhood Alliance)
-- Assign Build Stage 7: Revise and Finalize Data story for guest experts due Fri Dec 8th at 12 noon. **No extensions** because your data story will be "frozen" and a copy will be transferred and published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts, who need to read your work before your presentations. Worth 10 points, scored by guest expert.
+- Assign [Build 7](https://docs.google.com/document/d/1i4iVdG93oZ-KGvdCzAji-rtIPcH_U564YPW8mu2psWg/edit): Revise and Finalize Data story for guest experts due Fri Dec 8th at 12 noon. **No extensions** because your data story will be "frozen" and a copy will be transferred and published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts, who need to read your work before your presentations. Worth 10 points, scored by guest expert.
 
 ### Mon Dec 11
-- Final presentations on Zoom with guest evaluators: [José Luis Martínez](https://ctmirror.org/about/staff/), Data Reporter at CT Mirror, and [Ilya Ilyankou](https://handsondataviz.org/authors.html), HandsOnDataViz co-author and Trinity Class of 2018
-- Class will **begin at 11:30am and end at 1:20pm and will take place in my Zoom room** to ensure all students have sufficient time with guest experts. **Students only need to attend their assigned 8-10 minute time slot** and must log into my Zoom room a few minutes before it begins.
+- [Build 7 Final presentations](https://docs.google.com/document/d/1i4iVdG93oZ-KGvdCzAji-rtIPcH_U564YPW8mu2psWg/edit) on Zoom with guest evaluators: [José Luis Martínez](https://ctmirror.org/about/staff/), Data Reporter at CT Mirror, and [Ilya Ilyankou](https://handsondataviz.org/authors.html), HandsOnDataViz co-author and Trinity Class of 2018
+- Class will **begin at 11:30am and end at 1:20pm and will take place in my Zoom room** to ensure all students have sufficient time with guest experts. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins.
 - Build 7: Guest experts will review final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
