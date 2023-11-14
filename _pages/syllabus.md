@@ -303,34 +303,25 @@ No class - Trinity Days
   - Acknowledge Sources and Uncertainty
 - There is no separate Moodle quiz, because this content is combined with the Build 5 below for 10 points total.
 - Assign [Build 5: Data Story Draft](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit). Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by instructor (and later by peers). Due by Sun Nov 19th 9pm as a Google Doc shared for *anyone to comment* with links to related data files and/or visualizations, worth 10 points (combined value of Quiz 11 and Build 5).
-- In-class quick check-ins with instructor and TA
+- Practice applying evaluation criteria to data story by former student
 
 ### Wed Nov 15
 - Brief Zoom meeting with guest expert evaluator [José Luis Martínez](https://ctmirror.org/author/jmartinez/), Data Reporter at CT Mirror. Read one of his data stories, such as "CT Food Deserts: In 24 towns, no stores accept food stamps," CT Mirror, April 16, 2023, <https://ctmirror.org/2023/04/16/ct-food-stamps-snap-benefits-food-desert/>.
 - In-class workshop time for Build 5
   - Insert links on the [Build 5 Google Doc](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit), share so that *anyone can comment*
   - Check-in meetings with instructor and TA
-  - Schedule duo/solo Zoom appointment slots with instructor for Monday
+  - Schedule duo/solo 20-minute Zoom appointment slots with instructor for Monday Nov 20th. If working with a partner, be sure to share the appointment information, since both of you must attend the meeting at the same time (for participation credit).
 
 ### Mon Nov 20
-- In place of our regular class, duo/solo 15-minute Zoom meetings with instructor for [Build 5 feedback](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit).
+- In place of our regular class, duo/solo 15-minute Zoom meetings with instructor for [Build 5 feedback](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit), for participation credit.
 
 ### Wed Nov 22
 - No class - Thanksgiving Break
 
 ### Mon Nov 27
 - Before class: Make sure your Google Doc is shared for anyone to *comment*
-- In-class: Practice applying [evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) to [data stories by students on past projects](https://datavizforall.org/partners-projects/)
 - In-class: [Peer Review with evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) of an assigned Data Story, due during class, for participation credit. Students must submit a full draft in order to participate in the peer review. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
-- Assign Build 6: Revise Data Story in GitHub Pages Format. Improve draft based on feedback, and migrate all content from Google Doc to GitHub Pages format, due Monday Dec 4th 2pm for instructor to forward to partners (for non-graded comments and participation credit)
-- Checklist for strengthening your data stories:
-  - Look at your current draft through the lens of the [evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit)
-  - Craft a catchy and meaningful title to draw in readers.
-  - Contextualize the broader problem and why it matters to our partner as a way to introduce your specific question. Write for readers who are curious but are not yet familiar with the issue.
-  - In each body paragraph, *tell* readers one of your key insights, then *show* us the evidence, both in text and visuals. Describe to readers what stands out in your tables, charts, or maps.
-  - For each visualization, add the embed code *and* a link to live version in a caption.
-  - Write about your sources & methods so that future DataViz students could replicate your work, with links to public spreadsheets or repositories.
-  - Acknowledge uncertainty and question your data. What remains unanswered?
+- Assign [Build 6: Data Stories for Community Partners](https://docs.google.com/document/d/1OSRcSDb3Hs6U2T-q50URzOmp93OhUW0ALu23P20T5yk/edit). Improve draft based on feedback, and migrate all content from Google Doc to GitHub Pages format, due Monday Dec 4th 2pm for instructor to forward to partners (for non-graded comments and participation credit).
 - Prioritize your to-do list
 
 ### Wed Nov 29
@@ -343,24 +334,24 @@ No class - Trinity Days
 - In-class: 1-minute presentations of your draft data stories as rehearsal for upcoming meeting with partners.
 
 ### Mon Dec 4
-- In class: [Student course feedback on what helped you learn](https://docs.google.com/document/d/1E6Diev5TVBpcpyqWsDrQEGLDyKFZkgdBk9FF1CSG9eU/edit). In addition, please fill out the College's standard online evaluation form when available.
-- Review presentation lineup for Build 6 (partners) and Build 7 (guest evaluators)
-- Everyone: Insert your GitHub Pages data story link in Build 6+7 Google Doc, and you can improve and revise until cut-off times
+- In class: [Student course feedback on what helped you learn](https://docs.google.com/document/d/1VjcWePt2ZChiw0aJOb_CEq9yO179cSIcV6NbUrNQii0/edit). In addition, please fill out the College's standard online evaluation form when available.
+- Review presentation lineups for [Build 6 with Community Partners](https://docs.google.com/document/d/1OSRcSDb3Hs6U2T-q50URzOmp93OhUW0ALu23P20T5yk/edit) and [Build 7 with Guest Evaluators](https://docs.google.com/document/d/1i4iVdG93oZ-KGvdCzAji-rtIPcH_U564YPW8mu2psWg/edit)
+- Everyone: Insert your GitHub Pages data story links in Google Docs above, and you can improve and revise until cut-off times
   - Avoid this [common HTML template error](https://datavizforall.org/images/common-template-error.png)
 - Decisions to make before your data story is "frozen" and published on the public [Partners and Projects page](https://datavizforall.org/partners-projects/):
   - Insert your full name (recommended), or you have the right to use only your first name or initials
   - See what other students did in my "[Public Writing and Student Privacy](https://epress.trincoll.edu/webwriting/chapter/dougherty-public/)" chapter of [Web Writing](https://webwriting.trincoll.edu) book (2015).
-  - Recommended: Insert link to your published data story in your resume to demonstrate what you learned to prospective employers and graduate schools. Emphasize your data visualization skills at the top, instead of simply listing "proficient in Google Sheets, Datawrapper, GitHub" at the bottom.
+  - Recommended: Insert link to your published data story in your resume to demonstrate your skills and knowledge to prospective employers and graduate schools, which shows more than simply listing "proficient in..." at the bottom.
 - Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
 - Workshop time to finish data stories in preparation for community partner meetings
 
 ### Wed Dec 6
-- In-class: Build 6 Data story feedback with community-learning partners on Zoom. Deliver 1-minute presentation of highlights in your data story to community partners, then listen to their non-graded feedback and write down revisions to consider, for participation credit.
-  - 11:40-12:10 (30 min) College Access with Melissa Paul (Hartford Promise) and Fionnuala Darby-Hudgens (CT Data)
+- In-class: [Build 6 Data Story Feedback with Community Parters on Zoom](https://docs.google.com/document/d/1OSRcSDb3Hs6U2T-q50URzOmp93OhUW0ALu23P20T5yk/edit). Deliver 1-minute presentation of highlights in your data story to community partners, then listen to their non-graded feedback and write down revisions to consider, for participation credit.
+  - 11:30-12:10 (40 min) College Access with Melissa Paul (Hartford Promise) and Fionnuala Darby-Hudgens (CT Data)
   - 12:15-12:45 (30 min) Child Care with Izzi Greenberg (Middlesex Coalition for Children) and Merrill Gay (CT Early Childhood Alliance)
 - Assign [Build 7](https://docs.google.com/document/d/1i4iVdG93oZ-KGvdCzAji-rtIPcH_U564YPW8mu2psWg/edit): Revise and Finalize Data story for guest experts due Fri Dec 8th at 12 noon. **No extensions** because your data story will be "frozen" and a copy will be transferred and published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts, who need to read your work before your presentations. Worth 10 points, scored by guest expert.
 
 ### Mon Dec 11
-- [Build 7 Final presentations](https://docs.google.com/document/d/1i4iVdG93oZ-KGvdCzAji-rtIPcH_U564YPW8mu2psWg/edit) on Zoom with guest evaluators: [José Luis Martínez](https://ctmirror.org/author/jmartinez/), Data Reporter at CT Mirror, and [Ilya Ilyankou](https://handsondataviz.org/authors.html), HandsOnDataViz co-author and Trinity Class of 2018, now PhD student at University College London researching Large Language Models and complex route planning, [LinkedIn page](https://www.linkedin.com/in/ilyankou/). 
+- [Build 7 Final presentations](https://docs.google.com/document/d/1i4iVdG93oZ-KGvdCzAji-rtIPcH_U564YPW8mu2psWg/edit) on Zoom with guest evaluators: [José Luis Martínez](https://ctmirror.org/author/jmartinez/), Data Reporter at CT Mirror, and [Ilya Ilyankou](https://handsondataviz.org/authors.html), HandsOnDataViz co-author and Trinity Class of 2018, now PhD student at University College London researching Large Language Models and complex route planning, [LinkedIn page](https://www.linkedin.com/in/ilyankou/).
 - Class will **begin at 11:30am and end at 1:20pm and will take place in my Zoom room** to ensure all students have sufficient time with guest experts. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins.
 - Build 7: Guest experts will review final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
