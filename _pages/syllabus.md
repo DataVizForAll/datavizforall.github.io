@@ -288,11 +288,6 @@ No class - Trinity Days
   - Get the iframe embed code for a published visualization
   - Embed the iframe code in an HTML web page
   - Make your own copy of [dataviz-story-template from GitHub](https://github.com/DataVizForAll/dataviz-story-template) and follow instructions inside the `index.html` file
-  - TIP: A time-efficient way to edit your data story code template:
-    - In GitHub, download your index.html file to your computer
-    - Use a text editor tool (not MS Word) to edit downloaded index.html
-    - Open your downloaded index.html with a browser to view edits
-    - Upload your edited index.html file (or paste contents) to replace old version on GitHub
   - Start Embed on the Web quiz, due by Sun Nov 12th 9pm on [Moodle](https://moodle.trincoll.edu).
 - Workshop time for remainder of class: ask questions to instructor or TA, work on Build 4 or Quiz 10, etc.
 
@@ -322,7 +317,11 @@ No class - Trinity Days
 - Before class: Make sure your Google Doc is shared for anyone to *comment*
 - In-class: [Peer Review with evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) of an assigned Data Story, due during class, for participation credit. Students must submit a full draft in order to participate in the peer review. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
 - Assign [Build 6: Data Stories for Community Partners](https://docs.google.com/document/d/1OSRcSDb3Hs6U2T-q50URzOmp93OhUW0ALu23P20T5yk/edit). Improve draft based on feedback, and migrate all content from Google Doc to GitHub Pages format, due Monday Dec 4th 2pm for instructor to forward to partners (for non-graded comments and participation credit).
-- Prioritize your to-do list
+- TIP: An efficient method to edit your data story on your computer:
+  - In GitHub, download your `index.html` file to your computer
+  - Use a text editor tool (not MS Word) to edit downloaded `index.html`. For example, [Pulsar](https://pulsar-edit.dev) is my favorite open-source text editor
+  - View edits in your browser > File > Open > downloaded `index.html`
+  - After editing on your computer, upload your newer `index.html` file to replace the older version on GitHub. Or copy and paste the contents of the newer version in place of the older version on GitHub.
 
 ### Wed Nov 29
 - Overview of Learning Goal #12: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
