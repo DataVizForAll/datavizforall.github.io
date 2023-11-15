@@ -302,10 +302,12 @@ No class - Trinity Days
 
 ### Wed Nov 15
 - Brief Zoom meeting with guest expert evaluator [José Luis Martínez](https://ctmirror.org/author/jmartinez/), Data Reporter at CT Mirror. Read one of his data stories, such as "CT Food Deserts: In 24 towns, no stores accept food stamps," CT Mirror, April 16, 2023, <https://ctmirror.org/2023/04/16/ct-food-stamps-snap-benefits-food-desert/>.
+- Updated three unknown degrees in [Hartford Promise data](https://docs.google.com/spreadsheets/d/1B5bF94MfOHfO7oCamPrdwqdMC7vYjthQ5jz0obBNMs8/edit#gid=1956592311), with changes shown in yellow, and auto-updates to pivot tables
 - In-class workshop time for Build 5
   - Insert links on the [Build 5 Google Doc](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit), share so that *anyone can comment*
-  - Check-in meetings with instructor and TA
-  - Schedule duo/solo 20-minute Zoom appointment slots with instructor for Monday Nov 20th. If working with a partner, be sure to share the appointment information, since both of you must attend the meeting at the same time (for participation credit).
+  - [Schedule 20-minute Zoom appointments on my calendar](https://jackdougherty.org) for Monday Nov 20th or Tuesday Nov 21st. If working with a partner, be sure to share the appointment information, since both of you must attend the meeting at the same time  to earn participation credit.
+  - Check-in meetings with instructor (build 4 feedback) and TA (to-do list)
+
 
 ### Mon Nov 20
 - In place of our regular class, duo/solo 15-minute Zoom meetings with instructor for [Build 5 feedback](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit), for participation credit.
