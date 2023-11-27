@@ -316,8 +316,9 @@ No class - Trinity Days
 - No class - Thanksgiving Break
 
 ### Mon Nov 27
-- Before class: Make sure your Google Doc is shared for anyone to *comment*
-- In-class: [Peer Review with evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit) of an assigned Data Story, due during class, for participation credit. Students must submit a full draft in order to participate in the peer review. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
+- Let's support and coach each other to successfully complete our semester
+- Before class: Make any revisions you wish to your [Build 5 drafts](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit), and make sure they are shared for anyone to *comment*
+- In-class: [Peer review assignments](https://docs.google.com/document/d/1Os3Q0J2zPRtkNCeUv2giNeOTlV1tKEAn3-XAuusPfa8/edit) with [evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit), due during class, for participation credit. Students must submit a full draft in order to participate in the peer review. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
 - Assign [Build 6: Data Stories for Community Partners](https://docs.google.com/document/d/1OSRcSDb3Hs6U2T-q50URzOmp93OhUW0ALu23P20T5yk/edit). Improve draft based on feedback, and migrate all content from Google Doc to GitHub Pages format, due Monday Dec 4th 2pm for instructor to forward to partners (for non-graded comments and participation credit).
 - Tip: An efficient method to edit your data story on your computer:
   - In GitHub, download your `index.html` file to your computer
@@ -333,7 +334,7 @@ No class - Trinity Days
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
 - Prep for Detect Lies quiz, to be taken during any 3-hour period by Sun Dec 3rd 9pm on [Moodle](https://moodle.trincoll.edu).
-- In-class: 1-minute presentations of your draft data stories as rehearsal for upcoming meeting with partners.
+- In-class: Rehearse 1-minute presentations of highlights from your draft data stories for upcoming Build 6 meeting with community partners. You will have more time for 2-minute presentations for the Build 7 meeting with guest experts.
 
 ### Mon Dec 4
 - In class: [Student course feedback on what helped you learn](https://docs.google.com/document/d/1VjcWePt2ZChiw0aJOb_CEq9yO179cSIcV6NbUrNQii0/edit). In addition, please fill out the College's standard online evaluation form when available.
