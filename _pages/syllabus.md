@@ -335,6 +335,7 @@ No class - Trinity Days
   - Recognize and Reduce Spatial Bias
 - Prep for Detect Lies quiz, to be taken during any 3-hour period by Sun Dec 3rd 9pm on [Moodle](https://moodle.trincoll.edu).
 - In-class: Rehearse 1-minute presentations of highlights from your draft data stories for upcoming Build 6 meeting with community partners. You will have more time for 2-minute presentations for the Build 7 meeting with guest experts.
+- Feel free to schedule a Zoom appointment [on my calendar](https://jackdougherty.org) for feedback on your build. If you are working with a partner, please arrange to meet me at the same time if feasible.
 
 ### Mon Dec 4
 - In class: [Student course feedback on what helped you learn](https://docs.google.com/document/d/1VjcWePt2ZChiw0aJOb_CEq9yO179cSIcV6NbUrNQii0/edit). In addition, please fill out the College's standard online evaluation form when available.
