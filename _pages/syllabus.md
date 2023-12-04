@@ -352,6 +352,7 @@ No class - Trinity Days
 - In-class: [Build 6 Data Story Feedback with Community Partners on Zoom](https://docs.google.com/document/d/1OSRcSDb3Hs6U2T-q50URzOmp93OhUW0ALu23P20T5yk/edit). Deliver 1-minute presentation of highlights in your data story to community partners, then listen to their non-graded feedback and write down revisions to consider, for participation credit.
   - 11:30-12:10 (40 min) College Access with Melissa Paul (Hartford Promise) and Fionnuala Darby-Hudgens (CT Data)
   - 12:15-12:45 (30 min) Child Care with Izzi Greenberg (Middlesex Coalition for Children) and Merrill Gay (CT Early Childhood Alliance)
+- Community partners have agreed that our session will be video recorded. and the instructor will share the link on Moodle (not the public web). Also, if students wish to quote a community partner response to their work in Build 7, the student *must* email the exact wording of the quote to the partner (with cc: to instructor) as soon as possible for approval by the partner.
 - Assign [Build 7](https://docs.google.com/document/d/1i4iVdG93oZ-KGvdCzAji-rtIPcH_U564YPW8mu2psWg/edit): Revise and Finalize Data story for guest experts due Fri Dec 8th at 12 noon. **No extensions** because your data story will be "frozen" and a copy will be transferred and published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts, who need to read your work before your presentations. Worth 10 points, scored by guest expert.
 
 ### Mon Dec 11
