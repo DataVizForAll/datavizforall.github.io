@@ -1,11 +1,45 @@
 ---
 title: "Partners and Projects"
 permalink: /partners-projects/
-date: 2023-05-09
+date: 2023-12-11
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
+## Fall 2023
+### Child Care and College Access
+
+For our **Child Care** projects, Izzi Greenberg, Executive Director of [Middlesex Coalition for Children](https://www.middlesexchildren.org) and Merrill Gay, Executive Director of [CT Early Childhood Alliance](http://earlychildhoodalliance.com) asked us to help visualize answers to this broad question: How and why does child care availability, affordability, and quality vary across Connecticut, and what can we learn from improvement strategies outside the state?
+
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_tn12djwr&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video for Child Care project, Fall 2023](https://trincoll.mediaspace.kaltura.com/media/1_tn12djwr) with partners Izzi Greenberg, Executive Director of [Middlesex Coalition for Children](https://www.middlesexchildren.org) and Merrill Gay, Executive Director of [CT Early Childhood Alliance](http://earlychildhoodalliance.com)
+
+[A Crisis of Availability: Childcare in Connecticut for Children 0-3 years old](https://datavizforall.org/childcare-thomas-ryan/), by Kelly Thomas & Lily Ryan
+
+[Is Child Care Really Affordable in Connecticut Towns?](https://datavizforall.org/childcare-ruthfield-conklin/) by Josh Ruthfield and Nellie Conklin
+
+[Quebec Child Care Subsidy Program: What can Connecticut do Better to Help Parents get Back to Work?](https://datavizforall.org/childcare-martinez-varghese/) by Diana M. Lee and Angelina R. Varghese
+
+For our **College Access** projects, Melissa Paul, Director of College Partnerships + Reaching Forward at [Hartford Promise](https://hartfordpromise.org), asked us to help visualize answers to this broad question about "successful matches" for their scholarship program: What measurable factors might explain why comparable groups of Hartford Promise scholars (from high school classes of 2016 and 2017) tend to experience success in college, relative to other students at these institutions?
+
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_bmyd7n7n&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video for College Access project, Fall 2023](https://trincoll.mediaspace.kaltura.com/media/1_bmyd7n7n) with partner Melissa Paul, Director of College Partnerships + Reaching Forward at [Hartford Promise](https://hartfordpromise.org)
+
+[Measuring the Graduation Rates of Hartford Promise Scholars at 4-Year Private Institutions](https://datavizforall.org/hartfordpromise-brooks-kozak/) by Savannah Brooks and Emma Kozak
+
+[Where are Public College Hartford Promise Success Stories?](https://datavizforall.org/hartfordpromise-feldgoise-dahlen/) by Brendan Feldgoise and Oliver Dahlen
+
+[Hartford Promise Scholars pursuing 2 year Colleges](https://datavizforall.org/hartfordpromise-camporin-brown/) by Jackson Camporin and Jack Brown
+
+[Hartford Promise Students Find Different Success Rates at CT Auto-Admit Colleges](https://datavizforall.org/hartfordpromise-scannell/), by Will Scannell
+
+[Hartford Promise Scholars Shine as UConn Graduates](https://datavizforall.org/hartfordpromise-mcdermott-leonard/) by Dillon McDermott and Colin Leonard
+
+[Exploring Academic Horizons: Hartford Promise Scholars In-State vs. Out-of-State College Success Stories](https://datavizforall.org/hartfordpromise-somchanmavon-ortega/), by Pom Somchanmavon and Tony Ortega
+
+[College Interruption Rates and Their Effect on Hartford Promise Students](https://datavizforall.org/hartfordpromise-bradley-kirk/) by Conor Bradley & Garrett Kirk
+
+
 ## Spring 2023
 ### Crash (with City of Hartford) and Trash (with Center for Leadership and Justice)
 
