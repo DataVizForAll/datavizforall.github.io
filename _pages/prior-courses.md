@@ -3,6 +3,8 @@ title: "Prior Courses"
 permalink: /prior-courses/
 date: 2023-12-11
 ---
+<!-- Remember to change permalink at top of old syllabus  -->
+
 ## Fall 2023
 See <https://datavizforall.org/syllabus-2023-fall>
 
