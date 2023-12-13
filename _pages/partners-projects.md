@@ -14,7 +14,7 @@ For our **Child Care** projects, Izzi Greenberg, Executive Director of [Middlese
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_tn12djwr&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 [Intro video for Child Care project, Fall 2023](https://trincoll.mediaspace.kaltura.com/media/1_tn12djwr) with partners Izzi Greenberg, Executive Director of [Middlesex Coalition for Children](https://www.middlesexchildren.org) and Merrill Gay, Executive Director of [CT Early Childhood Alliance](http://earlychildhoodalliance.com).
 
-Update: Maps from the first two data stories below were featured in a news report: Hugh McQuaid, "Child Care Panel Recommends Boosting Funding and Subsidized Day Care Slots," CT News Junkie, December 13, 2023, https://ctnewsjunkie.com/2023/12/13/child-care-panel-recommends-boosting-funding-and-subsidized-day-care-slots.
+Update: Maps from the first two data stories below were featured in a news report: Hugh McQuaid, "Child Care Panel Recommends Boosting Funding and Subsidized Day Care Slots," CT News Junkie, December 13, 2023, <https://ctnewsjunkie.com/2023/12/13/child-care-panel-recommends-boosting-funding-and-subsidized-day-care-slots>.
 
 [A Crisis of Availability: Childcare in Connecticut for Children 0-3 years old](https://datavizforall.org/childcare-thomas-ryan/), by Kelly Thomas & Lily Ryan
 
@@ -42,6 +42,8 @@ For our **College Access** projects, Melissa Paul, Director of College Partnersh
 [College Interruption Rates and Their Effect on Hartford Promise Students](https://datavizforall.org/hartfordpromise-bradley-kirk/) by Conor Bradley & Garrett Kirk
 
 ### Food Scrap Pilot Program
+Former DataViz student Shayla Whitaker earned a Community Learning Research Fellowship to collaborate with two community partners on this Fall 2023 project:
+
 [Visualizing Connecticut Food Scrap Pilot Programs: Representation, Participation, and Benefits](https://datavizforall.org/whitaker/), by Shayla Whitaker, Community Learning Research Fellow, [Center for Hartford Engagement and Research](https://www.trincoll.edu/cher/) (CHER) at Trinity College, with community partners: CT Dept. of Energy and Environmental Protection (CT DEEP) and the Center for Leadership and Justice (CLJ).
 
 Abstract: We are in a trash crisis. A large portion of waste that goes to incinerators and landfills is food scraps, one of the heaviest types of waste and one of the largest sources of methane. In 2022-23, the Connecticut Department of Energy and Environmental Protection (CT DEEP) awarded Sustainable Materials Management grants to fund food scraps pilot programs by local governments to divert food scraps from the waste stream. Studying questions about representation, participation, and benefits of these programs gives us a better understanding of their strengths and weaknesses and potential implementation at a larger scale. Among 15 grant awards across the state, data collected from West Hartford and Stonington showed these two pilot programs represented wealthier and whiter areas, an average 46 percent participation rate (for West Hartford), and food scrap diversion rates ranging from 5 to 17 percent. Policy recommendations: DEEP should require towns to collect more uniform data, and make it accessible for the public to learn from these pilot programs.
