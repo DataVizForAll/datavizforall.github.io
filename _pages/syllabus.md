@@ -24,7 +24,7 @@ Our project topic and Hartford-area community learning parter this semester:
 
 **Affordable Homeownership:** Cori Mackey, Tieasha Gayle, and Bea Santiago of the [Center for Leadership and Justice](https://cljct.org) and its [Urban Suburban Affordables, Inc.](https://cljct.org/what-we-do/housing-initiatives/) (USA) community land trust. See [history of this homeownership program](https://cljct.org/history-of-homeownership-initiatives/). The CLJ has asked us to help visualize answers to these broad questions:
 1. Where are USA community land trust homes located in the Hartford region, and in what types of neighborhoods?
-2. How has USA homeownership and initial buyer price changed over time?
+2. How have USA homeownership trends and sales prices changed over time?
 3. How much homeownership wealth has been created by the USA program?
 4. How do USA homes measure up to block/neighborhood comparison groups (comps)?
 5. How does the USA program compare with other community land trusts for affordable homeownership across Connecticut and the nation?
