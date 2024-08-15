@@ -1,18 +1,18 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /
-date: 2023-09-06
+date: 2024-08-15
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
-## Fall 2023 Syllabus
-Our course meets in-person on Mondays and Wednesdays 11:30am-12:45pm in Library B02 at Trinity College, Hartford. You are welcome to wear a mask at any time on campus, and I may require all students to wear masks in class if Covid rates rise significantly.
+## Fall 2024 Syllabus
+Our course meets in-person on Mondays and Wednesdays 11:30am-12:45pm in CLASSROOM TBA at Trinity College, Hartford.
 
 ### Instructors
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
-Teaching Assistant Mia Rodriguez - contact and scheduling info on Moodle
+Teaching Assistant Nellie Conklin - contact and scheduling info on Moodle
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.     
 - Fulfills Numerical and Symbolic Reasoning (NUM) requirement.   
@@ -20,17 +20,17 @@ Course description: How can charts and maps tell meaningful stories? How can the
 - Enrollment limited to 19 students.  
 
 ### Community Learning Projects
-This semester we will work with Hartford-area community learning parters on two data visualization projects: Child Care and College Access.
+Our project topic and Hartford-area community learning parter this semester:
 
-**Child Care:** Izzi Greenberg, Executive Director of [Middlesex Coalition for Children](https://www.middlesexchildren.org) and Merrill Gay, Executive Director of [CT Early Childhood Alliance](http://earlychildhoodalliance.com) have asked us to help visualize answers to this broad question: How and why does child care availability, affordability, and quality vary across Connecticut, and what can we learn from improvement strategies outside the state?
+**Affordable Housing:** Cori Mackey, Tieasha Gayle, and Bea Santiago, [Center for Leadership and Justice](https://cljct.org) and the Urban Suburban Affordables, Inc. (USA) community land trust. They have asked us to help visualize answers to these broad questions:
+1. Where are USA community land trust homes located in the Hartford region, and in what types of neighborhoods?
+2. How has USA home ownership and initial buyer price changed over time?
+3. How much homeownership wealth has been created by the USA program?
+4. How do USA homes measure up to block/neighborhood comparison groups (comps)?
+5. How does the USA program compare with other community land trusts for affordable homeownership across Connecticut and the nation?
 
-<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_tn12djwr&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-[Intro video for Child Care project, Fall 2023](https://trincoll.mediaspace.kaltura.com/media/1_tn12djwr) with partners Izzi Greenberg, Executive Director of [Middlesex Coalition for Children](https://www.middlesexchildren.org) and Merrill Gay, Executive Director of [CT Early Childhood Alliance](http://earlychildhoodalliance.com)
-
-**College Access:** Melissa Paul, Director of College Partnerships + Reaching Forward at [Hartford Promise](https://hartfordpromise.org), has asked us to help visualize answers to this broad question about "successful matches" for their scholarship program: What measurable factors might explain why comparable groups of Hartford Promise scholars tend to experience success in college, relative to other students at these institutions?
-
-<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_bmyd7n7n&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-[Intro video for College Access project, Fall 2023](https://trincoll.mediaspace.kaltura.com/media/1_bmyd7n7n) with partner Melissa Paul, Director of College Partnerships + Reaching Forward at [Hartford Promise](https://hartfordpromise.org)
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_azgyzeh3&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video for CLJ USA community land trust affordable housing project, Fall 2024](https://trincoll.mediaspace.kaltura.com/media/1_azgyzeh3/)
 
 ### Course Materials and Tools
 ![book covers](/images/covers-hodv-datafeminism.png)
@@ -74,9 +74,8 @@ Your progress toward these learning goals will be assessed in three ways:
 - 7 stages x 5 points = 35 points. A 20 percent late penalty will be deducted for every 12-hour period beyond the deadline. Exceptions are granted only for documented health or family emergencies.
 
 #### C. Class Participation
-- The purpose is to encourage active learning and accountability. Each student begins the course with 5 participation points. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score.
-- Exceptions may be granted for health or family emergencies, if you email me prior to class. If you are **quarantined or isolated due to Covid**, or have other concerns about your health, email me well in advance to request permission to participate remotely via Zoom during a specific class session. Last-minute requests may not be granted.
-- Exceptions are also granted for any scheduling conflicts (such as religious observances or other pre-planned events) where you have notified me well in advance. Last-minute requests may not be granted.
+- The purpose is to encourage active learning and accountability. Each student begins the course with 5 participation points. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, one point will be deducted each time from your participation score.
+- Exceptions will be granted for health or family emergencies, or any scheduling conflicts (such as religious observances or other pre-planned events), if you email me in advance at least one hour before class (or at least one week before pre-planned events). If you have health concerns that prevent you from attending class in person (such as Covid), email me at least one hour before class to request permission to participate remotely via Zoom, which is not as good as attending in person, but better than not attending at all. Last-minute requests will not be granted.
 
 #### Summary  
 60 points quizzes + 35 points data stories + 5 class participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
@@ -98,10 +97,10 @@ Please notify me before our third class session, and [schedule an appointment on
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
 - If anything is interfering with your learning, email or talk with me. I care about how you're doing in life, not just in our classroom.
 
-## Schedule
+## Schedule (to come)
 - Important updates from the instructor will be marked **in bold**.
 
-### Wed Sept 6
+<!-- ### Wed Sept 6
 - Bring a laptop computer (or use a desktop in the classroom).
 - If you are enrolled but do not attend our first class, the Registrar will be instructed to drop you from the roster.
 - Foldable name cards: write your preferred first name on both sides, and on the inside, add a unique detail about yourself to help me remember your name. I will collect them at the end of each class.
@@ -358,4 +357,4 @@ No class - Trinity Days
 ### Mon Dec 11
 - [Build 7 Final presentations](https://docs.google.com/document/d/1i4iVdG93oZ-KGvdCzAji-rtIPcH_U564YPW8mu2psWg/edit) on Zoom with guest evaluators: [José Luis Martínez](https://ctmirror.org/author/jmartinez/), Data Reporter at CT Mirror, and [Ilya Ilyankou](https://handsondataviz.org/authors.html), HandsOnDataViz co-author and Trinity Class of 2018, now PhD student at University College London researching Large Language Models and complex route planning, [LinkedIn page](https://www.linkedin.com/in/ilyankou/).
 - Class will **begin at 11:30am and end at 1:20pm and will take place in my Zoom room** to ensure all students have sufficient time with guest experts. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins.
-- Build 7: Guest experts will review final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
+- Build 7: Guest experts will review final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators. -->
