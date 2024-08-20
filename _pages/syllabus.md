@@ -7,7 +7,7 @@ toc_label: "Contents"
 toc_sticky: true
 ---
 ## Fall 2024 Syllabus
-Our course meets in-person on Mondays and Wednesdays 11:30am-12:45pm in CLASSROOM TBA at Trinity College, Hartford.
+Our course meets in-person on Mondays and Wednesdays 11:30am-12:45pm in Library B02 (basement level, first room near the stairwell) at Trinity College, Hartford.
 
 ### Instructors
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
@@ -20,8 +20,7 @@ Course description: How can charts and maps tell meaningful stories? How can the
 - Enrollment limited to 19 students.  
 
 ### Community Learning Projects
-Our project topic and Hartford-area community learning parter this semester:
-
+Our project and Hartford-area community learning partner this semester:    
 **Affordable Homeownership:** Cori Mackey, Tieasha Gayle, and Bea Santiago of the [Center for Leadership and Justice](https://cljct.org) and its [Urban Suburban Affordables, Inc.](https://cljct.org/what-we-do/housing-initiatives/) (USA) community land trust. See [history of this homeownership program](https://cljct.org/history-of-homeownership-initiatives/). The CLJ has asked us to help visualize answers to these broad questions:
 1. Where are USA community land trust homes located in the Hartford region, and in what types of neighborhoods?
 2. How have USA homeownership trends and sales prices changed over time?
