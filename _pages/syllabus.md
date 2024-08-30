@@ -74,7 +74,7 @@ Your progress toward these learning goals will be assessed in three ways:
 
 #### C. Class Participation
 - The purpose is to encourage active learning and accountability. Each student begins the course with 5 participation points. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, one point will be deducted each time from your participation score.
-- Exceptions will be granted for any pre-scheduled absences (such as religious observations or any pre-planned events, if you email me at least one week ahead of time), or health or family emergencies (if you email me at least one hour before class). If you have health concerns that prevent you from attending class in person (such as Covid), email me at least one hour before class to request permission to participate remotely. Learning on Zoom is not as good as learning in real life, but if you're sick it's better than not attending at all. Last-minute requests will not be granted.
+- Exceptions will be granted for any pre-scheduled absences (such as religious observations or any pre-planned events, if you email me at least one week ahead of time), or health or family emergencies (if you email me at least one hour before class). If you have health concerns that prevent you from attending class in person (such as Covid or other illness), email me at least one hour before class, and if feasible, request permission to participate remotely. Learning on Zoom is not as good as learning in real life, but it's better than not attending at all. Last-minute requests will not be granted.
 
 #### Summary  
 60 points quizzes + 35 points data stories + 5 class participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
@@ -83,7 +83,7 @@ Your progress toward these learning goals will be assessed in three ways:
 - You are responsible for following the Intellectual Honesty policy as described in the [Trinity Student Handbook](https://www.trincoll.edu/policies/).
 - Artificial intelligence tools are not prohibited in this course, but think carefully before using *any* technology that might interfere with your learning. Large Language Models (LLMs), such as ChatGPT by OpenAI or Claude by Anthropic, can be helpful for repetitive coding tasks or proofreading paragraphs you've already composed. But LLMs also create plausible-sounding text with invented facts and bad calculations. LLMs also raise ethical questions about unpaid labor, energy usage, harmful biases, and safety for humanity. Don't cheat yourself out of an education by substituting LLM-generated responses in place of authentic learning.
 - For online quizzes, you may use your materials (including your notes, the online book, and any Internet content or tools), but you must work independently and you may not communicate about the quiz content in any way (except with the instructors) until the quiz has closed. If any doubts arise, the instructor may require you to show your work, retake a quiz under direct supervision, or refer a case to the Honor Council.
-- For build assignments, You (and your partner) are expected to create all original content (text and visualizations), with proper citations to any paraphrased or quoted text written by others, image credits to any visuals produced by others, and a methods section that describes how you used each tool. If any doubts arise, the instructor may require you to show your work, or independently reproduce content under direct supervision, or refer a case to the Honor Council.
+- For build assignments, You (and your partner) are expected to create all original content (text and visualizations), with proper citations to any paraphrased or quoted text written by others, image credits to any visuals produced by others, and a methods section that describes all tools used and how. If any doubts arise, the instructor may require you to show your work, or independently reproduce content under direct supervision, or refer a case to the Honor Council.
 
 #### Academic accommodations
 Please notify me before our third class session, and [schedule an appointment on my calendar](https://jackdougherty.youcanbook.me) to discuss how we will implement your approved plan. For those students with accommodations approved after the start of the semester, a minimum of 10 days’ notice is required. Learn more at the [Student Accessibility Resource Center](https://www.trincoll.edu/sarc/).
@@ -124,13 +124,13 @@ Please notify me before our third class session, and [schedule an appointment on
   - Summarize with pivot tables
   - Match columns with VLOOKUP
 - In-class: [Google Spreadsheet Skills Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
-- In-class: [Google Sheet Sharing Practice](https://docs.google.com/document/d/1tmLJQwFk2SfPPdovTguL5uLZ50Mb77mfvnowuQ9n95E/edit) TODO update
+- In-class: [Google Sheet Sharing Practice](https://docs.google.com/document/d/1DciGvrzMtcazK_djbNq0aqmmraKJ01gUg0DKjr3qwQU/edit)
 - Prep for Spreadsheet quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 - Hint: Start your quiz by Fri 12 noon to ensure sufficient time for instructor feedback, as I might email you during the quiz window with advice on revising your quiz, but only if you start early! If you do not receive an email, check your Moodle gradebook to see if you earned full credit.
 
 ### Wed Sept 11
-- Review from prior class: [Google Spreadsheet Skills Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0) and [Google Sheet Sharing Practice](https://docs.google.com/document/d/1tmLJQwFk2SfPPdovTguL5uLZ50Mb77mfvnowuQ9n95E/edit)
-- TODO: add home rental and buying exercise
+- Review any spreadsheet skills desired from prior class
+- Simulation: search for affordable housing to rent or buy (TODO)
 
 ### Mon Sept 16
 - In-class: Brief review of successes and challenges of last week's Spreadsheet quiz
@@ -149,9 +149,9 @@ Please notify me before our third class session, and [schedule an appointment on
   - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu)
 
 ### Wed Sept 18
-- Before class, read background information about our partner and be prepared to ask questions about their data requests; TODO UPDATE
-- Assign random pairs of students to Build Stage 1: Listen, Find & Question Data. Paste the link to your Google Doc on our Build 1 page and *share it so that anyone can comment* before you leave the room. Due date TBA, worth 5 points.
+- Before class, read background information about the Center for Leadership and Justice (TODO), community land trusts (TODO), and be prepared to ask questions about their data requests (TODO)
 - In-class: Meet with community-learning partners on Zoom from 12-12:30pm
+- Assign random pairs to Build Stage 1: Listen, Find & Question Data. Paste the link to your co-authored starter Google Doc on our Build 1 page and *share it so that anyone can comment* before you leave the room. Due on Sun Sept 22nd at 9pm (same deadline as the quiz, so plan ahead), worth 5 points.
 
 ### Mon Sept 23
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
@@ -162,15 +162,15 @@ Please notify me before our third class session, and [schedule an appointment on
  - Combine Data into One Column
  - Extract Tables from PDFs
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu)
-- Outreach Opportunity #1: [Register](https://www.eventbrite.com/e/watch-fighting-for-home-how-housing-policy-keeps-connecticut-segregated-tickets-955841476587?aff=oddtdtcreator) for Wed Sept 25th 6:30pm film and panel discussion - details below
+- Outreach Opportunity #1: [Register](https://www.eventbrite.com/e/watch-fighting-for-home-how-housing-policy-keeps-connecticut-segregated-tickets-955841476587?aff=oddtdtcreator) for Wed Sept 25th 6:30pm housing film and panel discussion - see details below
 
 ### Wed Sept 25
-- Review Build 1 student responses
+- Review Build 1
 - In-class: Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1dVpz6rSvS7J8YUM3lIwEjmtFef_lM1nqI9WMrqdsuMo/edit)
-- TODO Add instructions for tract-level data
+- TODO add tract-level instructions
   - What levels of US Census data are publicly available? See [HODV chapter](https://handsondataviz.org/guiding.html)
   - How is US Census data "socially constructed"? See [HODV chapter](https://handsondataviz.org/question.html)
-- Assign random pairs to Build 2: Find and Clean Data, due date TBA worth 5 points.
+- Assign random pairs to Build 2: Find and Clean Data. Start your co-authored Google Sheet, and include links to any co-authored Google Sheets, set to *anyone can comment*, and paste onto our Build document. Due Sunday Sept 29th 9pm (same deadline as the quiz, so plan ahead) worth 5 points.
 - Outreach Opportunity #1: [Register](https://www.eventbrite.com/e/watch-fighting-for-home-how-housing-policy-keeps-connecticut-segregated-tickets-955841476587?aff=oddtdtcreator) and attend tonight's 6:30pm film at Cinestudio, "Fighting for Home: How Housing Policy Keeps Connecticut Segregated." Say hello at me at the event, then email me a one-paragraph specific response about something you notice in the film, and a one-paragraph specific response about how a panelist responded to a question, and you will be exempted from Quiz #10 later this semester.
 
 ### Mon Sept 30
@@ -189,7 +189,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - Chart types
   - Chart design principles and rules
   - Create bar/column, histogram, line, area charts
-- Assign Build 3: Compile Home Value and Sales Data. Work with randomly-assigned partner to compile spreadsheet data for assigned properties, due TBA, worth 5 points.
+- Assign random pairs to Build 3: Compile Home Value and Sales Data for assigned properties. Start your co-authored Google Document, with link to your co-authored Google Sheet, set them to *anyone can comment*, and insert on our Build doc. Due Sunday Oct 6th 9pm (same deadline as the quiz), worth 5 points.
 
 ### Mon Oct 7
 - Before class, [create a free account on Datawrapper](https://app.datawrapper.de/signin/).
@@ -200,7 +200,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - Create annotated, range, scatter charts with Datawrapper
 - Hint: When publishing your visualization, always test if your work is visible to the public by pasting the link in a private incognito window in your browser OR a second browser, without being logged into your tool account.
 - In class: [Practice choosing the most appropriate chart type and design it](https://docs.google.com/spreadsheets/d/1-1XNZt4S0hLFLzzFMWYweHqq2gRRUbWu5Tfs5yuWoj4/edit?gid=843)
-- **Plan ahead and budget your time** for the Chart Your Data quiz, to be taken during any **3-hour period** before Sun 9pm on [Moodle](https://moodle.trincoll.edu), because it contains 5 show-your-work questions and may require more time than you have spent on prior quizzes. Start your quiz by Friday 12 noon if you wish to receive feedback for a second attempt. If you have questions, drop-in on my Zoom Room (no appointment necessary) on date TBA
+- **Plan ahead and budget your time** for the Chart Your Data quiz, to be taken during any **3-hour period** before Sun 9pm on [Moodle](https://moodle.trincoll.edu), because it contains 5 show-your-work questions and may require more time than you have spent on prior quizzes. Start your quiz by Friday 12 noon if you wish to receive feedback for a second attempt. If you have questions, drop-in on my Zoom Room (no appointment necessary) on date TBA (TODO)
 
 ### Wed Oct 9
 <!-- - Brief review of scatter charts and [sample student response 1](https://docs.google.com/spreadsheets/d/1PrFI7oju8cDG1hmibR-a2WnIaQFmO4eAP3vy-djE2-I/edit#gid=0) and [response 2](https://datawrapper.dwcdn.net/2hSel/1/) -->
@@ -210,6 +210,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - Use Datawrapper to create point and symbol point
   <!-- - TODO update for CLJ non-zoomed map -->
 - Review Build 3 compiled data for assigned properties
+- No quiz due this Sunday Oct 13th
 
 ### Mon Oct 14
 No class - Trinity Days
@@ -232,12 +233,12 @@ No class - Trinity Days
   - Find existing GeoJSON boundary maps with [Gimme Geodata](https://hanshack.com/geotools/)
   - View or draw a simple GeoJSON boundary with [GeoJSON.io](https://geojson.io)
   - Edit and transform existing GeoJSON boundary with [Mapshaper.org](https://mapshaper.org)
-- Tutorial: [Download and Edit CT Towns for Datawrapper Custom GeoJSON Map](https://docs.google.com/document/d/1LaMwOr-B_sW0_XVOQtG1_4wZFOMmrsG2kuPUD51fHhA/edit)
+- Tutorial: [Download and Edit CT Towns for Datawrapper Custom GeoJSON Map](https://docs.google.com/document/d/1LaMwOr-B_sW0_XVOQtG1_4wZFOMmrsG2kuPUD51fHhA/edit) - update TODO
 - Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 
 ### Wed Oct 23
 <!-- - Be aware of [HODV Chapter 8: Table Your Data](https://handsondataviz.org/table.html), especially the [interactive Datawrapper Table with Sparklines](https://handsondataviz.org/table-datawrapper.html), if needed later this semester -->
-- Assign Build 4: Progress Reports for Community Partners. Tasks will be designated to randomly assigned partners (not necessarily your final project partner). Due date TBA, worth 5 points.
+- Assign random pairs to Build 4: Progress Reports for Community Partners. Start your co-authored Google Docs, with links to any Google Sheets, and share them so that *anyone can comment*, on our Build doc. Due Mon Oct 28th 9pm, worth 5 points.
 
 ### Mon Oct 28
 - Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future.
@@ -246,10 +247,10 @@ No class - Trinity Days
   - Learn in class: Copy, Edit, and Host a Simple Leaflet Map
   - Bonus: [Recipe for Jack's Semi-Famous Pumpkin Chocolate Chip Cookies on GitHub](https://github.com/JackDougherty/pumpkin-choc-chip)
 - Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
-- In-class: Finalize Build 4 Progress Reports for Community Partners
+- In-class: Finalize Build 4 Progress Reports for Community Partners, due Monday 9pm, in order to forward them one day before our meeting
 
 ### Wed Oct 30
-- In-class: Progress Report with CLJ Community Partners on Zoom, 11:40-12:30
+- In-class: Progress Report with Center for Leadership & Justice community partners on Zoom, 11:40-12:30
 - Start thinking about your preferences for final projects (Builds 5-8). Working in duos is strongly encouraged and priority will be given to students who wish to partner with another student. No more than two students per team, but some projects can be divided into coordinated separate teams (working on related questions and data, but graded separately). While you can choose to work solo, you will be held to the same expectations as a duo.
 
 ### Mon Nov 4
@@ -259,29 +260,29 @@ No class - Trinity Days
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
 - Prep for Detect Lies quiz, to be taken during any 3-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
-- Submit your preferences for final project (Builds 5-8) in Google Form, with final decisions made by instructor to balance numbers.
+- Submit your preferences for final project (Builds 5-8) in Google Form (TODO), with final decisions made by instructor to balance numbers.
 
 ### Wed Nov 6
 - Brief overview of Learning Goal #10: Explore Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
   - Leaflet Maps with Google Sheets
   - Leaflet Storymaps with Google Sheets
-- Prepare for Leaflet Map Templates quiz, to be taken during any 2-hour period by Sunday 9pm on [Moodle](https://moodle.trincoll.edu). **There are two quizzes this week** unless you have earned an outreach event exemption.
+- Prepare for Leaflet Map Templates quiz, to be taken during any 2-hour period by Sunday 9pm on [Moodle](https://moodle.trincoll.edu). Unless you have earned an outreach event exemption, there are two quiz deadlines this Sunday.
 
 ### Mon Nov 11
-- Brief Zoom introductions with final project guest evaluators: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
+- Brief Zoom introductions with guest evaluators of your final data stories: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
 - In class: Explore [sample data stories by students on past projects](https://datavizforall.org/partners-projects/)
 - Practice applying evaluation criteria to data story by former student
 - Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
   - Build Narrative on a Storyboard
   - Draw Attention to Meaning
   - Acknowledge Sources and Uncertainty
-- Assign Build 5: Describe Plan and Draw Visualization Ideas (instead of a quiz), due by end of date TBA, worth 5 points. Before leaving the room, insert link to your co-authored Google Doc on the Build Google Doc,  and share so that *anyone can comment*.
+- Assign Build 5: Describe Plan and Draw Visualization Ideas to designated duos/solos (instead of a quiz for this learning goal). Before leaving the room, start your co-authored Google Doc, with any co-authored Google Sheets, share so that *anyone can comment*, and insert on our Build doc. Due by Tuesday Nov 12th 9pm (quick turnaround!), worth 5 points.
 
 ### Wed Nov 13
-- Assign Build 6: Data Story Draft. Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by instructor (and later by peers). Due by date TBA TODO as a Google Doc shared for *anyone to comment* with links to related data files and/or visualizations, worth 5 points
+- Assign Build 6: Data Story Draft to designated duos/solos. Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by instructor (and later by peers). Before leaving the room, start your co-authored Google Doc, with links to any co-authored Google Sheets, with screenshots and links to any published visualizations, and insert for *anyone to comment* on our Build doc. Due by Monday Nov 18th 9pm, worth 5 points.
 - In-class workshop time
-  - Insert links on the Build Google Doc, share so that *anyone can comment*
-  - Quick meetings with instructor (for feedback) and TA (your to-do list)
+  - Quick feedback meetings with instructor
+  - Quick to-do list meetings with TA
 
 ### Mon Nov 18
 - Overview of Learning Goal #12: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
@@ -290,14 +291,15 @@ No class - Trinity Days
   - Embed the iframe code in an HTML web page
   - Make your own copy of [dataviz-story-template from GitHub](https://github.com/DataVizForAll/dataviz-story-template) and follow instructions inside the `index.html` file
   - Start Embed on the Web quiz, due by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
+- In class workshop time
+  - Quick feedback from instructor or TA before Build 6 is due Monday 9pm
 
 ### Wed Nov 20
-- Let's support and coach each other to successfully complete our semester
-- Before class: Make any revisions you wish to your Build 6 drafts, and make sure they are shared for anyone to *comment*
-- In-class: Peer review assignments with [evaluation criteria](https://docs.google.com/document/d/1Glp23sUrATB129wDvYx8YR7sd0qdLt-XqksOCfjLLVo/edit), due during class, for participation credit. Students must submit a full draft in order to participate in the peer review. Choose to either type comments into a shared Google Doc **or** hand-write on paper. Share copy with instructor who will evaluate the quality of constructive feedback.
-- Schedule 20-minute Zoom appointments [on my calendar](https://jackdougherty.org) for Monday Nov 25th or Tues Nov 26th. If working with a partner, be sure to share the appointment information, since both of you must attend the meeting at the same time  to earn participation credit.
-- Assign Build 7: Data Stories for Community Partners. Improve draft based on feedback, and migrate all content from Google Doc to GitHub Pages format, due date TBA for instructor to forward to partners (for non-graded comments and participation credit).
-- Tip: An efficient method to edit your data story on your computer:
+<!-- - Let's support and coach each other to successfully complete our semester -->
+- In-class: Assign peer reviews of Build 6 with evaluation criteria (TODO), due during class, for participation credit. Students must have submitted a full draft in order to participate in the peer review. Choose either to type comments into a shared Google Doc or hand-write on paper, and share a copy with the instructor, who will will evaluate the quality of your constructive feedback.
+- Schedule 20-minute Zoom appointments [on my calendar](https://jackdougherty.org) for Monday Nov 25th or Tues Nov 26th. If working with a partner, be sure to share the appointment information, since both of you must attend the meeting at the same time to earn participation credit.
+- Assign Build 7: Data Stories for Community Partners. Improve your draft based on instructor and peer feedback, and migrate all content from Google Doc to GitHub Pages format. Insert link to your published GitHub Pages template on our Build 7 doc. Due Monday Dec 2nd 9pm (the first day back from Thanksgiving break) for instructor to forward to community partners for non-graded comments, worth participation credit.
+- Tip: An efficient method to edit your data story on your computer (TODO move this to a separate document)
   - In GitHub, download your `index.html` file to your computer
   - Use a text editor tool (not MS Word) to edit downloaded `index.html`. For example, [Pulsar](https://pulsar-edit.dev) is my favorite open-source text editor.
   - While using text editor to revise and save changes to your computer, simultaneously view how they appear in your browser with File > Open File > downloaded `index.html`. Since this version is temporarily stored on your local computer, your browser bar will display its location in a local format `file:///...` rather than the online format `https://...`
@@ -305,26 +307,27 @@ No class - Trinity Days
 - Tip: Avoid deleting important HTML formatting in your data story template [like this common mistake](https://datavizforall.org/images/common-template-error.png)
 
 ### Mon Nov 25
-- In place of our regular class, duo/solo 15-minute Zoom meetings with instructor for Build 6 feedback, for participation credit.
+- In place of our regular class, duo/solo 20-minute Zoom meetings with instructor for Build 6 feedback, for participation credit.
 
 ### Wed Nov 27
 - No class - Thanksgiving Break
 
 ### Mon Dec 2
-- Student course feedback on what helped you learn (link TBA). In addition, please fill out the College's standard online evaluation form when available.
-- Review presentation lineups for Build 7 with Community Partners (comments only) and Build 8 with Guest Evaluators (worth 10 points)
-- Insert your GitHub Pages data story links in the Build 7 Doc above, and you can improve and revise until cut-off times. On date TBA, your Build 8 data story will be "frozen" and published on the public [Partners and Projects page](https://datavizforall.org/partners-projects/) for the guest evaluators to read before your final presentation.
+- In class: Student course feedback on what helped you learn (TODO). In addition, please fill out the College's standard online evaluation form when available.
+- Review presentation lineups for Build 7 with Community Partners (non-graded comments only) and Build 8 with Guest Evaluators (worth 10 points)
+- Insert your GitHub Pages data story links in the Build 7 Doc above, which you can continue to revise and republish until the deadline.
+- Assign Build 8: Revise and Finalize Data story for guest experts. Your version is due Friday Dec 6th at 12 noon, with your published GitHub data story link inserted into the Build 8 document. There are **no extensions** because your data story will be "frozen" and a copy will be published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts to read before your presentations. Worth 10 points, scored by guest experts.
 - Decisions to make before your data story is "frozen" and published:
   - You can insert your full name (recommended), or you have the right to use only your first name or initials. Learn why in my chapter, "[Public Writing and Student Privacy](https://webwriting.trincoll.edu/chapter/dougherty-public/index.html)" in [Web Writing](https://webwriting.trincoll.edu) book (2015).
   - See what other students have done in [prior Partners and Projects](https://datavizforall.org/partners-projects/)
-  - Recommended: Insert link to your published data story in your resume to demonstrate your skills and knowledge to prospective employers and graduate schools, which shows more than simply listing "proficient in..." at the bottom.
+  - Recommended: Insert link to your published data story in your resume to demonstrate your skills and knowledge to prospective employers and graduate schools. See example (TODO)
 - Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
 - Rehearse your 1-minute presentations of Build 7 highlights for community partners. You will have more time for 2-minute presentations of Build 8 for guest experts.
 - Feel free to schedule a Zoom appointment [on my calendar](https://jackdougherty.org) for feedback on your build. If you are working with a partner, please arrange to meet me at the same time if feasible.
 
 ### Wed Dec 4
 - In-class: Build 7 Data Story Feedback with Community Partners on Zoom, 11:30am-12:30pm. Deliver 1-minute presentation of highlights in your data story to community partners, then listen to their non-graded feedback and write down revisions to consider, for participation credit.
-- Assign Build 8: Revise and Finalize Data story for guest experts, your version due Friday Dec 6th at 12 noon on the Build 8 document. There are **no extensions** because your data story will be "frozen" and a copy will be published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts to read before your presentations. Worth 10 points, scored by guest experts.
+- Reminder: Build 8: Revise and Finalize Data story is due Friday Dec 6th at 12 noon, and will be "frozen" and published for guest experts to review.
 
 ### Mon Dec 9
 - Build 8 Final presentations on Zoom with guest evaluators: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
