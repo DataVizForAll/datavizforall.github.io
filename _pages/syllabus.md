@@ -324,7 +324,7 @@ No class - Trinity Days
 
 ### Wed Dec 4
 - In-class: Build 7 Data Story Feedback with Community Partners on Zoom, 11:30am-12:30pm. Deliver 1-minute presentation of highlights in your data story to community partners, then listen to their non-graded feedback and write down revisions to consider, for participation credit.
-- Assign Build 8: Revise and Finalize Data story for guest experts due date TBA. There are **no extensions** because your data story will be "frozen" and a copy will be published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts to read before your presentations. Worth 10 points, scored by guest experts.
+- Assign Build 8: Revise and Finalize Data story for guest experts, your version due Friday Dec 6th at 12 noon on the Build 8 document. There are **no extensions** because your data story will be "frozen" and a copy will be published on our public [Partners and Projects page](https://datavizforall.org/partners-projects/), and forwarded to our guest experts to read before your presentations. Worth 10 points, scored by guest experts.
 
 ### Mon Dec 9
 - Build 8 Final presentations on Zoom with guest evaluators: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
