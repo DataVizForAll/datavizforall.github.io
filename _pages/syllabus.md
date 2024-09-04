@@ -77,7 +77,7 @@ Your progress toward these learning goals will be assessed in three ways:
 - Exceptions will be granted for any pre-scheduled absences (such as religious observations or any pre-planned events, if you email me at least one week ahead of time), or health or family emergencies (if you email me at least one hour before class). If you have health concerns that prevent you from attending class in person (such as Covid or other illness), email me at least one hour before class, and if feasible, request permission to participate remotely. Learning on Zoom is not as good as learning in real life, but it's better than not attending at all. Last-minute requests will not be granted.
 
 #### Summary  
-60 points quizzes + 35 points data stories + 5 class participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
+55 points quizzes + 40 points data stories + 5 class participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
 
 #### Intellectual Honesty and Artificial Intelligence
 - You are responsible for following the Intellectual Honesty policy as described in the [Trinity Student Handbook](https://www.trincoll.edu/policies/).
@@ -269,7 +269,7 @@ No class - Trinity Days
 - Prepare for Leaflet Map Templates quiz, to be taken during any 2-hour period by Sunday 9pm on [Moodle](https://moodle.trincoll.edu). Unless you have earned an outreach event exemption, there are two quiz deadlines this Sunday.
 
 ### Mon Nov 11
-- Brief Zoom introductions with guest evaluators of your final data stories: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
+- Brief Zoom introductions from 11:30-11:40am with guest evaluators of your final data stories: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
 - In class: Explore [sample data stories by students on past projects](https://datavizforall.org/partners-projects/)
 - Practice applying evaluation criteria to data story by former student
 - Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
