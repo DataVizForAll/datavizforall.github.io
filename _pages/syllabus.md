@@ -130,7 +130,9 @@ Please notify me before our third class session, and [schedule an appointment on
 - If you have questions about this week's quiz, see our TA, or schedule an appointment on [my online calendar](https://jackdougherty.org), or [drop in to my Zoom room on Friday 11:30am-12noon](https://trincoll.zoom.us/my/jackdougherty), no appointment necessary
 
 ### Wed Sept 11
-- Review any spreadsheet skills desired from prior class
+- Read before class: United Way of Central and Northeastern CT, "2023 Alice Report: Regional Catchment" (2-page summary), <https://unitedwayinc.org/publications/2023-alice-report/>. Skim the longer report as needed.
+  - Questions: Who is Alice? How is the Household Survival Budget calculated? How does it vary across the Hartford region?
+- In class: Review any spreadsheet skills desired from prior class
 - Simulation: search for affordable housing to rent or buy (TODO)
 
 ### Mon Sept 16
