@@ -127,6 +127,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - In-class: [Google Sheet Sharing Practice](https://docs.google.com/document/d/1DciGvrzMtcazK_djbNq0aqmmraKJ01gUg0DKjr3qwQU/edit)
 - Prep for Spreadsheet quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 - Hint: Start your quiz by Fri 12 noon to ensure sufficient time for instructor feedback, as I might email you during the quiz window with advice on revising your quiz, but only if you start early! If you do not receive an email, check your Moodle gradebook to see if you earned full credit.
+- If you have questions about this week's quiz, see our TA, or schedule an appointment on [my online calendar](https://jackdougherty.org), or [drop in to my Zoom room on Friday 11:30am-12noon](https://trincoll.zoom.us/my/jackdougherty), no appointment necessary
 
 ### Wed Sept 11
 - Review any spreadsheet skills desired from prior class
