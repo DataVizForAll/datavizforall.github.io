@@ -132,10 +132,14 @@ Please notify me before our third class session, and [schedule an appointment on
   - [Google Spreadsheet Skills Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
   - [Google Sheet Sharing Practice](https://docs.google.com/document/d/1DciGvrzMtcazK_djbNq0aqmmraKJ01gUg0DKjr3qwQU/edit)
   - Read before class: United Way of Central and Northeastern CT, "2023 Alice Report: Regional Catchment" (2-page summary), <https://unitedwayinc.org/publications/2023-alice-report/>. Skim the longer report as needed.
-  - Questions: Who is Alice? How is the Household Survival Budget calculated? How does it vary across the Hartford region? What is the current minimum wage in CT versus Federal minimum wage? How does the minimum wage differ for tipped restaurant workers?
+  - Questions: What is "ALICE" and who does it represent?
+  - How is the Household Survival Budget calculated, and how does it differ from the Federal Poverty Level?
+  - How does the Household Survival Budget vary across the Hartford region?
+  - How should these 2021 numbers be adjusted for 2024?
+  - What is the current minimum wage in CT versus Federal minimum wage, and how do these differ for tipped restaurant workers?
 - Simulation: [Housing Search with family profiles and affordability calculators](https://docs.google.com/spreadsheets/d/1dwiINluRT1-as_k3WROeLx5kgi1Rl97GGP7bMVTuHM8/edit?gid=0#gid=0)
 - A very personal "visual"ization, and why to say "hi" when you see me
-- Open the Moodle quiz for students 
+- Open the Moodle quiz for students
 
 ### Mon Sept 16
 - In-class: Brief review of successes and challenges of last week's Spreadsheet quiz
