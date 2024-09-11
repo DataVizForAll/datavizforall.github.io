@@ -134,6 +134,8 @@ Please notify me before our third class session, and [schedule an appointment on
   - [Google Spreadsheet Skills Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
   - [Google Sheet Sharing Practice](https://docs.google.com/document/d/1DciGvrzMtcazK_djbNq0aqmmraKJ01gUg0DKjr3qwQU/edit)
 - Simulation: search for affordable housing to rent or buy (TODO)
+- TODO: open the Moodle quiz
+- A very personal "visual"-ization, and why to say "hi" when you see me
 
 ### Mon Sept 16
 - In-class: Brief review of successes and challenges of last week's Spreadsheet quiz
