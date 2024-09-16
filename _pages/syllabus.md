@@ -147,7 +147,7 @@ Read before class: United Way of Central and Northeastern CT, "2023 Alice Report
   - [Chapter 2 about Challenge Power](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) begins with a comparison of two different maps of Detroit. How do the maps differ, and what do the authors mean when they ask ["Who makes maps and who gets mapped?"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4#nl1iq5r2p9p)
 - Overview of Learning Goal #2: Find and Question Your Data. Start reading HODV Chapter 3 at <https://handsondataviz.org/find.html>
   - Challenge power & privilege in data
-  - Clarify levels of data
+  - Clarify levels of data (especially US Census data)
   - Recognize public vs private data
   - Mask or aggregate sensitive data
   - Explore open data repositories
@@ -156,7 +156,7 @@ Read before class: United Way of Central and Northeastern CT, "2023 Alice Report
   - Question your data
   - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu)
 - Review last week's [housing search simulation](https://docs.google.com/spreadsheets/d/1dwiINluRT1-as_k3WROeLx5kgi1Rl97GGP7bMVTuHM8/edit?gid=0#gid=0). Questions: How do our simulated family profiles compare to ALICE? What obstacles stand in the way of obtaining an affordable rental or home purchase? How is "affordable" calculated by various rental and homebuying tools?
-- Brief review of last week's quiz. How would ChatGPT have done? Read syllabus policy on [Intellectual Honesty and Artificial Intelligence](#intellectual-honesty-and-artificial-intelligence)
+- Brief review of last week's quiz. How did basic ChatGPT do with this [2023 sample data](https:/datavizforall.org/sample-data/2023-08-28-nyc-inspections.csv) when [asked to calculate the number of pizza restaurants in Brooklyn](https://chatgpt.com/share/66e843e2-2b44-800f-8fd1-fb4bffa02aa4)? Read syllabus policy on [Intellectual Honesty and Artificial Intelligence](#intellectual-honesty-and-artificial-intelligence)
 
 ### Wed Sept 18
 - Before class, read background and write questions to prepare for today's meeting:
