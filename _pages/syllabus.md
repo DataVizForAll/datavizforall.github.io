@@ -131,7 +131,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - In class:
   - [Google Spreadsheet Skills Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
   - [Google Sheet Sharing Practice](https://docs.google.com/document/d/1DciGvrzMtcazK_djbNq0aqmmraKJ01gUg0DKjr3qwQU/edit)
-  - Read before class: United Way of Central and Northeastern CT, "2023 Alice Report: Regional Catchment" (2-page summary), <https://unitedwayinc.org/publications/2023-alice-report/>. Skim the longer report as needed.
+Read before class: United Way of Central and Northeastern CT, "2023 Alice Report: Regional Catchment" (2-page summary), <https://unitedwayinc.org/publications/2023-alice-report/>. Skim the longer report as needed.
   - Questions: What is "ALICE" and who does it represent?
   - How is the Household Survival Budget calculated, and how does it differ from the Federal Poverty Level?
   - How does the Household Survival Budget vary across the Hartford region?
@@ -142,7 +142,6 @@ Please notify me before our third class session, and [schedule an appointment on
 - Open the Moodle quiz for students
 
 ### Mon Sept 16
-- In-class: Brief review of successes and challenges of last week's Spreadsheet quiz
 - Before class, read and be prepared to discuss Catherine D'Ignazio and Lauren Klein *Data Feminism* chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, especially these selections:
   - [Chapter 1. Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4) begins with a story about tennis star Serena Williams. What do the authors mean by this line? ["What we choose to measure is a statement of what we value... and who we value"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4#nxk87mil5kj)
   - [Chapter 2 about Challenge Power](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) begins with a comparison of two different maps of Detroit. How do the maps differ, and what do the authors mean when they ask ["Who makes maps and who gets mapped?"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4#nl1iq5r2p9p)
@@ -156,11 +155,23 @@ Please notify me before our third class session, and [schedule an appointment on
   - Recognize bad data
   - Question your data
   - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu)
+- Review last week's [housing search simulation](https://docs.google.com/spreadsheets/d/1dwiINluRT1-as_k3WROeLx5kgi1Rl97GGP7bMVTuHM8/edit?gid=0#gid=0). Questions: How do our simulated family profiles compare to ALICE? What obstacles stand in the way of obtaining an affordable rental or home purchase? How is "affordable" calculated by various rental and homebuying tools?
+- Brief review of last week's quiz. How would ChatGPT have done? Read syllabus policy on [Intellectual Honesty and Artificial Intelligence](#intellectual-honesty-and-artificial-intelligence)
 
 ### Wed Sept 18
-- Before class, read background information about the Center for Leadership and Justice (TODO), community land trusts (TODO), and be prepared to ask questions about their data requests (TODO)
-- In-class: Meet with community-learning partners on Zoom from 12-12:30pm
-- Assign random pairs to Build Stage 1: Listen, Find & Question Data. Paste the link to your co-authored starter Google Doc on our Build 1 page and *share it so that anyone can comment* before you leave the room. Due on Sun Sept 22nd at 9pm (same deadline as the quiz, so plan ahead), worth 5 points.
+- Before class, read background and write questions to prepare for today's meeting:
+  - Miriam Axel-Lute, "Understanding Community Land Trusts," Shelterforce, July 12, 2021, <https://shelterforce.org/2021/07/12/understanding-community-land-trusts/>.
+  - Center for Leadership and Justice <https://cljct.org>, "About Us" subpages <https://cljct.org/about-us/>, and "Greater Hartford Interfaith Action Alliance" (GHIAA) social justice campaigns <https://cljct.org/ghiaa/>.
+  - Center for Leadership and Justice (formerly known as Christian Activities Council), "History of Homeownership Initiatives", undated, <https://cljct.org/history-of-homeownership-initiatives/>.
+  - Program Summary: Urban Suburban Affordables (USA, Inc.) was developed in the early 1990s with funds from the Department of Housing (DOH) to move people from project-based living into homeownership. Under the arrangement, USA owns the land and low to moderate-income residents became first time homeowners. There are 200 plus properties in the Greater Hartford area. Homeowners pay USA a “land lease fee” of $15-45 dollars a month. When the homeowner goes to sell, USA income qualifies the next buyer and sets the allowable sales price based on a formula provided by DOH many years ago.
+  - [USA Properties spreadsheet](https://docs.google.com/spreadsheets/d/1KzoCc8Xk0MTqJRNPzmEtFYTiqRGTkSiWXJecaIN4jIo/edit?gid=540050657#gid=540050657), access restricted to members of this course (see "notes" tab)
+  - [USA Resale Procedure documents, Summer 2024](https://drive.google.com/drive/folders/1Grk7DFJpvLQf8MrYH2ph6nEWd6XSkS3y)
+- Assign random pairs to [Build Stage 1: Listen, Find & Question Data](https://docs.google.com/document/d/18k8YfQh3rqA0-zN_BDF67Md_T_AUu4sJ7IcyJaHqnis/edit), Restricted to course members. Paste the link to your co-authored starter Google Doc on our Build 1 page and *share it so that anyone can comment* before you leave the room. Due on Sun Sept 22nd at 9pm (same deadline as the quiz, so plan ahead), worth 5 points.
+- In-class: Prepare and ask questions and take notes while meeting with community-learning partners on Zoom from 12-12:30pm
+  - Cori Mackey, Executive Director, Center for Leadership & Justice
+  - Tieasha Gayle, Data Manager and USA Program Coordinator, CLJ
+  - Lucy Berrios-Taveras, Director of Operations, CLJ
+  - Bea Santiago, Greater Hartford Interfaith Action Alliance Organizer
 
 ### Mon Sept 23
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
