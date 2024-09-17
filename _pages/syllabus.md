@@ -172,6 +172,7 @@ Read before class: United Way of Central and Northeastern CT, "2023 Alice Report
   - Tieasha Gayle, Data Manager and USA Program Coordinator, CLJ
   - Lucy Berrios-Taveras, Director of Operations, CLJ
   - Bea Santiago, Greater Hartford Interfaith Action Alliance Organizer
+- Open the Find and Question Data quiz, with deadline reminders.
 
 ### Mon Sept 23
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
