@@ -156,7 +156,7 @@ Read before class: United Way of Central and Northeastern CT, "2023 Alice Report
   - Question your data
   - Prepare for Find and Question Data quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu)
 - Review last week's [housing search simulation](https://docs.google.com/spreadsheets/d/1dwiINluRT1-as_k3WROeLx5kgi1Rl97GGP7bMVTuHM8/edit?gid=0#gid=0). Questions: How do our simulated family profiles compare to ALICE? What obstacles stand in the way of obtaining an affordable rental or home purchase? How is "affordable" calculated by various rental and homebuying tools?
-- Brief review of last week's quiz. How did basic ChatGPT do with this [2023 sample data](https:/datavizforall.org/sample-data/2023-08-28-nyc-inspections.csv) when [asked to calculate the number of pizza restaurants in Brooklyn](https://chatgpt.com/share/66e843e2-2b44-800f-8fd1-fb4bffa02aa4)? Read syllabus policy on [Intellectual Honesty and Artificial Intelligence](#intellectual-honesty-and-artificial-intelligence). See also AI energy usage in Pranshu Verma and Shelly Tan, "A Bottle of Water Per Email: The hidden environmental costs of using AI Chatbots" Washington Post, September 18, 2024, [gift link](https://wapo.st/4d9TJKz) 
+- Brief review of last week's quiz. How did basic ChatGPT do with this [2023 sample data](https:/datavizforall.org/sample-data/2023-08-28-nyc-inspections.csv) when [asked to calculate the number of pizza restaurants in Brooklyn](https://chatgpt.com/share/66e843e2-2b44-800f-8fd1-fb4bffa02aa4)? Read syllabus policy on [Intellectual Honesty and Artificial Intelligence](#intellectual-honesty-and-artificial-intelligence). See also AI energy usage in Pranshu Verma and Shelly Tan, "A Bottle of Water Per Email: The hidden environmental costs of using AI Chatbots" Washington Post, September 18, 2024, [gift link](https://wapo.st/4d9TJKz)
 
 ### Wed Sept 18
 - Before class, read background and write questions to prepare for today's meeting:
@@ -183,7 +183,8 @@ Read before class: United Way of Central and Northeastern CT, "2023 Alice Report
  - Combine Data into One Column
  - Extract Tables from PDFs
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu)
-- Outreach Opportunity #1: [Register](https://www.eventbrite.com/e/watch-fighting-for-home-how-housing-policy-keeps-connecticut-segregated-tickets-955841476587?aff=oddtdtcreator) for Wed Sept 25th 6:30pm housing film and panel discussion - see details below
+- Outreach Opportunity #1: [Register](https://www.ctpublic.org/screening) for Wed Sept 25th 6:30pm housing film and panel discussion - see details below
+![fighting-for-home](images/2024-09-fighting-for-home.jpg)
 
 ### Wed Sept 25
 - Review Build 1
@@ -192,7 +193,7 @@ Read before class: United Way of Central and Northeastern CT, "2023 Alice Report
   - What levels of US Census data are publicly available? See [HODV chapter](https://handsondataviz.org/guiding.html)
   - How is US Census data "socially constructed"? See [HODV chapter](https://handsondataviz.org/question.html)
 - Assign random pairs to Build 2: Find and Clean Data. Start your co-authored Google Sheet, and include links to any co-authored Google Sheets, set to *anyone can comment*, and paste onto our Build document. Due Sunday Sept 29th 9pm (same deadline as the quiz, so plan ahead) worth 5 points.
-- Outreach Opportunity #1: [Register](https://www.eventbrite.com/e/watch-fighting-for-home-how-housing-policy-keeps-connecticut-segregated-tickets-955841476587?aff=oddtdtcreator) and attend tonight's 6:30pm film at Cinestudio, "Fighting for Home: How Housing Policy Keeps Connecticut Segregated." Say hello at me at the event, then email me a one-paragraph specific response about something you notice in the film, and a one-paragraph specific response about how a panelist responded to a question, and you will be exempted from Quiz #10 later this semester.
+- Outreach Opportunity #1: [Register](https://www.ctpublic.org/screening) and attend tonight's 6:30pm film and panel discussion at Cinestudio, "Fighting for Home: How Housing Policy Keeps Connecticut Segregated." Say hello at me at the event, then email me a one-paragraph specific response about something you notice in the film, and a one-paragraph specific response about how a panelist responded to a question, and you will be exempted from Quiz #10 later this semester.
 
 ### Mon Sept 30
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
