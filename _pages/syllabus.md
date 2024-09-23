@@ -175,20 +175,21 @@ Read before class: United Way of Central and Northeastern CT, "2023 Alice Report
 - Open the Find and Question Data quiz, with deadline reminders.
 
 ### Mon Sept 23
+- Overall good work on Build 1, and beware of bad or questionable data. Instructor has "frozen" copies of your work and will email feedback soon.
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
  - Smart Cleanup in Google Sheets
  - Find and Replace with Blank
  - Transpose Rows and Columns
  - Split Data into Separate Columns
  - Combine Data into One Column
- - Extract Tables from PDFs
+ - Extract Tables from PDFs (instructor demo)
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu)
 - Outreach Opportunity #1: [Register](https://www.ctpublic.org/screening) for Wed Sept 25th 6:30pm housing film and panel discussion - see details below
 ![fighting-for-home](images/2024-09-fighting-for-home.jpg)
 
 ### Wed Sept 25
-- Review Build 1
-- In-class: Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1dVpz6rSvS7J8YUM3lIwEjmtFef_lM1nqI9WMrqdsuMo/edit)
+- Review of Build 1
+- In-class: [Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1dVpz6rSvS7J8YUM3lIwEjmtFef_lM1nqI9WMrqdsuMo/edit)
 - TODO add tract-level instructions
   - What levels of US Census data are publicly available? See [HODV chapter](https://handsondataviz.org/guiding.html)
   - How is US Census data "socially constructed"? See [HODV chapter](https://handsondataviz.org/question.html)
