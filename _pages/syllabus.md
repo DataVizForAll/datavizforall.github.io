@@ -188,13 +188,13 @@ Read before class: United Way of Central and Northeastern CT, "2023 Alice Report
 ![fighting-for-home](images/2024-09-fighting-for-home.jpg)
 
 ### Wed Sept 25
-- Review of Build 1
-- In-class: [Social Explorer Tutorial to Download and Clean Census/American Community Survey town-level data](https://docs.google.com/document/d/1dVpz6rSvS7J8YUM3lIwEjmtFef_lM1nqI9WMrqdsuMo/edit)
-- TODO add tract-level instructions
+- Review pivot table skills and revise town spellings in [USA Properties restricted data](https://docs.google.com/spreadsheets/d/1KzoCc8Xk0MTqJRNPzmEtFYTiqRGTkSiWXJecaIN4jIo/edit?gid=540050657#gid=540050657)
+- In-class: [Social Explorer Tutorial to Download and Clean Census/American Community Survey for CT town AND tract data](https://docs.google.com/document/d/1thK_GAkUtwN2PCr-MmxGoHk0ejavs7B73Tpfvrl2HE8/edit)
   - What levels of US Census data are publicly available? See [HODV chapter](https://handsondataviz.org/guiding.html)
   - How is US Census data "socially constructed"? See [HODV chapter](https://handsondataviz.org/question.html)
-- Assign random pairs to Build 2: Find and Clean Data. Start your co-authored Google Sheet, and include links to any co-authored Google Sheets, set to *anyone can comment*, and paste onto our Build document. Due Sunday Sept 29th 9pm (same deadline as the quiz, so plan ahead) worth 5 points.
-- Outreach Opportunity #1: [Register](https://www.ctpublic.org/screening) and attend tonight's 6:30pm film and panel discussion at Cinestudio, "Fighting for Home: How Housing Policy Keeps Connecticut Segregated." Say hello at me at the event, then email me a one-paragraph specific response about something you notice in the film, and a one-paragraph specific response about how a panelist responded to a question, and you will be exempted from Quiz #10 later this semester.
+- Assign random pairs to [Build 2: Find, Clean, Question, and Match Census Data](https://docs.google.com/document/d/1eNUCPIRQA9kdfdB129D2UxcW8k3fQ8q25DL8UfPvxTI/edit). Write responses in your co-authored and publicly shared Google Document, and include the link to your co-authored and publicly shared Google Sheet. Due Sunday Sept 29th 9pm (same deadline as the quiz, so plan ahead) worth 5 points.
+- Open the Clean Data quiz on Moodle, with reminders on how to meet with instructors
+- Outreach Opportunity #1: [Register](https://www.ctpublic.org/screening) and attend tonight's 6:30pm film and panel discussion at Cinestudio, "Fighting for Home: How Housing Policy Keeps Connecticut Segregated." Say hello at me at the event, then email me one specific paragraph about something you notice in the film, plus one specific paragraph about how a panelist responded to a question, by Friday Sept 27th at 12 noon, and you will be exempted from Quiz #10 later this semester.
 
 ### Mon Sept 30
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
