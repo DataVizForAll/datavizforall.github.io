@@ -197,10 +197,15 @@ Read before class: United Way of Central and Northeastern CT, "2023 Alice Report
 - Outreach Opportunity #1: [Register](https://www.ctpublic.org/screening) and attend tonight's 6:30pm film and panel discussion at Cinestudio, "Fighting for Home: How Housing Policy Keeps Connecticut Segregated." Say hello at me at the event, then email me one specific paragraph about something you notice in the film, plus one specific paragraph about how a panelist responded to a question, by Friday Sept 27th at 12 noon, and you will be exempted from Quiz #10 later this semester.
 
 ### Mon Sept 30
+- Personal update: Coach for non-profit orgs with [CTData.org](https://ctdata.org)
+- Coaching advice:
+  - Start quizzes before Friday 12 noon to receive feedback for second attempt
+  - Borrow or buy a $15 external mouse to right-click more easily on spreadsheets
+  - Practice downloading Census tract data: [the non-required 2nd half of Build 2](https://docs.google.com/document/d/1eNUCPIRQA9kdfdB129D2UxcW8k3fQ8q25DL8UfPvxTI/edit)
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
   - Decipher common US phrases:
-    - apples-to-apples comparison
-    - don't cherry-pick your data
+    - Apples-to-apples comparison
+    - Don't cherry-pick your data
   - The big question: "Compared to what?"
   - Precisely describe comparisons: practice [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
   - Normalize your data
@@ -208,6 +213,7 @@ Read before class: United Way of Central and Northeastern CT, "2023 Alice Report
 - Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu)
 
 ### Wed Oct 2
+- Review Build 2
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
   - Chart design principles and rules
