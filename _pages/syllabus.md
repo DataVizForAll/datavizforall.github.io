@@ -213,12 +213,13 @@ Read before class: United Way of Central and Northeastern CT, "2023 Alice Report
 - Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu)
 
 ### Wed Oct 2
-- Review Build 2
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
   - Chart design principles and rules
   - Create bar/column, histogram, line, area charts
-- Assign random pairs to Build 3: Compile Home Value and Sales Data for assigned properties. Start your co-authored Google Document, with link to your co-authored Google Sheet, set them to *anyone can comment*, and insert on our Build doc. Due Sunday Oct 6th 9pm (same deadline as the quiz), worth 5 points.
+- Review Build 2 (evaluations done, need to email links and insert grades)
+- Assign random pairs to [Build 3: Compile Assessor and Zillow URLs and IDs for USA Properties](https://docs.google.com/document/d/1otc9ii-5sbSwzmhkBdLceEuzBRcF258gEHE8TW3St-o/edit). Start link to your co-authored Google Sheet, set to *anyone can view*, and insert on our Build doc. Due Sunday Oct 6th 9pm (same deadline as the quiz), worth 5 points.
+- Open the Meaningful Comparisons quiz
 
 ### Mon Oct 7
 - Before class, [create a free account on Datawrapper](https://app.datawrapper.de/signin/).
