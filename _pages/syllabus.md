@@ -223,7 +223,7 @@ Read before class: United Way of Central and Northeastern CT, "2023 Alice Report
 
 ### Mon Oct 7
 - Before class, [create a free account on Datawrapper](https://app.datawrapper.de/signin/).
-<!-- - Review: [Compare student strategies on Covid normalization question](https://docs.google.com/spreadsheets/d/1NXhqBZKQHu_rt7UF3IvhJ7YoQ3fyzQ-TiNLfxqK0y-U/edit#gid=0) -->
+Review: [Compare student strategies on Covid normalization question](https://docs.google.com/spreadsheets/d/1NXhqBZKQHu_rt7UF3IvhJ7YoQ3fyzQ-TiNLfxqK0y-U/edit#gid=0) 
 - Continue overview of Learning Goal #5: Chart Your Data. Finish reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Compare Datawrapper versus Google Charts
   - Review line versus area charts with Datawrapper
