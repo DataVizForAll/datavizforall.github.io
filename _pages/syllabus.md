@@ -233,6 +233,7 @@ Review: [Compare student strategies on Covid normalization question](https://doc
 - **Plan ahead and budget your time** for the Chart Your Data quiz, to be taken during any **3-hour period** before Sun 9pm on [Moodle](https://moodle.trincoll.edu), because it contains 5 show-your-work questions and may require more time than you have spent on prior quizzes. Start your quiz by Friday 12 noon if you wish to receive feedback for a second attempt. If you have questions, visit our TA's office hours, or schedule an appointment on my calendar, or come to my Zoom Room drop-in (TBA).
 
 ### Wed Oct 9
+- Brief review of [Build 3 compiled data](https://docs.google.com/spreadsheets/d/1KzoCc8Xk0MTqJRNPzmEtFYTiqRGTkSiWXJecaIN4jIo/edit?gid=540050657#gid=540050657), still need to enter grades
 - [More practice for the challenging Chart Your Data quiz](https://docs.google.com/spreadsheets/d/1v-LHs2YBHRB19IDEB-Kp2dpa3AaM1CNrF16OiOktFlc/edit?gid=0#gid=0)
   - What type(s) of charts are most appropriate for this question?
   - What challenges did you encounter when creating your chart?
