@@ -262,6 +262,8 @@ No class - Trinity Days
 - In-class: Map practice
 - Prepare for **3-hour** Map your Data quiz, due Sunday 9pm on [Moodle](https://moodle.trincoll.edu). Start by Fri 12 noon to receive feedback in time for a second attempt.
 - Open the Map quiz
+- Outreach Opportunity #2: Email me by Sunday 9pm if you wish to attend and I will register you for free and help arrange transportation. Tues Oct 22nd 10am-12:30pm (you can attend one hour, ideally 10:30-11:30am) panel discussion by Equity Committee of Greater Hartford Assocation of Realtors. Say hello at me at the event, then email me one specific paragraph about something you heard from the panel by Friday, and you you will be exempted from Quiz #10 later this semester.
+![2024-ghar-equity](images/2024-gjar-equity.jpg)
 
 ### Mon Oct 21
 <!-- - Brief review of Maps quiz using sample student work:
