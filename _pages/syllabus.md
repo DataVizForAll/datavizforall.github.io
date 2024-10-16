@@ -252,15 +252,16 @@ Review: [Compare student strategies on Covid normalization question](https://doc
 No class - Trinity Days
 
 ### Wed Oct 16
-<!-- - Brief review of scatter charts and [sample student response 1](https://docs.google.com/spreadsheets/d/1PrFI7oju8cDG1hmibR-a2WnIaQFmO4eAP3vy-djE2-I/edit#gid=0) and [response 2](https://datawrapper.dwcdn.net/2hSel/1/)
-- TODO update for CLJ non-zoomed map
-- Review Build 3 compiled data for assigned properties -->
+<!-- - Brief review of chart quiz, spot the problem, scatter charts and [sample student response 1](https://docs.google.com/spreadsheets/d/1PrFI7oju8cDG1hmibR-a2WnIaQFmO4eAP3vy-djE2-I/edit#gid=0) and [response 2](https://datawrapper.dwcdn.net/2hSel/1/)-->
 - Continue overview of Learning Goal #6: Map Your Data, <https://handsondataviz.org/map.html>
-  - Map types (more about choropleth maps)
-  - Choropleth colors and intervals
+  - Map types
+    - Review: locator point and symbol point
+    - New: choropleth (colored polygons)  
+  - Map Design: Choropleth colors and intervals
   - Normalize choropleth map data
 - In-class: Map practice
 - Prepare for **3-hour** Map your Data quiz, due Sunday 9pm on [Moodle](https://moodle.trincoll.edu). Start by Fri 12 noon to receive feedback in time for a second attempt.
+- Open the Map quiz
 
 ### Mon Oct 21
 <!-- - Brief review of Maps quiz using sample student work:
@@ -272,12 +273,13 @@ No class - Trinity Days
   - Find existing GeoJSON boundary maps with [Gimme Geodata](https://hanshack.com/geotools/)
   - View or draw a simple GeoJSON boundary with [GeoJSON.io](https://geojson.io)
   - Edit and transform existing GeoJSON boundary with [Mapshaper.org](https://mapshaper.org)
-- Tutorial: [Download and Edit CT Towns for Datawrapper Custom GeoJSON Map](https://docs.google.com/document/d/1LaMwOr-B_sW0_XVOQtG1_4wZFOMmrsG2kuPUD51fHhA/edit) - update TODO
+  - TODO: Update Tutorial: [Download and Edit CT Towns for Datawrapper Custom GeoJSON Map](https://docs.google.com/document/d/1LaMwOr-B_sW0_XVOQtG1_4wZFOMmrsG2kuPUD51fHhA/edit)
+  - TODO: Tutorial to Join Points to Polygons (Lat & Long coordinates to Census Tracts)
 - Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 
 ### Wed Oct 23
 <!-- - Be aware of [HODV Chapter 8: Table Your Data](https://handsondataviz.org/table.html), especially the [interactive Datawrapper Table with Sparklines](https://handsondataviz.org/table-datawrapper.html), if needed later this semester -->
-- Assign random pairs to Build 4: Progress Reports for Community Partners. Start your co-authored Google Docs, with links to any Google Sheets, and share them so that *anyone can comment*, on our Build doc. Due Mon Oct 28th 9pm, worth 5 points.
+- Assign random pairs to Build 4: Progress Reports for Community Partners. Start your co-authored Google Docs, with links to any Google Sheets, and share them so that *anyone can comment*, on our Build doc. Due Sun Oct 27th 9pm, worth 5 points.
 
 ### Mon Oct 28
 - Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future.
