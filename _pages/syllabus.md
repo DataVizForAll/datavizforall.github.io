@@ -252,7 +252,7 @@ Review: [Compare student strategies on Covid normalization question](https://doc
 No class - Trinity Days
 
 ### Wed Oct 16
-<!-- - Brief review of chart quiz, spot the problem, scatter charts and [sample student response 1](https://docs.google.com/spreadsheets/d/1PrFI7oju8cDG1hmibR-a2WnIaQFmO4eAP3vy-djE2-I/edit#gid=0) and [response 2](https://datawrapper.dwcdn.net/2hSel/1/)-->
+- Brief review of Chart Quiz: Spot the problem in [sample 1](https://docs.google.com/spreadsheets/d/1MykF4K1WIZYftVS2-dIFAUM7g783PyfOKZSTLYkxwzw/edit?gid=0#gid=0) and [sample 2](https://docs.google.com/spreadsheets/d/1FXt7Zy32s9h6r7Gh1eHv-AtmKEF2KOkFOjnBqe8CmLo/edit?gid=0#gid=0) and [sample 3](https://docs.google.com/spreadsheets/d/1PrFI7oju8cDG1hmibR-a2WnIaQFmO4eAP3vy-djE2-I/edit?gid=0#gid=0)
 - Continue overview of Learning Goal #6: Map Your Data, <https://handsondataviz.org/map.html>
   - Map types
     - Review: locator point and symbol point
