@@ -76,7 +76,7 @@ Your progress toward these learning goals will be assessed in three ways:
 - The purpose is to encourage active learning and accountability. Each student begins the course with 5 participation points. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, one point will be deducted each time from your participation score.
 - Exceptions will be granted for any pre-scheduled absences (such as religious observations or any pre-planned events, if you email me at least one week ahead of time), or health or family emergencies (if you email me at least one hour before class). If you have health concerns that prevent you from attending class in person (such as Covid or other illness), email me at least one hour before class, and if feasible, request permission to participate remotely. Learning on Zoom is not as good as learning in real life, but it's better than not attending at all. Last-minute requests will not be granted.
 
-#### Summary  
+#### Summary
 55 points quizzes + 40 points data stories + 5 class participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
 
 #### Intellectual Honesty and Artificial Intelligence
@@ -275,8 +275,8 @@ No class - Trinity Days
   - Find existing GeoJSON boundary maps with [Gimme Geodata](https://hanshack.com/geotools/)
   - View or draw a simple GeoJSON boundary with [GeoJSON.io](https://geojson.io)
   - Edit and transform existing GeoJSON boundary with [Mapshaper.org](https://mapshaper.org)
-  - TODO: Update Tutorial: [Download and Edit CT Towns for Datawrapper Custom GeoJSON Map](https://docs.google.com/document/d/1LaMwOr-B_sW0_XVOQtG1_4wZFOMmrsG2kuPUD51fHhA/edit)
-  - TODO: Tutorial to Join Points to Polygons (Lat & Long coordinates to Census Tracts)
+    - To create a customized background map: Tutorial [Download and Edit CT Towns for Datawrapper Custom GeoJSON Map](https://docs.google.com/document/d/1LaMwOr-B_sW0_XVOQtG1_4wZFOMmrsG2kuPUD51fHhA/edit)
+    - To match latitude-longitude points with their census tract polygons: Tutorial [Join Points to Polygons with Mapshaper](https://handsondataviz.org/mapshaper.html#join-points-with-polygon-map)
 - Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 
 ### Wed Oct 23
