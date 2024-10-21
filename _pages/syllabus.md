@@ -266,10 +266,9 @@ No class - Trinity Days
 ![2024-ghar-equity](images/2024-ghar-equity.jpg)
 
 ### Mon Oct 21
-<!-- - Brief review of Maps quiz using sample student work:
-  - [1a sample map](https://datawrapper.dwcdn.net/Akis1/1/) and and [1b sample map](https://www.datawrapper.de/_/n6fH0/)
-  - [2a sample map](https://www.datawrapper.de/_/X5ii5/) and [2b sample map](https://www.datawrapper.de/_/72hmm/)
-  - [3 data](https://docs.google.com/spreadsheets/d/1J4-8W9IF9LIkeQ-R2GQC5dY4DnSKsVXe2Kj3YwW8Pqk/edit#gid=1040527674) and [3a sample map](https://www.datawrapper.de/_/XbiQT/) and [3b sample map](https://datawrapper.dwcdn.net/E0tJO/1/) -->
+- Meet your academic advisor (and get informal advice) prior to pre-registration starting Monday Nov 4th
+- Overview of next few weeks of builds and quizzes in our class
+- Review [sample question on Map quiz](https://docs.google.com/document/d/14KeOwPqpFaPtc-5PW8ETfn1d0ksDFKtawf-XGPdauGo/edit?tab=t.0) -- which steps in the process were most likely to go wrong?
 - Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
   - Find existing GeoJSON boundary maps with [Gimme Geodata](https://hanshack.com/geotools/)
@@ -277,7 +276,7 @@ No class - Trinity Days
   - Edit and transform existing GeoJSON boundary with [Mapshaper.org](https://mapshaper.org)
     - To create a customized background map: Tutorial [Download and Edit CT Towns for Datawrapper Custom GeoJSON Map](https://docs.google.com/document/d/1LaMwOr-B_sW0_XVOQtG1_4wZFOMmrsG2kuPUD51fHhA/edit)
     - To match latitude-longitude points with their census tract polygons: Tutorial [Join Points to Polygons with Mapshaper](https://handsondataviz.org/mapshaper.html#join-points-with-polygon-map)
-- Prep for Transform Your Map Data quiz, to be taken during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
+- Open the Transform Your Map Data quiz, to be taken during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu). Get it done sooner, rather than later, while you remember today's tutorials.
 
 ### Wed Oct 23
 <!-- - Be aware of [HODV Chapter 8: Table Your Data](https://handsondataviz.org/table.html), especially the [interactive Datawrapper Table with Sparklines](https://handsondataviz.org/table-datawrapper.html), if needed later this semester -->
