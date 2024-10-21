@@ -269,6 +269,7 @@ No class - Trinity Days
 - Meet your academic advisor (and get informal advice) prior to pre-registration starting Monday Nov 4th
 - Overview of next few weeks of builds and quizzes in our class
 - Review [sample question on Map quiz](https://docs.google.com/document/d/14KeOwPqpFaPtc-5PW8ETfn1d0ksDFKtawf-XGPdauGo/edit?tab=t.0) -- which steps in the process were most likely to go wrong?
+- If you submitted the quiz (or revisions) after Friday 12 noon, email me if you want individualized feedback on your responses
 - Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
   - Find existing GeoJSON boundary maps with [Gimme Geodata](https://hanshack.com/geotools/)
