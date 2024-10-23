@@ -281,7 +281,7 @@ No class - Trinity Days
 
 ### Wed Oct 23
 <!-- - Be aware of [HODV Chapter 8: Table Your Data](https://handsondataviz.org/table.html), especially the [interactive Datawrapper Table with Sparklines](https://handsondataviz.org/table-datawrapper.html), if needed later this semester -->
-- Assign random pairs to Build 4: Progress Reports for Community Partners. Start your co-authored Google Docs, with links to any Google Sheets, and share them so that *anyone can comment*, on our Build doc. Due Sun Oct 27th 9pm, worth 5 points.
+- Assign random pairs to [Build 4: Progress Reports for Community Partners](https://docs.google.com/document/d/1cQ7SWAqvpFxE5F-bQ0pSIhg0zqMnwtbUApmF_AK8zzI/). Start your co-authored Google Docs, with links to any Google Sheets, and share them so that *anyone can comment*, on our Build doc. Due Sun Oct 27th 9pm, worth 5 points.
 
 ### Mon Oct 28
 - Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future.
