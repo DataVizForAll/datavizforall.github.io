@@ -280,17 +280,17 @@ No class - Trinity Days
 - Open the Transform Your Map Data quiz, to be taken during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu). Get it done sooner, rather than later, while you remember today's tutorials.
 
 ### Wed Oct 23
-<!-- - Be aware of [HODV Chapter 8: Table Your Data](https://handsondataviz.org/table.html), especially the [interactive Datawrapper Table with Sparklines](https://handsondataviz.org/table-datawrapper.html), if needed later this semester -->
 - Assign random pairs to [Build 4: Progress Reports for Community Partners](https://docs.google.com/document/d/1cQ7SWAqvpFxE5F-bQ0pSIhg0zqMnwtbUApmF_AK8zzI/). Start your co-authored Google Docs, with links to any Google Sheets, and share them so that *anyone can comment*, on our Build doc. Due Sun Oct 27th 9pm, worth 5 points.
 
 ### Mon Oct 28
+- My statement: I support the right of all Trinity College students to peacefully protest and express their opinions. This right aligns with the College's mission "to prepare students to be bold, independent thinkers who lead transformative lives." If you wish to learn more, [read more](https://trinitytripod.com/opinion/open-letter-to-the-office-of-dean-of-students/)
 - Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future.
 - Overview of Learning Goal #8: Edit and Host Leaflet Code on GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
   - Analogy: GitHub Code Repository is like a public cookbook of recipes that you can modify, and GitHub Pages is like an oven that bakes your code into working public websites
-  - Learn in class: Copy, Edit, and Host a Simple Leaflet Map
   - Bonus: [Recipe for Jack's Semi-Famous Pumpkin Chocolate Chip Cookies on GitHub](https://github.com/JackDougherty/pumpkin-choc-chip)
-- Prep for Leaflet Code Editing quiz, to be taken during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
-- In-class: Finalize Build 4 Progress Reports for Community Partners, due Monday 9pm, in order to forward them one day before our meeting
+  - Learn in class: Copy, Edit, and Host a Simple Leaflet Map
+- Open the Leaflet Code Editing quiz, to be taken during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
+- In-class: Assign short speaking roles in our [Build 4 class progress report](https://docs.google.com/document/d/1cQ7SWAqvpFxE5F-bQ0pSIhg0zqMnwtbUApmF_AK8zzI/) to share with CLJ partners before Wednesday's meeting.
 
 ### Wed Oct 30
 - In-class: Progress Report with Center for Leadership & Justice community partners on Zoom, 11:40-12:30
