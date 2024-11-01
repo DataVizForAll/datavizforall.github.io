@@ -297,6 +297,7 @@ No class - Trinity Days
 - Start thinking about your preferences for final projects (Builds 5-8). Working in duos is strongly encouraged and priority will be given to students who wish to partner with another student. No more than two students per team, but some projects can be divided into coordinated separate teams (working on related questions and data, but graded separately). While you can choose to work solo, you will be held to the same expectations as a duo.
 
 ### Mon Nov 4
+- Brief review: GitHub code repo link vs. GitHub Pages live link
 - Overview of Learning Goal #9: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
   - How to Lie with Charts
   - How to Lie with Maps
