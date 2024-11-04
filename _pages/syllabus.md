@@ -297,20 +297,18 @@ No class - Trinity Days
 - Start thinking about your preferences for final projects (Builds 5-8). Working in duos is strongly encouraged and priority will be given to students who wish to partner with another student. No more than two students per team, but some projects can be divided into coordinated separate teams (working on related questions and data, but graded separately). While you can choose to work solo, you will be held to the same expectations as a duo.
 
 ### Mon Nov 4
-- Brief review: GitHub code repo link vs. GitHub Pages live link
+- After instructor previews options shown in [Build 4](https://docs.google.com/document/d/1cQ7SWAqvpFxE5F-bQ0pSIhg0zqMnwtbUApmF_AK8zzI/), submit your preference for final project (Build 5-8) [in this Google Form](https://forms.gle/PegVJ6iZWdXMcpDq6). Preference will be given to students who choose to partner and list each other's names, with final decisions made by the instructor to balance numbers.
+- Brief review with TA: GitHub code repo link vs. GitHub Pages live link
 - Overview of Learning Goal #9: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
   - How to Lie with Charts
   - How to Lie with Maps
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
 - Prep for Detect Lies quiz, to be taken during any 3-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
-- Submit your preferences for final project (Builds 5-8) in Google Form (TODO), with final decisions made by instructor to balance numbers.
 
 ### Wed Nov 6
-- Brief overview of Learning Goal #10: Explore Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
-  - Leaflet Maps with Google Sheets
-  - Leaflet Storymaps with Google Sheets
-- Prepare for Leaflet Map Templates quiz, to be taken during any 2-hour period by Sunday 9pm on [Moodle](https://moodle.trincoll.edu). Unless you have earned an outreach event exemption, there are two quiz deadlines this Sunday.
+- Workshop class to organize data for Builds 5-8
+- Note that Quiz #10 has been moved to the end of the semester, to increase opportunities for students to earn an outreach event exemption.
 
 ### Mon Nov 11
 - Brief Zoom introductions from 11:30-11:40am with guest evaluators of your final data stories: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
@@ -377,3 +375,7 @@ No class - Trinity Days
 - Build 8 Final presentations on Zoom with guest evaluators: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
 - Class will **begin at 11:30am and end at 1:20pm and will take place in my Zoom room** to ensure all students have sufficient time with guest experts. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins.
 - Build 8: Guest experts will review final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
+- **Moved here from earlier date:** Read and teach yourself Learning Goal #10: Explore Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
+  - Leaflet Maps with Google Sheets
+  - Leaflet Storymaps with Google Sheets
+- Prepare for Leaflet Map Templates quiz #10, to be taken during any 2-hour period by Sunday 9pm on [Moodle](https://moodle.trincoll.edu), **unless you have earned an outreach event exemption for this quiz**.
