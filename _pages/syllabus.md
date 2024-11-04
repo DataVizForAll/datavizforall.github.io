@@ -305,6 +305,7 @@ No class - Trinity Days
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
 - Open the Detect Lies quiz, to be taken during any **3-hour** period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
+  - Prep for the quiz by compiling [USA 2024 Electoral Votes in this Google Sheet](https://docs.google.com/spreadsheets/d/1ppgOetT2RAPiNH94H9Hqhxk35Z9eqL9glvCy5P8gWGw/edit?gid=0#gid=0), and you can work with other classmates to compile data *before* you start the quiz
 
 ### Wed Nov 6
 - Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
@@ -319,7 +320,7 @@ No class - Trinity Days
 - Brief Zoom introductions from 11:30-11:40am with guest evaluators of your final data stories: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
 - In class: Explore [sample data stories by students on past projects](https://datavizforall.org/partners-projects/)
 - Practice applying evaluation criteria to data story by former student
-- In-class workshop time on Build 5, dues Tues Nov 12th 9pm 
+- In-class workshop time on Build 5, dues Tues Nov 12th 9pm
 
 ### Wed Nov 13
 - Assign Build 6: Data Story Draft by designated duos/solos. Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by instructor (and later by peers). Before leaving the room, start your co-authored Google Doc, with links to any co-authored Google Sheets, with screenshots and links to any published visualizations, and insert for *anyone to comment* on our Build doc. Due by Monday Nov 18th 9pm, worth 5 points.
