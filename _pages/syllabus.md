@@ -97,7 +97,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
 - If anything is interfering with your learning, email or talk with me. I care about how you're doing in life, not just in our classroom.
 
-## Schedule (to come)
+## Schedule
 - Important updates from the instructor will be marked **in bold**.
 
 ### Wed Sept 4
