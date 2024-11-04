@@ -304,27 +304,26 @@ No class - Trinity Days
   - How to Lie with Maps
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
-- Prep for Detect Lies quiz, to be taken during any 3-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
+- Open the Detect Lies quiz, to be taken during any **3-hour** period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 
 ### Wed Nov 6
-- Workshop class to organize data for Builds 5-8
+- Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
+  - Build Narrative on a Storyboard
+  - Draw Attention to Meaning
+  - Acknowledge Sources and Uncertainty
+- Assign Build 5: Describe Plan and Draw Visualization Ideas, by designated duos/solos, instead of a quiz for this learning goal. Before leaving the room, start your co-authored Google Doc, with any co-authored Google Sheets, share so that *anyone can comment*, and insert on our Build doc. Due by Tuesday Nov 12th 9pm, worth 5 points.
+- In-class workshop time to find, clean, and organize data for Builds 5-8, and small team meetings with instructors
 - Note that Quiz #10 has been moved to the end of the semester, to increase opportunities for students to earn an outreach event exemption.
 
 ### Mon Nov 11
 - Brief Zoom introductions from 11:30-11:40am with guest evaluators of your final data stories: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
 - In class: Explore [sample data stories by students on past projects](https://datavizforall.org/partners-projects/)
 - Practice applying evaluation criteria to data story by former student
-- Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
-  - Build Narrative on a Storyboard
-  - Draw Attention to Meaning
-  - Acknowledge Sources and Uncertainty
-- Assign Build 5: Describe Plan and Draw Visualization Ideas to designated duos/solos (instead of a quiz for this learning goal). Before leaving the room, start your co-authored Google Doc, with any co-authored Google Sheets, share so that *anyone can comment*, and insert on our Build doc. Due by Tuesday Nov 12th 9pm (quick turnaround!), worth 5 points.
+- In-class workshop time on Build 5, dues Tues Nov 12th 9pm 
 
 ### Wed Nov 13
-- Assign Build 6: Data Story Draft to designated duos/solos. Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by instructor (and later by peers). Before leaving the room, start your co-authored Google Doc, with links to any co-authored Google Sheets, with screenshots and links to any published visualizations, and insert for *anyone to comment* on our Build doc. Due by Monday Nov 18th 9pm, worth 5 points.
-- In-class workshop time
-  - Quick feedback meetings with instructor
-  - Quick to-do list meetings with TA
+- Assign Build 6: Data Story Draft by designated duos/solos. Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by instructor (and later by peers). Before leaving the room, start your co-authored Google Doc, with links to any co-authored Google Sheets, with screenshots and links to any published visualizations, and insert for *anyone to comment* on our Build doc. Due by Monday Nov 18th 9pm, worth 5 points.
+- In-class workshop time on Build 6, and small team meetings with instructors
 
 ### Mon Nov 18
 - Overview of Learning Goal #12: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
