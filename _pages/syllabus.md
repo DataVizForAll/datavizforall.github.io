@@ -305,9 +305,8 @@ No class - Trinity Days
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
 - Open the Detect Lies quiz, to be taken during any **3-hour** period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
-  - Prep for the quiz by compiling [USA 2024 Electoral Votes in this Google Sheet](https://docs.google.com/spreadsheets/d/1ppgOetT2RAPiNH94H9Hqhxk35Z9eqL9glvCy5P8gWGw/edit?gid=0#gid=0), and you can work with other classmates to compile data *before* you start the quiz
-    - Hint: While most states follow a winner-take-all rule for electoral votes, Maine and Nebraska also split some of their votes by congressional district, [according to Wikipedia](https://en.wikipedia.org/wiki/United_States_Electoral_College). In Maine, 2 electoral votes are awarded to the statewide winner, plus 1 vote in each of their 2 congressional districts, for a total of 4. In the more populated state of Nebraska, 2 electoral votes are awarded to the statewide winner, plus 1 vote in each of their 3 congressional districts, for a total of 5.
-    - How you enter these results into a Datawrapper choropleth map depends on the type of electoral map background you choose. In the *USA > Electoral College 2024 (conventional) background map*, the congressional district (CD) votes for Maine (ME) and Nebraska (NE) must be shown together, even if they are split between different candidates. In the hypothetical scenario below, the 3 Nebraska Congressional District votes (NECD) were split between candidates X & Y, which you should represent with a different color (typically purple) than states won by only one candidate (typically red or blue).
+  - Prep for the quiz by compiling [USA 2024 Electoral Votes in this Google Sheet](https://docs.google.com/spreadsheets/d/1ppgOetT2RAPiNH94H9Hqhxk35Z9eqL9glvCy5P8gWGw/edit?gid=0#gid=0), and you can work with other classmates to compile data *before* you start the quiz. **Hint:** While most states follow a winner-take-all rule for electoral votes, Maine and Nebraska also split some of their votes by congressional district, [according to Wikipedia](https://en.wikipedia.org/wiki/United_States_Electoral_College). In Maine, 2 electoral votes are awarded to the statewide winner, plus 1 vote in each of their 2 congressional districts, for a total of 4. In the more populated state of Nebraska, 2 electoral votes are awarded to the statewide winner, plus 1 vote in each of their 3 congressional districts, for a total of 5.
+  - How you enter these results into a Datawrapper choropleth map depends on the type of electoral map background you choose. In the *USA > Electoral College 2024 (conventional) background map*, the congressional district (CD) votes for Maine (ME) and Nebraska (NE) must be shown together, even if they are split between different candidates. In the hypothetical scenario below, the 3 Nebraska Congressional District votes (NECD) were split between candidates X & Y, which you should represent with a different color (typically purple) than states won by only one candidate (typically red or blue).
 
     | State | Votes | Winner |
     |-------|-------|--------|
@@ -316,7 +315,7 @@ No class - Trinity Days
     | NE    | 2     | Y      |
     | NECD  | 3     | X & Y  |   
 
-    - By contrast, in the *USA > Electoral College 2024 (hexagons) background map*, electoral votes appear separately for each statewide winner and congressional district, so you can enter those results on separate lines and represent them with standard colors (typically red or blue).
+  - By contrast, in the *USA > Electoral College 2024 (hexagons) background map*, electoral votes appear separately for each statewide winner and congressional district, so you can enter those results on separate lines and represent them with standard colors (typically red or blue).
 
     | State | Votes | Winner |
     |-------|-------|--------|
