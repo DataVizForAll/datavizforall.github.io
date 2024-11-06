@@ -306,8 +306,11 @@ No class - Trinity Days
   - Recognize and Reduce Spatial Bias
 - Open the Detect Lies quiz, to be taken during any **3-hour** period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
   - Prep for the quiz by compiling [USA 2024 Electoral Votes in this Google Sheet](https://docs.google.com/spreadsheets/d/1ppgOetT2RAPiNH94H9Hqhxk35Z9eqL9glvCy5P8gWGw/edit?gid=0#gid=0), and you can work with other classmates to compile data *before* you start the quiz. **See hint** [about electoral votes](https://datavizforall.org/electoral-votes-2024/)
-  
+
 ### Wed Nov 6
+- A note to my students
+  - Let’s acknowledge that today---as the nation processes last night’s election results---is not a normal day. Whatever your political stance, it may be difficult to imagine where our deeply divided nation is headed. If it's hard to concentrate on your education right now, that's understandable.   
+  - But I sincerely hope you will continue to engage with learning because we *need* you. We need you to listen to those whose viewpoints or values may differ from their own. We need you to challenge disinformation and make intelligent decisions based on evidence. We need you to educate younger generations and draw from the experiences of those who came before us. We need you to think clearly about how to help us collectively move forward during difficult times. We need you now more than ever.
 - Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
   - Build Narrative on a Storyboard
   - Draw Attention to Meaning
