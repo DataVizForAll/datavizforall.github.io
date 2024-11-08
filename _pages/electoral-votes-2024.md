@@ -1,12 +1,14 @@
 ---
 title: "Electoral Votes 2024"
 permalink: /electoral-votes-2024/
-date: 2024-11-05
+date: 2024-11-08
 author_profile: false
 ---
 ## About Electoral Votes 2024
 
 While most states follow a winner-take-all rule for electoral votes, Maine and Nebraska also split some of their votes by congressional district, [according to Wikipedia](https://en.wikipedia.org/wiki/United_States_Electoral_College). Currently in 2024 in Maine, 2 electoral votes are awarded to the statewide winner, plus 1 vote in each of their 2 congressional districts, for a total of 4. In the more populated state of Nebraska, 2 electoral votes are awarded to the statewide winner, plus 1 vote in each of their 3 congressional districts, for a total of 5.
+
+**Updated**: If you are searching for the 2024 results of Maine and Nebraska's split electoral votes, or better examples of how news organization visualize this, see the [AP News electoral map](https://apnews.com/projects/election-results-2024/) or the [Bloomberg News electoral map](https://www.bloomberg.com/graphics/2024-us-election-results/).
 
 How you enter these results into a Datawrapper choropleth map depends on the type of electoral map background you choose. In the *USA > Electoral College 2024 (conventional) background map*, the congressional district (CD) votes for Maine (ME) and Nebraska (NE) must be shown together, even if they are split between different candidates. In the hypothetical scenario below, the 3 Nebraska Congressional District votes (NECD) were split between candidates X & Y, which you should represent with a different color (typically purple) than states won by only one candidate (typically red or blue).
 
