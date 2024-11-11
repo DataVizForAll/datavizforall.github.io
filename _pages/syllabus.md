@@ -321,9 +321,19 @@ No class - Trinity Days
 
 ### Mon Nov 11
 - Brief Zoom introductions from 11:30-11:40am with guest evaluators of your final data stories: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
-- In class: Explore [sample data stories by students on past projects](https://datavizforall.org/partners-projects/)
-- Practice applying evaluation criteria to data story by former student
-- In-class workshop time on Build 5, due Monday 9pm
+- Preview of [Build 8 format](https://docs.google.com/document/d/1YeMnPZiMhI4gGigsZK35K5nwa3cn3IBFF9dNaAbYi7g/) and evaluation criteria:
+  - 1) How well does the data story answer the assigned question(s) and explain why it matters?
+  - 2) How well designed are the visualizations to draw true and meaningful insights from data?
+  - 3) How clearly does the story describe key steps in the process and cautions about data?
+  - 4) How challenging was it to create this data story based on existing sources and methods?
+- Practice applying evaluation criteria to [sample data stories by students on past projects](https://datavizforall.org/partners-projects/)
+  - [Is Child Care Really Affordable in Connecticut Towns?](https://datavizforall.org/childcare-ruthfield-conklin/) by Josh Ruthfield and Nellie Conklin, last updated Feb 2024
+  - [Crashes at Major Hartford Intersections in 2018-2022](https://datavizforall.org/hartford-cruz-rodriguez/), by Jess Cruz and Mia Rodriguez, last updated April 2023
+  - [Neighborhoods Where Hartford Habitat Has Built Homes And Why It Matters: Examining Opportunity and Income in Census Tracts](https://datavizforall.org/habitat-asfalg-nichols/) by Victoria Asfalg and Riley Nichols, last updated Dec 2021
+- In-class workshop time on [Build 5: Plan and Sketch Your Data Story](https://docs.google.com/document/d/1FE3fcnuJqUxF8QLDH9HlmhkTGlyiAuiTDy5gYaeHjZw/) due Monday 9pm
+- Review recent quiz: sample electoral vote maps by classmates
+  - Elizabeth's Nov 11th [conventional map](https://datawrapper.dwcdn.net/OhRuD/2/) vs [cartogram](https://datawrapper.dwcdn.net/C5Zvz/1/)
+  - Anonymous student's pre-election prediction [conventional map](https://datawrapper.dwcdn.net/x0cey/2/) vs [cartogram](https://datawrapper.dwcdn.net/zXeXH/2/)
 
 ### Wed Nov 13
 - Assign Build 6: Data Story Draft by designated duos/solos. Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by instructor (and later by peers). Before leaving the room, start your co-authored Google Doc, with links to any co-authored Google Sheets, with screenshots and links to any published visualizations, and insert for *anyone to comment* on our Build doc. Due by Monday Nov 18th 9pm, worth 5 points.
