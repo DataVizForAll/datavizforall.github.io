@@ -332,7 +332,8 @@ No class - Trinity Days
   - [Neighborhoods Where Hartford Habitat Has Built Homes And Why It Matters: Examining Opportunity and Income in Census Tracts](https://datavizforall.org/habitat-asfalg-nichols/) by Victoria Asfalg and Riley Nichols, last updated Dec 2021
 - In-class workshop time on [Build 5: Plan and Sketch Your Data Story](https://docs.google.com/document/d/1FE3fcnuJqUxF8QLDH9HlmhkTGlyiAuiTDy5gYaeHjZw/) due Monday 9pm
 - Review recent quiz: sample electoral vote maps by classmates
-  - Elizabeth's Nov 11th [conventional map](https://datawrapper.dwcdn.net/OhRuD/2/) vs [cartogram](https://datawrapper.dwcdn.net/C5Zvz/1/)
+  - Elizabeth's [conventional map](https://datawrapper.dwcdn.net/OhRuD/2/) vs [cartogram](https://datawrapper.dwcdn.net/C5Zvz/1/)
+  - Julia's [conventional map](https://www.datawrapper.de/_/iHPWD/) vs [cartogram](https://www.datawrapper.de/_/CvzbO/)
   - Anonymous student's pre-election prediction [conventional map](https://datawrapper.dwcdn.net/x0cey/2/) vs [cartogram](https://datawrapper.dwcdn.net/zXeXH/2/)
 
 ### Wed Nov 13
