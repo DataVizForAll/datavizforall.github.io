@@ -337,7 +337,7 @@ No class - Trinity Days
   - Anonymous student's pre-election prediction [conventional map](https://datawrapper.dwcdn.net/x0cey/2/) vs [cartogram](https://datawrapper.dwcdn.net/zXeXH/2/)
 
 ### Wed Nov 13
-- Assign Build 6: Data Story Draft by designated duos/solos. Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by instructor (and later by peers). Before leaving the room, start your co-authored Google Doc, with links to any co-authored Google Sheets, with screenshots and links to any published visualizations, and insert for *anyone to comment* on our Build doc. Due by Monday Nov 18th 9pm, worth 5 points.
+- Assign [Build 6: Draft Your Data Story](https://docs.google.com/document/d/1Qj9pXfcAQKSyLKPJN1CAadRTabxELfydf8i-j07wEtY/) to designated authors. Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by instructor (and later by peers). Before leaving the room, start your co-authored Google Doc, with links to any co-authored Google Sheets, with screenshots and links to any published visualizations, and insert for *anyone to comment* on our Build doc. Due by Monday Nov 18th 9pm, worth 5 points.
 - In-class workshop time on Build 6, and small team meetings with instructors
 
 ### Mon Nov 18
