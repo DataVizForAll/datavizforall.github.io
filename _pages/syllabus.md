@@ -345,9 +345,11 @@ No class - Trinity Days
   - Static images versus interactive iframes
   - Get the iframe embed code for a published visualization
   - Embed the iframe code in an HTML web page
-  - View instructions for the [DataViz Story Template] and make your own copy of the GitHub code <https://github.com/DataVizForAll/dataviz-story-template>
+  - View online instructions for the [DataViz Story Template](https://datavizforall.github.io/dataviz-story-template), then make own copy of the GitHub code <https://github.com/DataVizForAll/dataviz-story-template> and practice editing
   - Start Embed on the Web quiz, due by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 - In-class workshop time before [Build 6: Draft Your Data Story](https://docs.google.com/document/d/1Qj9pXfcAQKSyLKPJN1CAadRTabxELfydf8i-j07wEtY/) is due Monday 9pm
+- Outreach Opportunity #3: State aloud in class or email me before Wednesday 12 noon if you wish to attend the Thursday Nov 21st 6:30pm Greater Hartford Interfaith Action Alliance "Power Summit" at Weaver High School, 415 Granby Street, Hartford, organized by our community partners at the [Center for Leadership & Justice](https://cljct.org), where you can see last year's quick video. **Do not register online** because I will register you directly with the hosts. **Students who share a ride** can request funding from me to cover transportation costs, but will need to show receipt and proof-of-payment. Say hello at me at this 1000-person event (I'll be in the balcony), and email me one specific paragraph about something you heard there by Friday, and you will be exempted from Quiz #10 later this semester.
+![2024-ghiaa-power-summit](images/2024-ghiaa-power-summit.jpg)
 
 ### Wed Nov 20
 <!-- - Let's support and coach each other to successfully complete our semester -->
@@ -357,7 +359,7 @@ No class - Trinity Days
 - Tip: In your GitHub data story template, avoid deleting important HTML formatting [like this common mistake](https://datavizforall.org/images/common-template-error.png)
 
 ### Mon Nov 25
-- In place of our regular class, duo/solo 20-minute Zoom meetings with instructor for Build 6 feedback, for participation credit.
+- In place of our regular class, 20-minute co-author Zoom meetings with instructor for Build 6 feedback, for participation credit.
 
 ### Wed Nov 27
 - No class - Thanksgiving Break
