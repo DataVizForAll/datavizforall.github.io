@@ -345,22 +345,16 @@ No class - Trinity Days
   - Static images versus interactive iframes
   - Get the iframe embed code for a published visualization
   - Embed the iframe code in an HTML web page
-  - Make your own copy of [dataviz-story-template from GitHub](https://github.com/DataVizForAll/dataviz-story-template) and follow instructions inside the `index.html` file
+  - View instructions for the [DataViz Story Template] and make your own copy of the GitHub code <https://github.com/DataVizForAll/dataviz-story-template>
   - Start Embed on the Web quiz, due by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
-- In class workshop time
-  - Quick feedback from instructor or TA before Build 6 is due Monday 9pm
+- In-class workshop time before [Build 6: Draft Your Data Story](https://docs.google.com/document/d/1Qj9pXfcAQKSyLKPJN1CAadRTabxELfydf8i-j07wEtY/) is due Monday 9pm
 
 ### Wed Nov 20
 <!-- - Let's support and coach each other to successfully complete our semester -->
 - In-class: Assign peer reviews of Build 6 with evaluation criteria (TODO), due during class, for participation credit. Students must have submitted a full draft in order to participate in the peer review. Choose either to type comments into a shared Google Doc or hand-write on paper, and share a copy with the instructor, who will will evaluate the quality of your constructive feedback.
 - Schedule 20-minute Zoom appointments [on my calendar](https://jackdougherty.org) for Monday Nov 25th or Tues Nov 26th. If working with a partner, be sure to share the appointment information, since both of you must attend the meeting at the same time to earn participation credit.
 - Assign Build 7: Data Stories for Community Partners. Improve your draft based on instructor and peer feedback, and migrate all content from Google Doc to GitHub Pages format. Insert link to your published GitHub Pages template on our Build 7 doc. Due Monday Dec 2nd 9pm (the first day back from Thanksgiving break) for instructor to forward to community partners for non-graded comments, worth participation credit.
-- Tip: An efficient method to edit your data story on your computer (TODO move this to a separate document)
-  - In GitHub, download your `index.html` file to your computer
-  - Use a text editor tool (not MS Word) to edit downloaded `index.html`. For example, [Pulsar](https://pulsar-edit.dev) is my favorite open-source text editor.
-  - While using text editor to revise and save changes to your computer, simultaneously view how they appear in your browser with File > Open File > downloaded `index.html`. Since this version is temporarily stored on your local computer, your browser bar will display its location in a local format `file:///...` rather than the online format `https://...`
-  - After editing, upload your newer `index.html` file from your computer to replace the older version on GitHub. OR copy and paste the contents of the newer version in place of the older contents on GitHub.
-- Tip: Avoid deleting important HTML formatting in your data story template [like this common mistake](https://datavizforall.org/images/common-template-error.png)
+- Tip: In your GitHub data story template, avoid deleting important HTML formatting [like this common mistake](https://datavizforall.org/images/common-template-error.png)
 
 ### Mon Nov 25
 - In place of our regular class, duo/solo 20-minute Zoom meetings with instructor for Build 6 feedback, for participation credit.
