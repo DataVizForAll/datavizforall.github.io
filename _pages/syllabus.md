@@ -357,10 +357,12 @@ No class - Trinity Days
 - In-class: Assign [peer reviews of Build 6](https://docs.google.com/document/d/1Qj9pXfcAQKSyLKPJN1CAadRTabxELfydf8i-j07wEtY/) with [Peer Evaluation Guide](https://docs.google.com/document/d/1ElnbBWpXkS-Z7zwKkUBUOlpzR1lPnTgOk2Bg5Cxs9TM/) for participation credit during class. Students must have submitted a full draft in order to participate in the peer review. Choose either to type comments into a shared Google Doc or hand-write on paper, and share a copy with the instructor, who will will evaluate the quality of your constructive feedback.
 - Schedule 20-minute Zoom appointments [on my calendar](https://jackdougherty.org) for Friday Nov 22nd OR Monday Nov 25th. If working with a partner, both of you must attend the meeting at the same time to earn participation credit, so be sure to schedule the appointment together.
 - Assign [Build 7: Data Stories for Community Partners](https://docs.google.com/document/d/15Nmf2aFVG3b3UskIEefNcDJlWala9Sm2OSd-E-YBcx4/). Improve your draft based on instructor and peer feedback, and migrate all content from Google Doc to GitHub Pages format. Insert link to your published GitHub Pages template on our Build 7 doc. Due Monday Dec 2nd 9pm (the first day back from Thanksgiving break) for instructor to forward to community partners for non-graded comments, worth participation credit.
-- Tip: In your GitHub data story template, avoid deleting important HTML formatting [like this common mistake](https://datavizforall.org/images/common-template-error.png)
 
 ### Mon Nov 25
 - In place of our regular class, 20-minute co-author Zoom meetings with instructor for Build 6 feedback, for participation credit.
+- **More learning resources** for Build 7
+  - [How to make line chart with missing data](https://docs.google.com/spreadsheets/d/1UICMiGqTfun2PTTNxfaGT324B-DoiFG5YhmK7AxzUFg/edit?gid=64908309#gid=64908309)
+  - Tip: In your GitHub data story template, avoid deleting important HTML formatting [like this common mistake](https://datavizforall.org/images/common-template-error.png)
 
 ### Wed Nov 27
 - No class - Thanksgiving Break
