@@ -357,6 +357,7 @@ No class - Trinity Days
 ### Mon Nov 25
 - In place of our regular class, 20-minute co-author Zoom meetings with instructor for Build 6 feedback, for participation credit.
 - **More learning resources** for Build 7
+  - [How much wealth does 30 years of homeownership generate compared to renting?](https://docs.google.com/document/d/1nv0Kt_njJw2XZB5AeuMi9N3uRDlvjXNg9LQ2nEcfvb4/)
   - [How to make line chart with missing data](https://docs.google.com/spreadsheets/d/1UICMiGqTfun2PTTNxfaGT324B-DoiFG5YhmK7AxzUFg/edit?gid=64908309#gid=64908309)
   - Tip: In your GitHub data story template, avoid deleting important HTML formatting [like this common mistake](https://datavizforall.org/images/common-template-error.png)
 
