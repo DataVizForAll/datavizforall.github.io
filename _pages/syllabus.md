@@ -382,9 +382,8 @@ No class - Trinity Days
   - Community Partner Guests: Cori Mackey and Lucy Berrios, Center for Leadership & Justice
   - Additional Guest: Rachael Stephens, PhD Candidate, Anthropology and Education, University of Pennsylvania. Dissertation research site: [Valu(at)ing Equ(al)ity in Greater Hartford, CT: An ethnography of real estate, property taxation, & school finance](https://www.GreaterHartfordAnthro.com)
 - Read new article today by guest evaluator: Ginny Monk, "CT could use land trusts to increase affordable housing, report says," CT Mirror, December 4, 2024, <https://ctmirror.org/2024/12/04/ct-land-trust-affordable-housing-law>.
-- Prepare for quiz #10 on **community land trusts**, to be taken during any 2-hour period by Sunday 9pm on [Moodle](https://moodle.trincoll.edu), **unless** you have already earned an outreach event exemption for this quiz. Hint: Read Monk's article and do the quiz **before Friday noon** because it may help you strengthen the introduction and background sources in your final data story.
+- Open Quiz #10 on **community land trusts**, to be taken during any 2-hour period by Sunday 9pm on [Moodle](https://moodle.trincoll.edu), **unless** you have already earned an outreach event exemption for this quiz. Hint: Read Monk's article before you begin and do the quiz **before Friday noon** because it may help you strengthen the introduction and background sources in your final data story.
 - Reminder [Build 8: Revise and Finalize Data story](https://docs.google.com/document/d/1YeMnPZiMhI4gGigsZK35K5nwa3cn3IBFF9dNaAbYi7g/edit?tab=t.0) is due Friday Dec 6th at 12 noon, and will be "frozen" and published for guest experts to review.
-- TODO assign last quiz on Moodle
 
 ### Mon Dec 9
 - [Build 8 Final presentations](https://docs.google.com/document/d/1YeMnPZiMhI4gGigsZK35K5nwa3cn3IBFF9dNaAbYi7g/edit?tab=t.0) on Zoom with guest evaluators: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
