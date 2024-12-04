@@ -379,9 +379,11 @@ No class - Trinity Days
 
 ### Wed Dec 4
 - In-class: [Build 7: Data Story Feedback with Community Partners](https://docs.google.com/document/d/15Nmf2aFVG3b3UskIEefNcDJlWala9Sm2OSd-E-YBcx4/) **in our classroom**, 11:30am-12:30pm. Deliver 1-minute presentation of highlights in your data story to community partners, then listen to their non-graded feedback and write down revisions to consider, for participation credit.
-  - Community Partner Guests: Cori Mackey and Luz Berrios, Center for Leadership & Justice
-  - Additional Guest: Rachael Stephens, PhD Candidate, Anthropology and Education, University of Pennsylvania; Dissertation: [Valu(at)ing Equ(al)ity in Greater Hartford, CT: An ethnography of real estate, property taxation, & school finance](https://www.GreaterHartfordAnthro.com)
+  - Community Partner Guests: Cori Mackey and Lucy Berrios, Center for Leadership & Justice
+  - Additional Guest: Rachael Stephens, PhD Candidate, Anthropology and Education, University of Pennsylvania. Dissertation research site: [Valu(at)ing Equ(al)ity in Greater Hartford, CT: An ethnography of real estate, property taxation, & school finance](https://www.GreaterHartfordAnthro.com)
+- Read new article today by guest evaluator: Ginny Monk, "CT could use land trusts to increase affordable housing, report says," CT Mirror, December 4, 2024, <https://ctmirror.org/2024/12/04/ct-land-trust-affordable-housing-law>.
 - Reminder [Build 8: Revise and Finalize Data story](https://docs.google.com/document/d/1YeMnPZiMhI4gGigsZK35K5nwa3cn3IBFF9dNaAbYi7g/edit?tab=t.0) is due Friday Dec 6th at 12 noon, and will be "frozen" and published for guest experts to review.
+- TODO assign last quiz on Moodle 
 
 ### Mon Dec 9
 - [Build 8 Final presentations](https://docs.google.com/document/d/1YeMnPZiMhI4gGigsZK35K5nwa3cn3IBFF9dNaAbYi7g/edit?tab=t.0) on Zoom with guest evaluators: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
