@@ -16,13 +16,11 @@ Our community partner, the [Center for Leadership and Justice](https://cljct.org
 
 *Question 1: How many USA homes are located across Hartford-area towns, and how does the program compare with other community land trusts?*
 
-
-Exploring Homeownership Through the Urban Suburban Affordables Program, by...
+[Exploring Homeownership Through the Urban Suburban Affordables Program](https://datavizforall.org/clt-conklin/), by Nellie Conklin (Teaching Assistant)
 
 *Question 2: Where are USA homes located and in what types of neighborhoods by demographic characteristics?*
 
-
-Targeting Affordable Housing: Analyzing Eviction and Income Data to Guide the USA Program’s Impact in Greater Hartford, by ....
+[Targeting Affordable Housing: Analyzing Income and Eviction Data to Guide the USA Program’s Impact in Greater Hartford](https://datavizforall.org/clt-mccarthy-opdenaker/), by Colin McCarthy & Ethan Opdenaker
 
 Mapping Change: Advancing Housing Equity and Stability in Connecticut's Communities, by...
 
