@@ -1,11 +1,57 @@
 ---
 title: "Partners and Projects"
 permalink: /partners-projects/
-date: 2023-12-11
+date: 2024-12-06
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
+## Fall 2024
+### Affordable Homeownership
+
+Cori Mackey and colleagues from the [Center for Leadership and Justice](https://cljct.org) asked to visualize data stories we created about their [Urban Suburban Affordables, Inc.](https://cljct.org/what-we-do/housing-initiatives/) (USA) community land trust program, which makes homeownership affordable for 211 income-qualified buyers in the Hartford region.
+
+1. Where are USA community land trust homes located in the Hartford region, and in what types of neighborhoods?
+2. How have USA homeownership trends and sales prices changed over time?
+3. How much homeownership wealth has been created by the USA program?
+4. How do USA homes measure up to block/neighborhood comparison groups (comps)?
+5. How does the USA program compare with other community land trusts for affordable homeownership across Connecticut and the nation?
+
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_azgyzeh3&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video for CLJ USA community land trust affordable homeownership project, Fall 2024](https://trincoll.mediaspace.kaltura.com/media/1_azgyzeh3/)
+
+*Question 1: How many USA homes are located across Hartford-area towns, and how does the program compare with other community land trusts?*
+
+
+Exploring Homeownership Through the Urban Suburban Affordables Program, by...
+
+*Question 2: Where are USA homes located and in what types of neighborhoods by demographic characteristics?*
+
+
+Targeting Affordable Housing: Analyzing Eviction and Income Data to Guide the USA Program’s Impact in Greater Hartford, by ....
+
+Mapping Change: Advancing Housing Equity and Stability in Connecticut's Communities, by...
+
+*Question 3: How have USA home sales prices and ownership trends changed over time, in Hartford and suburban towns?*
+
+A Look Back: How Homeownership Trends and Prices of USA Homes Have Evolved, by ...
+
+A Dive Into Urban Suburban Affordables’ Owned Homes: Homeownership Trends and Sales, by ...
+
+Navigating Greater Hartford: Unraveling the Constant Shift in Housing Market Trends, by ...
+
+*Question 4: How much homeownership wealth has the USA program created in Hartford neighborhoods?*
+
+How USA Land-Trust Homes are Building Wealth While Keeping Homes Affordable in the North End of Hartford, by ...
+
+The Leading Wealth Creator for the American Working Class, by ...
+
+*Question 5: How do USA homes measure up to block or neighborhood comparison groups in Hartford neighborhoods where homes are clustered?*
+
+USA Homes Vs. Non-USA Homes in Northwest Hartford, by ...
+
+How Does Your USA Land Trust Home Compare to Similar Homes in Southwest Hartford?, by ....
+
 ## Fall 2023
 ### Child Care and College Access
 
