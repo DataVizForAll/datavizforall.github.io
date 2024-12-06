@@ -30,7 +30,7 @@ Our community partner, the [Center for Leadership and Justice](https://cljct.org
 
 [A Dive Into Urban Suburban Affordables Homeownership Trends and Sales in West Hartford and East Hartford](https://datavizforall.org/clt-schwartz-steinert/), by Walter Schwartz and Luca Steinert
 
-Navigating Greater Hartford: Unraveling the Constant Shift in Housing Market Trends, by ...
+[Navigating Greater Hartford: Unraveling the Constant Shift in Housing Market Trends among USA Homes in Windsor and Bloomfield](https://datavizforall.org/clt-brunelle-talbot/), by Sally Brunelle and Hayes Talbot
 
 *Question 4: How much homeownership wealth has the USA program created in Hartford neighborhoods?*
 
