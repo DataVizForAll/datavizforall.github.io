@@ -26,7 +26,7 @@ Our community partner, the [Center for Leadership and Justice](https://cljct.org
 
 *Question 3: How have USA home sales prices and ownership trends changed over time, in Hartford and suburban towns?*
 
-A Look Back: How Homeownership Trends and Prices of USA Homes Have Evolved, by ...
+[A Look Back: How Homeownership Trends and Prices of USA Homes Have Evolved in Hartford](https://datavizforall.org/clt-safy-almukhtar/), by Jana Safy & Hameed Almukhtar
 
 A Dive Into Urban Suburban Affordables’ Owned Homes: Homeownership Trends and Sales, by ...
 
