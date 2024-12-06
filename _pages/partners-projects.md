@@ -28,7 +28,7 @@ Our community partner, the [Center for Leadership and Justice](https://cljct.org
 
 [A Look Back: How Homeownership Trends and Prices of USA Homes Have Evolved in Hartford](https://datavizforall.org/clt-safy-almukhtar/), by Jana Safy & Hameed Almukhtar
 
-A Dive Into Urban Suburban Affordables’ Owned Homes: Homeownership Trends and Sales, by ...
+[A Dive Into Urban Suburban Affordables Homeownership Trends and Sales in West Hartford and East Hartford](https://datavizforall.org/clt-schwartz-steinert/), by Walter Schwartz and Luca Steinert
 
 Navigating Greater Hartford: Unraveling the Constant Shift in Housing Market Trends, by ...
 
