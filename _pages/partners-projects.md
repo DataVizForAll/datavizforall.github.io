@@ -9,13 +9,7 @@ toc_sticky: true
 ## Fall 2024
 ### Affordable Homeownership
 
-Cori Mackey and colleagues from the [Center for Leadership and Justice](https://cljct.org) asked to visualize data stories we created about their [Urban Suburban Affordables, Inc.](https://cljct.org/what-we-do/housing-initiatives/) (USA) community land trust program, which makes homeownership affordable for 211 income-qualified buyers in the Hartford region.
-
-1. Where are USA community land trust homes located in the Hartford region, and in what types of neighborhoods?
-2. How have USA homeownership trends and sales prices changed over time?
-3. How much homeownership wealth has been created by the USA program?
-4. How do USA homes measure up to block/neighborhood comparison groups (comps)?
-5. How does the USA program compare with other community land trusts for affordable homeownership across Connecticut and the nation?
+Cori Mackey and colleagues from the [Center for Leadership and Justice](https://cljct.org) asked us to create data stories to answer questions about their [Urban Suburban Affordables, Inc.](https://cljct.org/what-we-do/housing-initiatives/) (USA) community land trust program, which empowered 211 low-to-middle income buyers to purchase homes across the Hartford region since the mid-1990s.
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_azgyzeh3&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 [Intro video for CLJ USA community land trust affordable homeownership project, Fall 2024](https://trincoll.mediaspace.kaltura.com/media/1_azgyzeh3/)
