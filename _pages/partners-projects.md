@@ -40,9 +40,9 @@ Our community partner, the [Center for Leadership and Justice](https://cljct.org
 
 *Question 5: How do USA homes measure up to block or neighborhood comparison groups in Hartford neighborhoods where homes are clustered?*
 
-USA Homes Vs. Non-USA Homes in Northwest Hartford, by ...
+[USA Homes Vs. Non-USA Homes in Northwest Hartford](https://datavizforall.org/clt-demetra-lillie/), by Demetra and Lillie
 
-How Does Your USA Land Trust Home Compare to Similar Homes in Southwest Hartford?, by ....
+[How Does Your USA Land Trust Home Compare to Similar Homes in Southwest Hartford?](https://datavizforall.org/clt-steele-murphy/), by Ainsley Steele & Elizabeth Murphy
 
 ## Fall 2023
 ### Child Care and College Access
