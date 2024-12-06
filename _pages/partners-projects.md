@@ -22,7 +22,7 @@ Our community partner, the [Center for Leadership and Justice](https://cljct.org
 
 [Targeting Affordable Housing: Analyzing Income and Eviction Data to Guide the USA Program’s Impact in Greater Hartford](https://datavizforall.org/clt-mccarthy-opdenaker/), by Colin McCarthy & Ethan Opdenaker
 
-Mapping Change: Advancing Housing Equity and Stability in Connecticut's Communities, by...
+[Mapping Change: Advancing Housing Equity and Stability in Connecticut's Communities](https://datavizforall.org/clt-raphael-roush/), by Ralston Raphael & Ethan Roush
 
 *Question 3: How have USA home sales prices and ownership trends changed over time, in Hartford and suburban towns?*
 
