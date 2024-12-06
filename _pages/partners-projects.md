@@ -34,9 +34,9 @@ Our community partner, the [Center for Leadership and Justice](https://cljct.org
 
 *Question 4: How much homeownership wealth has the USA program created in Hartford neighborhoods?*
 
-How USA Land-Trust Homes are Building Wealth While Keeping Homes Affordable in the North End of Hartford, by ...
+[How USA Land-Trust Homes are Building Wealth While Keeping Homes Affordable in the North End of Hartford](https://datavizforall.org/clt-boucher-marcuccio/), by Julia Boucher & Gabbie Marcuccio
 
-The Leading Wealth Creator for the American Working Class, by ...
+[Homeownership - The Leading Wealth Creator for the American Working Class: A Focus on USA Homes in South Hartford](https://datavizforall.org/clt-zack-mester/), by George Zack and Priya Mester
 
 *Question 5: How do USA homes measure up to block or neighborhood comparison groups in Hartford neighborhoods where homes are clustered?*
 
