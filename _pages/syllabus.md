@@ -11,11 +11,9 @@ Our course meets in-person on Mondays and Wednesdays 11:30am-12:45pm in classroo
 <!-- Library B02 (basement level, first room near the stairwell) at Trinity College, Hartford. -->
 
 ### Instructors
-Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
-
-Teaching Assistant Nellie Conklin - contact and scheduling info on Moodle
-
-Research Assistant Ali MacDougall - contact and scheduling info on Moodle
+- Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
+- Teaching Assistant Nellie Conklin '26 - contact and scheduling info on Moodle
+- Research Assistant Ali MacDougall '26 - contact and scheduling info on Moodle
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.     
 - Fulfills Numerical and Symbolic Reasoning (NUM) requirement.
@@ -24,18 +22,11 @@ Course description: How can charts and maps tell meaningful stories? How can the
 - Enrollment limited to 19 students.  
 
 ### Community Learning Project
-Our project and Hartford-area community learning partners this semester:    
-**Affordable Homeownership:** Cori Mackey, Tieasha Gayle, and Bea Santiago of the [Center for Leadership and Justice](https://cljct.org) and its [Urban Suburban Affordables, Inc.](https://cljct.org/what-we-do/housing-initiatives/) (USA) community land trust. See [history of this homeownership program](https://cljct.org/history-of-homeownership-initiatives/). The CLJ has asked us to help visualize answers to these broad questions:
-1. Where are USA community land trust homes located in the Hartford region, and in what types of neighborhoods?
-2. How have USA homeownership trends and sales prices changed over time?
-3. How much homeownership wealth has been created by the USA program?
-4. How do USA homes measure up to block/neighborhood comparison groups (comps)?
-5. How does the USA program compare with other community land trusts for affordable homeownership across Connecticut and the nation?
-
-<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_azgyzeh3&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-[Intro video for CLJ USA community land trust affordable housing project, Fall 2024](https://trincoll.mediaspace.kaltura.com/media/1_azgyzeh3/)
+Our project and Hartford-area community learning partner this semester:    
+**School Based Health Centers:** Melanie Wilde-Lane (Executive Director) and Isabel Gonillo (Program Assistant) from the [Connecticut Association for School Based Health Centers](https://ctschoolhealth.org). Their nonprofit organization advocates for medical, dental, and mental health services to be provided in over 300 public schools across the state. They have asked us to create data stories to help them answer questions such as: How does access to these health centers vary by family income and school funding across the state? How does providing free preventative care improve long-term health outcomes and reduce government costs for emergency room visits?
 
 <iframe id="kaltura_player" type="text/javascript"  src='https://cdnapisec.kaltura.com/p/2366381/embedPlaykitJs/uiconf_id/55751882?iframeembed=true&entry_id=1_vuuuwrto&config[provider]={"widgetId":"1_liua5rli"}'  style="width: 608px;height: 402px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Kaltura Player"></iframe>
+[Intro video for CT Association of School Based Health Centers project, Fall 2025](https://trincoll.mediaspace.kaltura.com/media/1_vuuuwrto)
 
 ### Course Materials and Tools
 ![book covers](/images/covers-hodv-datafeminism.png)
@@ -103,7 +94,9 @@ Please notify me before our third class session, and [schedule an appointment on
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
 - If anything is interfering with your learning, email or talk with me. I care about how you're doing in life, not just in our classroom.
 
-## Schedule
+## Schedule to come in Fall 2025
+
+<!--
 - Important updates from the instructor will be marked **in bold**.
 
 ### Wed Sept 4
@@ -393,4 +386,4 @@ No class - Trinity Days
 
 ### Mon Dec 9
 - [Build 8 Final presentations](https://docs.google.com/document/d/1YeMnPZiMhI4gGigsZK35K5nwa3cn3IBFF9dNaAbYi7g/edit?tab=t.0) on Zoom with guest evaluators: [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
-- Class will **begin at 11:30am and end at 1:10pm and will take place in my Zoom room** to ensure all students have sufficient time with guest experts. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins. Guest experts will read final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators.
+- Class will **begin at 11:30am and end at 1:10pm and will take place in my Zoom room** to ensure all students have sufficient time with guest experts. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins. Guest experts will read final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators. -->
