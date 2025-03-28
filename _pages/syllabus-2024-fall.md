@@ -1,25 +1,21 @@
 ---
 title: "Educ 206: Data Visualization For All"
-permalink: /
-date: 2025-03-28
+permalink: /syllabus-2024-fall/
+date: 2024-08-27
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
-## Fall 2025 Syllabus
-Our course meets in-person on Mondays and Wednesdays 11:30am-12:45pm in classroom TBA  
-<!-- Library B02 (basement level, first room near the stairwell) at Trinity College, Hartford. -->
+## Fall 2024 Syllabus
+Our course meets in-person on Mondays and Wednesdays 11:30am-12:45pm in Library B02 (basement level, first room near the stairwell) at Trinity College, Hartford.
 
 ### Instructors
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
 Teaching Assistant Nellie Conklin - contact and scheduling info on Moodle
 
-Research Assistant Ali MacDougall - contact and scheduling info on Moodle
-
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.     
-- Fulfills Numerical and Symbolic Reasoning (NUM) requirement.
-- Fulfills Research Methods requirement for Ed Studies majors.  
+- Fulfills Numerical and Symbolic Reasoning (NUM) requirement.   
 - Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies.  
 - Enrollment limited to 19 students.  
 
@@ -34,8 +30,6 @@ Our project and Hartford-area community learning partners this semester:
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_azgyzeh3&flashvars[streamerType]=auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 [Intro video for CLJ USA community land trust affordable housing project, Fall 2024](https://trincoll.mediaspace.kaltura.com/media/1_azgyzeh3/)
-
-<iframe id="kaltura_player" type="text/javascript"  src='https://cdnapisec.kaltura.com/p/2366381/embedPlaykitJs/uiconf_id/55751882?iframeembed=true&entry_id=1_vuuuwrto&config[provider]={"widgetId":"1_liua5rli"}'  style="width: 608px;height: 402px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Kaltura Player"></iframe>
 
 ### Course Materials and Tools
 ![book covers](/images/covers-hodv-datafeminism.png)
