@@ -25,7 +25,7 @@ Course description: How can charts and maps tell meaningful stories? How can the
 - Enrollment limited to 19 students.  
 
 ### Community Learning Projects
-Each section has a Hartford-area community learning project and partner organization:  
+Each section partners on a data project with a Hartford or CT organization:  
 
 #### MW 10am - Project TBA  
 
