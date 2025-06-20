@@ -1,13 +1,17 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /
-date: 2025-03-28
+date: 2025-06-20
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
 ## Fall 2025 Syllabus
-Our course meets in-person on Mondays and Wednesdays 11:30am-12:45pm in classroom TBA  
+Two sections of the course:
+- Mondays and Wednesdays 10-11:15am (section 02)
+- Mondays and Wednesdays 11:30-12:45pm (section 01)    
+Both meet in-person in classrooms TBA
+
 <!-- Library B02 (basement level, first room near the stairwell) at Trinity College, Hartford. -->
 
 ### Instructors
@@ -21,9 +25,13 @@ Course description: How can charts and maps tell meaningful stories? How can the
 - Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies.  
 - Enrollment limited to 19 students.  
 
-### Community Learning Project
-Our project and Hartford-area community learning partner this semester:    
-**School Based Health Centers:** Melanie Wilde-Lane (Executive Director) and Isabel Gonillo (Program Assistant) from the [Connecticut Association for School Based Health Centers](https://ctschoolhealth.org), also known as CASBHC. Their nonprofit organization advocates for medical, dental, and mental health services that are provided in over 300 public schools across the state. They have asked us to create data stories to help them answer questions such as: How does access to these health centers vary by family income and school district funding? How does free preventive care improve long-term health outcomes and reduce government costs for emergency room visits?
+### Community Learning Projects
+Each section has a Hartford-area community learning project and partner organization:  
+
+#### MW 10am: Project TBA  
+
+#### MW 11:30:  School Based Health Centers
+Melanie Wilde-Lane (Executive Director) and Isabel Gonillo (Program Assistant) from the [Connecticut Association for School Based Health Centers](https://ctschoolhealth.org), also known as CASBHC. Their nonprofit organization advocates for medical, dental, and mental health services that are provided in over 300 public schools across the state. They have asked us to create data stories to help them answer questions such as: How does access to these health centers vary by family income and school district funding? How does free preventive care improve long-term health outcomes and reduce government costs for emergency room visits?
 
 <iframe id="kaltura_player" type="text/javascript"  src='https://cdnapisec.kaltura.com/p/2366381/embedPlaykitJs/uiconf_id/55751882?iframeembed=true&entry_id=1_vuuuwrto&config[provider]={"widgetId":"1_liua5rli"}'  style="width: 608px;height: 402px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Kaltura Player"></iframe>
 [Intro video for CT Association of School Based Health Centers project, Fall 2025](https://trincoll.mediaspace.kaltura.com/media/1_vuuuwrto)
