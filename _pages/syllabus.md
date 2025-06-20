@@ -7,10 +7,9 @@ toc_label: "Contents"
 toc_sticky: true
 ---
 ## Fall 2025 Syllabus
-Two sections of the course:
-- Mondays and Wednesdays 10-11:15am (section 02)
-- Mondays and Wednesdays 11:30-12:45pm (section 01)    
-Both meet in-person in classrooms TBA
+Two sections of the course meet in-person in classrooms TBA:
+- Mondays and Wednesdays 10-11:15am (Educ 206-02, code 3498)
+- Mondays and Wednesdays 11:30-12:45pm (Educ 206-01, code 2281)    
 
 <!-- Library B02 (basement level, first room near the stairwell) at Trinity College, Hartford. -->
 
@@ -28,9 +27,9 @@ Course description: How can charts and maps tell meaningful stories? How can the
 ### Community Learning Projects
 Each section has a Hartford-area community learning project and partner organization:  
 
-#### MW 10am: Project TBA  
+#### MW 10am - Project TBA  
 
-#### MW 11:30:  School Based Health Centers
+#### MW 11:30 -  School Based Health Centers
 Melanie Wilde-Lane (Executive Director) and Isabel Gonillo (Program Assistant) from the [Connecticut Association for School Based Health Centers](https://ctschoolhealth.org), also known as CASBHC. Their nonprofit organization advocates for medical, dental, and mental health services that are provided in over 300 public schools across the state. They have asked us to create data stories to help them answer questions such as: How does access to these health centers vary by family income and school district funding? How does free preventive care improve long-term health outcomes and reduce government costs for emergency room visits?
 
 <iframe id="kaltura_player" type="text/javascript"  src='https://cdnapisec.kaltura.com/p/2366381/embedPlaykitJs/uiconf_id/55751882?iframeembed=true&entry_id=1_vuuuwrto&config[provider]={"widgetId":"1_liua5rli"}'  style="width: 608px;height: 402px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Kaltura Player"></iframe>
