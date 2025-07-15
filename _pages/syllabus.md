@@ -1,22 +1,22 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /
-date: 2025-06-20
+date: 2025-07-15
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
 ## Fall 2025 Syllabus
 Two sections of the course meet in-person in classrooms TBA:
-- Mondays and Wednesdays 10-11:15am (Educ 206-02, code 3498)
-- Mondays and Wednesdays 11:30-12:45pm (Educ 206-01, code 2281)    
+- Mondays and Wednesdays 10-11:15am (Educ 206-02, TCOnline code 3498)
+- Mondays and Wednesdays 11:30-12:45pm (Educ 206-01, TCOnline code 2281)    
 
 <!-- Library B02 (basement level, first room near the stairwell) at Trinity College, Hartford. -->
 
 ### Instructors
-- Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
-- Teaching Assistant Nellie Conklin '26 - contact and scheduling info on Moodle
-- Research Assistant Ali MacDougall '26 - contact and scheduling info on Moodle
+- Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.org).
+- Teaching Assistant Nellie Conklin '26 - contact and scheduling info to come
+- Research Assistant Ali MacDougall '26 - contact and scheduling info to come
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.     
 - Fulfills Numerical and Symbolic Reasoning (NUM) requirement.
@@ -27,7 +27,8 @@ Course description: How can charts and maps tell meaningful stories? How can the
 ### Community Learning Projects
 Each section partners on a data project with a Hartford or CT organization:  
 
-#### MW 10am - Project TBA  
+#### MW 10:00 - School Finance Equity
+We will create data stories to visualize answers to questions raised in a [recent article by CT Insider journalists Alex Putterman and Natasha Sokoloff](https://www.ctinsider.com/news/education/article/connecticut-education-funding-disparities-data-20349937.php): How much do Connecticut public schools spend per student in comparison to other states? How does spending vary across Connecticut districts? How does spending vary by cost of living in other states? How does the source of spending (local, state, or federal funds) vary across CT districts and compare to other states? To what extent does school spending address varying student needs across CT districts? Also, [Michael Morton, Deputy Executive Director of the School+State Finance Project](https://schoolstatefinance.org/about/our-team), will serve a guest evaluator of our final projects.
 
 #### MW 11:30 -  School Based Health Centers
 Melanie Wilde-Lane (Executive Director) and Isabel Gonillo (Program Assistant) from the [Connecticut Association for School Based Health Centers](https://ctschoolhealth.org), also known as CASBHC. Their nonprofit organization advocates for medical, dental, and mental health services that are provided in over 300 public schools across the state. They have asked us to create data stories to help them answer questions such as: How does access to these health centers vary by family income and school district funding? How does free preventive care improve long-term health outcomes and reduce government costs for emergency room visits?
