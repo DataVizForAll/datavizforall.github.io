@@ -21,7 +21,7 @@ Two sections of the course meet in-person in classrooms TBA:
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.     
 - Fulfills Numerical and Symbolic Reasoning (NUM) requirement.
 - Fulfills Research Methods requirement for Ed Studies majors.  
-- Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies.  
+- Cross-referenced with Public Policy & Law (for empirical elective in the major, and education and urban policy concentrations), Urban Studies, Community Learning (for Community Action minor), Rhetoric and Writing.  
 - Enrollment limited to 19 students.  
 
 ### Community Learning Projects
