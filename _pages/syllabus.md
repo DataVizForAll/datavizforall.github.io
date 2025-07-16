@@ -15,8 +15,8 @@ Two sections of the course meet in-person in classrooms TBA:
 
 ### Instructors
 - Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.org).
-- Teaching Assistant Nellie Conklin '26 - contact and scheduling info to come
-- Research Assistant Ali MacDougall '26 - contact and scheduling info to come
+- Teaching Assistant for both sections: Nellie Conklin '26 - contact and scheduling info to come
+- Research Assistant for school based health centers project: Ali MacDougall '26
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.     
 - Fulfills Numerical and Symbolic Reasoning (NUM) requirement.
