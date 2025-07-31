@@ -8,8 +8,8 @@ toc_sticky: true
 ---
 ## Fall 2025 Syllabus
 Two sections of the course meet in-person in classrooms TBA:
-- Mondays and Wednesdays 10-11:15am (Educ 206-02, TCOnline code 3498)
-- Mondays and Wednesdays 11:30-12:45pm (Educ 206-01, TCOnline code 2281)    
+- Mondays and Wednesdays 10-11:15am, School Finance Equity project (Educ 206-02, TCOnline code 3498)
+- Mondays and Wednesdays 11:30-12:45pm, project: School Based Health Centers project (Educ 206-01, TCOnline code 2281)    
 
 <!-- Library B02 (basement level, first room near the stairwell) at Trinity College, Hartford. -->
 
@@ -30,7 +30,7 @@ Each section partners on a data project with a Hartford or CT organization:
 #### MW 10:00 - School Finance Equity
 Our partner is Melanie Strout (Community Engagement Manager) from the [School + State Finance Project](https://schoolstatefinance.org/about/our-team). We will create data stories to visualize answers to questions raised in a [recent article by CT Insider journalists Alex Putterman and Natasha Sokoloff](https://www.ctinsider.com/news/education/article/connecticut-education-funding-disparities-data-20349937.php): How much do Connecticut public schools spend per student in comparison to other states? How does spending vary across Connecticut districts? How does spending vary by cost of living in other states? How does the source of spending (local, state, or federal funds) vary across CT districts and compare to other states? To what extent does school spending address varying student needs across CT districts? Also, [Michael Morton](https://schoolstatefinance.org/about/our-team) (Deputy Executive Director) will serve a guest evaluator of our final projects.
 
-<iframe src="https://www.kaltura.com//p/2366381/embedPlaykitJs/uiconf_id/55751882?iframeembed=true&entry_id=1_jlhkezsr" style="width: 560px;height: 395px" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0" allow="accelerometer *; autoplay *; encrypted-media *; gyroscope *; picture-in-picture *"/>
+<iframe src="https://www.kaltura.com//p/2366381/embedPlaykitJs/uiconf_id/55751882?iframeembed=true&entry_id=1_jlhkezsr" style="width: 560px;height: 395px" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0" allow="accelerometer *; autoplay *; encrypted-media *; gyroscope *; picture-in-picture *"></iframe>
 [Intro video for School + State Finance Project, Fall 2025](https://trincoll.mediaspace.kaltura.com/edit/1_jlhkezsr)
 
 #### MW 11:30 -  School Based Health Centers
