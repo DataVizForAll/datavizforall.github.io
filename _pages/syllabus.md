@@ -1,7 +1,7 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /
-date: 2025-08-27
+date: 2025-08-28
 toc: true
 toc_label: "Contents"
 toc_sticky: true
@@ -103,8 +103,8 @@ Please notify me before our third class session, and [schedule an appointment on
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
 - If anything is interfering with your learning, email or talk with me. I care about how you're doing in life, not just in our classroom.
 
-## Fall 2025 Schedule
-- Both sections generally follow the same schedule, with exceptions marked for **MW 10AM** vs **MW 11:30**
+## Schedule
+- Both sections follow the same schedule, with exceptions marked for **10:00** vs **11:30**
 - Important updates from the instructor will be marked **in bold**.
 
 ### Wed Sept 3
@@ -136,7 +136,7 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Wed Sept 10
 - Before class, read background and write questions to prepare for today's introductory Zoom meetings with community partners  
-- 10am section
+- 10:00 section
   - School+State Finance Project and CTInsider guest journalists on Zoom, 10:15-11am  
   - Melanie Strout, TODO title
   - Alex Putterman and Natasha Sokoloff, TODO title
@@ -146,7 +146,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - 11:30 section
   - CT Association of School Based Health Centers on Zoom, 11:45-12:30
   - Melanie Wilde-Lane and Isabel Gonillo, titles
-  - Ali MacDougall '26, Research Assistant and Community Learning Research Fellow
+  - Alison MacDougall '26, Research Assistant and Community Learning Research Fellow
   - Build 0 questions TODO
   - read web pages TODO
   - read article TODO
@@ -217,7 +217,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - 11:30 section
   - Read TODO
   - Write questions in Google Doc TODO
-  - Discuss questions with Ali MacDougall in person, TODO SET TIME
+  - Discuss questions with Alison MacDougall in person, TODO SET TIME
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
   - Chart design principles and rules
@@ -306,7 +306,6 @@ Please notify me before our third class session, and [schedule an appointment on
 - In-class workshop time to find, clean, and organize data for Builds 5-8, and small team meetings with instructors
 
 ### Mon Nov 10
-<!-- - Brief Zoom introductions with guest evaluators of your final data stories: [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg) -->
 - Preview of Build 8 format and evaluation criteria:
   - 1) How well does the data story answer the assigned question(s) and explain why it matters?
   - 2) How well designed are the visualizations to draw true and meaningful insights from data?
@@ -317,6 +316,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - [Crashes at Major Hartford Intersections in 2018-2022](https://datavizforall.org/hartford-cruz-rodriguez/), by Jess Cruz and Mia Rodriguez, last updated April 2023
   - [Neighborhoods Where Hartford Habitat Has Built Homes And Why It Matters: Examining Opportunity and Income in Census Tracts](https://datavizforall.org/habitat-asfalg-nichols/) by Victoria Asfalg and Riley Nichols, last updated Dec 2021
 - In-class workshop time on Build 5: Plan and Sketch Your Data Story, due Monday Nov 10th at 9pm
+
 <!-- - Review recent quiz: sample electoral vote maps by classmates
   - Elizabeth's [conventional map](https://datawrapper.dwcdn.net/OhRuD/2/) vs [cartogram](https://datawrapper.dwcdn.net/C5Zvz/1/)
   - Julia's [conventional map](https://www.datawrapper.de/_/iHPWD/) vs [cartogram](https://www.datawrapper.de/_/CvzbO/)
@@ -351,8 +351,8 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Mon Dec 1
 - In class: Respond to supplemental student feedback questions on what helped you learn. In addition, please fill out the College's standard online evaluation form when available.
-- Finish Build 7: Data Stories for Dress Rehearsal and Peer Feedback by *Tues Dec 2nd at 9pm*. Rehearse a 2-minute overview of highlights to deliver to community partners and guest evaluators at our last class.
-- Assign Build 8: Finalize Data Story for Community Partners and Guest Experts. After feedback from our community partners, finish any revisions to your Build 7 data story by **Friday Dec 6th at 12 noon**. There are **no extensions** because guest experts need time to read your work. **Do not paste your link in Build 8**. Instead, the instructor will make a "frozen" copy of your most current revisions to Build 7, republish it on the public [Partners and Projects page](https://datavizforall.org/partners-projects/), and paste those links in Build 8 to send to our guest experts to read before your presentations. Rehearse your 2-minute overview of highlights for guest experts, and prepare for Q&A. Worth 10 points, scored by guest experts.
+- Finish Build 7: Data Stories for Dress Rehearsal and Peer Feedback by *Tues Dec 2nd at 9pm*. Rehearse a 2-minute overview of highlights you plan to deliver to community partners and guest evaluators at our last class, worth participation credit.
+- Assign Build 8: Finalize Data Story for Community Partners and Guest Experts. After feedback from our community partners, finish any revisions to your Build 7 data story by **Thursday Dec 4th at 9pm**. There are **no extensions** because guest experts need time to read your work. **Do not paste your link in Build 8**. Instead, the instructor will make a "frozen" copy of your most current revisions to Build 7, republish it on the public [Partners and Projects page](https://datavizforall.org/partners-projects/), and paste those links in Build 8 to send to our guest experts to read before your presentations. Worth 10 points, scored by community partners and guest experts.
 - After this deadline, you are welcome to make further revisions to your version and email the instructor a request to “pull” your edits into the published version, but this might happen only after the guest evaluators have finished their work.
 - Decisions to make before your data story is "frozen" and published on DataVizForAll:
   - You can insert your full name (recommended), or you have the right to use only your first name or initials. Learn why in my chapter, "[Public Writing and Student Privacy](https://webwriting.trincoll.edu/chapter/dougherty-public/index.html)" in [Web Writing](https://webwriting.trincoll.edu) book (2015).
@@ -362,15 +362,14 @@ Please notify me before our third class session, and [schedule an appointment on
 - Feel free to schedule a Zoom appointment [on my calendar](https://jackdougherty.org) for feedback on your build. If you are working with a partner, please arrange to meet me at the same time if feasible.
 
 ### Wed Dec 3
-- In-class: Build 7: Data Story Dress Rehearsal. Deliver 2-minute presentation of highlights and be prepared to respond to questions and feedback from classmates and instructors.
+- In-class: Build 7: Data Story Dress Rehearsal. Deliver 2-minute presentation of highlights you will deliver to guest evaluators, and be prepared to respond to questions and feedback from classmates and instructors. Worth participation credit.
+- Reminder Build 8: Revise and Finalize Data Story is due *Thursday Dec 4th at 9pm*, and will be "frozen" and published for guest evaluators to review.
 - TODO Quiz #10
-- TODO Assign Build 8
+
 <!-- - Open Quiz #10 on **community land trusts**, to be taken during any 2-hour period by Sunday 9pm on [Moodle](https://moodle.trincoll.edu), **unless** you have already earned an outreach event exemption for this quiz. Hint: Read Monk's article before you begin and do the quiz **before Friday noon** because it may help you strengthen the introduction and background sources in your final data story.
-- Reminder [Build 8: Revise and Finalize Data story](https://docs.google.com/document/d/1YeMnPZiMhI4gGigsZK35K5nwa3cn3IBFF9dNaAbYi7g/edit?tab=t.0) is due Friday Dec 6th at 12 noon, and will be "frozen" and published for guest experts to review. -->
+-  -->
 
 ### Mon Dec 8
-- Build 8 Final presentations on Zoom with guest evaluators:
-= TODO fix times
-
-<!-- [Ginny Monk, Children's Issues and Housing Reporter at CT Mirror](https://ctmirror.org/author/gmonk/), and [Victoria Asfalg, Trinity '23, Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
-- Class will **begin at 11:30am and end at 1:10pm and will take place in my Zoom room** to ensure all students have sufficient time with guest experts. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins. Guest experts will read final data stories online before the event. Students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guest evaluators. -->
+- Build 8 Final presentations on Zoom with guest evaluators. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins. Guest evaluators will read final data stories online before the event. During your time slot, students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guests.
+- 9:30-11:30am in my Zoom room with guest evaluators Michael Morton (Deputy Director) and Melanie Strout (Community Engagement Manager) from the [School + State Finance Project](https://schoolstatefinance.org/about/our-team)
+- 11:30-1:20pm in my Zoom with guest evaluators Melanie Wilde-Lane (Executive Director) and Isabel Gonillo (Program Assistant) from the [Connecticut Association for School Based Health Centers](https://ctschoolhealth.org) and [Victoria Asfalg, Trinity '23, former TA for DataViz class, currently Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
