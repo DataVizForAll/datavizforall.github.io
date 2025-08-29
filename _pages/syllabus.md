@@ -1,7 +1,7 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /
-date: 2025-08-28
+date: 2025-08-29
 toc: true
 toc_label: "Contents"
 toc_sticky: true
@@ -9,7 +9,7 @@ toc_sticky: true
 ## Fall 2025 Syllabus
 Two sections of the course meet in person:
 - **Mondays and Wednesdays 10-11:15am in Seabury N215,** School Finance Equity project (Educ 206-02, TCOnline code 3498)
-- **Mondays and Wednesdays 11:30-12:45pm in Seabury S205**, project: School Based Health Centers project (Educ 206-01, TCOnline code 2281)    
+- **Mondays and Wednesdays 11:30-12:45pm in Seabury S205**, School Based Health Centers project (Educ 206-01, TCOnline code 2281)    
 
 ### Instructors
 - Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.org).
@@ -26,7 +26,7 @@ Course description: How can charts and maps tell meaningful stories? How can the
 Each section partners on a data project with a Hartford or CT organization:  
 
 #### MW 10:00 - School Finance Equity
-Our partner is Melanie Strout (Community Engagement Manager) from the [School + State Finance Project](https://schoolstatefinance.org/about/our-team). We will create data stories to visualize answers to questions raised in a [recent article by CT Insider journalists Alex Putterman and Natasha Sokoloff](https://www.ctinsider.com/news/education/article/connecticut-education-funding-disparities-data-20349937.php): How much do Connecticut public schools spend per student in comparison to other states? How does spending vary across Connecticut districts? How does spending vary by cost of living in other states? How does the source of spending (local, state, or federal funds) vary across CT districts and compare to other states? To what extent does school spending address varying student needs across CT districts? Also, [Michael Morton](https://schoolstatefinance.org/about/our-team) (Deputy Executive Director) will serve a guest evaluator of our final projects.
+Our partner is Melanie Strout (Community Engagement Manager) from the [School + State Finance Project](https://schoolstatefinance.org/about/our-team). We will create data stories to visualize answers to questions posed by the parter and also raised in a [recent article by CT Insider journalists Alex Putterman and Natasha Sokoloff](https://www.ctinsider.com/news/education/article/connecticut-education-funding-disparities-data-20349937.php): How much do Connecticut public schools spend per student in comparison to other states? How does spending vary across Connecticut districts? How does spending vary by cost of living in other states? How does the source of spending (local, state, or federal funds) vary across CT districts and compare to other states? To what extent does school spending address varying student needs across CT districts? Also, [Michael Morton](https://schoolstatefinance.org/about/our-team) (Deputy Executive Director) will serve a guest evaluator of our final projects.
 
 <iframe src="https://www.kaltura.com//p/2366381/embedPlaykitJs/uiconf_id/55751882?iframeembed=true&entry_id=1_jlhkezsr" style="width: 560px;height: 395px" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0" allow="accelerometer *; autoplay *; encrypted-media *; gyroscope *; picture-in-picture *"></iframe>
 [Intro video for School + State Finance Project, Fall 2025](https://trincoll.mediaspace.kaltura.com/edit/1_jlhkezsr)
@@ -42,7 +42,7 @@ Our partners are Melanie Wilde-Lane (Executive Director) and Isabel Gonillo (Pro
 - Two open-access books are freely available online (or you can purchase print editions).
   - Jack Dougherty and Ilya Ilyankou, *Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code* (O’Reilly Media, Inc., 2021), <https://HandsOnDataViz.org>.
   - Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020), <https://data-feminism.mitpress.mit.edu>.
-- Bring a laptop computer (Mac, Windows, or Chromebook) to every class. Install more than one browser (such as Firefox, Safari, Chrome) for testing purposes. Tell me if you need a temporary laptop loaner.
+- Bring a laptop computer (Mac, Windows, or Chromebook) to every class. Install more than one browser (such as DuckDuckGo, Firefox, Safari, Chrome) for testing purposes. Tell me if you need a temporary laptop loaner.
 - You will need to sign up for several free web services (such as Google Drive, Datawrapper, GitHub). See my list of [recommended free digital tools in this course](https://handsondataviz.org/recommended-tools.html).
 
 ### Learning Goals and Assessments
@@ -57,7 +57,7 @@ In this course you will demonstrate the knowledge and skills you have developed 
 7. Transform Your Map Data
 8. Edit and Host Leaflet Code on GitHub
 9. Detect Lies and Reduce Bias
-10. Explore Leaflet Map Code Templates
+10. Try Advanced Map Templates
 11. Tell and Show Your Data Story
 12. Embed on the Web
 
@@ -137,15 +137,15 @@ Please notify me before our third class session, and [schedule an appointment on
 ### Wed Sept 10
 - Before class, read background and write questions to prepare for today's introductory Zoom meetings with community partners  
 - 10:00 section
-  - School+State Finance Project and CTInsider guest journalists on Zoom, 10:15-11am  
-  - Melanie Strout, TODO title
-  - Alex Putterman and Natasha Sokoloff, TODO title
+  - Guests on Zoom, 10:15-11am  
+  - Melanie Strout, Community Engagement Manager, School+State Finance Project
+  - Alex Putterman and Natasha Sokoloff, journalists at CT Insider
   - Build 0 questions TODO
   - read web pages TODO
   - read article TODO
 - 11:30 section
-  - CT Association of School Based Health Centers on Zoom, 11:45-12:30
-  - Melanie Wilde-Lane and Isabel Gonillo, titles
+  - Guests on Zoom, 11:45-12:30
+  - Melanie Wilde-Lane and Isabel Gonillo, CT Association of School Based Health Centers
   - Alison MacDougall '26, Research Assistant and Community Learning Research Fellow
   - Build 0 questions TODO
   - read web pages TODO
@@ -277,15 +277,15 @@ Please notify me before our third class session, and [schedule an appointment on
   - Edit and transform existing GeoJSON boundary with [Mapshaper.org](https://mapshaper.org)
     - To create a customized background map: Tutorial [Download and Edit CT Towns for Datawrapper Custom GeoJSON Map](https://docs.google.com/document/d/1LaMwOr-B_sW0_XVOQtG1_4wZFOMmrsG2kuPUD51fHhA/edit) - update TODO
     <!-- - To match latitude-longitude points with their census tract polygons: Tutorial [Join Points to Polygons with Mapshaper](https://handsondataviz.org/mapshaper.html#join-points-with-polygon-map) -->
+- Open the **first of two quizzes** this week, to be completed during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 - Start thinking about your preferences for final projects (Builds 5-8). Working in duos is strongly encouraged and priority will be given to students who wish to partner with another student. No more than two students per team, but some projects can be divided into coordinated separate teams (working on related questions and data, but graded separately). While you can choose to work solo, you will be held to the same expectations as a duo.
 
 ### Wed Oct 29
 - Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future.
 - Overview of Learning Goal #8: Edit and Host Leaflet Code on GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
-  - Analogy: GitHub Code Repository is like a public cookbook of recipes that you can modify, and GitHub Pages is like an oven that bakes your code into working public websites
-  <!-- - Bonus: [Recipe for Jack's Semi-Famous Pumpkin Chocolate Chip Cookies on GitHub](https://github.com/JackDougherty/pumpkin-choc-chip) -->
+  - Analogy: GitHub Code Repository is like a public cookbook of recipes that you can modify, and GitHub Pages is like an oven that bakes your code into working public websites. See also [Recipe for Jack's Semi-Famous Pumpkin Chocolate Chip Cookies on GitHub](https://github.com/JackDougherty/pumpkin-choc-chip)
   - Learn in class: Copy, Edit, and Host a Simple Leaflet Map
-- Open the Leaflet Code Editing quiz, to be taken during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
+- Open the **second of two quizzes this week**, to be completed during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 - Submit your final project preferences (Builds 5-8) in a Google Form (TODO). Preference will be given to students who choose to partner and list each other's names, with final decisions made by the instructor to balance numbers.
 
 ### Mon Nov 3
@@ -295,7 +295,11 @@ Please notify me before our third class session, and [schedule an appointment on
   - How to Lie with Maps
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
-- Open this week's quiz on [Moodle](https://moodle.trincoll.edu)
+- Overview of Learning Goal #10: Try Advanced Map Templates
+  - What do you notice about the map in this article? Sasha Allen, "What CT school districts would feel federal cuts the most?" CT Mirror, July 18, 2025, <https://ctmirror.org/2025/07/18/ct-school-districts-education-funding-cuts/>
+  - Datawrapper Academy, [How to use HTML & CSS in Datawrapper](https://academy.datawrapper.de/article/304-how-to-use-html-css-in-datawrapper) and [How to add tabs and drop-downs to your visualizations](https://academy.datawrapper.de/article/305-how-to-add-tabs-and-drop-downs)
+  - TODO tutorial
+- Open **two quizzes this week**, #9 and #10, **both due earlier than normal on Thursday Nov 6 by 9pm** on [Moodle](https://moodle.trincoll.edu)
 
 ### Wed Nov 5
 - Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
@@ -364,10 +368,6 @@ Please notify me before our third class session, and [schedule an appointment on
 ### Wed Dec 3
 - In-class: Build 7: Data Story Dress Rehearsal. Deliver 2-minute presentation of highlights you will deliver to guest evaluators, and be prepared to respond to questions and feedback from classmates and instructors. Worth participation credit.
 - Reminder Build 8: Revise and Finalize Data Story is due *Thursday Dec 4th at 9pm*, and will be "frozen" and published for guest evaluators to review.
-- TODO Quiz #10
-
-<!-- - Open Quiz #10 on **community land trusts**, to be taken during any 2-hour period by Sunday 9pm on [Moodle](https://moodle.trincoll.edu), **unless** you have already earned an outreach event exemption for this quiz. Hint: Read Monk's article before you begin and do the quiz **before Friday noon** because it may help you strengthen the introduction and background sources in your final data story.
--  -->
 
 ### Mon Dec 8
 - Build 8 Final presentations on Zoom with guest evaluators. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins. Guest evaluators will read final data stories online before the event. During your time slot, students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guests.
