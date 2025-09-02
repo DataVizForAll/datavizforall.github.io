@@ -9,7 +9,9 @@ toc_sticky: true
 ## Fall 2025 Syllabus
 Two sections of the course meet in person:
 - **Mondays and Wednesdays 10-11:15am in Seabury N215,** School Finance Equity project (Educ 206-02, TCOnline code 3498)
-- **Mondays and Wednesdays 11:30-12:45pm in Seabury S205**, School Based Health Centers project (Educ 206-01, TCOnline code 2281)    
+- **Mondays and Wednesdays 11:30-12:45pm in Seabury S205**, School Based Health Centers project (Educ 206-01, TCOnline code 2281)
+
+Contact me directly if PeopleSoft does not allow you to automatically enroll in your preferred section.    
 
 ### Instructors
 - Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.org).
@@ -87,7 +89,7 @@ Your progress toward these learning goals will be assessed in three ways:
 
 #### Intellectual Honesty and Artificial Intelligence
 - You are responsible for following the Intellectual Honesty policy as described in the [Trinity Student Handbook](https://www.trincoll.edu/policies/).
-- Artificial intelligence tools are not prohibited in this course, but think carefully before using *any* technology that might interfere with your learning. Large Language Models (LLMs), such as ChatGPT by OpenAI or Claude by Anthropic, can be helpful for repetitive coding tasks or proofreading paragraphs you've already composed. But LLMs also create plausible-sounding text with invented facts and bad calculations. LLMs also raise ethical questions about unpaid labor, energy usage, harmful biases, and safety for humanity. Don't cheat yourself out of an education by substituting LLM-generated responses in place of authentic learning.
+- Artificial intelligence tools are not prohibited in this course, but think carefully before using *any* technology that might interfere with your learning. Large Language Models (LLMs), such as ChatGPT by OpenAI or Claude by Anthropic, can be helpful for repetitive tasks or proofreading paragraphs you've already composed. But LLMs only create plausible-sounding text based on statistical patterns in their training data, sometimes with invented facts and bad calculations. LLMs also raise ethical questions about unpaid labor, harmful biases, energy usage, and safety for humanity. Don't cheat yourself out of an education by substituting LLM-generated responses in place of authentic learning.
 - For online quizzes, you may use your materials (including your notes, the online book, and any Internet content or tools), but you must work independently and you may not communicate about the quiz content in any way (except with the instructors) until the quiz has closed. If any doubts arise, the instructor may require you to show your work, retake a quiz under direct supervision, or refer a case to the Honor Council.
 - For build assignments, You (and your partner) are expected to create all original content (text and visualizations), with proper citations to any paraphrased or quoted text written by others, image credits to any visuals produced by others, and a methods section that describes all tools used and how. If any doubts arise, the instructor may require you to show your work, or independently reproduce content under direct supervision, or refer a case to the Honor Council.
 
@@ -114,9 +116,9 @@ Please notify me before our third class session, and [schedule an appointment on
 - Overview of the syllabus, Hartford community-learning partners, and past projects
 - Advice from TA on scheduling appointments and how to succeed in this course
 - Sample quiz about syllabus for 1-point bonus, with open-note format, due in class on [Moodle](https://moodle.trincoll.edu)
-- [Fill out simple form](https://forms.gle/afT4ZCrG25CFFioG9) to share the Google Drive username (aka Gmail address) that you will use for this course
+- [Fill out simple form](https://forms.gle/5mYWtzRghSzEnWu28) to share the Google Drive username (aka Gmail address) that you will use for this course
 - Presentation: Why data visualization matters in the "disinformation age". See Hands-On DataViz (HODV), Chapter 1 <https://handsondataviz.org/introduction.html>
-- In-class: What sparks your interest in this course? Anonymous free-write on [shared Google Doc](https://docs.google.com/document/d/1rINRibZJvqQp8PkD4v6l6sVej6zu_NTz04Aa8LdM_h4/edit)
+- In-class: What sparks your interest in this course? Anonymous free-write on [shared Google Doc](https://docs.google.com/document/d/1kaB1btdryT9ytLcADK5nntCgulZqlTo_YKmcq4i7DEc/edit?usp=sharing)
 - About me: How did I learn about data visualization? Telling and showing hidden stories of housing and education inequality in [On The Line book-in-progress](https://ontheline.trincoll.edu)
 - Strengthen your spreadsheet skills: Starting reading and working on sample exercises *before* our next class listed below.
 
