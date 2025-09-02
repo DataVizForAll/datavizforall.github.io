@@ -1,7 +1,7 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /
-date: 2025-08-29
+date: 2025-09-02
 toc: true
 toc_label: "Contents"
 toc_sticky: true
@@ -15,8 +15,8 @@ Contact me directly if PeopleSoft does not allow you to automatically enroll in 
 
 ### Instructors
 - Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.org).
-- Teaching Assistant for both sections: Nellie Conklin '26 - contact and scheduling info to come
-- Research Assistant for school based health centers project: Alison MacDougall '26
+- Teaching Assistant for both sections: [Nellie Conklin '26](mailto:petranella.conklin@trincoll.edu) - office hours on most Thursdays, 3-5pm, at Peter B's
+- Research Assistant for school based health centers project: [Alison MacDougall '26](mailto:alison.macdougall@trincoll.edu) - available in selected class sessions and by appointment
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.     
 - Fulfills Numerical and Symbolic Reasoning (NUM) requirement.
