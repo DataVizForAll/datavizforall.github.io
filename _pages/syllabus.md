@@ -148,7 +148,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - Read Alex Putterman and Natasha Sokoloff, "Gov. Lamont says CT spends more on education than any other state. The reality is more complicated," CT Insider, June 1, 2025, <https://www.ctinsider.com/news/education/article/connecticut-education-funding-disparities-data-20349937.php> OR [Gift article](https://www.ctinsider.com/news/education/article/connecticut-education-funding-disparities-data-20349937.php?utm_source=marketing&utm_medium=copy-url-link&utm_campaign=article-share&hash=aHR0cHM6Ly93d3cuY3RpbnNpZGVyLmNvbS9uZXdzL2VkdWNhdGlvbi9hcnRpY2xlL2Nvbm5lY3RpY3V0LWVkdWNhdGlvbi1mdW5kaW5nLWRpc3Bhcml0aWVzLWRhdGEtMjAzNDk5MzcucGhw&time=MTc1NzMzMTIzNjU5NQ%3D%3D&rid=NDFhNGY5ZmQtMTYwYi00M2JhLTg5ZDctZDBiYzRlYzcyN2Rl&sharecount=MA%3D%3D) OR [static PDF on Moodle](https://moodle.trincoll.edu).
 
 - 11:30 section
-  - Guests on Zoom, 11:45-12:30
+  - Guests on Zoom, 11:45-12:30 (permission granted to record call)
   - Melanie Wilde-Lane and Isabel Gonillo, CT Association of School Based Health Centers
   - Alison MacDougall '26, Research Assistant and Community Learning Research Fellow
   - [Read Build 0 questions](https://docs.google.com/document/d/1a2j-FaeSKQxUNZZ9aO947a0OCXgBjx7f3vKcldAAv6Y/edit?usp=sharing) and be prepared to discuss with guests
@@ -156,7 +156,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - Read the CT Dept of Public Health web page about [School Based Health Centers](https://portal.ct.gov/dph/family-health/school-based-health-centers/school-based-health-centers), especially the [SBHC Fact Sheet PDF](https://portal.ct.gov/-/media/dph/school-based-health-centers/sbhc-fs-7924.pdf?rev=56f227bcb0954813892b3a1f37ac4be5&hash=068C35C67D5A8B1DA28BC8194B508DCD) at the top
 
 - In-class for all:
-  - Prepare and ask questions and take notes while meeting with community-learning partners on Zoom
+  - Prepare to ask questions and take notes while meeting with community-learning partners on Zoom
   - [Google Spreadsheet Skills Practice](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
   - A very personal "visual"ization, and why to say "hi" when you see me around campus
   - Open this week's quiz on [Moodle](https://moodle.trincoll.edu)
