@@ -154,6 +154,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - [Read Build 0 questions](https://docs.google.com/document/d/1a2j-FaeSKQxUNZZ9aO947a0OCXgBjx7f3vKcldAAv6Y/edit?usp=sharing) and be prepared to discuss with guests
   - Read the [CT Association of School Based Health Centers website](https://ctschoolhealth.org), especially the About page and [Mapping link](https://viewer.mapme.com/casbhc)
   - Read the CT Dept of Public Health web page about [School Based Health Centers](https://portal.ct.gov/dph/family-health/school-based-health-centers/school-based-health-centers), especially the [SBHC Fact Sheet PDF](https://portal.ct.gov/-/media/dph/school-based-health-centers/sbhc-fs-7924.pdf?rev=56f227bcb0954813892b3a1f37ac4be5&hash=068C35C67D5A8B1DA28BC8194B508DCD) at the top
+  - Confirm **opt-in** site visit in place of a quiz TBA this semester: MD Fox Elementary School school-based health center, Tuesday Sept 23rd common hour, meet 12:05pm at Mather Circle to walk with Jack to the school, visit from 12:30-1pm, then walk back to campus to arrive for 1:30pm classes.
 
 - In-class for all:
   - Prepare to ask questions and take notes while meeting with community-learning partners on Zoom
