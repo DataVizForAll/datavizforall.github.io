@@ -181,6 +181,7 @@ Please notify me before our third class session, and [schedule an appointment on
 ### Wed Sept 17
 - Assign random pairs to Build 1: Listen, Find & Question Data. Paste the link to your co-authored starter Google Doc on our Build 1 page and *share it so that anyone can comment* before you leave the room. Due on Sun Sept 21st at 9pm (same deadline as the quiz, so plan ahead), worth 5 points.
 - Open this week's quiz on [Moodle](https://moodle.trincoll.edu)
+- Recommended but optional: [Sign up to walk to brief tour](https://forms.gle/T5ZzqZ32QgkMU6q1A) of MD Fox Elementary School on Tuesday Sept 23rd. Meet up 12:05pm outside Mather front entrance and return in time for 1:30pm classes. Participants will automatically receive full credit for Quiz #8 later this semester.
 
 ### Mon Sept 22
 <!-- - Overall good work on Build 1, and beware of bad or questionable data. Instructor has "frozen" copies of your work and will email feedback soon. -->
@@ -291,7 +292,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - Overview of Learning Goal #8: Edit and Host Leaflet Code on GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
   - Analogy: GitHub Code Repository is like a public cookbook of recipes that you can modify, and GitHub Pages is like an oven that bakes your code into working public websites. See also [Recipe for Jack's Semi-Famous Pumpkin Chocolate Chip Cookies on GitHub](https://github.com/JackDougherty/pumpkin-choc-chip)
   - Learn in class: Copy, Edit, and Host a Simple Leaflet Map
-- Open the **second of two quizzes this week**, to be completed during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
+- Open the **second of two quizzes this week**, to be completed during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu). Reminder: students who participated in a school tour earlier this fall automatically receive full credit for quiz #8.
 - Submit your final project preferences (Builds 5-8) in a Google Form (TODO). Preference will be given to students who choose to partner and list each other's names, with final decisions made by the instructor to balance numbers.
 
 ### Mon Nov 3
