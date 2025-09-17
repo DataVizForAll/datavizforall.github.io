@@ -179,7 +179,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - Recommended for Ed Studies majors: Walk with me to the Welcome Back lunch, 12:45-1:30pm in McCook 201 conference room
 
 ### Wed Sept 17
-- Assign random pairs to Build 1: Listen, Find & Question Data. Paste the link to your co-authored starter Google Doc on our Build 1 page and *share it so that anyone can comment* before you leave the room. Due on Sun Sept 21st at 9pm (same deadline as the quiz, so plan ahead), worth 5 points.
+- Assign random pairs to [Build 1: Find and Question Census and Education Data](https://docs.google.com/document/d/1swCdBOOu7a9dhThMV6INB6sgo_C9c4XxzNC-tjCny3w/edit?usp=sharing). Paste the link to your co-authored starter Google Doc on our Build 1 page and *share it so that anyone can comment* before you leave the room. Due on Sun Sept 21st at 9pm (same deadline as the quiz, so plan ahead), worth 5 points.
 - Open this week's quiz on [Moodle](https://moodle.trincoll.edu)
 - Recommended but optional: [Sign up to walk to brief tour](https://forms.gle/T5ZzqZ32QgkMU6q1A) of MD Fox Elementary School on Tuesday Sept 23rd. Meet up 12:05pm outside Mather front entrance and return in time for 1:30pm classes. Participants will automatically receive full credit for Quiz #8 later this semester.
 
