@@ -186,7 +186,7 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Mon Sept 22
 - Update on MD Fox Elementary school based health center tour on Tuesday Sept 23rd 12:05pm meet outside Mather front doors. They request [group be limited to 8 students](https://docs.google.com/spreadsheets/d/1dROGUsaroPiN24yNbPlv7FteBC-cmfWQ9PfOkVUVxcc/edit?gid=920873184#gid=920873184), so I will offer a second school tour TBA
-- Brief review of Build 1, and individualized written feedback will be emailed soon
+- Brief review of [Build 1 with incomplete sample](https://docs.google.com/document/d/1Tn5aUrvafLS9rS308Z_89VzNyH1Q2VEFxMHsDxM-LPM/edit?tab=t.0). Student work has been downloaded and individualized written feedback will be emailed soon.
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
  - Smart Cleanup in Google Sheets
  - Find and Replace with Blank
