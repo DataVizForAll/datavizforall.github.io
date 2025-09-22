@@ -180,11 +180,13 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Wed Sept 17
 - Assign random pairs to [Build 1: Find and Question Census and Education Data](https://docs.google.com/document/d/1swCdBOOu7a9dhThMV6INB6sgo_C9c4XxzNC-tjCny3w/edit?usp=sharing). Paste the link to your co-authored starter Google Doc on our Build 1 page and *share it so that anyone can comment* before you leave the room. Due on Sun Sept 21st at 9pm (same deadline as the quiz, so plan ahead), worth 5 points.
+- How is US Census data "socially constructed"? See [HODV chapter](https://handsondataviz.org/question.html)
 - Open this week's quiz on [Moodle](https://moodle.trincoll.edu)
 - Recommended but optional: [Sign up to walk to brief tour](https://forms.gle/T5ZzqZ32QgkMU6q1A) of MD Fox Elementary School on Tuesday Sept 23rd. Meet up 12:05pm outside Mather front entrance and return in time for 1:30pm classes. Participants will automatically receive full credit for Quiz #8 later this semester.
 
 ### Mon Sept 22
-<!-- - Overall good work on Build 1, and beware of bad or questionable data. Instructor has "frozen" copies of your work and will email feedback soon. -->
+- Update on MD Fox Elementary school based health center tour on Tuesday Sept 23rd 12:05pm meet outside Mather front doors. They request [group be limited to 8 students](https://docs.google.com/spreadsheets/d/1dROGUsaroPiN24yNbPlv7FteBC-cmfWQ9PfOkVUVxcc/edit?gid=920873184#gid=920873184), so I will offer a second school tour TBA
+- Brief review of Build 1, and individualized written feedback will be emailed soon
 - Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
  - Smart Cleanup in Google Sheets
  - Find and Replace with Blank
@@ -196,11 +198,9 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Wed Sept 24
 - Review pivot table skills
-- In-class: Social Explorer Tutorial to Download and Clean Census/American Community Survey for CT towns
-  - What levels of US Census data are publicly available? See [HODV chapter](https://handsondataviz.org/guiding.html)
-  - How is US Census data "socially constructed"? See [HODV chapter](https://handsondataviz.org/question.html)
-- Assign random pairs to Build 2: Find, Clean, Question, and Match Census Data. Write responses in your co-authored and publicly shared Google Document, and include the link to your co-authored and publicly shared Google Sheet. Due *Friday Sept 26th at 5pm*, worth 5 points.
+- Assign random pairs to Build 2: Clean and Match Census and School District Data. Write responses in your co-authored and publicly shared Google Document, and include the link to your co-authored and publicly shared Google Sheet. Due *Friday Sept 26th at 5pm*, worth 5 points.
 - Open this week's quiz on [Moodle](https://moodle.trincoll.edu)
+<!-- - Clean census town rows; pivot district tables; maybe match towns with and without districts? Or concatenate and geocode schools? Integrate into Build 3: CT Mirror article and why are there three layers of school districts in CT? Also, why do some school districts (magnets and charters) do not appear on these maps? -->
 
 ### Mon Sept 29
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
@@ -211,9 +211,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - Beware of biased comparisons
 - Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu)
 - Review Build 2
-- In-class tutorial to download and clean CT school district enrollment demographic data - TODO from EdSight or other
-- Assign random pairs to Build 3: Find, Clean, Question, and Match School District Data. Write responses in your co-authored and publicly shared Google Document, and include the link to your co-authored and publicly shared Google Sheet. Due *Friday Oct 3rd 5pm*, worth 5 points.
-<!-- - Integrate into Build 3: CT Mirror article and why are there three layers of school districts in CT? Also, why do some school districts (magnets and charters) do not appear on these maps? -->
+- Assign random pairs to Build 3. Write responses in your co-authored and publicly shared Google Document, and include the link to your co-authored and publicly shared Google Sheet. Due *Friday Oct 3rd 5pm*, worth 5 points.
 
 ### Wed Oct 1   
 - Before class, read background materials and write questions for community partners and research assistants
