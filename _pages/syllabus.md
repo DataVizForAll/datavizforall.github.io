@@ -197,8 +197,8 @@ Please notify me before our third class session, and [schedule an appointment on
 - Prepare for Clean Up quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu)
 
 ### Wed Sept 24
-- Recommended but optional: [Sign up to walk to brief tour of Montessori Magnet School](https://forms.gle/8G6cgTPyYL5ZnSgJA) on Tuesday Sept 30th. Meet up 12:10pm outside Mather front entrance (rain or shine) and return in time for 1:30pm classes. Participants will automatically receive full credit for Quiz #8 later this semester.
-- Assign random pairs to Build 2: Clean and Match Census and School District Data. Write responses in your co-authored and publicly shared Google Document, and include the link to your co-authored and publicly shared Google Sheet. Due *Friday Sept 26th at 5pm*, worth 5 points.
+- New optional opportunity: [Sign up to walk to brief tour of Montessori Magnet School](https://forms.gle/8G6cgTPyYL5ZnSgJA) on Tuesday Sept 30th. Meet up 12:10pm outside Mather front entrance (rain or shine) and return in time for 1:30pm classes. Participants will automatically receive full credit for Quiz #8 later this semester.
+- Assign random pairs to [Build 2: Find, Question, and Clean Data](https://docs.google.com/document/d/1A1_T2ttIUXF93eCijMQtsOY6ORWGB6dOizdN_L-hH38/). Write responses in your co-authored and publicly shared Google Document, and include the link to your co-authored and publicly shared Google Sheet. Due Sunday Sept 28th at 9pm (same time as quiz, so plan ahead), worth 5 points.
 - Open this week's quiz on [Moodle](https://moodle.trincoll.edu)
 <!-- - Clean census town rows; pivot district tables; maybe match towns with and without districts? Or concatenate and geocode schools? Integrate into Build 3: CT Mirror article and why are there three layers of school districts in CT? Also, why do some school districts (magnets and charters) do not appear on these maps? -->
 
