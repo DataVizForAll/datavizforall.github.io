@@ -203,6 +203,7 @@ Please notify me before our third class session, and [schedule an appointment on
 <!-- - Clean census town rows; pivot district tables; maybe match towns with and without districts? Or concatenate and geocode schools? Integrate into Build 3: CT Mirror article and why are there three layers of school districts in CT? Also, why do some school districts (magnets and charters) do not appear on these maps? -->
 
 ### Mon Sept 29
+- Review Build 2
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
   - The big question: "Compared to what?"
   - Decipher common US phrases: "apples-to-apples comparison" and "don't cherry-pick your data"
@@ -210,25 +211,16 @@ Please notify me before our third class session, and [schedule an appointment on
   - Normalize your data
   - Beware of biased comparisons
 - Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu)
-- Review Build 2
-- Assign random pairs to Build 3. Write responses in your co-authored and publicly shared Google Document, and include the link to your co-authored and publicly shared Google Sheet. Due *Friday Oct 3rd 5pm*, worth 5 points.
+- Assign random groups to Build 3 for 10am and Build 3 for 11:30am: Read and Write Questions for Community Partners. Write your questions and notes from their responses on the Build Google Doc for your class. Due at **beginning of class on Wed Oct 1st**, worth 5 points.
 
 ### Wed Oct 1   
-- Before class, read background materials and write questions for community partners and research assistants
-- 10am section
-  - Read TODO
-  - Write questions in Google Doc TODO
-  - Discuss questions with Melanie Strout from School + State Finance Project on Zoom, 10:40-11:15
-- 11:30 section
-  - Read TODO
-  - Write questions in Google Doc TODO
-  - Discuss questions with Alison MacDougall in person, TODO SET TIME
+- 10am section: Prepare to discuss your Build 3 questions with Melanie Strout from School + State Finance Project on Zoom, 10:10-10:40am
+- 11:30 section: Prepare to discuss your Build 3 questions with Melanie Wilde-Lane and Isabel Gonillo from CT Association of School Based Health Centers on Zoom, 11:40-12:10
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
   - Chart design principles and rules
   - Create bar/column, histogram, line, area charts
-- Assign random pairs to Build 4: Community Partner progress reports (TODO: specify). Start link to your co-authored Google Sheet, set to *anyone can view*, and insert on our Build doc. Due *Monday Oct 6th at 9pm*, worth 5 points.
-- Open this week's quiz on [Moodle](https://moodle.trincoll.edu)
+- Open this week's Meaningful Comparisons quiz on [Moodle](https://moodle.trincoll.edu)
 
 ### Mon Oct 6
 - Before class, [create a free account on Datawrapper](https://app.datawrapper.de/signin/).
@@ -239,13 +231,13 @@ Please notify me before our third class session, and [schedule an appointment on
   - Create annotated, range, scatter charts with Datawrapper
 - Hint: When publishing your visualization, always test if your work is visible to the public by pasting the link in a private incognito window in your browser OR a second browser, without being logged into your tool account.
 - In class: [Practice choosing the most appropriate chart type and design it](https://docs.google.com/spreadsheets/d/1-1XNZt4S0hLFLzzFMWYweHqq2gRRUbWu5Tfs5yuWoj4/edit?gid=843)
-- *Early start due to Trinity Days:* Open this week's Chart Your Data quiz, to be taken during any **3-hour period** before Suinday 9pm on [Moodle](https://moodle.trincoll.edu). **Plan ahead and budget your time** because it contains 5 show-your-work questions and may require more time than you have spent on prior quizzes. Start your quiz by Friday 12 noon if you wish to receive feedback for a second attempt. If you have questions, visit our TA's office hours or schedule an appointment on my calendar.
-
-### Wed Oct 8
-- Review Build 4 to prepare for next week's Progress Report meetings with community partners
 - [More practice for the challenging Chart Your Data quiz](https://docs.google.com/spreadsheets/d/1v-LHs2YBHRB19IDEB-Kp2dpa3AaM1CNrF16OiOktFlc/edit?gid=0#gid=0)
   - What type(s) of charts are most appropriate for this question?
   - What challenges did you encounter when creating your chart?
+- *Early start due to Trinity Days:* Open this week's Chart Your Data quiz, to be taken during any **3-hour period** before Sunday 9pm on [Moodle](https://moodle.trincoll.edu). **Plan ahead and budget your time** because it contains 5 show-your-work questions and may require more time than you have spent on prior quizzes. Start your quiz by Friday 12 noon if you wish to receive feedback for a second attempt. If you have questions, visit our TA's office hours or schedule an appointment on my calendar.
+
+### Wed Oct 8
+- Assign random pairs to Build 4: Community Partner progress reports (TODO). Start link to your co-authored Google Sheet, set to *anyone can comment*, and insert on our Build doc. Due *Sunday Oct 12th at 9pm*, same deadline as the quiz, worth 5 points. Get an early start due to Trinity Days.
 
 ### Mon Oct 13
 - No class - Trinity Days
