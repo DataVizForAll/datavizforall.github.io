@@ -200,27 +200,32 @@ Please notify me before our third class session, and [schedule an appointment on
 - New optional opportunity: [Sign up to walk to brief tour of Montessori Magnet School](https://forms.gle/8G6cgTPyYL5ZnSgJA) on Tuesday Sept 30th. Meet up 12:10pm outside Mather front entrance (rain or shine) and return in time for 1:30pm classes. Participants will automatically receive full credit for Quiz #8 later this semester.
 - Assign random pairs to [Build 2: Find, Question, and Clean Data](https://docs.google.com/document/d/1A1_T2ttIUXF93eCijMQtsOY6ORWGB6dOizdN_L-hH38/). Write responses in your co-authored and publicly shared Google Document, and include the link to your co-authored and publicly shared Google Sheet. Due Sunday Sept 28th at 9pm (same time as quiz, so plan ahead), worth 5 points.
 - Open this week's quiz on [Moodle](https://moodle.trincoll.edu)
-<!-- - Clean census town rows; pivot district tables; maybe match towns with and without districts? Or concatenate and geocode schools? Integrate into Build 3: CT Mirror article and why are there three layers of school districts in CT? Also, why do some school districts (magnets and charters) do not appear on these maps? -->
 
 ### Mon Sept 29
-- Review Build 2
+- Last chance to [sign up for tour of Montessori Magnet School](https://forms.gle/8G6cgTPyYL5ZnSgJA) on Tuesday Sept 30th, meet 12:10pm outside of Mather front door. See [list of participants](https://docs.google.com/spreadsheets/d/1rrmoHzSYOe8Y5BeEKHjVFOEfcKsm55r6ZJ-NiG5Hfgg/edit?usp=sharing)
+- Brief review of Clean Quiz: [Practice matching data for next quiz](https://docs.google.com/spreadsheets/d/1CU9fv3VrXuNWysuHdyZEkyMKQ8SZp-HV8JYR7HaD81o/edit?gid=0#gid=0) and read the [XLOOKUP chapter](https://handsondataviz.org/xlookup.html)
+- Feedback on Build 2 will be delivered before Wednesday's class
 - Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
   - The big question: "Compared to what?"
   - Decipher common US phrases: "apples-to-apples comparison" and "don't cherry-pick your data"
-  - Practice how to Precisely describe comparisons [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
+  - Practice how to precisely describe comparisons [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
   - Normalize your data
   - Beware of biased comparisons
 - Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period before Sun 9pm on [Moodle](https://moodle.trincoll.edu)
-- Assign random groups to Build 3 for 10am and Build 3 for 11:30am: Read and Write Questions for Community Partners. Write your questions and notes from their responses on the Build Google Doc for your class. Due at **beginning of class on Wed Oct 1st**, worth 5 points.
+- Assign random groups to Build 3: Read and Write Thoughtful Questions for Community partners
+  - [Build 3 for 10am](https://docs.google.com/document/d/1tGYXI3cP55Tnx8Hp7M7H4fRs4X7TZIshgYh0ak9kiBU/)
+  - [Build 3 for 11:30am](https://docs.google.com/document/d/1XXxnUlpwUebCIAYMBr8BTADNfVCIJIxTJs-nb6_d7BY/)
+  - Write your questions as suggestions on the Google Doc, due at **beginning of class on Wed Oct 1st**, worth 5 points.
 
 ### Wed Oct 1   
-- 10am section: Prepare to discuss your Build 3 questions with Melanie Strout from School + State Finance Project on Zoom, 10:10-10:40am
-- 11:30 section: Prepare to discuss your Build 3 questions with Melanie Wilde-Lane and Isabel Gonillo from CT Association of School Based Health Centers on Zoom, 11:40-12:10
+- [10am section Build 3](https://docs.google.com/document/d/1tGYXI3cP55Tnx8Hp7M7H4fRs4X7TZIshgYh0ak9kiBU/): Prepare to discuss your questions with Melanie Strout from School + State Finance Project on Zoom, 10:10-10:40am
+- [11:30 section Build 3](https://docs.google.com/document/d/1XXxnUlpwUebCIAYMBr8BTADNfVCIJIxTJs-nb6_d7BY/): Prepare to discuss **selected** questions with Melanie Wilde-Lane and Isabel Gonillo from CT Association of School Based Health Centers on Zoom, 11:40-12:10
+- Open this week's Meaningful Comparisons quiz on [Moodle](https://moodle.trincoll.edu)
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
   - Chart design principles and rules
   - Create bar/column, histogram, line, area charts
-- Open this week's Meaningful Comparisons quiz on [Moodle](https://moodle.trincoll.edu)
+
 
 ### Mon Oct 6
 - Before class, [create a free account on Datawrapper](https://app.datawrapper.de/signin/).
@@ -238,6 +243,7 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Wed Oct 8
 - Assign random pairs to Build 4: Community Partner progress reports (TODO). Start link to your co-authored Google Sheet, set to *anyone can comment*, and insert on our Build doc. Due *Sunday Oct 12th at 9pm*, same deadline as the quiz, worth 5 points. Get an early start due to Trinity Days.
+<!-- - Clean census town rows; pivot district tables; maybe match towns with and without districts? Or concatenate and geocode schools? Integrate into Build 3: CT Mirror article and why are there three layers of school districts in CT? Also, why do some school districts (magnets and charters) do not appear on these maps? -->
 
 ### Mon Oct 13
 - No class - Trinity Days
