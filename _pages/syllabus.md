@@ -220,6 +220,7 @@ Please notify me before our third class session, and [schedule an appointment on
 ### Wed Oct 1   
 - [10am section Build 3](https://docs.google.com/document/d/1tGYXI3cP55Tnx8Hp7M7H4fRs4X7TZIshgYh0ak9kiBU/): Prepare to discuss your questions with Melanie Strout from School + State Finance Project on Zoom, 10:10-10:40am
 - [11:30 section Build 3](https://docs.google.com/document/d/1XXxnUlpwUebCIAYMBr8BTADNfVCIJIxTJs-nb6_d7BY/): Prepare to discuss **selected** questions with Melanie Wilde-Lane and Isabel Gonillo from CT Association of School Based Health Centers on Zoom, 11:40-12:10
+- TA Nellie shares [DataViz XLOOKUP Practice to help prepare for the quiz](https://docs.google.com/spreadsheets/d/1_zaYF0WlJ_nT-jWpXj3pz-vS8W1t1sRcIGD7yNHDGg0/edit?gid=0#gid=0) -- insert formulas to match and fill all three empty columns on the first sheet, using data from other sheets
 - Open this week's Meaningful Comparisons quiz on [Moodle](https://moodle.trincoll.edu)
 - Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
