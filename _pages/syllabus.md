@@ -227,19 +227,16 @@ Please notify me before our third class session, and [schedule an appointment on
   - Chart design principles and rules
   - Create bar/column, histogram, line, area charts
 
-
 ### Mon Oct 6
 - Before class, [create a free account on Datawrapper](https://app.datawrapper.de/signin/).
-<!-- - Review: [Compare student strategies on Covid normalization question](https://docs.google.com/spreadsheets/d/1NXhqBZKQHu_rt7UF3IvhJ7YoQ3fyzQ-TiNLfxqK0y-U/edit#gid=0) -->
+- Review: [Compare student strategies on Covid normalization question](https://docs.google.com/spreadsheets/d/1NXhqBZKQHu_rt7UF3IvhJ7YoQ3fyzQ-TiNLfxqK0y-U/edit#gid=0)
 - Continue overview of Learning Goal #5: Chart Your Data. Finish reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
-  - Compare Datawrapper versus Google Charts
-  - Review line versus area charts with Datawrapper
-  - Create annotated, range, scatter charts with Datawrapper
-- Hint: When publishing your visualization, always test if your work is visible to the public by pasting the link in a private incognito window in your browser OR a second browser, without being logged into your tool account.
-- In class: [Practice choosing the most appropriate chart type and design it](https://docs.google.com/spreadsheets/d/1-1XNZt4S0hLFLzzFMWYweHqq2gRRUbWu5Tfs5yuWoj4/edit?gid=843)
-- [More practice for the challenging Chart Your Data quiz](https://docs.google.com/spreadsheets/d/1v-LHs2YBHRB19IDEB-Kp2dpa3AaM1CNrF16OiOktFlc/edit?gid=0#gid=0)
-  - What type(s) of charts are most appropriate for this question?
-  - What challenges did you encounter when creating your chart?
+  - Create histograms in Google Charts
+  - Compare line and area charts in Google vs Datawrapper
+  - Create annotated, range, scatter charts in Datawrapper
+- Hint: When publishing your visualization, always test if your work is visible to the public by pasting the link in a private incognito window in your browser, OR a second browser, without being logged into your tool account.
+- [Practice choosing the most appropriate chart type and design it](https://docs.google.com/spreadsheets/d/1-1XNZt4S0hLFLzzFMWYweHqq2gRRUbWu5Tfs5yuWoj4/edit?gid=843)
+- [Another practice chart type with hidden data cleaning](https://docs.google.com/spreadsheets/d/1v-LHs2YBHRB19IDEB-Kp2dpa3AaM1CNrF16OiOktFlc/edit?gid=0#gid=0)
 - *Early start due to Trinity Days:* Open this week's Chart Your Data quiz, to be taken during any **3-hour period** before Sunday 9pm on [Moodle](https://moodle.trincoll.edu). **Plan ahead and budget your time** because it contains 5 show-your-work questions and may require more time than you have spent on prior quizzes. Start your quiz by Friday 12 noon if you wish to receive feedback for a second attempt. If you have questions, visit our TA's office hours or schedule an appointment on my calendar.
 
 ### Wed Oct 8
