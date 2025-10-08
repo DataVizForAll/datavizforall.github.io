@@ -240,8 +240,8 @@ Please notify me before our third class session, and [schedule an appointment on
 - *Early start due to Trinity Days:* Open this week's Chart Your Data quiz, to be taken during any **3-hour period** before Sunday 9pm on [Moodle](https://moodle.trincoll.edu). **Plan ahead and budget your time** because it contains 5 show-your-work questions and may require more time than you have spent on prior quizzes. Start your quiz by Friday 12 noon if you wish to receive feedback for a second attempt. If you have questions, visit our TA's office hours or schedule an appointment on my calendar.
 
 ### Wed Oct 8
-- Assign random pairs to Build 4: Community Partner progress reports (TODO). Start link to your co-authored Google Sheet, set to *anyone can comment*, and insert on our Build doc. Due *Sunday Oct 12th at 9pm*, same deadline as the quiz, worth 5 points. Get an early start due to Trinity Days.
-<!-- - Clean census town rows; pivot district tables; maybe match towns with and without districts? Or concatenate and geocode schools? Integrate into Build 3: CT Mirror article and why are there three layers of school districts in CT? Also, why do some school districts (magnets and charters) do not appear on these maps? -->
+- Any questions about chart practice exercises above?
+- Assign random pairs to [Build 4 for 10am section](https://docs.google.com/document/d/1OyvJBfKGoLL36YKqFGQ7wV4XTpOk-m3IkeAkZ6OFdZ0/edit?tab=t.0) and [Build 4 for 11:30am section](https://docs.google.com/document/d/1r5hgzjbEvvbnkzL9s9BPJswPT00QMpWVSyEGDT6Lq0U/edit?tab=t.0): Community Partner progress reports (TODO). Start link to your co-authored Google Sheet, set to *anyone can comment*, and insert on our Build doc. Due *Sunday Oct 12th at 9pm*, same deadline as the quiz, worth 5 points. Get an early start due to Trinity Days.
 
 ### Mon Oct 13
 - No class - Trinity Days
@@ -250,6 +250,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - Review Progress Reports with Community Partners
   - 10am section: School+State Finance Project on Zoom, 10:15-11am
   - 11:30 section: CT Association of School Based Health Centers on Zoom, 11:45-12:30
+<!-- - Clean census town rows; pivot district tables; maybe match towns with and without districts? Or concatenate and geocode schools? Integrate into Build 3: CT Mirror article and why are there three layers of school districts in CT? Also, why do some school districts (magnets and charters) do not appear on these maps? -->
 - Brief review of Chart Quiz
 <!-- - Spot the problem in [sample 1](https://docs.google.com/spreadsheets/d/1MykF4K1WIZYftVS2-dIFAUM7g783PyfOKZSTLYkxwzw/edit?gid=0#gid=0) and [sample 2](https://docs.google.com/spreadsheets/d/1FXt7Zy32s9h6r7Gh1eHv-AtmKEF2KOkFOjnBqe8CmLo/edit?gid=0#gid=0) and [sample 3](https://docs.google.com/spreadsheets/d/1PrFI7oju8cDG1hmibR-a2WnIaQFmO4eAP3vy-djE2-I/edit?gid=0#gid=0) -->
 - No Moodle quiz this weekend
