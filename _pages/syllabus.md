@@ -247,13 +247,15 @@ Please notify me before our third class session, and [schedule an appointment on
 - No class - Trinity Days
 
 ### Wed Oct 15
-- Review Progress Reports with Community Partners
-  - 10am section: School+State Finance Project on Zoom, 10:15-11am
-  - 11:30 section: CT Association of School Based Health Centers on Zoom, 11:45-12:30
-<!-- - Clean census town rows; pivot district tables; maybe match towns with and without districts? Or concatenate and geocode schools? Integrate into Build 3: CT Mirror article and why are there three layers of school districts in CT? Also, why do some school districts (magnets and charters) do not appear on these maps? -->
-- Brief review of Chart Quiz
-<!-- - Spot the problem in [sample 1](https://docs.google.com/spreadsheets/d/1MykF4K1WIZYftVS2-dIFAUM7g783PyfOKZSTLYkxwzw/edit?gid=0#gid=0) and [sample 2](https://docs.google.com/spreadsheets/d/1FXt7Zy32s9h6r7Gh1eHv-AtmKEF2KOkFOjnBqe8CmLo/edit?gid=0#gid=0) and [sample 3](https://docs.google.com/spreadsheets/d/1PrFI7oju8cDG1hmibR-a2WnIaQFmO4eAP3vy-djE2-I/edit?gid=0#gid=0) -->
-- No Moodle quiz this weekend
+- Prepare to Review and Discuss Progress Reports with Community Partners
+  - [10am Build 4](https://docs.google.com/document/d/1OyvJBfKGoLL36YKqFGQ7wV4XTpOk-m3IkeAkZ6OFdZ0/edit?tab=t.0): School+State Finance Project on Zoom, 10:15-11am
+  - [11:30 Build 4](https://docs.google.com/document/d/1r5hgzjbEvvbnkzL9s9BPJswPT00QMpWVSyEGDT6Lq0U/edit?tab=t.0): CT Association of School Based Health Centers on Zoom, 11:45-12:30
+- Build 4 was the last randomized-pair assignment. Start thinking about potential partners and topic preferences for final projects (Builds 5-8), which you will request soon. Working in duos is strongly encouraged and priority will be given to students who wish to partner with another student. No more than two students per team, but some research questions can be split for coordinated separate teams (working on related questions and data, but graded separately). While you can choose to work solo, you will be held to the same expectations as a duo.
+- Brief review of Chart Quiz: Can you spot the problem?
+  - [sample 1](https://docs.google.com/spreadsheets/d/1MykF4K1WIZYftVS2-dIFAUM7g783PyfOKZSTLYkxwzw/edit?gid=0#gid=0)
+  - [sample 2](https://docs.google.com/spreadsheets/d/1FXt7Zy32s9h6r7Gh1eHv-AtmKEF2KOkFOjnBqe8CmLo/edit?gid=0#gid=0)
+  - [sample 3](https://docs.google.com/spreadsheets/d/1PrFI7oju8cDG1hmibR-a2WnIaQFmO4eAP3vy-djE2-I/edit?gid=0#gid=0)
+- No Moodle quiz this weekend! Instead, schedule time with Nellie or me to strengthen your chart skills before we start map skills next week
 
 ### Mon Oct 20
 - Overview of Learning Goal #6: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
