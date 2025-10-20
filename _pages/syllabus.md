@@ -261,7 +261,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - Overview of Learning Goal #6: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
   - Map types: locator point and symbol point (choropleth will be in the next class)
   - Map design principles and rules
-  - Practice using Datawrapper to create locator point and symbol point maps - TODO
+  - [Share links to your practice maps](https://docs.google.com/document/d/1bKLZ73BN4UVhcD8mcXN5996iUg-HoZ-i4G5119ZxtJQ/edit?tab=t.0)
 
 ### Wed Oct 22
 - Continue overview of Learning Goal #6: Map Your Data, <https://handsondataviz.org/map.html>
