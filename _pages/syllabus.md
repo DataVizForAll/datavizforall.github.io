@@ -268,7 +268,13 @@ Please notify me before our third class session, and [schedule an appointment on
   - Map type: choropleth (colored polygons)  
   - Map design: choropleth colors and intervals
   - Normalize choropleth map data
-- Practice using Datawrapper to create choropleth maps - TODO
+- Practice creating meaningful choropleth maps and prep for the quiz:
+  - Go to [Social Explorer on Trinity Library network](https://courseguides.trincoll.edu/socialexplorer) and note that home page changed slightly
+  - Sidebar Menu > Data Library > ACS 5-year Estimates > Begin Report - see [notes in Build 1 page 2](https://docs.google.com/document/d/1swCdBOOu7a9dhThMV6INB6sgo_C9c4XxzNC-tjCny3w/edit?tab=t.0)
+  - Download any data for CT Towns (county subdivisions) and clean it - see [notes in Build 2 page 2](https://docs.google.com/document/d/1A1_T2ttIUXF93eCijMQtsOY6ORWGB6dOizdN_L-hH38/edit?tab=t.0)
+  - Connect your public Google Sheet to Datawrapper and select Connecticut Towns background map
+  - Explore ways to orient readers and draw their attention to meaningful patterns in map data
+  - [Share links to your practice maps](https://docs.google.com/document/d/1bKLZ73BN4UVhcD8mcXN5996iUg-HoZ-i4G5119ZxtJQ/edit?tab=t.0)
 - Prepare for **3-hour** Map your Data quiz, due Sunday 9pm on [Moodle](https://moodle.trincoll.edu). Start by Fri 12 noon to receive feedback in time for a second attempt.
 - Open this week's quiz on [Moodle](https://moodle.trincoll.edu)
 
@@ -314,6 +320,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - In-class workshop time to find, clean, and organize data for Builds 5-8, and small team meetings with instructors
 
 ### Mon Nov 10
+- for 11:30am section: Brief Zoom introduction with guest evaluator [Victoria Asfalg, Trinity '23, former TA for DataViz class, currently Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
 - Preview of Build 8 format and evaluation criteria:
   - 1) How well does the data story answer the assigned question(s) and explain why it matters?
   - 2) How well designed are the visualizations to draw true and meaningful insights from data?
