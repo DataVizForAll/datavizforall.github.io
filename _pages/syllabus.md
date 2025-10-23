@@ -56,7 +56,7 @@ In this course you will demonstrate the knowledge and skills you have developed 
 4. Make Meaningful Comparisons
 5. Chart Your Data
 6. Map Your Data
-7. Transform Your Map Data
+7. Tables and Transform Data
 8. Edit and Host Leaflet Code on GitHub
 9. Detect Lies and Reduce Bias
 10. Try Advanced Map Templates
@@ -280,13 +280,29 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Mon Oct 27
 <!-- - Review [sample question on Map quiz](https://docs.google.com/document/d/14KeOwPqpFaPtc-5PW8ETfn1d0ksDFKtawf-XGPdauGo/edit?tab=t.0) -- which steps in the process were most likely to go wrong? -->
-- Overview of Learning Goal #7: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
+- Overview of Learning Goal #7: Tables and Transform Data
+- Start reading HODV Chapter 8 <https://handsondataviz.org/table.html>
+  - Table Design principles
+  - Interactive table design in Datawrapper
+  - Practice creating an interactive table with [selected magnet school data](https://docs.google.com/spreadsheets/d/1VekoY1i9YCNeNNcSTnjlzm2QSu0Uucc-IL9syXk9d48/edit?gid=1503673742#gid=1503673742)
+- Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
-  - Find existing GeoJSON boundary maps with [Gimme Geodata](https://hanshack.com/geotools/)
-  - View or draw a simple GeoJSON boundary with [GeoJSON.io](https://geojson.io)
-  - Edit and transform existing GeoJSON boundary with [Mapshaper.org](https://mapshaper.org)
-    - To create a customized background map: Tutorial [Download and Edit CT Towns for Datawrapper Custom GeoJSON Map](https://docs.google.com/document/d/1LaMwOr-B_sW0_XVOQtG1_4wZFOMmrsG2kuPUD51fHhA/edit) - update TODO
-    <!-- - To match latitude-longitude points with their census tract polygons: Tutorial [Join Points to Polygons with Mapshaper](https://handsondataviz.org/mapshaper.html#join-points-with-polygon-map) -->
+  - Draw and export a simple GeoJSON boundary with [GeoJSON.io](https://geojson.io)
+  - Upload a simple GeoJSON boundary into a Datawrapper Locator map > Import line and area markers
+  - Download an existing GeoJSON boundary from <https://geodata.ct.gov>, such as [CT Senate Districts 2025](https://geodata.ct.gov/datasets/21e112d662af4d1baca8dcede14f0f89_0/explore)
+  - Upload your CT GeoJSON boundary to inspect and edit in [Mapshaper.org](https://mapshaper.org)
+  - File > Download as CSV the [first Google Sheet of selected magnet school data](https://docs.google.com/spreadsheets/d/1VekoY1i9YCNeNNcSTnjlzm2QSu0Uucc-IL9syXk9d48/edit?gid=1503673742#gid=1503673742)
+  - Simplify and rename your download to `magnets.csv`
+  - Upload your renamed CSV as a second layer in Mapshaper
+  - Question: Which points match which polygons? Answer: Join both layers in Mapshaper
+    - Open the Console command screen in Mapshaper
+    - Convert CSV layer to map points with command: `points x=Longitude y=Latitude`
+    - Ensure that points have proper map projection: `proj wgs84`
+    - View both layers using dropdown menu > click eye for each layer
+    - Select `magnets` layer and type exactly: `join CT_Senate_Districts fields="DistrictN"`
+    - Inspect your points. What new information does each contain?
+    - Export > select updated `magnets` layer > CSV, rename to `magnets-senate-districts.csv`
+    - Create a pivot table: How many magnet schools are located in each CT Senate District (aka DistrictN)? Hint: Total count of magnets in this sheet = 45 
 - Open the **first of two quizzes** this week, to be completed during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 - Start thinking about your preferences for final projects (Builds 5-8). Working in duos is strongly encouraged and priority will be given to students who wish to partner with another student. No more than two students per team, but some projects can be divided into coordinated separate teams (working on related questions and data, but graded separately). While you can choose to work solo, you will be held to the same expectations as a duo.
 
