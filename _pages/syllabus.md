@@ -302,12 +302,12 @@ Please notify me before our third class session, and [schedule an appointment on
     - Select `magnets` layer and type exactly: `join CT_Senate_Districts fields="DistrictN"`
     - Inspect your points. What new information does each contain?
     - Export > select updated `magnets` layer > CSV, rename to `magnets-senate-districts.csv`
-    - Create a pivot table: How many magnet schools are located in each CT Senate District (aka DistrictN)? Hint: Total count of magnets in this sheet = 45 
+    - Create a pivot table: How many magnet schools are located in each CT Senate District (aka DistrictN)? Hint: Total count of magnets in this sheet = 45
 - Open the **first of two quizzes** this week, to be completed during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 - Start thinking about your preferences for final projects (Builds 5-8). Working in duos is strongly encouraged and priority will be given to students who wish to partner with another student. No more than two students per team, but some projects can be divided into coordinated separate teams (working on related questions and data, but graded separately). While you can choose to work solo, you will be held to the same expectations as a duo.
 
 ### Wed Oct 29
-- Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future.
+- Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future. [Share your GitHub web address in this quick Google Form](https://forms.gle/mDMCUCwrZd5Tbvmy6)
 - Overview of Learning Goal #8: Edit and Host Leaflet Code on GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
   - Analogy: GitHub Code Repository is like a public cookbook of recipes that you can modify, and GitHub Pages is like an oven that bakes your code into working public websites. See also [Recipe for Jack's Semi-Famous Pumpkin Chocolate Chip Cookies on GitHub](https://github.com/JackDougherty/pumpkin-choc-chip)
   - Learn in class: Copy, Edit, and Host a Simple Leaflet Map
