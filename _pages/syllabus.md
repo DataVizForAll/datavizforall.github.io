@@ -279,6 +279,10 @@ Please notify me before our third class session, and [schedule an appointment on
 - Open this week's quiz on [Moodle](https://moodle.trincoll.edu)
 
 ### Mon Oct 27
+- Brief review of Map quiz (grading almost done and will be finished later today)
+ - [Why is this a poorly-designed map](https://www.datawrapper.de/_/iDPFk/)?
+ - Best way to [visualize the relationship between two data columns](https://docs.google.com/spreadsheets/d/1LkOg45TvCjiNRpMOzpfgRuhBWY1LWB_sHy_9fI1jArs/edit?gid=18221044#gid=18221044)? How to interpret results?
+ - Best way to [visualize Hartford-area magnet schools, with their enrollments and districts](https://docs.google.com/spreadsheets/d/1VekoY1i9YCNeNNcSTnjlzm2QSu0Uucc-IL9syXk9d48/edit?gid=1503673742#gid=1503673742)?
 - Overview of Learning Goal #7: Tables and Transform Data
 - Start reading HODV Chapter 8 <https://handsondataviz.org/table.html>
   - Table Design principles
@@ -289,7 +293,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - Draw and export a simple GeoJSON boundary with [GeoJSON.io](https://geojson.io)
   - Upload a simple GeoJSON boundary into a Datawrapper Locator map > Import line and area markers
   - Download an existing GeoJSON boundary from <https://geodata.ct.gov>, such as [CT Senate Districts 2025](https://geodata.ct.gov/datasets/21e112d662af4d1baca8dcede14f0f89_0/explore)
-  - Upload your CT GeoJSON boundary to inspect and edit in [Mapshaper.org](https://mapshaper.org)
+  - Upload your CT GeoJSON boundary to inspect features and edit in [Mapshaper.org](https://mapshaper.org)
   - File > Download as CSV the [first Google Sheet of selected magnet school data](https://docs.google.com/spreadsheets/d/1VekoY1i9YCNeNNcSTnjlzm2QSu0Uucc-IL9syXk9d48/edit?gid=1503673742#gid=1503673742)
   - Simplify and rename your download to `magnets.csv`
   - Upload your renamed CSV as a second layer in Mapshaper
@@ -304,9 +308,6 @@ Please notify me before our third class session, and [schedule an appointment on
     - Create a pivot table: How many magnet schools are located in each CT Senate District (aka DistrictN)? Hint: Total count of magnets in this sheet = 45
 - Open the **first of two quizzes** this week, to be completed during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 - Start thinking about your preferences for final projects (Builds 5-8). Working in duos is strongly encouraged and priority will be given to students who wish to partner with another student. No more than two students per team, but some projects can be divided into coordinated separate teams (working on related questions and data, but graded separately). While you can choose to work solo, you will be held to the same expectations as a duo.
-- Brief review of Map quiz:
-  - Why is [this a poorly-designed map](https://www.datawrapper.de/_/iDPFk/)?
-  - Best way to [visualize the relationship between two data columns](https://docs.google.com/spreadsheets/d/1LkOg45TvCjiNRpMOzpfgRuhBWY1LWB_sHy_9fI1jArs/edit?gid=18221044#gid=18221044)? How to interpret results?
 
 ### Wed Oct 29
 - Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future. [Share your GitHub web address in this quick Google Form](https://forms.gle/mDMCUCwrZd5Tbvmy6)
