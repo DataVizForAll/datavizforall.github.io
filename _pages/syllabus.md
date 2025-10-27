@@ -279,7 +279,6 @@ Please notify me before our third class session, and [schedule an appointment on
 - Open this week's quiz on [Moodle](https://moodle.trincoll.edu)
 
 ### Mon Oct 27
-<!-- - Review [sample question on Map quiz](https://docs.google.com/document/d/14KeOwPqpFaPtc-5PW8ETfn1d0ksDFKtawf-XGPdauGo/edit?tab=t.0) -- which steps in the process were most likely to go wrong? -->
 - Overview of Learning Goal #7: Tables and Transform Data
 - Start reading HODV Chapter 8 <https://handsondataviz.org/table.html>
   - Table Design principles
@@ -305,6 +304,9 @@ Please notify me before our third class session, and [schedule an appointment on
     - Create a pivot table: How many magnet schools are located in each CT Senate District (aka DistrictN)? Hint: Total count of magnets in this sheet = 45
 - Open the **first of two quizzes** this week, to be completed during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 - Start thinking about your preferences for final projects (Builds 5-8). Working in duos is strongly encouraged and priority will be given to students who wish to partner with another student. No more than two students per team, but some projects can be divided into coordinated separate teams (working on related questions and data, but graded separately). While you can choose to work solo, you will be held to the same expectations as a duo.
+- Brief review of Map quiz:
+  - Why is [this a poorly-designed map](https://www.datawrapper.de/_/iDPFk/)?
+  - Best way to [visualize the relationship between two data columns](https://docs.google.com/spreadsheets/d/1LkOg45TvCjiNRpMOzpfgRuhBWY1LWB_sHy_9fI1jArs/edit?gid=18221044#gid=18221044)? How to interpret results?
 
 ### Wed Oct 29
 - Before class: create a free account on [Github](https://github.com). Use a relatively short or simple username that you may wish to share professionally in the future. [Share your GitHub web address in this quick Google Form](https://forms.gle/mDMCUCwrZd5Tbvmy6)
