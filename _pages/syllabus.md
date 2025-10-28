@@ -280,9 +280,9 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Mon Oct 27
 - Brief review of Map quiz (grading almost done and will be finished later today)
- - [Why is this a poorly-designed map](https://www.datawrapper.de/_/iDPFk/)?
- - Best way to [visualize the relationship between two data columns](https://docs.google.com/spreadsheets/d/1LkOg45TvCjiNRpMOzpfgRuhBWY1LWB_sHy_9fI1jArs/edit?gid=18221044#gid=18221044)? How to interpret results?
- - Best way to [visualize Hartford-area magnet schools, with their enrollments and districts](https://docs.google.com/spreadsheets/d/1VekoY1i9YCNeNNcSTnjlzm2QSu0Uucc-IL9syXk9d48/edit?gid=1503673742#gid=1503673742)?
+  - [Why is this a poorly-designed map](https://www.datawrapper.de/_/iDPFk/)?
+  - Best way to [visualize the relationship between two data columns](https://docs.google.com/spreadsheets/d/1LkOg45TvCjiNRpMOzpfgRuhBWY1LWB_sHy_9fI1jArs/edit?gid=18221044#gid=18221044)? How to interpret results?
+  - Best way to [visualize Hartford-area magnet schools, with their enrollments and districts](https://docs.google.com/spreadsheets/d/1VekoY1i9YCNeNNcSTnjlzm2QSu0Uucc-IL9syXk9d48/edit?gid=1503673742#gid=1503673742)?
 - Overview of Learning Goal #7: Tables and Transform Data
 - Start reading HODV Chapter 8 <https://handsondataviz.org/table.html>
   - Table Design principles
@@ -305,7 +305,7 @@ Please notify me before our third class session, and [schedule an appointment on
     - Select `magnets` layer and type exactly: `join CT_Senate_Districts fields="DistrictN"`
     - Inspect your points. What new information does each contain?
     - Export > select updated `magnets` layer > CSV, rename to `magnets-senate-districts.csv`
-    - Create a pivot table: How many magnet schools are located in each CT Senate District (aka DistrictN)? Hint: Total count of magnets in this sheet = 45
+    - Answer this question by creating a pivot table: How many magnet schools are located in each CT Senate District (aka DistrictN)? Hint: Total count of magnets in this sheet = 45
 - Open the **first of two quizzes** this week, to be completed during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
 - Start thinking about your preferences for final projects (Builds 5-8). Working in duos is strongly encouraged and priority will be given to students who wish to partner with another student. No more than two students per team, but some projects can be divided into coordinated separate teams (working on related questions and data, but graded separately). While you can choose to work solo, you will be held to the same expectations as a duo.
 
