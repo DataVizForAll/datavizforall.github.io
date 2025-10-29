@@ -315,7 +315,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - Analogy: GitHub Code Repository is like a public cookbook of recipes that you can modify, and GitHub Pages is like an oven that bakes your code into working public websites. See also [Recipe for Jack's Semi-Famous Pumpkin Chocolate Chip Cookies on GitHub](https://github.com/JackDougherty/pumpkin-choc-chip)
   - Learn in class: Copy, Edit, and Host a Simple Leaflet Map
 - Open the **second of two quizzes this week**, to be completed during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu). Reminder: students who participated in a school tour earlier this fall automatically receive full credit for quiz #8.
-- Submit your final project preferences (Builds 5-8) in a Google Form (TODO). Preference will be given to students who choose to partner and list each other's names, with final decisions made by the instructor to balance numbers.
+- Read [updated list of research questions for Builds 5-8](https://docs.google.com/document/d/1FmRm9mtP4sNWoMrli0Y0L8D45aX1lrnq-EV1mrwhzpM/edit?tab=t.0) and [submit your preferred topics and partners in this Google Form](https://forms.gle/7Fc2HYv7Jd224SyG6) before the end of the day. Priority will be given to students who choose to partner and list each other's names, with final decisions made by the instructor to balance numbers.
 
 ### Mon Nov 3
 <!-- - Brief review with TA: GitHub code repo link vs. GitHub Pages live link -->
