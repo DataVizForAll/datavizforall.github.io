@@ -58,9 +58,9 @@ In this course you will demonstrate the knowledge and skills you have developed 
 6. Map Your Data
 7. Tables and Transform Data
 8. Edit and Host Leaflet Code on GitHub
-9. Detect Lies and Reduce Bias
-10. Try Advanced Map Templates
-11. Tell and Show Your Data Story
+9. Tell and Show Your Data Story
+10. Detect Lies and Reduce Bias
+11. Try Advanced Map Templates
 12. Embed on the Web
 
 Your progress toward these learning goals will be assessed in three ways:
@@ -318,65 +318,63 @@ Please notify me before our third class session, and [schedule an appointment on
 - Read [updated list of research questions for Builds 5-8](https://docs.google.com/document/d/1FmRm9mtP4sNWoMrli0Y0L8D45aX1lrnq-EV1mrwhzpM/edit?tab=t.0) and [submit your preferred topics and partners in this Google Form](https://forms.gle/7Fc2HYv7Jd224SyG6) before the end of the day. Priority will be given to students who choose to partner and list each other's names, with final decisions made by the instructor to balance numbers.
 
 ### Mon Nov 3
-<!-- - Brief review with TA: GitHub code repo link vs. GitHub Pages live link -->
-- Overview of Learning Goal #9: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
+- Looking ahead at our remaining 5 weeks, and minor syllabus modifications
+- View your assigned [Research Questions for Builds 5-8](https://docs.google.com/document/d/1FmRm9mtP4sNWoMrli0Y0L8D45aX1lrnq-EV1mrwhzpM/edit?usp=sharing), based on your preferences and my need to balance numbers
+- What stands out when you skim a [data story by a past student](https://datavizforall.org/partners-projects/)?
+  - [Is Child Care Really Affordable in Connecticut Towns?](https://datavizforall.org/childcare-ruthfield-conklin/) by Josh Ruthfield and Nellie Conklin, last updated Feb 2024
+  - [Crashes at Major Hartford Intersections in 2018-2022](https://datavizforall.org/hartford-cruz-rodriguez/), by Jess Cruz and Mia Rodriguez, last updated April 2023
+  - [Neighborhoods Where Hartford Habitat Has Built Homes And Why It Matters: Examining Opportunity and Income in Census Tracts](https://datavizforall.org/habitat-asfalg-nichols/) by Victoria Asfalg and Riley Nichols, last updated Dec 2021
+- Overview of Learning Goal #9: Tell and Show Your Data Story. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
+  - Build Narrative on a Storyboard
+  - Draw Attention to Meaning
+  - Acknowledge Sources and Uncertainty
+- What data storytelling methods does Rose Mintzer-Sweeney recommend in her [Datawrapper: Fix My Chart posts](https://www.datawrapper.de/blog/category/fix-my-chart)?
+    - [Simple Data post](https://www.datawrapper.de/blog/fix-my-chart-simple-data)
+    - [Sequential Storytelling post](https://www.datawrapper.de/blog/fix-my-chart-sequential-storytelling)
+    - [Text Elements post](https://www.datawrapper.de/blog/fix-my-chart-text-elements)
+- Assign Build 5: [Plan and Sketch Your Data Story](https://docs.google.com/document/d/1tofQ2K2AdsPjdV3kSAYIoWgWK50yEOv4PMoRNOgkzeE/edit?tab=t.0) instead of a quiz for this learning goal. Before leaving the room, start your co-authored Google Doc, shared so that *anyone can comment*, and insert your link. Due by **Sunday Nov 9th 9pm**, worth 5 points.
+
+### Wed Nov 5
+- Overview of Learning Goal #10: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
   - How to Lie with Charts
   - How to Lie with Maps
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
-- Overview of Learning Goal #10: Try Advanced Map Templates
+- Open Detect quiz, to be completed during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
+- Overview of Learning Goal #11: Try Advanced Map Templates
   - What do you notice about the map in this article? Sasha Allen, "What CT school districts would feel federal cuts the most?" CT Mirror, July 18, 2025, <https://ctmirror.org/2025/07/18/ct-school-districts-education-funding-cuts/>
-  - Datawrapper Academy, [How to use HTML & CSS in Datawrapper](https://academy.datawrapper.de/article/304-how-to-use-html-css-in-datawrapper) and [How to add tabs and drop-downs to your visualizations](https://academy.datawrapper.de/article/305-how-to-add-tabs-and-drop-downs)
-  - TODO tutorial
-- Open **two quizzes this week**, #9 and #10, **both due earlier than normal on Thursday Nov 6 by 9pm** on [Moodle](https://moodle.trincoll.edu)
-
-### Wed Nov 5
-- Overview of Learning Goal #11: Tell and Show Your Data Story. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
-  - Build Narrative on a Storyboard
-  - Draw Attention to Meaning
-  - Acknowledge Sources and Uncertainty
-- Assign Build 5: Plan and Sketch Your Data Story by designated duos/solos, instead of a quiz for this learning goal. Before leaving the room, start your co-authored Google Doc, shared so that *anyone can comment*, and insert your link. Due by **Monday Nov 10th 9pm**, worth 5 points.
-- In-class workshop time to find, clean, and organize data for Builds 5-8, and small team meetings with instructors
+  - TODO tutorial, based on Datawrapper Academy, [How to use HTML & CSS in Datawrapper](https://academy.datawrapper.de/article/304-how-to-use-html-css-in-datawrapper) and [How to add tabs and drop-downs to your visualizations](https://academy.datawrapper.de/article/305-how-to-add-tabs-and-drop-downs)
+  - Good news: There is no quiz for Advanced Map Templates, and everyone automatically receives full credit for trying
 
 ### Mon Nov 10
 - for 11:30am section: Brief Zoom introduction with guest evaluator [Victoria Asfalg, Trinity '23, former TA for DataViz class, currently Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
-- Preview of Build 8 format and evaluation criteria:
+- Evaluation criteria for Builds 6-8:
   - 1) How well does the data story answer the assigned question(s) and explain why it matters?
   - 2) How well designed are the visualizations to draw true and meaningful insights from data?
   - 3) How clearly does the story describe key steps in the process and cautions about data?
   - 4) How challenging was it to create this data story based on existing sources and methods?
-- Practice applying evaluation criteria to [sample data stories by students on past projects](https://datavizforall.org/partners-projects/)
-  - [Is Child Care Really Affordable in Connecticut Towns?](https://datavizforall.org/childcare-ruthfield-conklin/) by Josh Ruthfield and Nellie Conklin, last updated Feb 2024
-  - [Crashes at Major Hartford Intersections in 2018-2022](https://datavizforall.org/hartford-cruz-rodriguez/), by Jess Cruz and Mia Rodriguez, last updated April 2023
-  - [Neighborhoods Where Hartford Habitat Has Built Homes And Why It Matters: Examining Opportunity and Income in Census Tracts](https://datavizforall.org/habitat-asfalg-nichols/) by Victoria Asfalg and Riley Nichols, last updated Dec 2021
-- In-class workshop time on Build 5: Plan and Sketch Your Data Story, due Monday Nov 10th at 9pm
-
-<!-- - Review recent quiz: sample electoral vote maps by classmates
-  - Elizabeth's [conventional map](https://datawrapper.dwcdn.net/OhRuD/2/) vs [cartogram](https://datawrapper.dwcdn.net/C5Zvz/1/)
-  - Julia's [conventional map](https://www.datawrapper.de/_/iHPWD/) vs [cartogram](https://www.datawrapper.de/_/CvzbO/)
-  - Anonymous student's pre-election prediction [conventional map](https://datawrapper.dwcdn.net/x0cey/2/) vs [cartogram](https://datawrapper.dwcdn.net/zXeXH/2/) -->
+  - Apply evaluation criteria to sample data stories by past students 
+- Assign Build 6: Draft Your Data Story. Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by peers and instructors. Before leaving the room, start your co-authored Google Doc, with links to any co-authored Google Sheets, with screenshots and links to any published visualizations, and insert for *anyone to comment* on our Build doc. Due by **Sunday Nov 16th 9pm**, worth 5 points.
 
 ### Wed Nov 12
-- Assign Build 6: Draft Your Data Story to designated authors. Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by peers and instructors. Before leaving the room, start your co-authored Google Doc, with links to any co-authored Google Sheets, with screenshots and links to any published visualizations, and insert for *anyone to comment* on our Build doc. Due by *Mon Nov 17th 9pm*, worth 5 points.
-- In-class workshop time on Build 6, and small team meetings with instructors
+- In-class workshop time on Build 6, plus assigned team meetings with instructors
 
 ### Mon Nov 17
+- Let's support and coach each other to successfully complete our semester together
+- In-class: Assign peer reviews of Build 6 with [Peer Evaluation Guide](https://docs.google.com/document/d/1ElnbBWpXkS-Z7zwKkUBUOlpzR1lPnTgOk2Bg5Cxs9TM/) for participation credit during class. Students must have submitted a full draft in order to participate in the peer review. Choose either to type comments into a shared Google Doc or hand-write on paper, and share a copy with the instructor, who will will evaluate the quality of your constructive feedback.
+- Schedule a 20-minute Zoom appointment [on my calendar](https://jackdougherty.org) for Thursday Nov 20th, Friday Nov 21st, or Monday Nov 24th. If working with a partner, both of you must attend the meeting at the same time to earn participation credit, so be sure to schedule the appointment together.
+- Assign Build 7: Data Stories for Dress Rehearsal with Peer Feedback. Prepare your penultimate draft and rehearse your presentation to classmates. Migrate all content from Google Doc to GitHub Pages format. Insert link to your published GitHub Pages template on our Build 7 doc. Due *Tues Dec 2nd by 9pm* (the second day back from Thanksgiving break), worth participation credit.
+
+### Wed Nov 19
 - Overview of Learning Goal #12: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
   - Static images versus interactive iframes
   - Get the iframe embed code for a published visualization
   - Embed the iframe code in an HTML web page
   - View online instructions for the [DataViz Story Template](https://datavizforall.github.io/dataviz-story-template), then make own copy of the GitHub code <https://github.com/DataVizForAll/dataviz-story-template> and practice editing
   - Start Embed on the Web quiz, due by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
-- In-class workshop time before Build 6: Draft Your Data Story is due *Mon Nov 17th at 9pm*
-
-### Wed Nov 19
-- Let's support and coach each other to successfully complete our semester together
-- In-class: Assign peer reviews of Build 6 with [Peer Evaluation Guide](https://docs.google.com/document/d/1ElnbBWpXkS-Z7zwKkUBUOlpzR1lPnTgOk2Bg5Cxs9TM/) for participation credit during class. Students must have submitted a full draft in order to participate in the peer review. Choose either to type comments into a shared Google Doc or hand-write on paper, and share a copy with the instructor, who will will evaluate the quality of your constructive feedback.
-- Schedule a 20-minute Zoom appointment [on my calendar](https://jackdougherty.org) for Thursday Nov 20th, Friday Nov 21st, or Monday Nov 24th. If working with a partner, both of you must attend the meeting at the same time to earn participation credit, so be sure to schedule the appointment together.
-- Assign Build 7: Data Stories for Dress Rehearsal with Peer Feedback. Prepare your penultimate draft and rehearse your presentation to classmates. Migrate all content from Google Doc to GitHub Pages format. Insert link to your published GitHub Pages template on our Build 7 doc. Due *Tues Dec 2nd by 9pm* (the second day back from Thanksgiving break), worth participation credit.
 
 ### Mon Nov 24
-- In place of our regular class, 20-minute co-author Zoom meetings with instructor for Build 6 feedback, for participation credit.
+- In place of our regular class, scheduled 20-minute Zoom meetings by co-authors with instructor for Build 6 feedback, for participation credit.
 - Tips and resources to succeed on Build 7
   - In your GitHub data story template, avoid deleting important HTML formatting [like this common mistake](https://datavizforall.org/images/common-template-error.png)
 
