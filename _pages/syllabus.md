@@ -350,10 +350,11 @@ Please notify me before our third class session, and [schedule an appointment on
   - Try creating this [3-tab map of CT School Districts (Unified K-12, Elementary-only, Secondary-only) by Percent of Total Enrollment 24-25](https://www.datawrapper.de/_/xvEB3/?v=2)
     - Learn the concept from [Datawrapper: How to add tabs and drop-downs to your visualizations](https://academy.datawrapper.de/article/305-how-to-add-tabs-and-drop-downs)
     - Use Pct of Total Enrollment data column in [CT Public School DistrictType MapType 2025 sheet](https://docs.google.com/spreadsheets/d/1PZraFU_25hpbJFob3wpz1gTTmeqgB4B9eWXBGwAlOq4/edit?gid=80766#gid=80766)
-    - create 3 separate choropleth maps > Connecticut > School Districts > Unified (2025), Elementary, Secondary
-    - Use the same scale (mine uses 0 to 4%), then Publish > copy Visualization
-    - In the Datawrapper concept post (part 1.1), copy code for first 3 buttons, paste into Description
-    - Paste your own 3 visualization links into each Description button, modify text, and Republish
+    - Create 3 separate choropleth maps > Connecticut > School Districts > Unified (2025), Elementary, Secondary
+    - Use the same scale (mine is 0 to 4%), then Publish and keep all three tabs open
+    - In the Datawrapper concept post (part 1.1), copy code for first 3 buttons, paste into Description for each map
+    - Paste the Publish > Visualization link from each map into the 1st map Description button code, modify text and button code labels, then paste identical versions into 2nd and 3rd map Descriptions
+    - Republish all 3 maps, then text the link to your 3-tab map into a new browser window
     - Good news: There is no quiz for Advanced Map Templates, and everyone automatically receives full credit for trying it
 
 ### Mon Nov 10
