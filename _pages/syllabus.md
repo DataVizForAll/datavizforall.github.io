@@ -341,10 +341,20 @@ Please notify me before our third class session, and [schedule an appointment on
   - Recognize and Reduce Data Bias
   - Recognize and Reduce Spatial Bias
 - Open Detect quiz, to be completed during any 2-hour period by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
+- Updated resources for Builds 5-8
+  - [CT Public School DistrictType MapType 2025 sheet](https://docs.google.com/spreadsheets/d/1PZraFU_25hpbJFob3wpz1gTTmeqgB4B9eWXBGwAlOq4/edit?gid=80766#gid=80766)
+  - [School Based Health Centers, Google Sheet updated Nov 4](https://docs.google.com/spreadsheets/d/1wsycNjSOLnj9gZ7wepTs7jyuzS7PvquCZEUsugSmMJs/edit?gid=1923834798#gid=1923834798)
+  - [Calculate time duration in Google Sheets](https://docs.google.com/spreadsheets/d/1AzLY0OgCsTRvLj9QHdtZkUrkb5dDjO030s6LFgqVDso/edit?gid=0#gid=0)
 - Overview of Learning Goal #11: Try Advanced Map Templates
   - What do you notice about the map in this article? Sasha Allen, "What CT school districts would feel federal cuts the most?" CT Mirror, July 18, 2025, <https://ctmirror.org/2025/07/18/ct-school-districts-education-funding-cuts/>
-  - TODO tutorial, based on Datawrapper Academy, [How to use HTML & CSS in Datawrapper](https://academy.datawrapper.de/article/304-how-to-use-html-css-in-datawrapper) and [How to add tabs and drop-downs to your visualizations](https://academy.datawrapper.de/article/305-how-to-add-tabs-and-drop-downs)
-  - Good news: There is no quiz for Advanced Map Templates, and everyone automatically receives full credit for trying
+  - Try creating this [3-tab map of CT School Districts (Unified K-12, Elementary-only, Secondary-only) by Percent of Total Enrollment 24-25](https://www.datawrapper.de/_/xvEB3/?v=2)
+    - Learn the concept from [Datawrapper: How to add tabs and drop-downs to your visualizations](https://academy.datawrapper.de/article/305-how-to-add-tabs-and-drop-downs)
+    - Use Pct of Total Enrollment data column in [CT Public School DistrictType MapType 2025 sheet](https://docs.google.com/spreadsheets/d/1PZraFU_25hpbJFob3wpz1gTTmeqgB4B9eWXBGwAlOq4/edit?gid=80766#gid=80766)
+    - create 3 separate choropleth maps > Connecticut > School Districts > Unified (2025), Elementary, Secondary
+    - Use the same scale (mine uses 0 to 4%), then Publish > copy Visualization
+    - In the Datawrapper concept post (part 1.1), copy code for first 3 buttons, paste into Description
+    - Paste your own 3 visualization links into each Description button, modify text, and Republish
+    - Good news: There is no quiz for Advanced Map Templates, and everyone automatically receives full credit for trying it
 
 ### Mon Nov 10
 - for 11:30am section: Brief Zoom introduction with guest evaluator [Victoria Asfalg, Trinity '23, former TA for DataViz class, currently Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
@@ -353,7 +363,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - 2) How well designed are the visualizations to draw true and meaningful insights from data?
   - 3) How clearly does the story describe key steps in the process and cautions about data?
   - 4) How challenging was it to create this data story based on existing sources and methods?
-  - Apply evaluation criteria to sample data stories by past students 
+  - Apply evaluation criteria to sample data stories by past students
 - Assign Build 6: Draft Your Data Story. Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by peers and instructors. Before leaving the room, start your co-authored Google Doc, with links to any co-authored Google Sheets, with screenshots and links to any published visualizations, and insert for *anyone to comment* on our Build doc. Due by **Sunday Nov 16th 9pm**, worth 5 points.
 
 ### Wed Nov 12
