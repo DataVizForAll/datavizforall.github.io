@@ -344,7 +344,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - Updated resources for Builds 5-8
   - [CT Public School DistrictType MapType 2025 sheet](https://docs.google.com/spreadsheets/d/1PZraFU_25hpbJFob3wpz1gTTmeqgB4B9eWXBGwAlOq4/edit?gid=80766#gid=80766)
   - [School Based Health Centers, Google Sheet updated Nov 4](https://docs.google.com/spreadsheets/d/1wsycNjSOLnj9gZ7wepTs7jyuzS7PvquCZEUsugSmMJs/edit?gid=1923834798#gid=1923834798)
-  - [Calculate time duration in Google Sheets](https://docs.google.com/spreadsheets/d/1AzLY0OgCsTRvLj9QHdtZkUrkb5dDjO030s6LFgqVDso/edit?gid=0#gid=0)
+  - [Calculate time duration in Google Sheets](https://docs.google.com/spreadsheets/d/1AzLY0OgCsTRvLj9QHdtZkUrkb5dDjO030s6LFgqVDso/edit?gid=0#gid=0) (for JJ and Amanda)
 - Overview of Learning Goal #11: Try Advanced Map Templates
   - What do you notice about the map in this article? Sasha Allen, "What CT school districts would feel federal cuts the most?" CT Mirror, July 18, 2025, <https://ctmirror.org/2025/07/18/ct-school-districts-education-funding-cuts/>
   - Try creating this [3-tab map of CT School Districts (Unified K-12, Elementary-only, Secondary-only) by Percent of Total Enrollment 24-25](https://www.datawrapper.de/_/xvEB3/?v=2)
