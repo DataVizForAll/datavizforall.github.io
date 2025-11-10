@@ -359,24 +359,36 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Mon Nov 10
 - for 11:30am section: Brief Zoom introduction with guest evaluator [Victoria Asfalg, Trinity '23, former TA for DataViz class, currently Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
-- Evaluation criteria for Builds 6-8:
+  - see how she add links to her digital works in her 2023 PDF resumé, shared on [Moodle](https://moodle.trincoll.edu)
+- Assign Build 6: Draft Your Data Story. Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by peers and instructors. Before leaving the room, start your co-authored Google Doc, and include links to any of your public co-authored Google Sheets, plus static screenshots and links to any published visualizations. Insert your doc link for *anyone to comment* on our Build doc. Due by **Sunday Nov 16th 9pm**, worth 5 points.
+  - How and why to insert a static image or [screenshot](https://handsondataviz.org/static.html), and link to interactive version in your Google Doc
+- Evaluation criteria for Builds 6-7 (plus one more for guest evaluators in Build 8):
   - 1) How well does the data story answer the assigned question(s) and explain why it matters?
   - 2) How well designed are the visualizations to draw true and meaningful insights from data?
   - 3) How clearly does the story describe key steps in the process and cautions about data?
   - 4) How challenging was it to create this data story based on existing sources and methods?
-  - Apply evaluation criteria to sample data stories by past students
-- Assign Build 6: Draft Your Data Story. Tell a meaningful data story on your assigned question, at least 750 words plus at least two visualizations, for review by peers and instructors. Before leaving the room, start your co-authored Google Doc, with links to any co-authored Google Sheets, with screenshots and links to any published visualizations, and insert for *anyone to comment* on our Build doc. Due by **Sunday Nov 16th 9pm**, worth 5 points.
+- Review [your Build 5 plans](https://docs.google.com/document/d/1tofQ2K2AdsPjdV3kSAYIoWgWK50yEOv4PMoRNOgkzeE/edit?tab=t.0), and advice for Build 6
+  - Keep Build 5 as-is (for Jack comments) and File > Make a Copy to start a clean Build 6
+  - Remember to address all parts of [your assigned Research Question](https://docs.google.com/document/d/1FmRm9mtP4sNWoMrli0Y0L8D45aX1lrnq-EV1mrwhzpM/edit?tab=t.0)
+  - Divide your writing and visualizations into at least three sections -- introduction, findings, sources & methods -- and more creative subheadings are welcome
+  - Write your findings "based on the best available data," and describe any issues or uncertainty in the sources and methods section
+  - [School Based Health Center data updated Nov 9th](https://docs.google.com/spreadsheets/d/1wsycNjSOLnj9gZ7wepTs7jyuzS7PvquCZEUsugSmMJs/edit?gid=1923834798#gid=1923834798) and will be updated again soon
+    - Note that 4 schools with SBHCs are actually PreK school-readiness programs, with no CSDE Org codes to link to enrollments, etc. This means we can show 335 SBHCs, but only analyze demographics for 331 SBHCs
+    - Jack still finishing days & times, and cleaning up MH-M-D categories and DPH funding. But you can analyze and write "based on best available data" and insert the date of the most recent update
 
 ### Wed Nov 12
-- In-class workshop time on Build 6, plus assigned team meetings with instructors
+- 10:15am start time for the School Finance Equity section today
+- In-class meetings with instructor to deliver feedback on Build 5
+- In-class workshop time with your co-author and TA on Build 6
 
 ### Mon Nov 17
 - Let's support and coach each other to successfully complete our semester together
-- In-class: Assign peer reviews of Build 6 with [Peer Evaluation Guide](https://docs.google.com/document/d/1ElnbBWpXkS-Z7zwKkUBUOlpzR1lPnTgOk2Bg5Cxs9TM/) for participation credit during class. Students must have submitted a full draft in order to participate in the peer review. Choose either to type comments into a shared Google Doc or hand-write on paper, and share a copy with the instructor, who will will evaluate the quality of your constructive feedback.
+- In-class: Assign [Peer Evaluation Guide](https://docs.google.com/document/d/1iUXZN0qkKjQc1Lwpmz4ozcCfgOb-vtxewN3x7l9fhR4/edit?tab=t.0) of Build 6 draft data stories for participation credit during class. Students must have submitted a full draft in order to participate in the peer review. Choose either to type comments into a shared Google Doc or hand-write on paper, and share a copy with the instructor, who will will evaluate the quality of your constructive feedback.
 - Schedule a 20-minute Zoom appointment [on my calendar](https://jackdougherty.org) for Thursday Nov 20th, Friday Nov 21st, or Monday Nov 24th. If working with a partner, both of you must attend the meeting at the same time to earn participation credit, so be sure to schedule the appointment together.
 - Assign Build 7: Data Stories for Dress Rehearsal with Peer Feedback. Prepare your penultimate draft and rehearse your presentation to classmates. Migrate all content from Google Doc to GitHub Pages format. Insert link to your published GitHub Pages template on our Build 7 doc. Due *Tues Dec 2nd by 9pm* (the second day back from Thanksgiving break), worth participation credit.
 
 ### Wed Nov 19
+- 10:15am start time for the School Finance Equity section today
 - Overview of Learning Goal #12: Embed on the Web. Start reading Chapter 9 <https://handsondataviz.org/embed.html>
   - Static images versus interactive iframes
   - Get the iframe embed code for a published visualization
