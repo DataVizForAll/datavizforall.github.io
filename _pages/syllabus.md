@@ -378,8 +378,11 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Wed Nov 12
 - 10:15am start time for the School Finance Equity section today
-- In-class meetings with instructor to deliver feedback on Build 5
-- In-class workshop time with your co-author and TA on Build 6
+- [Workshop schedule for today](https://docs.google.com/document/d/1wjEar9R3vpbsBIIemCmLwBUxmmQSIBh8nY3mG_I09hU/edit?tab=t.0)
+  - In-class meetings with instructor for feedback on Build 5
+  - In-class meetings with TA/RA to prep for Build 6
+  - Work with your co-author during time between meetings
+- 11:30am section: Start using [SBHC "best available data" updated Nov 11th](https://docs.google.com/spreadsheets/d/1wsycNjSOLnj9gZ7wepTs7jyuzS7PvquCZEUsugSmMJs/edit?gid=1923834798#gid=1923834798)
 
 ### Mon Nov 17
 - Let's support and coach each other to successfully complete our semester together
