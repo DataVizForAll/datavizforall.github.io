@@ -383,6 +383,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - In-class meetings with TA/RA to prep for Build 6
   - Work with your co-author during time between meetings
 - 11:30am section: Start using [SBHC "best available data" updated Nov 11th](https://docs.google.com/spreadsheets/d/1wsycNjSOLnj9gZ7wepTs7jyuzS7PvquCZEUsugSmMJs/edit?gid=1923834798#gid=1923834798)
+- **NEW** [CT EdSight school data downloads for student use](https://drive.google.com/drive/u/0/folders/1tcFrHEDU2MRlb945MogUCktiltNpBdFY) - make sure to read the About page
 
 ### Mon Nov 17
 - Let's support and coach each other to successfully complete our semester together
