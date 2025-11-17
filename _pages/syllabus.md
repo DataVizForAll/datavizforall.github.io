@@ -388,9 +388,15 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Mon Nov 17
 - Let's support and coach each other to successfully complete our semester together
-- In-class: Assign [Peer Evaluation Guide](https://docs.google.com/document/d/1iUXZN0qkKjQc1Lwpmz4ozcCfgOb-vtxewN3x7l9fhR4/edit?tab=t.0) of Build 6 draft data stories for participation credit during class. Students must have submitted a full draft in order to participate in the peer review. Choose either to type comments into a shared Google Doc or hand-write on paper, and share a copy with the instructor, who will will evaluate the quality of your constructive feedback.
+- In-class: Assign [Peer Evaluation Guide](https://docs.google.com/document/d/1iUXZN0qkKjQc1Lwpmz4ozcCfgOb-vtxewN3x7l9fhR4/edit?tab=t.0) of [Build 6: Draft Data Stories](https://docs.google.com/document/d/19xpwSPNMqdnKDByGOJPXi35hxiwlYydmNrJKVN9jhjU/edit?tab=t.0) for participation credit during class. Co-authors must have submitted a full draft in order to participate in the peer review.
+  - a) Write broad feedback on your guide and either paste the link in Build 6 or (if handwritten) ask instructor to scan & paste the link
+  - b) Write line-specific feedback as comments on original document
 - Schedule a 20-minute Zoom appointment [on my calendar](https://jackdougherty.org) for Thursday Nov 20th, Friday Nov 21st, or Monday Nov 24th. If working with a partner, both of you must attend the meeting at the same time to earn participation credit, so be sure to schedule the appointment together.
-- Assign Build 7: Data Stories for Dress Rehearsal with Peer Feedback. Prepare your penultimate draft and rehearse your presentation to classmates. Migrate all content from Google Doc to GitHub Pages format. Insert link to your published GitHub Pages template on our Build 7 doc. Due *Tues Dec 2nd by 9pm* (the second day back from Thanksgiving break), worth participation credit.
+- Assign [Build 7: Data Stories for Dress Rehearsal](https://docs.google.com/document/d/1fx57LejoysyLPAurYjcsMv2xqOz-1lMhBzP52U7M8xM/edit?tab=t.0). Prepare your penultimate draft and rehearse your 2-minute presentation of highlights to classmates. Migrate all content from Google Doc to GitHub Pages format. Insert link to your published GitHub Pages template on our Build 7 doc. Due *Tues Dec 2nd by 9pm* (the second day back from Thanksgiving break), worth participation credit.
+- Decisions to make before your data story is "frozen" in Build 8 and published on DataVizForAll:
+  - You can insert your full name (recommended), or you have the right to use only your first name or initials. Learn why in my chapter, "[Public Writing and Student Privacy](https://webwriting.trincoll.edu/chapter/dougherty-public/index.html)" in [Web Writing](https://webwriting.trincoll.edu) book (2015).
+  - See what other students have done in [prior Partners and Projects](https://datavizforall.org/partners-projects/)
+  - Recommended: Insert link to your published data story in your resume to demonstrate your skills and knowledge to prospective employers and graduate schools.
 
 ### Wed Nov 19
 - 10:15am start time for the School Finance Equity section today
@@ -411,13 +417,9 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Mon Dec 1
 - In class: Respond to supplemental student feedback questions on what helped you learn. In addition, please fill out the College's standard online evaluation form when available.
-- Finish Build 7: Data Stories for Dress Rehearsal and Peer Feedback by *Tues Dec 2nd at 9pm*. Rehearse a 2-minute overview of highlights you plan to deliver to community partners and guest evaluators at our last class, worth participation credit.
+- Finish [Build 7: Data Stories for Dress Rehearsal](https://docs.google.com/document/d/1fx57LejoysyLPAurYjcsMv2xqOz-1lMhBzP52U7M8xM/edit?tab=t.0) by *Tues Dec 2nd at 9pm*. Rehearse a 2-minute overview of highlights you plan to deliver to community partners and guest evaluators at our last class, worth participation credit.
 - Assign Build 8: Finalize Data Story for Community Partners and Guest Experts. After feedback from our community partners, finish any revisions to your Build 7 data story by **Thursday Dec 4th at 9pm**. There are **no extensions** because guest experts need time to read your work. **Do not paste your link in Build 8**. Instead, the instructor will make a "frozen" copy of your most current revisions to Build 7, republish it on the public [Partners and Projects page](https://datavizforall.org/partners-projects/), and paste those links in Build 8 to send to our guest experts to read before your presentations. Worth 10 points, scored by community partners and guest experts.
 - After this deadline, you are welcome to make further revisions to your version and email the instructor a request to “pull” your edits into the published version, but this might happen only after the guest evaluators have finished their work.
-- Decisions to make before your data story is "frozen" and published on DataVizForAll:
-  - You can insert your full name (recommended), or you have the right to use only your first name or initials. Learn why in my chapter, "[Public Writing and Student Privacy](https://webwriting.trincoll.edu/chapter/dougherty-public/index.html)" in [Web Writing](https://webwriting.trincoll.edu) book (2015).
-  - See what other students have done in [prior Partners and Projects](https://datavizforall.org/partners-projects/)
-  - Recommended: Insert link to your published data story in your resume to demonstrate your skills and knowledge to prospective employers and graduate schools. [See sample resume with portfolio links by Victoria Asfalg '23](https://jackdougherty.org/2024/03/29/review-off-the-mark/) -- scroll down the page.
 - Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
 - Feel free to schedule a Zoom appointment [on my calendar](https://jackdougherty.org) for feedback on your build. If you are working with a partner, please arrange to meet me at the same time if feasible.
 
