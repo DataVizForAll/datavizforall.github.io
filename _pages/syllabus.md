@@ -405,10 +405,10 @@ Please notify me before our third class session, and [schedule an appointment on
   - Get the iframe embed code for a published visualization
   - Embed the iframe code in an HTML web page
   - View online instructions for the [DataViz Story Template](https://datavizforall.github.io/dataviz-story-template), then make own copy of the GitHub code <https://github.com/DataVizForAll/dataviz-story-template> and practice editing
-  - Start Embed on the Web quiz, due by Sun 9pm on [Moodle](https://moodle.trincoll.edu).
+  - Start Embed on the Web quiz, due by Sun 9pm on [Moodle](https://moodle.trincoll.edu)
 
 ### Mon Nov 24
-- In place of our regular class, scheduled 20-minute Zoom meetings by co-authors with instructor for Build 6 feedback, for participation credit.
+- In place of our regular class, scheduled 20-minute Zoom meetings by co-authors with instructor for Build 6 feedback. Both co-authors must attend for participation credit.
 - Tips and resources to succeed on Build 7
   - In your GitHub data story template, avoid deleting important HTML formatting [like this common mistake](https://datavizforall.org/images/common-template-error.png)
 
