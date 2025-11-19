@@ -405,6 +405,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - Get the iframe embed code for a published visualization
   - Embed the iframe code in an HTML web page
   - View online instructions for the [DataViz Story Template](https://datavizforall.github.io/dataviz-story-template), then make own copy of the GitHub code <https://github.com/DataVizForAll/dataviz-story-template> and practice editing
+  - Create an in-line citation (APA or MLA format) with the [ZBib.org](https://zbib.org/) tool. Remember that you may need to manually edit to add key info that may be missing, such as author, title, date, website. 
   - Start Embed on the Web quiz, due by Sun 9pm on [Moodle](https://moodle.trincoll.edu)
 
 ### Mon Nov 24
