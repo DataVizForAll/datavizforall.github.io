@@ -405,7 +405,7 @@ Please notify me before our third class session, and [schedule an appointment on
   - Get the iframe embed code for a published visualization
   - Embed the iframe code in an HTML web page
   - View online instructions for the [DataViz Story Template](https://datavizforall.github.io/dataviz-story-template), then make own copy of the GitHub code <https://github.com/DataVizForAll/dataviz-story-template> and practice editing
-  - Create an in-line citation (APA or MLA format) with the [ZBib.org](https://zbib.org/) tool. Remember that you may need to manually edit to add key info that may be missing, such as author, title, date, website. 
+  - Create an in-line citation (APA or MLA format) with the [ZBib.org](https://zbib.org/) tool. Remember that you may need to manually edit to add key info that may be missing, such as author, title, date, website.
   - Start Embed on the Web quiz, due by Sun 9pm on [Moodle](https://moodle.trincoll.edu)
 
 ### Mon Nov 24
@@ -430,5 +430,5 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Mon Dec 8
 - Build 8 Final presentations on Zoom with guest evaluators. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins. Guest evaluators will read final data stories online before the event. During your time slot, students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guests.
-- 9:30-11:30am in my Zoom room with guest evaluators Michael Morton (Deputy Director) and Melanie Strout (Community Engagement Manager) from the [School + State Finance Project](https://schoolstatefinance.org/about/our-team)
+- 10:30-11:15am in my Zoom room with guest evaluators Michael Morton (Deputy Director) and Melanie Strout (Community Engagement Manager) from the [School + State Finance Project](https://schoolstatefinance.org/about/our-team)
 - 11:30-1:20pm in my Zoom with guest evaluators Melanie Wilde-Lane (Executive Director) and Isabel Gonillo (Program Assistant) from the [Connecticut Association for School Based Health Centers](https://ctschoolhealth.org) and [Victoria Asfalg, Trinity '23, former TA for DataViz class, currently Policy and Data Analyst at Open Communities Alliance](https://www.ctoca.org/victoria_asfalg)
