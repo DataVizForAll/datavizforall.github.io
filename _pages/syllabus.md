@@ -435,6 +435,7 @@ Please notify me before our third class session, and [schedule an appointment on
 - Workshop time for the remainder of class, with opportunities to meet with instructor or TA
 
 ### Wed Dec 3
+- 10:15am start time for the School Finance Equity section today
 - In-class: Build 7: Data Story Dress Rehearsal. Deliver 2-minute overview of highlights you will deliver to guest evaluators, and be prepared to respond to questions and feedback from classmates and instructors. Worth participation credit.
 - Reminder Build 8: Revise and Finalize Data Story is due *Thursday Dec 4th at 9pm*, and will be "frozen" and published for guest evaluators to review.
 - Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
