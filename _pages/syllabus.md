@@ -419,9 +419,9 @@ Please notify me before our third class session, and [schedule an appointment on
 ### Mon Dec 1
 - Let's support each other to cross the finish line together!
 - Reminder: [Build 7: Data Stories for Dress Rehearsal](https://docs.google.com/document/d/1fx57LejoysyLPAurYjcsMv2xqOz-1lMhBzP52U7M8xM/edit?tab=t.0) by *Tues Dec 2nd at 9pm*.
-  - Finalize all writing in your co-authored Google Doc and migrate all content to a [GitHub Pages dataviz story template](https://datavizforall.github.io/dataviz-story-template).
+  - Finalize all writing in your co-authored Google Doc and migrate all content to a GitHub Pages dataviz story template <https://github.com/DataVizForAll/dataviz-story-template>
   - Only ONE co-author can create a GitHub repo, and only ONE can edit at a time. But you can grant editing access to your other co-author in Settings > Collaborators > Add People. Be careful not to overwrite each other's changes! See screenshot in [Section 4 of the dataviz story template web view](https://datavizforall.org/dataviz-story-template/).
-  - Avoid deleting important HTML formatting [like this common mistake](https://datavizforall.org/images/common-template-error.png). If necessary, make a clean copy of the [dataviz story template](https://datavizforall.github.io/dataviz-story-template)
+  - Avoid deleting important HTML formatting [like this common mistake](https://datavizforall.org/images/common-template-error.png). If necessary, make a clean copy of the dataviz story template <https://github.com/DataVizForAll/dataviz-story-template>
   - See also [Section 4 Advanced Tips](https://datavizforall.org/dataviz-story-template/) for a faster way to edit your GitHub file on your local computer and upload a new version online.
 - Rehearse a 2-minute overview of highlights you plan to deliver to community partners and guest evaluators at our last class, worth participation credit.
   - Suggestions for your 2-minute overview (and use your own creativity)
