@@ -417,16 +417,26 @@ Please notify me before our third class session, and [schedule an appointment on
 - No class - Thanksgiving Break
 
 ### Mon Dec 1
-- In class: Respond to supplemental student feedback questions on what helped you learn. In addition, please fill out the College's standard online evaluation form when available.
-- Finish [Build 7: Data Stories for Dress Rehearsal](https://docs.google.com/document/d/1fx57LejoysyLPAurYjcsMv2xqOz-1lMhBzP52U7M8xM/edit?tab=t.0) by *Tues Dec 2nd at 9pm*. Rehearse a 2-minute overview of highlights you plan to deliver to community partners and guest evaluators at our last class, worth participation credit.
-- Assign Build 8: Finalize Data Story for Community Partners and Guest Experts. After feedback from our community partners, finish any revisions to your Build 7 data story by **Thursday Dec 4th at 9pm**. There are **no extensions** because guest experts need time to read your work. **Do not paste your link in Build 8**. Instead, the instructor will make a "frozen" copy of your most current revisions to Build 7, republish it on the public [Partners and Projects page](https://datavizforall.org/partners-projects/), and paste those links in Build 8 to send to our guest experts to read before your presentations. Worth 10 points, scored by community partners and guest experts.
+- Finish [Build 7: Data Stories for Dress Rehearsal](https://docs.google.com/document/d/1fx57LejoysyLPAurYjcsMv2xqOz-1lMhBzP52U7M8xM/edit?tab=t.0) by *Tues Dec 2nd at 9pm*.
+  - Finalize all writing in your co-authored Google Doc and migrate all content to a [GitHub Pages dataviz story template](https://datavizforall.github.io/dataviz-story-template).
+  - Only ONE co-author can create a GitHub repo, and only ONE can edit at a time. But you can grant editing access to your other co-author in Settings > Collaborators > Add People. Be careful not to overwrite each other's changes! See screenshot in [Section 4 of the dataviz story template web view](https://datavizforall.org/dataviz-story-template/).
+  - See also [Section 4 Advanced Tips](https://datavizforall.org/dataviz-story-template/) for a faster way to edit your GitHub file on your local computer and upload a new version online.
+- Rehearse a 2-minute overview of highlights you plan to deliver to community partners and guest evaluators at our last class, worth participation credit.
+  - Suggestions for your 2-minute overview (and use your own creativity)
+    - QUICK introductions
+    - RESTATE the research question(s) you were assigned
+    - TELL us your key findings that answer the question(s)
+    - SHOW us supporting evidence in your most important visualizations
+    - EXPLAIN WHY it matters to our community partner
+- Assign [Build 8: Final Data Story for Community Partners and Guest Experts](https://docs.google.com/document/d/1fx57LejoysyLPAurYjcsMv2xqOz-1lMhBzP52U7M8xM/edit?tab=t.0). Finish any revisions to your published GitHub data stories by **Thursday Dec 4th at 9pm**. There are **no extensions** because guest experts need time to read your work. Early Friday AM, the instructor will make a "frozen" copy of your most current GitHub data story, republish it on the public [Partners and Projects page](https://datavizforall.org/partners-projects/), and paste the NEW links in Build 8 to send to our guest experts to read before your presentations. Worth 10 points, scored by community partners and guest experts.
 - After this deadline, you are welcome to make further revisions to your version and email the instructor a request to “pull” your edits into the published version, but this might happen only after the guest evaluators have finished their work.
-- Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
-- Feel free to schedule a Zoom appointment [on my calendar](https://jackdougherty.org) for feedback on your build. If you are working with a partner, please arrange to meet me at the same time if feasible.
+- Workshop time for the remainder of class, with opportunities to meet with instructor or TA
 
 ### Wed Dec 3
-- In-class: Build 7: Data Story Dress Rehearsal. Deliver 2-minute presentation of highlights you will deliver to guest evaluators, and be prepared to respond to questions and feedback from classmates and instructors. Worth participation credit.
+- In-class: Build 7: Data Story Dress Rehearsal. Deliver 2-minute overview of highlights you will deliver to guest evaluators, and be prepared to respond to questions and feedback from classmates and instructors. Worth participation credit.
 - Reminder Build 8: Revise and Finalize Data Story is due *Thursday Dec 4th at 9pm*, and will be "frozen" and published for guest evaluators to review.
+- Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
+- In class: Respond to supplemental student feedback questions on what helped you learn. In addition, please fill out the College's standard online evaluation form when available.
 
 ### Mon Dec 8
 - Build 8 Final presentations on Zoom with guest evaluators. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins. Guest evaluators will read final data stories online before the event. During your time slot, students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guests.
