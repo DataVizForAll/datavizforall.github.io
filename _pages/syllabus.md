@@ -439,7 +439,9 @@ Please notify me before our third class session, and [schedule an appointment on
 - In-class: Build 7: Data Story Dress Rehearsal. Deliver 2-minute overview of highlights you will deliver to guest evaluators, and be prepared to respond to questions and feedback from classmates and instructors. Worth participation credit.
 - Reminder Build 8: Revise and Finalize Data Story is due *Thursday Dec 4th at 9pm*, and will be "frozen" and published for guest evaluators to review.
 - Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
-- In class: Respond to supplemental student feedback questions on what helped you learn. In addition, please fill out the College's standard online evaluation form when available.
+- Thank you for learning together during my last semester of teaching at Trinity!
+- Sign up for Educ 200: Analyzing Schools in Spring 2026. Seats available in two sections: MW 8:30am or TR 9:25am
+![Educ 200 Spring 2026 flyer](/images/2026-spring-educ200.jpg)
 
 ### Mon Dec 8
 - Build 8 Final presentations on Zoom with guest evaluators. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins. Guest evaluators will read final data stories online before the event. During your time slot, students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guests.
