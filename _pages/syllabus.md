@@ -440,12 +440,9 @@ Please notify me before our third class session, and [schedule an appointment on
 - Reminder Build 8: Revise and Finalize Data Story is due *Thursday Dec 4th at 9pm*, and will be "frozen" and published for guest evaluators to review.
 - Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
 - Thank you for learning together during my last semester of teaching at Trinity!
-- Sign up for Educ 200: Analyzing Schools in Spring 2026. Seats available in two sections: MW 8:30am or TR 9:25am
+- Sign up for Educ 200: Analyzing Schools in Spring 2026. Seats available in two sections: MW 8:30am or TR 9:25am    
 ![Educ 200 Spring 2026 flyer](/images/2026-spring-educ200.jpg)
 
-- graphic 2nd option
-
-{% include figure image_path="images/2026-spring-educ200.jpg" alt="Educ 200 flyer" %}
 
 ### Mon Dec 8
 - Build 8 Final presentations on Zoom with guest evaluators. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins. Guest evaluators will read final data stories online before the event. During your time slot, students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guests.
