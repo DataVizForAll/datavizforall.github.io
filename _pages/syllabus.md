@@ -436,13 +436,20 @@ Please notify me before our third class session, and [schedule an appointment on
 
 ### Wed Dec 3
 - 10:15am start time for the School Finance Equity section today
-- In-class: Build 7: Data Story Dress Rehearsal. Deliver 2-minute overview of highlights you will deliver to guest evaluators, and be prepared to respond to questions and feedback from classmates and instructors. Worth participation credit.
-- Reminder Build 8: Revise and Finalize Data Story is due *Thursday Dec 4th at 9pm*, and will be "frozen" and published for guest evaluators to review.
+- In-class: [Build 7: Data Story Dress Rehearsal](https://docs.google.com/document/d/1fx57LejoysyLPAurYjcsMv2xqOz-1lMhBzP52U7M8xM/edit?tab=t.0). Deliver 2-minute overview of highlights you will deliver to guest evaluators, and be prepared to respond to questions and feedback from our TA and classmates. Worth participation credit.
+- Reminder [Build 8: Revise and Finalize Data Story](https://docs.google.com/document/d/1fx57LejoysyLPAurYjcsMv2xqOz-1lMhBzP52U7M8xM/edit?tab=t.0) is due *Thursday Dec 4th at 9pm*, and will be "frozen" early Friday AM and published for guest evaluators to review.
+- Fix Common Mistakes before the deadline for Build 8
+  - 1. Avoid burying your main ideas. Instead, lift them up for readers to clearly see them in your introduction, and start body paragraphs with topic sentences to guide us.
+  - 2. Avoid dropping your research question into the first sentence of your introduction. Instead, adopt the perspective of general readers, who are not yet familiar with the topic, and build the necessary context for us to understand what you are investigating.
+  - 3. Avoid writing "...as shown in the table/chart/map ABOVE..." because that means you mistakenly reversed the recommended order. Instead, TELL us your insights then SHOW us your supporting evidence, and write it this way: "...as shown in table/chart/map/figure X BELOW..."
+  - 4. Avoid poor design of visualizations. Instead, think carefully about principles of data visualization you have learned this semester. Draw attention to meaning with thoughtful use of titles, color, annotation, etc.
+  - 5. Avoid naming "Jack Dougherty" as your source, since the true origin of all of our data are organizations such as CT Department of Education, CT Association for School Based Health Centers, etc. Instead, if you wish to acknowledge support from people who cleaned or downloaded data (such as Alison MacDougall and me) or who offered helpful feedback or examples (such as Nellie Conklin and me, or other students in class), then write acknowledgements in your sources & methods section.
+  - 6. Avoid panic if your GitHub Pages revisions do not work right away. Instead, give the free system time to process your edits. Second, try making an edit somewhere else in the code. Finally, email me a description of the problem and include the link to your GitHub repo plus the line number.
+- Appointments are available for Wednesday evening and Thursday mid-day on [my online calendar](https://jackdougherty.org/calendar). Or email me if you would like me to review anything in your data story.
 - Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
-- Thank you for learning together during my last semester of teaching at Trinity!
+- Thank you for learning together during my last semester of 26 years of teaching at Trinity College!
 - Sign up for Educ 200: Analyzing Schools in Spring 2026. Seats available in two sections: MW 8:30am or TR 9:25am    
 ![Educ 200 Spring 2026 flyer](/images/2026-spring-educ200.jpg)
-
 
 ### Mon Dec 8
 - Build 8 Final presentations on Zoom with guest evaluators. **Students only need to attend their assigned 10 minute time slot** and must log into my Zoom room a few minutes before it begins. Guest evaluators will read final data stories online before the event. During your time slot, students will have up to 2 minutes to orally present highlights, then 4-5 minutes to respond to questions from evaluators about your data analysis, storytelling, and design decisions. Worth 10 points, scored by guests.
